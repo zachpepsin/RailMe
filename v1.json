@@ -3,7 +3,7 @@
     [
       {
         "name":"Atlantic City Line",
-        "schedules":["Weekday","Weekend/Holiday"],
+        "scheduleNames":["Weekday","Weekend/Holiday"],
         "stations":
           [
             "30th Street Station",
@@ -19,12 +19,12 @@
       },
       {
         "name":"Northeast Corridor",
-        "schedules":["Weekday","Weekend/Holiday"],
+        "scheduleNames":["Weekday","Weekend/Holiday"],
         "stations": ["station 1 nec", "station 2 nec", "station 3 nec"]
       },
       {
         "name":"PATCO",
-        "schedules":["Mon-Wed","Thursday","Friday","Weekend"],
+        "scheduleNames":["Mon-Wed","Thursday","Friday","Weekend"],
         "stations":
           [
             "8th & Market",
