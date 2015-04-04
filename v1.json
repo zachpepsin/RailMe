@@ -3,11 +3,44 @@
     [
       {
         "name":"Atlantic City Line",
-        "stations":["station 1 acl", "station 2 acl"]
+        "schedules":["Weekday","Weekend/Holiday"],
+        "stations":
+          [
+            "30th Street Station",
+            "Absecon",
+            "Atco",
+            "Atlantic City",
+            "Cherry Hill",
+            "Egg Harbor City",
+            "Hammonton",
+            "Lindenwold",
+            "Pennsauken"
+          ]
       },
       {
-        "name":"Northeast Corridor", 
+        "name":"Northeast Corridor",
+        "schedules":["Weekday","Weekend/Holiday"],
         "stations": ["station 1 nec", "station 2 nec", "station 3 nec"]
+      },
+      {
+        "name":"PATCO",
+        "schedules":["Mon-Wed","Thursday","Friday","Weekend"],
+        "stations":
+          [
+            "8th & Market",
+            "9-10th & Locust",
+            "12-13th & Locust",
+            "15-16th & Locust",
+            "Ashland",
+            "Broadway (Camden)",
+            "City Hall (Camden)",
+            "Collingswood",
+            "Ferry Avenue",
+            "Haddonfield",
+            "Lindenwold",
+            "Westmont",
+            "Woodcrest"
+          ]
       }
     ]
 }
