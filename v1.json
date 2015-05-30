@@ -20,7 +20,7 @@
       {
         "name":"Northeast Corridor",
         "scheduleNames":["Weekday","Weekend/Holiday"],
-        "stations": []
+        "stations": ["station 1 nec", "station 2 nec", "station 3 nec"]
       },
       {
         "name":"PATCO",
