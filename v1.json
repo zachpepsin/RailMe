@@ -27,19 +27,19 @@
         "scheduleNames":["Mon-Wed","Thursday","Friday","Weekend"],
         "stations":
           [
-            "8th & Market",
-            "9-10th & Locust",
-            "12-13th & Locust",
-            "15-16th & Locust",
-            "Ashland",
+            "Lindenwold",
+            "Ashland (Voorhees)",
+            "Woodcrest/Cherry Hill",
+            "Haddonfield",
+            "Westmont (Haddon Twp)",
+            "Collingswood",
+            "Ferry Ave (Camden)",
             "Broadway (Camden)",
             "City Hall (Camden)",
-            "Collingswood",
-            "Ferry Avenue",
-            "Haddonfield",
-            "Lindenwold",
-            "Westmont",
-            "Woodcrest"
+            "8th & Market St",
+            "9-10th & Locust St",
+            "12-13th & Locust St",
+            "15-16th & Locust St"
           ]
       }
     ]
