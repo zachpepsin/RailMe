@@ -1,4 +1,9 @@
 {
+  "Data" : 
+    [
+      "Version" : "1"  
+    ],
+    
   "RailLines" : 
     [
       {
@@ -6,6 +11,5 @@
         "type":"offline",
         "active":"yes"
       }
-    ],
-  "Version" : "1"
+    ]
 }
