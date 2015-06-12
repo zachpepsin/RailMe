@@ -4,8 +4,7 @@
       {
         "name":"PATCO",
         "type":"offline",
-        "active":"yes",
-        "version":"patco_20150210"
+        "active":"yes"
       }
     ],
   "Version" : "1"
