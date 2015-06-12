@@ -1,6 +1,4 @@
 {
-  "Version" : "1",
-  
   "RailLines" : 
     [
       {
@@ -9,5 +7,6 @@
         "active":"yes",
         "version":"patco_20150210"
       }
-    ]
+    ],
+  "Version" : "1"
 }
