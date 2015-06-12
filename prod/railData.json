@@ -5,6 +5,7 @@
     [
       {
         "name":"PATCO",
+        "folder":"patco_20150210",
         "type":"offline",
         "active":"yes"
       }
