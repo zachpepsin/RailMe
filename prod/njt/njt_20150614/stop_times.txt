@@ -1,0 +1,2 @@
+trip_id,arrival_time,departure_time,stop_id,stop_sequence,pickup_type,drop_off_type,shape_dist_traveled
+1,25:53:00,25:53:00,10,1,0,0,0.0000
