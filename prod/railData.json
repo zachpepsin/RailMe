@@ -11,8 +11,8 @@
         "active":"yes"
       },
       {
-        "name":"NJ Transit",
-        "root":"njt",
+        "name":"NJ Transit Rail",
+        "root":"njtRail",
         "folder":"njt_20150614",
         "type":"offline",
         "active":"yes"
