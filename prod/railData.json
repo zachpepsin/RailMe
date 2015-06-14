@@ -5,12 +5,14 @@
     [
       {
         "name":"PATCO",
+        "root":"patco",
         "folder":"patco_20150210",
         "type":"offline",
         "active":"yes"
       },
       {
         "name":"NJ Transit",
+        "root":"njt",
         "folder":"njt_20150614",
         "type":"offline",
         "active":"yes"
