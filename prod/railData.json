@@ -9,11 +9,11 @@
         "type":"offline",
         "active":"yes"
       },
-      [
+      {
         "name":"NJ Transit",
         "folder":"njt_20150614",
         "type":"offline",
         "active":"yes"
-      ]
+      }
     ]
 }
