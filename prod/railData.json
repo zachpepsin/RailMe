@@ -1,5 +1,5 @@
 {
-  "Version":"2",
+  "Version":"1",
   
   "RailLines" : 
     [
@@ -14,6 +14,13 @@
         "name":"NJ Transit Rail",
         "root":"njt",
         "folder":"njt_20150614",
+        "type":"offline",
+        "active":"yes"
+      },
+      {
+        "name":"SEPTA Regional Rail",
+        "root":"septa",
+        "folder":"septa_20150623",
         "type":"offline",
         "active":"yes"
       }
