@@ -1,0 +1,5213 @@
+[
+    {
+        "route_id": "12",
+        "service_id": "1",
+        "trip_id": "4151",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "1",
+        "trip_id": "4152",
+        "trip_headsign": "LINDENWOLD SPECIAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "1",
+        "trip_id": "4153",
+        "trip_headsign": "LINDENWOLD SPECIAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "1",
+        "trip_id": "4154",
+        "trip_headsign": "LINDENWOLD SPECIAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "1",
+        "trip_id": "4155",
+        "trip_headsign": "LINDENWOLD SPECIAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "1",
+        "trip_id": "4156",
+        "trip_headsign": "LINDENWOLD SPECIAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "1",
+        "trip_id": "4157",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "1",
+        "trip_id": "4158",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "1",
+        "trip_id": "4159",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "1",
+        "trip_id": "4160",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "1",
+        "trip_id": "4161",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "1",
+        "trip_id": "4162",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "1",
+        "trip_id": "4163",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "1",
+        "trip_id": "4164",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "1",
+        "trip_id": "4165",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "1",
+        "trip_id": "4166",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "1",
+        "trip_id": "4167",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "1",
+        "trip_id": "4168",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "1",
+        "trip_id": "4169",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "1",
+        "trip_id": "4170",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "1",
+        "trip_id": "4171",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "1",
+        "trip_id": "4172",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "1",
+        "trip_id": "4173",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "1",
+        "trip_id": "4174",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "1",
+        "trip_id": "4175",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "1",
+        "trip_id": "4176",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "1",
+        "trip_id": "4177",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "1",
+        "trip_id": "4178",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "1",
+        "trip_id": "4179",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "1",
+        "trip_id": "4180",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "1",
+        "trip_id": "4181",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "1",
+        "trip_id": "4182",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "1",
+        "trip_id": "4183",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "1",
+        "trip_id": "4184",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "1",
+        "trip_id": "4185",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "1",
+        "trip_id": "4186",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "1",
+        "trip_id": "4187",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "1",
+        "trip_id": "4188",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "1",
+        "trip_id": "4189",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "1",
+        "trip_id": "4190",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "1",
+        "trip_id": "4191",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "1",
+        "trip_id": "4192",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "1",
+        "trip_id": "4193",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "1",
+        "trip_id": "4194",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "1",
+        "trip_id": "4195",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "1",
+        "trip_id": "4196",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "4",
+        "trip_id": "4197",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "4",
+        "trip_id": "4198",
+        "trip_headsign": "LINDENWOLD SPECIAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "4",
+        "trip_id": "4199",
+        "trip_headsign": "LINDENWOLD SPECIAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "4",
+        "trip_id": "4200",
+        "trip_headsign": "LINDENWOLD SPECIAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "4",
+        "trip_id": "4201",
+        "trip_headsign": "LINDENWOLD SPECIAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "4",
+        "trip_id": "4202",
+        "trip_headsign": "LINDENWOLD SPECIAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "4",
+        "trip_id": "4203",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "4",
+        "trip_id": "4204",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "4",
+        "trip_id": "4205",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "4",
+        "trip_id": "4206",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "4",
+        "trip_id": "4207",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "4",
+        "trip_id": "4208",
+        "trip_headsign": "LINDENWOLD SPECIAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "4",
+        "trip_id": "4209",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "4",
+        "trip_id": "4210",
+        "trip_headsign": "LINDENWOLD SPECIAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "4",
+        "trip_id": "4211",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "4",
+        "trip_id": "4212",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "4",
+        "trip_id": "4213",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "4",
+        "trip_id": "4214",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "4",
+        "trip_id": "4215",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "4",
+        "trip_id": "4216",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "4",
+        "trip_id": "4217",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "4",
+        "trip_id": "4218",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "4",
+        "trip_id": "4219",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "4",
+        "trip_id": "4220",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "4",
+        "trip_id": "4221",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "4",
+        "trip_id": "4222",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "4",
+        "trip_id": "4223",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "4",
+        "trip_id": "4224",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "4",
+        "trip_id": "4225",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "4",
+        "trip_id": "4226",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "4",
+        "trip_id": "4227",
+        "trip_headsign": "LINDENWOLD SPECIAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "4",
+        "trip_id": "4228",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "4",
+        "trip_id": "4229",
+        "trip_headsign": "LINDENWOLD SPECIAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "4",
+        "trip_id": "4230",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "4",
+        "trip_id": "4231",
+        "trip_headsign": "LINDENWOLD SPECIAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "4",
+        "trip_id": "4232",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "4",
+        "trip_id": "4233",
+        "trip_headsign": "LINDENWOLD SPECIAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "4",
+        "trip_id": "4234",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "4",
+        "trip_id": "4235",
+        "trip_headsign": "LINDENWOLD SPECIAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "4",
+        "trip_id": "4236",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "4",
+        "trip_id": "4237",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "4",
+        "trip_id": "4238",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "4",
+        "trip_id": "4239",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "4",
+        "trip_id": "4240",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "4",
+        "trip_id": "4241",
+        "trip_headsign": "LINDENWOLD SPECIAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "4",
+        "trip_id": "4242",
+        "trip_headsign": "LINDENWOLD SPECIAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "4",
+        "trip_id": "4243",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "4",
+        "trip_id": "4244",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "4",
+        "trip_id": "4245",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "4",
+        "trip_id": "4246",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "4",
+        "trip_id": "4247",
+        "trip_headsign": "LINDENWOLD SPECIAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "4",
+        "trip_id": "4248",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "4",
+        "trip_id": "4249",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "4",
+        "trip_id": "4250",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "4",
+        "trip_id": "4251",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "4",
+        "trip_id": "4252",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "4",
+        "trip_id": "4253",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "4",
+        "trip_id": "4254",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "4",
+        "trip_id": "4255",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "4",
+        "trip_id": "4256",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "4",
+        "trip_id": "4257",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "4",
+        "trip_id": "4258",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "4",
+        "trip_id": "4259",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "4",
+        "trip_id": "4260",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "4",
+        "trip_id": "4261",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "4",
+        "trip_id": "4262",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4263",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4264",
+        "trip_headsign": "LINDENWOLD SPECIAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4265",
+        "trip_headsign": "LINDENWOLD SPECIAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4266",
+        "trip_headsign": "LINDENWOLD SPECIAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4267",
+        "trip_headsign": "LINDENWOLD SPECIAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4268",
+        "trip_headsign": "LINDENWOLD SPECIAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4269",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4270",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4271",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4272",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4273",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4274",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4275",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4276",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4277",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4278",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4279",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4280",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4281",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4282",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4283",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4284",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4285",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4286",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4287",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4288",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4289",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4290",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4291",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4292",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4293",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4294",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4295",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4296",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4297",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4298",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4299",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4300",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4301",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4302",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4303",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4304",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4305",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4306",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4307",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4308",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4309",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4310",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4311",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4312",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4313",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4314",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4315",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4316",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4317",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4318",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4319",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4320",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4321",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4322",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4323",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4324",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4325",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4326",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4327",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4328",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4329",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4330",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4331",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4332",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4333",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4334",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4335",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4336",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4337",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4338",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4339",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4340",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4341",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4342",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4343",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4344",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4345",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4346",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4347",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4348",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4349",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4350",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4351",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4352",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4353",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4354",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4355",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4356",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4357",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4358",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4359",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4360",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4361",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4362",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4363",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4364",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4365",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4366",
+        "trip_headsign": "LINDENWOLD SPECIAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4367",
+        "trip_headsign": "LINDENWOLD SPECIAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4368",
+        "trip_headsign": "LINDENWOLD SPECIAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4369",
+        "trip_headsign": "LINDENWOLD SPECIAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4370",
+        "trip_headsign": "LINDENWOLD SPECIAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4371",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4372",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4373",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4374",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4375",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4376",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4377",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4378",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4379",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4380",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4381",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4382",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4383",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4384",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4385",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4386",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4387",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4388",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4389",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4390",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4391",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4392",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4393",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4394",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4395",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4396",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4397",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4398",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4399",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4400",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4401",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4402",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4403",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4404",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4405",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4406",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4407",
+        "trip_headsign": "LINDENWOLD SPECIAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4408",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4409",
+        "trip_headsign": "LINDENWOLD SPECIAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4410",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4411",
+        "trip_headsign": "LINDENWOLD SPECIAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4412",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4413",
+        "trip_headsign": "LINDENWOLD SPECIAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4414",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4415",
+        "trip_headsign": "LINDENWOLD SPECIAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4416",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4417",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4418",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4419",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4420",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4421",
+        "trip_headsign": "LINDENWOLD SPECIAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4422",
+        "trip_headsign": "LINDENWOLD SPECIAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4423",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4424",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4425",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4426",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4427",
+        "trip_headsign": "LINDENWOLD SPECIAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4428",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4429",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4430",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4431",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4432",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4433",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4434",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4435",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4436",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4437",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4438",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4439",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4440",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4441",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4442",
+        "trip_headsign": "LINDENWOLD LOCAL",
+        "direction_id": "1",
+        "shape_id": "1",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "1",
+        "trip_id": "4443",
+        "trip_headsign": "PHILADELPHIA SPECIAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "1",
+        "trip_id": "4444",
+        "trip_headsign": "PHILADELPHIA SPECIAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "1",
+        "trip_id": "4445",
+        "trip_headsign": "PHILADELPHIA SPECIAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "1",
+        "trip_id": "4446",
+        "trip_headsign": "PHILADELPHIA SPECIAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "1",
+        "trip_id": "4447",
+        "trip_headsign": "PHILADELPHIA SPECIAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "1",
+        "trip_id": "4448",
+        "trip_headsign": "PHILADELPHIA SPECIAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "1",
+        "trip_id": "4449",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "1",
+        "trip_id": "4450",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "1",
+        "trip_id": "4451",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "1",
+        "trip_id": "4452",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "1",
+        "trip_id": "4453",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "1",
+        "trip_id": "4454",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "1",
+        "trip_id": "4455",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "1",
+        "trip_id": "4456",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "1",
+        "trip_id": "4457",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "1",
+        "trip_id": "4458",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "1",
+        "trip_id": "4459",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "1",
+        "trip_id": "4460",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "1",
+        "trip_id": "4461",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "1",
+        "trip_id": "4462",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "1",
+        "trip_id": "4463",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "1",
+        "trip_id": "4464",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "1",
+        "trip_id": "4465",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "1",
+        "trip_id": "4466",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "1",
+        "trip_id": "4467",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "1",
+        "trip_id": "4468",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "1",
+        "trip_id": "4469",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "1",
+        "trip_id": "4470",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "1",
+        "trip_id": "4471",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "1",
+        "trip_id": "4472",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "1",
+        "trip_id": "4473",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "1",
+        "trip_id": "4474",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "1",
+        "trip_id": "4475",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "1",
+        "trip_id": "4476",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "1",
+        "trip_id": "4477",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "1",
+        "trip_id": "4478",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "1",
+        "trip_id": "4479",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "1",
+        "trip_id": "4480",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "1",
+        "trip_id": "4481",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "1",
+        "trip_id": "4482",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "1",
+        "trip_id": "4483",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "1",
+        "trip_id": "4484",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "1",
+        "trip_id": "4485",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "1",
+        "trip_id": "4486",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "1",
+        "trip_id": "4487",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "4",
+        "trip_id": "4488",
+        "trip_headsign": "PHILADELPHIA SPECIAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "4",
+        "trip_id": "4489",
+        "trip_headsign": "PHILADELPHIA SPECIAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "4",
+        "trip_id": "4490",
+        "trip_headsign": "PHILADELPHIA SPECIAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "4",
+        "trip_id": "4491",
+        "trip_headsign": "PHILADELPHIA SPECIAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "4",
+        "trip_id": "4492",
+        "trip_headsign": "PHILADELPHIA SPECIAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "4",
+        "trip_id": "4493",
+        "trip_headsign": "PHILADELPHIA SPECIAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "4",
+        "trip_id": "4494",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "4",
+        "trip_id": "4495",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "4",
+        "trip_id": "4496",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "4",
+        "trip_id": "4497",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "4",
+        "trip_id": "4498",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "4",
+        "trip_id": "4499",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "4",
+        "trip_id": "4500",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "4",
+        "trip_id": "4501",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "4",
+        "trip_id": "4502",
+        "trip_headsign": "PHILADELPHIA SPECIAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "4",
+        "trip_id": "4503",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "4",
+        "trip_id": "4504",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "4",
+        "trip_id": "4505",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "4",
+        "trip_id": "4506",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "4",
+        "trip_id": "4507",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "4",
+        "trip_id": "4508",
+        "trip_headsign": "PHILADELPHIA SPECIAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "4",
+        "trip_id": "4509",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "4",
+        "trip_id": "4510",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "4",
+        "trip_id": "4511",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "4",
+        "trip_id": "4512",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "4",
+        "trip_id": "4513",
+        "trip_headsign": "PHILADELPHIA SPECIAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "4",
+        "trip_id": "4514",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "4",
+        "trip_id": "4515",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "4",
+        "trip_id": "4516",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "4",
+        "trip_id": "4517",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "4",
+        "trip_id": "4518",
+        "trip_headsign": "PHILADELPHIA SPECIAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "4",
+        "trip_id": "4519",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "4",
+        "trip_id": "4520",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "4",
+        "trip_id": "4521",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "4",
+        "trip_id": "4522",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "4",
+        "trip_id": "4523",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "4",
+        "trip_id": "4524",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "4",
+        "trip_id": "4525",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "4",
+        "trip_id": "4526",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "4",
+        "trip_id": "4527",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "4",
+        "trip_id": "4528",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "4",
+        "trip_id": "4529",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "4",
+        "trip_id": "4530",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "4",
+        "trip_id": "4531",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "4",
+        "trip_id": "4532",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "4",
+        "trip_id": "4533",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "4",
+        "trip_id": "4534",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "4",
+        "trip_id": "4535",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "4",
+        "trip_id": "4536",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "4",
+        "trip_id": "4537",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "4",
+        "trip_id": "4538",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "4",
+        "trip_id": "4539",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "4",
+        "trip_id": "4540",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "4",
+        "trip_id": "4541",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "4",
+        "trip_id": "4542",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "4",
+        "trip_id": "4543",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "4",
+        "trip_id": "4544",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "4",
+        "trip_id": "4545",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "4",
+        "trip_id": "4546",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "4",
+        "trip_id": "4547",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "4",
+        "trip_id": "4548",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "4",
+        "trip_id": "4549",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "4",
+        "trip_id": "4550",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "4",
+        "trip_id": "4551",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "4",
+        "trip_id": "4552",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4553",
+        "trip_headsign": "PHILADELPHIA SPECIAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4554",
+        "trip_headsign": "PHILADELPHIA SPECIAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4555",
+        "trip_headsign": "PHILADELPHIA SPECIAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4556",
+        "trip_headsign": "PHILADELPHIA SPECIAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4557",
+        "trip_headsign": "PHILADELPHIA SPECIAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4558",
+        "trip_headsign": "PHILADELPHIA SPECIAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4559",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4560",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4561",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4562",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4563",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4564",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4565",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4566",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4567",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4568",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4569",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4570",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4571",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4572",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4573",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4574",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4575",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4576",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4577",
+        "trip_headsign": "PHILADELPHIA SPECIAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4578",
+        "trip_headsign": "PHILADELPHIA SPECIAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4579",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4580",
+        "trip_headsign": "PHILADELPHIA SPECIAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4581",
+        "trip_headsign": "PHILADELPHIA SPECIAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4582",
+        "trip_headsign": "PHILADELPHIA SPECIAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4583",
+        "trip_headsign": "PHILADELPHIA SPECIAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4584",
+        "trip_headsign": "PHILADELPHIA SPECIAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4585",
+        "trip_headsign": "PHILADELPHIA SPECIAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4586",
+        "trip_headsign": "PHILADELPHIA SPECIAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4587",
+        "trip_headsign": "PHILADELPHIA SPECIAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4588",
+        "trip_headsign": "PHILADELPHIA SPECIAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4589",
+        "trip_headsign": "PHILADELPHIA SPECIAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4590",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4591",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4592",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4593",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4594",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4595",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4596",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4597",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4598",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4599",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4600",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4601",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4602",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4603",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4604",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4605",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4606",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4607",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4608",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4609",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4610",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4611",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4612",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4613",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4614",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4615",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4616",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4617",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4618",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4619",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4620",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4621",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4622",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4623",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4624",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4625",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4626",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4627",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4628",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4629",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4630",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4631",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4632",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4633",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4634",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4635",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4636",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4637",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4638",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4639",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4640",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4641",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4642",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4643",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4644",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4645",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4646",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4647",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4648",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4649",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4650",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4651",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4652",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4653",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4654",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "2",
+        "trip_id": "4655",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4656",
+        "trip_headsign": "PHILADELPHIA SPECIAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4657",
+        "trip_headsign": "PHILADELPHIA SPECIAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4658",
+        "trip_headsign": "PHILADELPHIA SPECIAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4659",
+        "trip_headsign": "PHILADELPHIA SPECIAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4660",
+        "trip_headsign": "PHILADELPHIA SPECIAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4661",
+        "trip_headsign": "PHILADELPHIA SPECIAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4662",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4663",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4664",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4665",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4666",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4667",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4668",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4669",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4670",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4671",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4672",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4673",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4674",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4675",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4676",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4677",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4678",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4679",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4680",
+        "trip_headsign": "PHILADELPHIA SPECIAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4681",
+        "trip_headsign": "PHILADELPHIA SPECIAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4682",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4683",
+        "trip_headsign": "PHILADELPHIA SPECIAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4684",
+        "trip_headsign": "PHILADELPHIA SPECIAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4685",
+        "trip_headsign": "PHILADELPHIA SPECIAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4686",
+        "trip_headsign": "PHILADELPHIA SPECIAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4687",
+        "trip_headsign": "PHILADELPHIA SPECIAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4688",
+        "trip_headsign": "PHILADELPHIA SPECIAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4689",
+        "trip_headsign": "PHILADELPHIA SPECIAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4690",
+        "trip_headsign": "PHILADELPHIA SPECIAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4691",
+        "trip_headsign": "PHILADELPHIA SPECIAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4692",
+        "trip_headsign": "PHILADELPHIA SPECIAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4693",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4694",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4695",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4696",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4697",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4698",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4699",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4700",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4701",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4702",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4703",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4704",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4705",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4706",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4707",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4708",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4709",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4710",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4711",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4712",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4713",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4714",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4715",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4716",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4717",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4718",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4719",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4720",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4721",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4722",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4723",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4724",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4725",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4726",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4727",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4728",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    },
+    {
+        "route_id": "12",
+        "service_id": "3",
+        "trip_id": "4729",
+        "trip_headsign": "PHILADELPHIA LOCAL",
+        "direction_id": "0",
+        "shape_id": "0",
+        "bikes_allowed": "1"
+    }
+]

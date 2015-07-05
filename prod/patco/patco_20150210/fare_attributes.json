@@ -1,0 +1,44 @@
+[
+    {
+        "fare_id": "law_phl",
+        "price": "3.00",
+        "currency_type": "USD",
+        "payment_method": "1",
+        "transfers": "0"
+    },
+    {
+        "fare_id": "hwc_phl",
+        "price": "2.60",
+        "currency_type": "USD",
+        "payment_method": "1",
+        "transfers": "0"
+    },
+    {
+        "fare_id": "f_phl",
+        "price": "2.25",
+        "currency_type": "USD",
+        "payment_method": "1",
+        "transfers": "0"
+    },
+    {
+        "fare_id": "nj_nj",
+        "price": "1.60",
+        "currency_type": "USD",
+        "payment_method": "1",
+        "transfers": "0"
+    },
+    {
+        "fare_id": "bc_phl",
+        "price": "1.40",
+        "currency_type": "USD",
+        "payment_method": "1",
+        "transfers": "0"
+    },
+    {
+        "fare_id": "phl_phl",
+        "price": "1.40",
+        "currency_type": "USD",
+        "payment_method": "1",
+        "transfers": "0"
+    }
+]

@@ -1,0 +1,119 @@
+[
+    {
+        "stop_id": "240",
+        "stop_name": "Lindenwold",
+        "stop_desc": "Lindenwold, NJ",
+        "stop_lat": "39.83389",
+        "stop_lon": "-75.00056",
+        "zone_id": "240",
+        "wheelchair_boarding": "1"
+    },
+    {
+        "stop_id": "241",
+        "stop_name": "Ashland (Voorhees)",
+        "stop_desc": "Ashland (Voorhees), NJ",
+        "stop_lat": "39.85856",
+        "stop_lon": "-75.009199",
+        "zone_id": "241",
+        "wheelchair_boarding": "2"
+    },
+    {
+        "stop_id": "242",
+        "stop_name": "Woodcrest/Cherry Hill",
+        "stop_desc": "Woodcrest/Cherry Hill, NJ",
+        "stop_lat": "39.870166",
+        "stop_lon": "-75.011217",
+        "zone_id": "242",
+        "wheelchair_boarding": "1"
+    },
+    {
+        "stop_id": "243",
+        "stop_name": "Haddonfield",
+        "stop_desc": "Haddonfield, NJ",
+        "stop_lat": "39.897352",
+        "stop_lon": "-75.036822",
+        "zone_id": "243",
+        "wheelchair_boarding": "2"
+    },
+    {
+        "stop_id": "244",
+        "stop_name": "Westmont (Haddon Twp)",
+        "stop_desc": "Westmont (Haddon Twp), NJ",
+        "stop_lat": "39.907117",
+        "stop_lon": "-75.046775",
+        "zone_id": "244",
+        "wheelchair_boarding": "2"
+    },
+    {
+        "stop_id": "245",
+        "stop_name": "Collingswood",
+        "stop_desc": "Collingswood, NJ",
+        "stop_lat": "39.913561",
+        "stop_lon": "-75.064561",
+        "zone_id": "245",
+        "wheelchair_boarding": "2"
+    },
+    {
+        "stop_id": "246",
+        "stop_name": "Ferry Ave (Camden)",
+        "stop_desc": "Ferry Ave (Camden), NJ",
+        "stop_lat": "39.922779",
+        "stop_lon": "-75.088022",
+        "zone_id": "246",
+        "wheelchair_boarding": "1"
+    },
+    {
+        "stop_id": "247",
+        "stop_name": "Broadway (Camden)",
+        "stop_desc": "Broadway (Camden), NJ",
+        "stop_lat": "39.942693",
+        "stop_lon": "-75.118545",
+        "zone_id": "247",
+        "wheelchair_boarding": "1"
+    },
+    {
+        "stop_id": "248",
+        "stop_name": "City Hall (Camden)",
+        "stop_desc": "City Hall (Camden), NJ",
+        "stop_lat": "39.945568",
+        "stop_lon": "-75.121133",
+        "zone_id": "248",
+        "wheelchair_boarding": "2"
+    },
+    {
+        "stop_id": "249",
+        "stop_name": "8th & Market St",
+        "stop_desc": "8th & Market St, Philadelphia",
+        "stop_lat": "39.951181",
+        "stop_lon": "-75.1532",
+        "zone_id": "249",
+        "wheelchair_boarding": "1"
+    },
+    {
+        "stop_id": "250",
+        "stop_name": "9-10th & Locust St",
+        "stop_desc": "9-10th & Locust St, Philadelphia",
+        "stop_lat": "39.947114",
+        "stop_lon": "-75.156092",
+        "zone_id": "250",
+        "wheelchair_boarding": "1"
+    },
+    {
+        "stop_id": "251",
+        "stop_name": "12-13th & Locust St",
+        "stop_desc": "12-13th & Locust St, Philadelphia",
+        "stop_lat": "39.947731",
+        "stop_lon": "-75.160797",
+        "zone_id": "251",
+        "wheelchair_boarding": "2"
+    },
+    {
+        "stop_id": "252",
+        "stop_name": "15-16th & Locust St",
+        "stop_desc": "15-16th & Locust St, Philadelphia",
+        "stop_lat": "39.948417",
+        "stop_lon": "-75.166208",
+        "zone_id": "252",
+        "wheelchair_boarding": "1"
+    }
+]
