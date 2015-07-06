@@ -1,0 +1,121 @@
+[
+    {
+        "route_id": "1",
+        "agency_id": "NJT",
+        "route_long_name": "Atlantic City Rail Line",
+        "route_type": "2",
+        "route_color": ""
+    },
+    {
+        "route_id": "2",
+        "agency_id": "NJT",
+        "route_long_name": "Montclair-Boonton Line",
+        "route_type": "2",
+        "route_color": ""
+    },
+    {
+        "route_id": "3",
+        "agency_id": "NJT",
+        "route_long_name": "Montclair-Boonton Line",
+        "route_type": "2",
+        "route_color": ""
+    },
+    {
+        "route_id": "4",
+        "agency_id": "NJT",
+        "route_long_name": "Hudson-Bergen Light Rail",
+        "route_type": "0",
+        "route_color": ""
+    },
+    {
+        "route_id": "5",
+        "agency_id": "NJT",
+        "route_long_name": "Main/Bergen County Line",
+        "route_type": "2",
+        "route_color": ""
+    },
+    {
+        "route_id": "6",
+        "agency_id": "NJT",
+        "route_long_name": "Port Jervis Line",
+        "route_type": "2",
+        "route_color": ""
+    },
+    {
+        "route_id": "7",
+        "agency_id": "NJT",
+        "route_long_name": "Morris & Essex Line",
+        "route_type": "2",
+        "route_color": ""
+    },
+    {
+        "route_id": "8",
+        "agency_id": "NJT",
+        "route_long_name": "Gladstone Branch",
+        "route_type": "2",
+        "route_color": ""
+    },
+    {
+        "route_id": "9",
+        "agency_id": "NJT",
+        "route_long_name": "Northeast Corridor",
+        "route_type": "2",
+        "route_color": ""
+    },
+    {
+        "route_id": "10",
+        "agency_id": "NJT",
+        "route_long_name": "North Jersey Coast Line",
+        "route_type": "2",
+        "route_color": ""
+    },
+    {
+        "route_id": "11",
+        "agency_id": "NJT",
+        "route_long_name": "North Jersey Coast Line",
+        "route_type": "2",
+        "route_color": ""
+    },
+    {
+        "route_id": "12",
+        "agency_id": "NJT",
+        "route_long_name": "Newark Light Rail",
+        "route_type": "0",
+        "route_color": ""
+    },
+    {
+        "route_id": "13",
+        "agency_id": "NJT",
+        "route_long_name": "Pascack Valley Line",
+        "route_type": "2",
+        "route_color": ""
+    },
+    {
+        "route_id": "14",
+        "agency_id": "NJT",
+        "route_long_name": "Princeton Shuttle",
+        "route_type": "2",
+        "route_color": ""
+    },
+    {
+        "route_id": "15",
+        "agency_id": "NJT",
+        "route_long_name": "Raritan Valley Line",
+        "route_type": "2",
+        "route_color": ""
+    },
+    {
+        "route_id": "16",
+        "agency_id": "NJT",
+        "route_long_name": "Riverline Light Rail",
+        "route_type": "0",
+        "route_color": ""
+    },
+    {
+        "route_id": "17",
+        "agency_id": "NJT",
+        "route_long_name": "Meadowlands Rail Line",
+        "route_type": "2",
+        "route_color": ""
+    }
+]
