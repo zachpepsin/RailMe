@@ -1,4 +1,17 @@
-from_stop_id,to_stop_id,transfer_type
-90004,90004,0
-90005,90005,0
-90006,90006,0
+[
+    {
+        "from_stop_id": "90004",
+        "to_stop_id": "90004",
+        "transfer_type": "0"
+    },
+    {
+        "from_stop_id": "90005",
+        "to_stop_id": "90005",
+        "transfer_type": "0"
+    },
+    {
+        "from_stop_id": "90006",
+        "to_stop_id": "90006",
+        "transfer_type": "0"
+    }
+]
