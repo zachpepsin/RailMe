@@ -16,6 +16,13 @@
         "folder":"njt_20150614",
         "type":"offline",
         "active":"yes"
+      },
+      {
+        "name":"SEPTA Regional Rail",
+        "root":"septa",
+        "folder":"septa_20150623",
+        "type":"offline",
+        "active":"yes"
       }
     ]
 }
