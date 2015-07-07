@@ -7,6 +7,7 @@
         "name":"PATCO",
         "root":"patco",
         "folder":"patco_20150210",
+        "version":"patco_201501210-1",
         "type":"offline",
         "active":"yes"
       },
@@ -14,6 +15,7 @@
         "name":"NJ Transit Rail",
         "root":"njt",
         "folder":"njt_20150614",
+        "version":"njt_20150614-1",
         "type":"offline",
         "active":"yes"
       }
