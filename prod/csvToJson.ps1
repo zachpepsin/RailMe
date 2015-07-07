@@ -153,9 +153,9 @@ foreach ($file in $fileNames){
 	Write-Host "Converting to JSON..."
 	<# $fout = $fin | ConvertTo-Json #> #only works in PowerShell v3+, have to use function
 	$fout = $fin | ConvertTo-JSON  #convert object to JSON format
-	Write-Host 'Writing to .\$agency\$folder\$file.json...'
+	Write-Host "Writing to .\$agency\$folder\$file.json..."
 	$fout > ".\$agency\$folder\$file.json"
 	Write-Host "Done!`n"
 }
 
-Read-Host '`nFinished!  Press Enter to exit'
+Read-Host "`nFinished!  Press Enter to exit"
