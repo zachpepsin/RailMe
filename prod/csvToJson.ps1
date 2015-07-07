@@ -2,7 +2,10 @@ Write-Host "csvToJson.ps1"
 Write-Host "Zach Pepsin"
 Write-Host "07 July 2015"
 Write-Host "`nThis script should be located in folder 
-above the agency folders to function properly`n`n"
+above the agency folders to function properly"
+Write-Host "`nRemember: NEVER run in current production
+folder! ALWAYS make a new folder first and
+test in dev mode!`n"
 
 #Names of GTFS .txt files in CSV format to be converted to JSON.  Any missing files in folder will be ignored.
 $fileNames = @("agency", "stops", "routes", "trips", "stop_times", "calendar", "calendar_dates", 
