@@ -1,2 +1,2 @@
-agency_id,agency_name,agency_url,agency_timezone,agency_lang
-"RL","RiverLink","http://www.delawareriverwaterfront.com/places/riverlink-ferry","America/New_York","en"
+agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone
+"RL","RiverLink","http://www.delawareriverwaterfront.com/places/riverlink-ferry","America/New_York","en","215-925-LINK"
