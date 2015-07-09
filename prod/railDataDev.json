@@ -1,5 +1,5 @@
 {
-  "Version":"14dev",
+  "Version":"15dev",
   
   "RailLines" : 
     [
@@ -16,6 +16,14 @@
         "root":"njt",
         "folder":"njt_20150614",
         "version":"njt_20150614-1",
+        "type":"offline",
+        "active":"yes"
+      },
+      {
+        "name":"RiverLink Ferry",
+        "root":"riverlink",
+        "folder":"riverlink_20150709",
+        "version":"riverlink_20150709-1",
         "type":"offline",
         "active":"yes"
       },
