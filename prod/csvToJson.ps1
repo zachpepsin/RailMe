@@ -153,6 +153,11 @@ foreach ($file in $fileNames){
 	Write-Host "Converting to JSON..."
 	<# $fout = $fin | ConvertTo-Json #> #only works in PowerShell v3+, have to use function
 	$fout = $fin | ConvertTo-JSON  #convert object to JSON format
+	
+	if($fout -NotMatch '\['){  #each should be an array.  add brackets to start and end if it isn't
+		$fout = "[" + $fout + "]"
+	}
+	
 	Write-Host "Writing to .\$agency\$folder\$file.json..."
 	#$fout > ".\$agency\$folder\$file.json"
 	[System.IO.File]::WriteAllLines(".\$agency\$folder\$file.json", $fout)
