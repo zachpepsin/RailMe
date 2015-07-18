@@ -1,5 +1,6 @@
 {
-  "Version":"20dev",
+  "railDataVersion":"20dev",
+  "minAppVersionCode":"24",
   
   "RailLines" : 
     [
@@ -7,7 +8,6 @@
         "name":"PATCO",
         "root":"patco",
         "folder":"patco_20150706",
-        "version":"patco_20150706-1",
         "type":"offline",
         "active":"yes"
       },
@@ -15,7 +15,6 @@
         "name":"NJ Transit Rail",
         "root":"njt",
         "folder":"njt_20150614",
-        "version":"njt_20150614-1",
         "type":"offline",
         "active":"yes"
       },
@@ -23,7 +22,6 @@
         "name":"RiverLink Ferry",
         "root":"riverlink",
         "folder":"riverlink_20150709",
-        "version":"riverlink_20150709-1",
         "type":"offline",
         "active":"yes"
       },
@@ -31,7 +29,6 @@
         "name":"SEPTA Regional Rail",
         "root":"septa",
         "folder":"septa_20150623",
-        "version":"septa_20150623-1",
         "type":"offline",
         "active":"yes"
       }
