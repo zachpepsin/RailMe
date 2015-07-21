@@ -60,15 +60,13 @@ if ( Test-Path .\$agency\$folder\stopsOnRoute.json ) {
 	}
 }
 
-
-$route_idList = @()
-
 Write-Host "`nImporting CSV files..."
 $finRoutes = Import-Csv .\$agency\$folder\routes.txt -delimiter "," #import from file to object
 $finTrips = Import-Csv .\$agency\$folder\trips.txt -delimiter ","
 $finStop_Times = Import-Csv .\$agency\$folder\stop_times.txt -delimiter ","
 #$finStops = Import-Csv .\$agency\$folder\stops.txt -delimiter ","
 
+$route_idList = @()
 $route_idToTrip_idsList = @()
 ForEach( $route in $finRoutes){
 	#Write-Host route_id is $route.route_id
@@ -109,64 +107,60 @@ ForEach($stop_time in $finStop_Times){
 	}
 }
 
+
 Write-Host "Parsing everything..."
+$count=0
 ForEach ($route_idToTrip_idInnerArray in $route_idToTrip_idsList){
-	$count=0
 	Write-Host "`n"
 	Write-Host ROUTE $route_idList[$count]
 	Write-Host "---------------------------`n"
 	ForEach($trip_idFromRouteList in $route_idToTrip_idInnerArray){
 		Write-Host Trip $trip_idFromRouteList
+		$innerCount=0
 		:inner ForEach($trip_id in $trip_idList){
-	
+		
 			if($trip_idFromRouteList -eq $trip_id){
-				
-				ForEach($stop_id in $trip_idToStop_idsList){
+			
+				ForEach($stop_id in $trip_idToStop_idsList[$innerCount]){
 					$route_idToStop_idsList[$count] += $stop_id
 				}
 				break inner
 			}
+			$innerCount+=1
 		}
 	}
 	$count+=1
 }
 
+Write-Host "Trimming lists for uniques..."
+$count = 0
 ForEach($innerList in $route_idToStop_idsList){
-	$count = 0
 	$route_idToStop_idsList[$count] = $route_idToStop_idsList[$count] | select -uniq
 	$count+=1
 }
 
-function ConvertTo-Json([object] $item){
-    add-type -assembly system.web.extensions
-    $ps_js=new-object system.web.script.serialization.javascriptSerializer
-    return $ps_js.Serialize($item) 
-}
-
-
 Write-Host "Making output string..."
 $output = '{"StopsOnRoute":['
-##TODO: DONT PUT COMMA ON LAST ONE!
 $outerCount = 1
 ForEach($innerArray in $route_idToStop_idsList){
 	
 	$output = $output + '{"route_id":"'
-	$output = $output + $route_idList[$count]
-	$output = $output + '","trip_ids":['
+	$output = $output + ($route_idList[$outerCount - 1])
+	$output = $output + '","stop_ids":['
 
 	$innerCount = 1
 	ForEach($trip_id in $innerArray){
 		$output = $output + '"'
 		$output = $output + $trip_id
 		$output = $output + '"'
-		if(-not ($innerArray.Count -eq $innerCount)){
+		if(-not ($innerArray.Count -le $innerCount)){
 			$output = $output + ','
 		}
 		$innerCount+=1
 	}
 	$output = $output + ']'
 	$output = $output + '}'
-	if(-not ($route_idToStop_idsList.Count -eq $outerCount)){
+	if(-not ($route_idToStop_idsList.Count -le $outerCount)){
 		$output = $output + ','
 	}
 	$outerCount+=1
