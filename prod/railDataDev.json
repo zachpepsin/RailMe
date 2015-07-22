@@ -1,5 +1,5 @@
 {
-  "railDataVersion":"21dev",
+  "railDataVersion":"20dev",
   "minAppVersionCode":"24",
   
   "RailLines" : 
@@ -16,7 +16,7 @@
         "root":"njt",
         "folder":"njt_20150614",
         "type":"offline",
-        "active":"no"
+        "active":"yes"
       },
       {
         "name":"RiverLink Ferry",
@@ -30,7 +30,7 @@
         "root":"septa",
         "folder":"septa_20150623",
         "type":"offline",
-        "active":"no"
+        "active":"yes"
       }
     ]
 }
