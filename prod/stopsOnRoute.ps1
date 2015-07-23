@@ -168,5 +168,6 @@ ForEach($innerArray in $route_idToStop_idsList){
 $output = $output + ']}'
 
 Write-Host "Writing to output file..."
-$output | Out-File ".\$agency\$folder\stopsOnRoute.json"
+#$output | Out-File ".\$agency\$folder\stopsOnRoute.json"  ###Using this method adds BOM
+[System.IO.File]::WriteAllLines(".\$agency\$folder\stopsOnRoute.json", $output)
 Write-Host "Done!`n"
