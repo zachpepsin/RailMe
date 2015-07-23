@@ -1,5 +1,5 @@
 {
-  "railDataVersion":"27dev",
+  "railDataVersion":"28dev",
   "minAppVersionCode":"24",
   
   "RailLines" : 
@@ -33,6 +33,14 @@
         "root":"septa",
         "folder":"septa_20150623",
         "version":"septa_20150623-1",
+        "type":"offline",
+        "active":"yes"
+      },
+      {
+        "name":"NJ Transit Bus",
+        "root":"njtbus",
+        "folder":"njtbus_20150624",
+        "version":"njtbus_20150624-1",
         "type":"offline",
         "active":"yes"
       }
