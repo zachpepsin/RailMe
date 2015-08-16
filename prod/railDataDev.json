@@ -1,5 +1,5 @@
 {
-  "railDataVersion":"29dev",
+  "railDataVersion":"30dev",
   "minAppVersionCode":"24",
   
   "RailLines" : 
@@ -31,8 +31,8 @@
       {
         "name":"SEPTA Regional Rail",
         "root":"septa",
-        "folder":"septa_20150623",
-        "version":"septa_20150623-1",
+        "folder":"septa_20150814",
+        "version":"septa_20150814-1",
         "type":"offline",
         "active":"yes"
       },
