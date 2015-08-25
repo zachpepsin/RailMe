@@ -1,5 +1,5 @@
 {
-  "railDataVersion":"32dev",
+  "railDataVersion":"33dev",
   "minAppVersionCode":"24",
   
   "RailLines" : 
@@ -16,7 +16,7 @@
         "name":"NJ Transit Rail",
         "root":"njt",
         "folder":"njt_20150821",
-        "version":"njt_20150821-1",
+        "version":"njt_20150821-2",
         "type":"offline",
         "active":"yes"
       },
