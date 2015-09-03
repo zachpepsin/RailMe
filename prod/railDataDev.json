@@ -1,5 +1,5 @@
 {
-  "railDataVersion":"40dev",
+  "railDataVersion":"41dev",
   "minAppVersionCode":"24",
   
   "RailLines" : 
@@ -16,7 +16,7 @@
         "name":"NJ Transit Rail",
         "root":"njt",
         "folder":"njt_20150903",
-        "version":"njt_20150903-2",
+        "version":"njt_20150903-3",
         "type":"offline",
         "active":"yes"
       },
@@ -31,8 +31,8 @@
       {
         "name":"SEPTA Regional Rail",
         "root":"septa",
-        "folder":"septa_20150827",
-        "version":"septa_20150827-2",
+        "folder":"septa_20150814",
+        "version":"septa_20150814-1",
         "type":"offline",
         "active":"yes"
       },
