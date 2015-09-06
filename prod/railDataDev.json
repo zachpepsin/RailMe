@@ -21,8 +21,8 @@
         "version":"njt_20150903-4",
         "type":"offline",
         "active":"yes",
-        "alertMessage":"-",
-        "alertLink":"-"
+        "alertMessage":"",
+        "alertLink":""
       },
       {
         "name":"RiverLink Ferry",
@@ -31,8 +31,8 @@
         "version":"riverlink_20150709-1",
         "type":"offline",
         "active":"yes",
-        "alertMessage":"-",
-        "alertLink":"-"
+        "alertMessage":"",
+        "alertLink":""
       },
       {
         "name":"SEPTA Regional Rail",
@@ -41,8 +41,8 @@
         "version":"septa_20150827-1",
         "type":"offline",
         "active":"yes",
-        "alertMessage":"-",
-        "alertLink":"-"
+        "alertMessage":"",
+        "alertLink":""
       },
       {
         "name":"NJ Transit Bus",
@@ -51,8 +51,8 @@
         "version":"njtbus_20150723-1",
         "type":"offline",
         "active":"no",
-        "alertMessage":"-",
-        "alertLink":"-"
+        "alertMessage":"",
+        "alertLink":""
       }
     ]
 }
