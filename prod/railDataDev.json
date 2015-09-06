@@ -41,8 +41,8 @@
         "version":"septa_20150827-1",
         "type":"offline",
         "active":"yes",
-        "alertMessage":"testing",
-        "alertLink":"http://www.zachpepsin.com"
+        "alertMessage":"",
+        "alertLink":""
       },
       {
         "name":"NJ Transit Bus",
@@ -51,8 +51,8 @@
         "version":"njtbus_20150723-1",
         "type":"offline",
         "active":"no",
-        "alertMessage":"-",
-        "alertLink":"-"
+        "alertMessage":"",
+        "alertLink":""
       }
     ]
 }
