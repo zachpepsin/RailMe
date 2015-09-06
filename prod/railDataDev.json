@@ -12,7 +12,7 @@
         "type":"offline",
         "active":"yes",
         "alertMessage":"testing",
-        "linkMessage":"www.zachpepsin.com"
+        "alertLink":"www.zachpepsin.com"
       },
       {
         "name":"NJ Transit Rail",
@@ -22,7 +22,7 @@
         "type":"offline",
         "active":"yes",
         "alertMessage":"",
-        "linkMessage":""
+        "alertLink":""
       },
       {
         "name":"RiverLink Ferry",
@@ -32,7 +32,7 @@
         "type":"offline",
         "active":"yes",
         "alertMessage":"",
-        "linkMessage":""
+        "alertLink":""
       },
       {
         "name":"SEPTA Regional Rail",
@@ -42,7 +42,7 @@
         "type":"offline",
         "active":"yes",
         "alertMessage":"",
-        "linkMessage":""
+        "alertLink":""
       },
       {
         "name":"NJ Transit Bus",
@@ -52,7 +52,7 @@
         "type":"offline",
         "active":"no",
         "alertMessage":"",
-        "linkMessage":""
+        "alertLink":""
       }
     ]
 }
