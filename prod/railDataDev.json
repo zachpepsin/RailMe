@@ -11,8 +11,8 @@
         "version":"patco_20150905-5",
         "type":"offline",
         "active":"yes",
-        "alert":"testing",
-        "link":"www.zachpepsin.com"
+        "alertMessage":"testing",
+        "linkMessage":"www.zachpepsin.com"
       },
       {
         "name":"NJ Transit Rail",
@@ -21,8 +21,8 @@
         "version":"njt_20150903-4",
         "type":"offline",
         "active":"yes",
-        "alert":"",
-        "link":""
+        "alertMessage":"",
+        "linkMessage":""
       },
       {
         "name":"RiverLink Ferry",
@@ -31,8 +31,8 @@
         "version":"riverlink_20150709-1",
         "type":"offline",
         "active":"yes",
-        "alert":"",
-        "link":""
+        "alertMessage":"",
+        "linkMessage":""
       },
       {
         "name":"SEPTA Regional Rail",
@@ -41,8 +41,8 @@
         "version":"septa_20150827-1",
         "type":"offline",
         "active":"yes",
-        "alert":"",
-        "link":""
+        "alertMessage":"",
+        "linkMessage":""
       },
       {
         "name":"NJ Transit Bus",
@@ -51,8 +51,8 @@
         "version":"njtbus_20150723-1",
         "type":"offline",
         "active":"no",
-        "alert":"",
-        "link":""
+        "alertMessage":"",
+        "linkMessage":""
       }
     ]
 }
