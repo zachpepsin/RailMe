@@ -21,8 +21,8 @@
         "version":"njt_20150903-4",
         "type":"offline",
         "active":"yes",
-        "alertMessage":"testing",
-        "alertLink":"http://www.zachpepsin.com"
+        "alertMessage":"",
+        "alertLink":""
       },
       {
         "name":"RiverLink Ferry",
@@ -31,8 +31,8 @@
         "version":"riverlink_20150709-1",
         "type":"offline",
         "active":"yes",
-        "alertMessage":"",
-        "alertLink":""
+        "alertMessage":"testing",
+        "alertLink":"http://www.zachpepsin.com"
       },
       {
         "name":"SEPTA Regional Rail",
