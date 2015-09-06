@@ -40,7 +40,7 @@
         "folder":"septa_20150827",
         "version":"septa_20150827-1",
         "type":"offline",
-        "active":"yes"
+        "active":"yes",
         "alertMessage":"testing",
         "alertLink":"http://www.zachpepsin.com"
       },
