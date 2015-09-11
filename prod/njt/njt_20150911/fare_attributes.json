@@ -1,0 +1,254 @@
+[
+    {
+        "fare_id": "acy_abs",
+        "price": "1.50",
+        "currency_type": "USD",
+        "payment_method": "1",
+        "transfers": "0"
+    },
+    {
+        "fare_id": "acy_ehc",
+        "price": "3.25",
+        "currency_type": "USD",
+        "payment_method": "1",
+        "transfers": "0"
+    },
+    {
+        "fare_id": "acy_ham",
+        "price": "4.75",
+        "currency_type": "USD",
+        "payment_method": "1",
+        "transfers": "0"
+    },
+    {
+        "fare_id": "acy_atc",
+        "price": "4.75",
+        "currency_type": "USD",
+        "payment_method": "1",
+        "transfers": "0"
+    },
+    {
+        "fare_id": "acy_lin",
+        "price": "5.00",
+        "currency_type": "USD",
+        "payment_method": "1",
+        "transfers": "0"
+    },
+    {
+        "fare_id": "acy_che",
+        "price": "6.50",
+        "currency_type": "USD",
+        "payment_method": "1",
+        "transfers": "0"
+    },
+    {
+        "fare_id": "acy_pen",
+        "price": "6.50",
+        "currency_type": "USD",
+        "payment_method": "1",
+        "transfers": "0"
+    },
+    {
+        "fare_id": "acy_phl",
+        "price": "10.00",
+        "currency_type": "USD",
+        "payment_method": "1",
+        "transfers": "0"
+    },
+    {
+        "fare_id": "abs_ehc",
+        "price": "1.50",
+        "currency_type": "USD",
+        "payment_method": "1",
+        "transfers": "0"
+    },
+    {
+        "fare_id": "abs_ham",
+        "price": "3.75",
+        "currency_type": "USD",
+        "payment_method": "1",
+        "transfers": "0"
+    },
+    {
+        "fare_id": "abs_atc",
+        "price": "4.00",
+        "currency_type": "USD",
+        "payment_method": "1",
+        "transfers": "0"
+    },
+    {
+        "fare_id": "abs_lin",
+        "price": "4.00",
+        "currency_type": "USD",
+        "payment_method": "1",
+        "transfers": "0"
+    },
+    {
+        "fare_id": "abs_che",
+        "price": "6.00",
+        "currency_type": "USD",
+        "payment_method": "1",
+        "transfers": "0"
+    },
+    {
+        "fare_id": "abs_pen",
+        "price": "6.00",
+        "currency_type": "USD",
+        "payment_method": "1",
+        "transfers": "0"
+    },
+    {
+        "fare_id": "abs_phl",
+        "price": "9.50",
+        "currency_type": "USD",
+        "payment_method": "1",
+        "transfers": "0"
+    },
+    {
+        "fare_id": "ehc_ham",
+        "price": "2.25",
+        "currency_type": "USD",
+        "payment_method": "1",
+        "transfers": "0"
+    },
+    {
+        "fare_id": "ehc_atc",
+        "price": "3.50",
+        "currency_type": "USD",
+        "payment_method": "1",
+        "transfers": "0"
+    },
+    {
+        "fare_id": "ehc_lin",
+        "price": "4.00",
+        "currency_type": "USD",
+        "payment_method": "1",
+        "transfers": "0"
+    },
+    {
+        "fare_id": "ehc_che",
+        "price": "6.00",
+        "currency_type": "USD",
+        "payment_method": "1",
+        "transfers": "0"
+    },
+    {
+        "fare_id": "ehc_pen",
+        "price": "6.00",
+        "currency_type": "USD",
+        "payment_method": "1",
+        "transfers": "0"
+    },
+    {
+        "fare_id": "ehc_phl",
+        "price": "9.50",
+        "currency_type": "USD",
+        "payment_method": "1",
+        "transfers": "0"
+    },
+    {
+        "fare_id": "ham_atc",
+        "price": "1.50",
+        "currency_type": "USD",
+        "payment_method": "1",
+        "transfers": "0"
+    },
+    {
+        "fare_id": "ham_lin",
+        "price": "2.75",
+        "currency_type": "USD",
+        "payment_method": "1",
+        "transfers": "0"
+    },
+    {
+        "fare_id": "ham_che",
+        "price": "4.50",
+        "currency_type": "USD",
+        "payment_method": "1",
+        "transfers": "0"
+    },
+    {
+        "fare_id": "ham_pen",
+        "price": "4.50",
+        "currency_type": "USD",
+        "payment_method": "1",
+        "transfers": "0"
+    },
+    {
+        "fare_id": "ham_phl",
+        "price": "7.50",
+        "currency_type": "USD",
+        "payment_method": "1",
+        "transfers": "0"
+    },
+    {
+        "fare_id": "atc_lin",
+        "price": "1.50",
+        "currency_type": "USD",
+        "payment_method": "1",
+        "transfers": "0"
+    },
+    {
+        "fare_id": "atc_che",
+        "price": "3.25",
+        "currency_type": "USD",
+        "payment_method": "1",
+        "transfers": "0"
+    },
+    {
+        "fare_id": "atc_pen",
+        "price": "3.25",
+        "currency_type": "USD",
+        "payment_method": "1",
+        "transfers": "0"
+    },
+    {
+        "fare_id": "atc_phl",
+        "price": "6.50",
+        "currency_type": "USD",
+        "payment_method": "1",
+        "transfers": "0"
+    },
+    {
+        "fare_id": "lin_che",
+        "price": "2.00",
+        "currency_type": "USD",
+        "payment_method": "1",
+        "transfers": "0"
+    },
+    {
+        "fare_id": "lin_pen",
+        "price": "2.00",
+        "currency_type": "USD",
+        "payment_method": "1",
+        "transfers": "0"
+    },
+    {
+        "fare_id": "lin_phl",
+        "price": "5.00",
+        "currency_type": "USD",
+        "payment_method": "1",
+        "transfers": "0"
+    },
+    {
+        "fare_id": "che_pen",
+        "price": "1.50",
+        "currency_type": "USD",
+        "payment_method": "1",
+        "transfers": "0"
+    },
+    {
+        "fare_id": "che_phl",
+        "price": "4.00",
+        "currency_type": "USD",
+        "payment_method": "1",
+        "transfers": "0"
+    },
+    {
+        "fare_id": "pen_phl",
+        "price": "4.00",
+        "currency_type": "USD",
+        "payment_method": "1",
+        "transfers": "0"
+    }
+]
