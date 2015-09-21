@@ -5,4 +5,3 @@ service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,e
 4,0,0,0,0,0,1,1,20150904,20160904
 5,0,0,0,0,1,0,0,20150904,20150904
 6,1,0,0,0,0,0,0,20150907,20150907
-7,0,0,0,0,0,1,0,20151003,20151003
