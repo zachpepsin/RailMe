@@ -1,5 +1,5 @@
 {
-  "railDataVersion":"69dev",
+  "railDataVersion":"70dev",
   "minAppVersionCode":"24",
   
   "RailLines" : 
@@ -7,8 +7,8 @@
       {
         "name":"PATCO",
         "root":"patco",
-        "folder":"patco_20150924",
-        "version":"patco_20150924-3",
+        "folder":"patco_20151007",
+        "version":"patco_20151007-1",
         "type":"offline",
         "active":"yes",
         "alertMessage":"",
