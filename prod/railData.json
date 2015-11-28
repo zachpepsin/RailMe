@@ -11,8 +11,8 @@
         "version":"patco_20151022-1",
         "type":"offline",
         "active":"yes",
-        "alertMessage":"Special PATCO schedules that are not updated in RailMe are in effect from November 25-27.  More information is available at RidePATCO.org",
-        "alertLink":"http://www.RidePATCO.org"
+        "alertMessage":"",
+        "alertLink":""
       },
       {
         "name":"NJ Transit Rail",
