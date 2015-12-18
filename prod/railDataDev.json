@@ -37,8 +37,8 @@
       {
         "name":"SEPTA Regional Rail",
         "root":"septa",
-        "folder":"septa_20151111",
-        "version":"septa_20151111-1",
+        "folder":"septa_20151218",
+        "version":"septa_20151218-1",
         "type":"offline",
         "active":"yes",
         "alertMessage":"",
