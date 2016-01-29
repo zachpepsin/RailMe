@@ -11,7 +11,7 @@
         "version":"patco_20151230-1",
         "type":"offline",
         "active":"yes",
-        "alertMessage":"PATCO will is running a special schedule from 9am to 2pm on January 29th.  Press \"View\" to see the special schedule",
+        "alertMessage":"PATCO is running a special schedule from 9am to 2pm on January 29th.  Press \"View\" to see the special schedule.",
         "alertLink":"http://ridepatco.org/publish/library/PATCO_SpecialSchedule_01-26-16.pdf"
       },
       {
