@@ -11,8 +11,8 @@
         "version":"patco_20151230-1",
         "type":"offline",
         "active":"yes",
-        "alertMessage":"",
-        "alertLink":""
+        "alertMessage":"From Monday Feb 1st through Friday Feb 5th, PATCO is running a special schedule from 9:00am to 2:00pm that is not currently represented in RailMe.  Click \"View\" to view the special schedule.",
+        "alertLink":"http://ridepatco.org/publish/library/PATCO_SpecialSchedule_02-01-16.pdf"
       },
       {
         "name":"NJ Transit Rail",
