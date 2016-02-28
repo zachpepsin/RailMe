@@ -11,8 +11,8 @@
         "version":"patco_20151230-1",
         "type":"offline",
         "active":"yes",
-        "alertMessage":"On Saturday, February 27th, PATCO will be running a special schedule for WESTBOUND trains only from 6am to 6:30pm.  This special schedule is not reflected in RailMe.  Press \"View\" to view the schedule.",
-        "alertLink":"http://ridepatco.org/publish/library/PATCO_SpecialSchedule_Westbound_02-27-16.pdf"
+        "alertMessage":"On Saturday, February 28th, PATCO will be running a special schedule for EASTBOUND trains only from 7am to 5:30pm.  This special schedule is not reflected in RailMe.  Press \"View\" to view the schedule.",
+        "alertLink":"http://ridepatco.org/publish/library/PATCO_SpecialSchedule_Eastbound_02-28-16.pdf"
       },
       {
         "name":"NJ Transit Rail",
