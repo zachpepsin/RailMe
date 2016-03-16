@@ -12,7 +12,7 @@
         "type":"offline",
         "active":"yes",
         "alertMessage":"On Wednesday, March 16th from 9am to 2:45pm, PATCO is running a special schedule that is not reflected in RailMe.  Click \"View\" to view the schedule.",
-        "alertLink":""
+        "alertLink":"http://ridepatco.org/publish/library/PATCO_SpecialSchedule_03-16-16.pdf"
       },
       {
         "name":"NJ Transit Rail",
