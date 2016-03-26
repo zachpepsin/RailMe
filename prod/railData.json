@@ -11,8 +11,8 @@
         "version":"patco_20151230-1",
         "type":"offline",
         "active":"yes",
-        "alertMessage":"",
-        "alertLink":""
+        "alertMessage":"On Saturday, March 26th, from 7:15am to 6pm, PATCO is running a special schedule for WESTSBOUND trains only.  To view the schedule, click \"View\"",
+        "alertLink":"http://ridepatco.org/publish/library/PATCO_Westbound_03-26-16.pdf"
       },
       {
         "name":"NJ Transit Rail",
