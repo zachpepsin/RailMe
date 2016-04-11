@@ -1,5 +1,5 @@
 {
-  "railDataVersion":"20160111-1",
+  "railDataVersion":"20160411-1",
   "minAppVersionCode":"24",
   
   "RailLines" : 
@@ -7,8 +7,8 @@
       {
         "name":"PATCO",
         "root":"patco",
-        "folder":"patco_20151230",
-        "version":"patco_20151230-1",
+        "folder":"patco_20160409",
+        "version":"patco_20160409-1",
         "type":"offline",
         "active":"yes",
         "alertMessage":"",
@@ -37,8 +37,8 @@
       {
         "name":"SEPTA Regional Rail",
         "root":"septa",
-        "folder":"septa_20160111",
-        "version":"septa_20160111-1",
+        "folder":"septa_20160410",
+        "version":"septa_20160410-1",
         "type":"offline",
         "active":"yes",
         "alertMessage":"",
