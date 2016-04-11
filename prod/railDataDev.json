@@ -1,5 +1,5 @@
 {
-  "railDataVersion":"88dev",
+  "railDataVersion":"89dev",
   "minAppVersionCode":"24",
   
   "RailLines" : 
@@ -11,8 +11,8 @@
         "version":"patco_20151230-1",
         "type":"offline",
         "active":"yes",
-        "alertMessage":"A special schedule for PATCO is being used on Presidents Day (Monday, February 15th) that is not reflected in RailMe.  Click \"View\" to access the schedule.",
-        "alertLink":"http://ridepatco.org/publish/library/PATCO_PresidentsDay_2016-02-09.pdf"
+        "alertMessage":"",
+        "alertLink":""
       },
       {
         "name":"NJ Transit Rail",
