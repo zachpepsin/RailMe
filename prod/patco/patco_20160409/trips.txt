@@ -1,3520 +1,427 @@
-route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,shape_id,wheelchair_accessible,bikes_allowed
-2,1,1,Philadelphia,,0,,,1,1
-2,1,2,Philadelphia,,0,,,1,1
-2,1,3,Philadelphia,,0,,,1,1
-2,1,4,Philadelphia,,0,,,1,1
-2,1,5,Philadelphia,,0,,,1,1
-2,1,6,Philadelphia,,0,,,1,1
-2,1,7,Philadelphia,,0,,,1,1
-2,1,8,Philadelphia,,0,,,1,1
-2,1,9,Philadelphia,,0,,,1,1
-2,1,10,Philadelphia,,0,,,1,1
-2,1,11,Philadelphia,,0,,,1,1
-2,1,12,Philadelphia,,0,,,1,1
-2,1,13,Philadelphia,,0,,,1,1
-2,1,14,Philadelphia,,0,,,1,1
-2,1,15,Philadelphia,,0,,,1,1
-2,1,16,Philadelphia,,0,,,1,1
-2,1,17,Philadelphia,,0,,,1,1
-2,1,18,Philadelphia,,0,,,1,1
-2,1,19,Philadelphia,,0,,,1,1
-2,1,20,Philadelphia,,0,,,1,1
-2,1,21,Philadelphia,,0,,,1,1
-2,1,22,Philadelphia,,0,,,1,1
-2,1,23,Philadelphia,,0,,,1,1
-2,1,24,Philadelphia,,0,,,1,1
-2,1,25,Philadelphia,,0,,,1,1
-2,1,26,Philadelphia,,0,,,1,1
-2,1,27,Philadelphia,,0,,,1,1
-2,1,28,Philadelphia,,0,,,1,1
-2,1,29,Philadelphia,,0,,,1,1
-2,1,30,Philadelphia,,0,,,1,1
-2,1,31,Philadelphia,,0,,,1,1
-2,1,32,Philadelphia,,0,,,1,1
-2,1,33,Philadelphia,,0,,,1,1
-2,1,34,Philadelphia,,0,,,1,1
-2,1,35,Philadelphia,,0,,,1,1
-2,1,36,Philadelphia,,0,,,1,1
-2,1,37,Philadelphia,,0,,,1,1
-2,1,38,Philadelphia,,0,,,1,1
-2,1,39,Philadelphia,,0,,,1,1
-2,1,40,Philadelphia,,0,,,1,1
-2,1,41,Philadelphia,,0,,,1,1
-2,1,42,Philadelphia,,0,,,1,1
-2,1,43,Philadelphia,,0,,,1,1
-2,1,44,Philadelphia,,0,,,1,1
-1,1,45,Lindenwold,,0,,,1,1
-1,1,46,Lindenwold,,0,,,1,1
-1,1,47,Lindenwold,,0,,,1,1
-1,1,48,Lindenwold,,0,,,1,1
-1,1,49,Lindenwold,,0,,,1,1
-1,1,50,Lindenwold,,0,,,1,1
-1,1,51,Lindenwold,,0,,,1,1
-1,1,52,Lindenwold,,0,,,1,1
-1,1,53,Lindenwold,,0,,,1,1
-1,1,54,Lindenwold,,0,,,1,1
-1,1,55,Lindenwold,,0,,,1,1
-1,1,56,Lindenwold,,0,,,1,1
-1,1,57,Lindenwold,,0,,,1,1
-1,1,58,Lindenwold,,0,,,1,1
-1,1,59,Lindenwold,,0,,,1,1
-1,1,60,Lindenwold,,0,,,1,1
-1,1,61,Lindenwold,,0,,,1,1
-1,1,62,Lindenwold,,0,,,1,1
-1,1,63,Lindenwold,,0,,,1,1
-1,1,64,Lindenwold,,0,,,1,1
-1,1,65,Lindenwold,,0,,,1,1
-1,1,66,Lindenwold,,0,,,1,1
-1,1,67,Lindenwold,,0,,,1,1
-1,1,68,Lindenwold,,0,,,1,1
-1,1,69,Lindenwold,,0,,,1,1
-1,1,70,Lindenwold,,0,,,1,1
-1,1,71,Lindenwold,,0,,,1,1
-1,1,72,Lindenwold,,0,,,1,1
-1,1,73,Lindenwold,,0,,,1,1
-1,1,74,Lindenwold,,0,,,1,1
-1,1,75,Lindenwold,,0,,,1,1
-1,1,76,Lindenwold,,0,,,1,1
-1,1,77,Lindenwold,,0,,,1,1
-1,1,78,Lindenwold,,0,,,1,1
-1,1,79,Lindenwold,,0,,,1,1
-1,1,80,Lindenwold,,0,,,1,1
-1,1,81,Lindenwold,,0,,,1,1
-1,1,82,Lindenwold,,0,,,1,1
-1,1,83,Lindenwold,,0,,,1,1
-1,1,84,Lindenwold,,0,,,1,1
-1,1,85,Lindenwold,,0,,,1,1
-1,1,86,Lindenwold,,0,,,1,1
-1,1,87,Lindenwold,,0,,,1,1
-1,1,88,Lindenwold,,0,,,1,1
-1,1,89,Lindenwold,,0,,,1,1
-1,1,90,Lindenwold,,0,,,1,1
-2,1,91,Philadelphia,,0,,,1,1
-2,2,92,Philadelphia,,0,,,1,1
-2,2,93,Philadelphia,,0,,,1,1
-2,2,94,Philadelphia,,0,,,1,1
-2,2,95,Philadelphia,,0,,,1,1
-2,2,96,Philadelphia,,0,,,1,1
-2,2,97,Philadelphia,,0,,,1,1
-2,2,98,Philadelphia,,0,,,1,1
-2,2,99,Philadelphia,,0,,,1,1
-2,2,100,Philadelphia,,0,,,1,1
-2,2,101,Philadelphia,,0,,,1,1
-2,2,102,Philadelphia,,0,,,1,1
-2,2,103,Philadelphia,,0,,,1,1
-2,2,104,Philadelphia,,0,,,1,1
-2,2,105,Philadelphia,,0,,,1,1
-2,2,106,Philadelphia,,0,,,1,1
-2,2,107,Philadelphia,,0,,,1,1
-2,2,108,Philadelphia,,0,,,1,1
-2,2,109,Philadelphia,,0,,,1,1
-2,2,110,Philadelphia,,0,,,1,1
-2,2,111,Philadelphia,,0,,,1,1
-2,2,112,Philadelphia,,0,,,1,1
-2,2,113,Philadelphia,,0,,,1,1
-2,2,114,Philadelphia,,0,,,1,1
-2,2,115,Philadelphia,,0,,,1,1
-2,2,116,Philadelphia,,0,,,1,1
-2,2,117,Philadelphia,,0,,,1,1
-2,2,118,Philadelphia,,0,,,1,1
-2,2,119,Philadelphia,,0,,,1,1
-2,2,120,Philadelphia,,0,,,1,1
-2,2,121,Philadelphia,,0,,,1,1
-2,2,122,Philadelphia,,0,,,1,1
-2,2,123,Philadelphia,,0,,,1,1
-2,2,124,Philadelphia,,0,,,1,1
-2,2,125,Philadelphia,,0,,,1,1
-2,2,126,Philadelphia,,0,,,1,1
-2,2,127,Philadelphia,,0,,,1,1
-2,2,128,Philadelphia,,0,,,1,1
-2,2,129,Philadelphia,,0,,,1,1
-2,2,130,Philadelphia,,0,,,1,1
-2,2,131,Philadelphia,,0,,,1,1
-2,2,132,Philadelphia,,0,,,1,1
-2,2,133,Philadelphia,,0,,,1,1
-2,2,134,Philadelphia,,0,,,1,1
-2,2,135,Philadelphia,,0,,,1,1
-2,2,136,Philadelphia,,0,,,1,1
-2,2,137,Philadelphia,,0,,,1,1
-2,2,138,Philadelphia,,0,,,1,1
-2,2,139,Philadelphia,,0,,,1,1
-2,2,140,Philadelphia,,0,,,1,1
-2,2,141,Philadelphia,,0,,,1,1
-2,2,142,Philadelphia,,0,,,1,1
-2,2,143,Philadelphia,,0,,,1,1
-2,2,144,Philadelphia,,0,,,1,1
-2,2,145,Philadelphia,,0,,,1,1
-2,2,146,Philadelphia,,0,,,1,1
-2,2,147,Philadelphia,,0,,,1,1
-2,2,148,Philadelphia,,0,,,1,1
-2,2,149,Philadelphia,,0,,,1,1
-2,2,150,Philadelphia,,0,,,1,1
-2,2,151,Philadelphia,,0,,,1,1
-2,2,152,Philadelphia,,0,,,1,1
-2,2,153,Philadelphia,,0,,,1,1
-2,2,154,Philadelphia,,0,,,1,1
-2,2,155,Philadelphia,,0,,,1,1
-2,2,156,Philadelphia,,0,,,1,1
-2,2,157,Philadelphia,,0,,,1,1
-2,2,158,Philadelphia,,0,,,1,1
-2,2,159,Philadelphia,,0,,,1,1
-2,2,160,Philadelphia,,0,,,1,1
-2,2,161,Philadelphia,,0,,,1,1
-2,2,162,Philadelphia,,0,,,1,1
-2,2,163,Philadelphia,,0,,,1,1
-2,2,164,Philadelphia,,0,,,1,1
-2,2,165,Philadelphia,,0,,,1,1
-2,2,166,Philadelphia,,0,,,1,1
-2,2,167,Philadelphia,,0,,,1,1
-2,2,168,Philadelphia,,0,,,1,1
-2,2,169,Philadelphia,,0,,,1,1
-2,2,170,Philadelphia,,0,,,1,1
-2,2,171,Philadelphia,,0,,,1,1
-2,2,172,Philadelphia,,0,,,1,1
-2,2,173,Philadelphia,,0,,,1,1
-2,2,174,Philadelphia,,0,,,1,1
-2,2,175,Philadelphia,,0,,,1,1
-2,2,176,Philadelphia,,0,,,1,1
-1,2,177,Lindenwold,,0,,,1,1
-1,2,178,Lindenwold,,0,,,1,1
-1,2,179,Lindenwold,,0,,,1,1
-1,2,180,Lindenwold,,0,,,1,1
-1,2,181,Lindenwold,,0,,,1,1
-1,2,182,Lindenwold,,0,,,1,1
-1,2,183,Lindenwold,,0,,,1,1
-1,2,184,Lindenwold,,0,,,1,1
-1,2,185,Lindenwold,,0,,,1,1
-1,2,186,Lindenwold,,0,,,1,1
-1,2,187,Lindenwold,,0,,,1,1
-1,2,188,Lindenwold,,0,,,1,1
-1,2,189,Lindenwold,,0,,,1,1
-1,2,190,Lindenwold,,0,,,1,1
-1,2,191,Lindenwold,,0,,,1,1
-1,2,192,Lindenwold,,0,,,1,1
-1,2,193,Lindenwold,,0,,,1,1
-1,2,194,Lindenwold,,0,,,1,1
-1,2,195,Lindenwold,,0,,,1,1
-1,2,196,Lindenwold,,0,,,1,1
-1,2,197,Lindenwold,,0,,,1,1
-1,2,198,Lindenwold,,0,,,1,1
-1,2,199,Lindenwold,,0,,,1,1
-1,2,200,Lindenwold,,0,,,1,1
-1,2,201,Lindenwold,,0,,,1,1
-1,2,202,Lindenwold,,0,,,1,1
-1,2,203,Lindenwold,,0,,,1,1
-1,2,204,Lindenwold,,0,,,1,1
-1,2,205,Lindenwold,,0,,,1,1
-1,2,206,Lindenwold,,0,,,1,1
-1,2,207,Lindenwold,,0,,,1,1
-1,2,208,Lindenwold,,0,,,1,1
-1,2,209,Lindenwold,,0,,,1,1
-1,2,210,Lindenwold,,0,,,1,1
-1,2,211,Lindenwold,,0,,,1,1
-1,2,212,Lindenwold,,0,,,1,1
-1,2,213,Lindenwold,,0,,,1,1
-1,2,214,Lindenwold,,0,,,1,1
-1,2,215,Lindenwold,,0,,,1,1
-1,2,216,Lindenwold,,0,,,1,1
-1,2,217,Lindenwold,,0,,,1,1
-1,2,218,Lindenwold,,0,,,1,1
-1,2,219,Lindenwold,,0,,,1,1
-1,2,220,Lindenwold,,0,,,1,1
-1,2,221,Lindenwold,,0,,,1,1
-1,2,222,Lindenwold,,0,,,1,1
-1,2,223,Lindenwold,,0,,,1,1
-1,2,224,Lindenwold,,0,,,1,1
-1,2,225,Lindenwold,,0,,,1,1
-1,2,226,Lindenwold,,0,,,1,1
-1,2,227,Lindenwold,,0,,,1,1
-1,2,228,Lindenwold,,0,,,1,1
-1,2,229,Lindenwold,,0,,,1,1
-1,2,230,Lindenwold,,0,,,1,1
-1,2,231,Lindenwold,,0,,,1,1
-1,2,232,Lindenwold,,0,,,1,1
-1,2,233,Lindenwold,,0,,,1,1
-1,2,234,Lindenwold,,0,,,1,1
-1,2,235,Lindenwold,,0,,,1,1
-1,2,236,Lindenwold,,0,,,1,1
-1,2,237,Lindenwold,,0,,,1,1
-1,2,238,Lindenwold,,0,,,1,1
-1,2,239,Lindenwold,,0,,,1,1
-1,2,240,Lindenwold,,0,,,1,1
-1,2,241,Lindenwold,,0,,,1,1
-1,2,242,Lindenwold,,0,,,1,1
-1,2,243,Lindenwold,,0,,,1,1
-1,2,244,Lindenwold,,0,,,1,1
-1,2,245,Lindenwold,,0,,,1,1
-1,2,246,Lindenwold,,0,,,1,1
-1,2,247,Lindenwold,,0,,,1,1
-1,2,248,Lindenwold,,0,,,1,1
-1,2,249,Lindenwold,,0,,,1,1
-1,2,250,Lindenwold,,0,,,1,1
-1,2,251,Lindenwold,,0,,,1,1
-1,2,252,Lindenwold,,0,,,1,1
-1,2,253,Lindenwold,,0,,,1,1
-1,2,254,Lindenwold,,0,,,1,1
-1,2,255,Lindenwold,,0,,,1,1
-1,2,256,Lindenwold,,0,,,1,1
-1,2,257,Lindenwold,,0,,,1,1
-1,2,258,Lindenwold,,0,,,1,1
-1,2,259,Lindenwold,,0,,,1,1
-1,2,260,Lindenwold,,0,,,1,1
-1,2,261,Lindenwold,,0,,,1,1
-1,2,262,Lindenwold,,0,,,1,1
-1,2,263,Lindenwold,,0,,,1,1
-1,3,264,Lindenwold,,0,,,1,1
-1,3,265,Lindenwold,,0,,,1,1
-1,3,266,Lindenwold,,0,,,1,1
-1,3,267,Lindenwold,,0,,,1,1
-1,3,268,Lindenwold,,0,,,1,1
-1,3,269,Lindenwold,,0,,,1,1
-1,3,270,Lindenwold,,0,,,1,1
-1,3,271,Lindenwold,,0,,,1,1
-1,3,272,Lindenwold,,0,,,1,1
-1,3,273,Lindenwold,,0,,,1,1
-1,3,274,Lindenwold,,0,,,1,1
-1,3,275,Lindenwold,,0,,,1,1
-1,3,276,Lindenwold,,0,,,1,1
-1,3,277,Lindenwold,,0,,,1,1
-1,3,278,Lindenwold,,0,,,1,1
-1,3,279,Lindenwold,,0,,,1,1
-1,3,280,Lindenwold,,0,,,1,1
-1,3,281,Lindenwold,,0,,,1,1
-1,3,282,Lindenwold,,0,,,1,1
-1,3,283,Lindenwold,,0,,,1,1
-1,3,284,Lindenwold,,0,,,1,1
-1,3,285,Lindenwold,,0,,,1,1
-1,3,286,Lindenwold,,0,,,1,1
-1,3,287,Lindenwold,,0,,,1,1
-1,3,288,Lindenwold,,0,,,1,1
-1,3,289,Lindenwold,,0,,,1,1
-1,3,290,Lindenwold,,0,,,1,1
-1,3,291,Lindenwold,,0,,,1,1
-1,3,292,Lindenwold,,0,,,1,1
-1,3,293,Lindenwold,,0,,,1,1
-1,3,294,Lindenwold,,0,,,1,1
-1,3,295,Lindenwold,,0,,,1,1
-1,3,296,Lindenwold,,0,,,1,1
-1,3,297,Lindenwold,,0,,,1,1
-1,3,298,Lindenwold,,0,,,1,1
-1,3,299,Lindenwold,,0,,,1,1
-1,3,300,Lindenwold,,0,,,1,1
-1,3,301,Lindenwold,,0,,,1,1
-1,3,302,Lindenwold,,0,,,1,1
-1,3,303,Lindenwold,,0,,,1,1
-1,3,304,Lindenwold,,0,,,1,1
-1,3,305,Lindenwold,,0,,,1,1
-1,3,306,Lindenwold,,0,,,1,1
-1,3,307,Lindenwold,,0,,,1,1
-1,3,308,Lindenwold,,0,,,1,1
-1,3,309,Lindenwold,,0,,,1,1
-1,3,310,Lindenwold,,0,,,1,1
-1,3,311,Lindenwold,,0,,,1,1
-1,3,312,Lindenwold,,0,,,1,1
-1,3,313,Lindenwold,,0,,,1,1
-1,3,314,Lindenwold,,0,,,1,1
-1,3,315,Lindenwold,,0,,,1,1
-1,3,316,Lindenwold,,0,,,1,1
-1,3,317,Lindenwold,,0,,,1,1
-1,3,318,Lindenwold,,0,,,1,1
-1,3,319,Lindenwold,,0,,,1,1
-1,3,320,Lindenwold,,0,,,1,1
-1,3,321,Lindenwold,,0,,,1,1
-1,3,322,Lindenwold,,0,,,1,1
-1,3,323,Lindenwold,,0,,,1,1
-1,3,324,Lindenwold,,0,,,1,1
-1,3,325,Lindenwold,,0,,,1,1
-1,3,326,Lindenwold,,0,,,1,1
-1,3,327,Lindenwold,,0,,,1,1
-1,3,328,Lindenwold,,0,,,1,1
-1,3,329,Lindenwold,,0,,,1,1
-1,3,330,Lindenwold,,0,,,1,1
-1,3,331,Lindenwold,,0,,,1,1
-1,3,332,Lindenwold,,0,,,1,1
-1,3,333,Lindenwold,,0,,,1,1
-1,3,334,Lindenwold,,0,,,1,1
-1,3,335,Lindenwold,,0,,,1,1
-1,3,336,Lindenwold,,0,,,1,1
-1,3,337,Lindenwold,,0,,,1,1
-1,3,338,Lindenwold,,0,,,1,1
-1,3,339,Lindenwold,,0,,,1,1
-1,3,340,Lindenwold,,0,,,1,1
-1,3,341,Lindenwold,,0,,,1,1
-1,3,342,Lindenwold,,0,,,1,1
-1,3,343,Lindenwold,,0,,,1,1
-1,3,344,Lindenwold,,0,,,1,1
-1,3,345,Lindenwold,,0,,,1,1
-1,3,346,Lindenwold,,0,,,1,1
-1,3,347,Lindenwold,,0,,,1,1
-1,3,348,Lindenwold,,0,,,1,1
-1,3,349,Lindenwold,,0,,,1,1
-1,3,350,Lindenwold,,0,,,1,1
-2,3,351,Philadelphia,,0,,,1,1
-2,3,352,Philadelphia,,0,,,1,1
-2,3,353,Philadelphia,,0,,,1,1
-2,3,354,Philadelphia,,0,,,1,1
-2,3,355,Philadelphia,,0,,,1,1
-2,3,356,Philadelphia,,0,,,1,1
-2,3,357,Philadelphia,,0,,,1,1
-2,3,358,Philadelphia,,0,,,1,1
-2,3,359,Philadelphia,,0,,,1,1
-2,3,360,Philadelphia,,0,,,1,1
-2,3,361,Philadelphia,,0,,,1,1
-2,3,362,Philadelphia,,0,,,1,1
-2,3,363,Philadelphia,,0,,,1,1
-2,3,364,Philadelphia,,0,,,1,1
-2,3,365,Philadelphia,,0,,,1,1
-2,3,366,Philadelphia,,0,,,1,1
-2,3,367,Philadelphia,,0,,,1,1
-2,3,368,Philadelphia,,0,,,1,1
-2,3,369,Philadelphia,,0,,,1,1
-2,3,370,Philadelphia,,0,,,1,1
-2,3,371,Philadelphia,,0,,,1,1
-2,3,372,Philadelphia,,0,,,1,1
-2,3,373,Philadelphia,,0,,,1,1
-2,3,374,Philadelphia,,0,,,1,1
-2,3,375,Philadelphia,,0,,,1,1
-2,3,376,Philadelphia,,0,,,1,1
-2,3,377,Philadelphia,,0,,,1,1
-2,3,378,Philadelphia,,0,,,1,1
-2,3,379,Philadelphia,,0,,,1,1
-2,3,380,Philadelphia,,0,,,1,1
-2,3,381,Philadelphia,,0,,,1,1
-2,3,382,Philadelphia,,0,,,1,1
-2,3,383,Philadelphia,,0,,,1,1
-2,3,384,Philadelphia,,0,,,1,1
-2,3,385,Philadelphia,,0,,,1,1
-2,3,386,Philadelphia,,0,,,1,1
-2,3,387,Philadelphia,,0,,,1,1
-2,3,388,Philadelphia,,0,,,1,1
-2,3,389,Philadelphia,,0,,,1,1
-2,3,390,Philadelphia,,0,,,1,1
-2,3,391,Philadelphia,,0,,,1,1
-2,3,392,Philadelphia,,0,,,1,1
-2,3,393,Philadelphia,,0,,,1,1
-2,3,394,Philadelphia,,0,,,1,1
-2,3,395,Philadelphia,,0,,,1,1
-2,3,396,Philadelphia,,0,,,1,1
-2,3,397,Philadelphia,,0,,,1,1
-2,3,398,Philadelphia,,0,,,1,1
-2,3,399,Philadelphia,,0,,,1,1
-2,3,400,Philadelphia,,0,,,1,1
-2,3,401,Philadelphia,,0,,,1,1
-2,3,402,Philadelphia,,0,,,1,1
-2,3,403,Philadelphia,,0,,,1,1
-2,3,404,Philadelphia,,0,,,1,1
-2,3,405,Philadelphia,,0,,,1,1
-2,3,406,Philadelphia,,0,,,1,1
-2,3,407,Philadelphia,,0,,,1,1
-2,3,408,Philadelphia,,0,,,1,1
-2,3,409,Philadelphia,,0,,,1,1
-2,3,410,Philadelphia,,0,,,1,1
-2,3,411,Philadelphia,,0,,,1,1
-2,3,412,Philadelphia,,0,,,1,1
-2,3,413,Philadelphia,,0,,,1,1
-2,3,414,Philadelphia,,0,,,1,1
-2,3,415,Philadelphia,,0,,,1,1
-2,3,416,Philadelphia,,0,,,1,1
-2,3,417,Philadelphia,,0,,,1,1
-2,3,418,Philadelphia,,0,,,1,1
-2,3,419,Philadelphia,,0,,,1,1
-2,3,420,Philadelphia,,0,,,1,1
-2,3,421,Philadelphia,,0,,,1,1
-2,3,422,Philadelphia,,0,,,1,1
-2,3,423,Philadelphia,,0,,,1,1
-2,3,424,Philadelphia,,0,,,1,1
-2,3,425,Philadelphia,,0,,,1,1
-2,3,426,Philadelphia,,0,,,1,1
-2,3,427,Philadelphia,,0,,,1,1
-2,3,428,Philadelphia,,0,,,1,1
-2,3,429,Philadelphia,,0,,,1,1
-2,3,430,Philadelphia,,0,,,1,1
-2,3,431,Philadelphia,,0,,,1,1
-2,3,432,Philadelphia,,0,,,1,1
-2,3,433,Philadelphia,,0,,,1,1
-2,3,434,Philadelphia,,0,,,1,1
-2,3,435,Philadelphia,,0,,,1,1
-1,5,436,Lindenwold,,0,,,1,1
-1,5,437,Lindenwold,,0,,,1,1
-1,5,438,Lindenwold,,0,,,1,1
-1,5,439,Lindenwold,,0,,,1,1
-1,5,440,Lindenwold,,0,,,1,1
-1,5,441,Lindenwold,,0,,,1,1
-1,5,442,Lindenwold,,0,,,1,1
-1,5,443,Lindenwold,,0,,,1,1
-1,5,444,Lindenwold,,0,,,1,1
-1,5,445,Lindenwold,,0,,,1,1
-1,5,446,Lindenwold,,0,,,1,1
-1,5,447,Lindenwold,,0,,,1,1
-1,5,448,Lindenwold,,0,,,1,1
-1,5,449,Lindenwold,,0,,,1,1
-1,5,450,Lindenwold,,0,,,1,1
-1,5,451,Lindenwold,,0,,,1,1
-1,5,452,Lindenwold,,0,,,1,1
-1,5,453,Lindenwold,,0,,,1,1
-1,5,454,Lindenwold,,0,,,1,1
-1,5,455,Lindenwold,,0,,,1,1
-1,5,456,Lindenwold,,0,,,1,1
-1,5,457,Lindenwold,,0,,,1,1
-1,5,458,Lindenwold,,0,,,1,1
-1,5,459,Lindenwold,,0,,,1,1
-1,5,460,Lindenwold,,0,,,1,1
-1,5,461,Lindenwold,,0,,,1,1
-1,5,462,Lindenwold,,0,,,1,1
-1,5,463,Lindenwold,,0,,,1,1
-1,5,464,Lindenwold,,0,,,1,1
-1,5,465,Lindenwold,,0,,,1,1
-1,5,466,Lindenwold,,0,,,1,1
-1,5,467,Lindenwold,,0,,,1,1
-1,5,468,Lindenwold,,0,,,1,1
-1,5,469,Lindenwold,,0,,,1,1
-1,5,470,Lindenwold,,0,,,1,1
-1,5,471,Lindenwold,,0,,,1,1
-1,5,472,Lindenwold,,0,,,1,1
-1,5,473,Lindenwold,,0,,,1,1
-1,5,474,Lindenwold,,0,,,1,1
-1,5,475,Lindenwold,,0,,,1,1
-1,5,476,Lindenwold,,0,,,1,1
-1,5,477,Lindenwold,,0,,,1,1
-1,5,478,Lindenwold,,0,,,1,1
-1,5,479,Lindenwold,,0,,,1,1
-1,5,480,Lindenwold,,0,,,1,1
-1,5,481,Lindenwold,,0,,,1,1
-1,5,482,Lindenwold,,0,,,1,1
-1,5,483,Lindenwold,,0,,,1,1
-1,5,484,Lindenwold,,0,,,1,1
-1,5,485,Lindenwold,,0,,,1,1
-1,5,486,Lindenwold,,0,,,1,1
-1,5,487,Lindenwold,,0,,,1,1
-1,5,488,Lindenwold,,0,,,1,1
-1,5,489,Lindenwold,,0,,,1,1
-1,5,490,Lindenwold,,0,,,1,1
-1,5,491,Lindenwold,,0,,,1,1
-1,5,492,Lindenwold,,0,,,1,1
-1,5,493,Lindenwold,,0,,,1,1
-1,5,494,Lindenwold,,0,,,1,1
-1,5,495,Lindenwold,,0,,,1,1
-1,5,496,Lindenwold,,0,,,1,1
-1,5,497,Lindenwold,,0,,,1,1
-1,5,498,Lindenwold,,0,,,1,1
-1,5,499,Lindenwold,,0,,,1,1
-1,5,500,Lindenwold,,0,,,1,1
-1,5,501,Lindenwold,,0,,,1,1
-1,5,502,Lindenwold,,0,,,1,1
-1,5,503,Lindenwold,,0,,,1,1
-1,5,504,Lindenwold,,0,,,1,1
-1,5,505,Lindenwold,,0,,,1,1
-1,5,506,Lindenwold,,0,,,1,1
-1,5,507,Lindenwold,,0,,,1,1
-1,5,508,Lindenwold,,0,,,1,1
-1,5,509,Lindenwold,,0,,,1,1
-1,5,510,Lindenwold,,0,,,1,1
-1,5,511,Lindenwold,,0,,,1,1
-1,5,512,Lindenwold,,0,,,1,1
-1,5,513,Lindenwold,,0,,,1,1
-1,5,514,Lindenwold,,0,,,1,1
-1,5,515,Lindenwold,,0,,,1,1
-1,5,516,Lindenwold,,0,,,1,1
-1,5,517,Lindenwold,,0,,,1,1
-1,5,518,Lindenwold,,0,,,1,1
-1,5,519,Lindenwold,,0,,,1,1
-1,5,520,Lindenwold,,0,,,1,1
-1,5,521,Lindenwold,,0,,,1,1
-1,5,522,Lindenwold,,0,,,1,1
-1,5,523,Lindenwold,,0,,,1,1
-1,5,524,Lindenwold,,0,,,1,1
-1,5,525,Lindenwold,,0,,,1,1
-1,5,526,Lindenwold,,0,,,1,1
-1,5,527,Lindenwold,,0,,,1,1
-1,5,528,Lindenwold,,0,,,1,1
-1,5,529,Lindenwold,,0,,,1,1
-1,5,530,Lindenwold,,0,,,1,1
-1,5,531,Lindenwold,,0,,,1,1
-1,5,532,Lindenwold,,0,,,1,1
-1,5,533,Lindenwold,,0,,,1,1
-1,5,534,Lindenwold,,0,,,1,1
-2,5,535,Philadelphia,,0,,,1,1
-2,5,536,Philadelphia,,0,,,1,1
-2,5,537,Philadelphia,,0,,,1,1
-2,5,538,Philadelphia,,0,,,1,1
-2,5,539,Philadelphia,,0,,,1,1
-2,5,540,Philadelphia,,0,,,1,1
-2,5,541,Philadelphia,,0,,,1,1
-2,5,542,Philadelphia,,0,,,1,1
-2,5,543,Philadelphia,,0,,,1,1
-2,5,544,Philadelphia,,0,,,1,1
-2,5,545,Philadelphia,,0,,,1,1
-2,5,546,Philadelphia,,0,,,1,1
-2,5,547,Philadelphia,,0,,,1,1
-2,5,548,Philadelphia,,0,,,1,1
-2,5,549,Philadelphia,,0,,,1,1
-2,5,550,Philadelphia,,0,,,1,1
-2,5,551,Philadelphia,,0,,,1,1
-2,5,552,Philadelphia,,0,,,1,1
-2,5,553,Philadelphia,,0,,,1,1
-2,5,554,Philadelphia,,0,,,1,1
-2,5,555,Philadelphia,,0,,,1,1
-2,5,556,Philadelphia,,0,,,1,1
-2,5,557,Philadelphia,,0,,,1,1
-2,5,558,Philadelphia,,0,,,1,1
-2,5,559,Philadelphia,,0,,,1,1
-2,5,560,Philadelphia,,0,,,1,1
-2,5,561,Philadelphia,,0,,,1,1
-2,5,562,Philadelphia,,0,,,1,1
-2,5,563,Philadelphia,,0,,,1,1
-2,5,564,Philadelphia,,0,,,1,1
-2,5,565,Philadelphia,,0,,,1,1
-2,5,566,Philadelphia,,0,,,1,1
-2,5,567,Philadelphia,,0,,,1,1
-2,5,568,Philadelphia,,0,,,1,1
-2,5,569,Philadelphia,,0,,,1,1
-2,5,570,Philadelphia,,0,,,1,1
-2,5,571,Philadelphia,,0,,,1,1
-2,5,572,Philadelphia,,0,,,1,1
-2,5,573,Philadelphia,,0,,,1,1
-2,5,574,Philadelphia,,0,,,1,1
-2,5,575,Philadelphia,,0,,,1,1
-2,5,576,Philadelphia,,0,,,1,1
-2,5,577,Philadelphia,,0,,,1,1
-2,5,578,Philadelphia,,0,,,1,1
-2,5,579,Philadelphia,,0,,,1,1
-2,5,580,Philadelphia,,0,,,1,1
-2,5,581,Philadelphia,,0,,,1,1
-2,5,582,Philadelphia,,0,,,1,1
-2,5,583,Philadelphia,,0,,,1,1
-2,5,584,Philadelphia,,0,,,1,1
-2,5,585,Philadelphia,,0,,,1,1
-2,5,586,Philadelphia,,0,,,1,1
-2,5,587,Philadelphia,,0,,,1,1
-2,5,588,Philadelphia,,0,,,1,1
-2,5,589,Philadelphia,,0,,,1,1
-2,5,590,Philadelphia,,0,,,1,1
-2,5,591,Philadelphia,,0,,,1,1
-2,5,592,Philadelphia,,0,,,1,1
-2,5,593,Philadelphia,,0,,,1,1
-2,5,594,Philadelphia,,0,,,1,1
-2,5,595,Philadelphia,,0,,,1,1
-2,5,596,Philadelphia,,0,,,1,1
-2,5,597,Philadelphia,,0,,,1,1
-2,5,598,Philadelphia,,0,,,1,1
-2,5,599,Philadelphia,,0,,,1,1
-2,5,600,Philadelphia,,0,,,1,1
-2,5,601,Philadelphia,,0,,,1,1
-2,5,602,Philadelphia,,0,,,1,1
-2,5,603,Philadelphia,,0,,,1,1
-2,5,604,Philadelphia,,0,,,1,1
-2,5,605,Philadelphia,,0,,,1,1
-2,5,606,Philadelphia,,0,,,1,1
-2,5,607,Philadelphia,,0,,,1,1
-2,5,608,Philadelphia,,0,,,1,1
-2,5,609,Philadelphia,,0,,,1,1
-2,5,610,Philadelphia,,0,,,1,1
-2,5,611,Philadelphia,,0,,,1,1
-2,5,612,Philadelphia,,0,,,1,1
-2,5,613,Philadelphia,,0,,,1,1
-2,5,614,Philadelphia,,0,,,1,1
-2,5,615,Philadelphia,,0,,,1,1
-2,5,616,Philadelphia,,0,,,1,1
-2,5,617,Philadelphia,,0,,,1,1
-2,5,618,Philadelphia,,0,,,1,1
-2,5,619,Philadelphia,,0,,,1,1
-2,5,620,Philadelphia,,0,,,1,1
-2,5,621,Philadelphia,,0,,,1,1
-2,5,622,Philadelphia,,0,,,1,1
-2,5,623,Philadelphia,,0,,,1,1
-2,5,624,Philadelphia,,0,,,1,1
-2,5,625,Philadelphia,,0,,,1,1
-2,5,626,Philadelphia,,0,,,1,1
-2,5,627,Philadelphia,,0,,,1,1
-2,5,628,Philadelphia,,0,,,1,1
-2,5,629,Philadelphia,,0,,,1,1
-2,5,630,Philadelphia,,0,,,1,1
-2,5,631,Philadelphia,,0,,,1,1
-2,5,632,Philadelphia,,0,,,1,1
-2,5,633,Philadelphia,,0,,,1,1
-2,5,634,Philadelphia,,0,,,1,1
-2,5,635,Philadelphia,,0,,,1,1
-2,5,636,Philadelphia,,0,,,1,1
-2,5,637,Philadelphia,,0,,,1,1
-1,6,638,Lindenwold,,0,,,1,1
-1,6,639,Lindenwold,,0,,,1,1
-1,6,640,Lindenwold,,0,,,1,1
-1,6,641,Lindenwold,,0,,,1,1
-1,6,642,Lindenwold,,0,,,1,1
-1,6,643,Lindenwold,,0,,,1,1
-1,6,644,Lindenwold,,0,,,1,1
-1,6,645,Lindenwold,,0,,,1,1
-1,6,646,Lindenwold,,0,,,1,1
-1,6,647,Lindenwold,,0,,,1,1
-1,6,648,Lindenwold,,0,,,1,1
-1,6,649,Lindenwold,,0,,,1,1
-1,6,650,Lindenwold,,0,,,1,1
-1,6,651,Lindenwold,,0,,,1,1
-1,6,652,Lindenwold,,0,,,1,1
-1,6,653,Lindenwold,,0,,,1,1
-1,6,654,Lindenwold,,0,,,1,1
-1,6,655,Lindenwold,,0,,,1,1
-1,6,656,Lindenwold,,0,,,1,1
-1,6,657,Lindenwold,,0,,,1,1
-1,6,658,Lindenwold,,0,,,1,1
-1,6,659,Lindenwold,,0,,,1,1
-1,6,660,Lindenwold,,0,,,1,1
-1,6,661,Lindenwold,,0,,,1,1
-1,6,662,Lindenwold,,0,,,1,1
-1,6,663,Lindenwold,,0,,,1,1
-1,6,664,Lindenwold,,0,,,1,1
-1,6,665,Lindenwold,,0,,,1,1
-1,6,666,Lindenwold,,0,,,1,1
-1,6,667,Lindenwold,,0,,,1,1
-1,6,668,Lindenwold,,0,,,1,1
-1,6,669,Lindenwold,,0,,,1,1
-1,6,670,Lindenwold,,0,,,1,1
-1,6,671,Lindenwold,,0,,,1,1
-1,6,672,Lindenwold,,0,,,1,1
-1,6,673,Lindenwold,,0,,,1,1
-1,6,674,Lindenwold,,0,,,1,1
-1,6,675,Lindenwold,,0,,,1,1
-1,6,676,Lindenwold,,0,,,1,1
-1,6,677,Lindenwold,,0,,,1,1
-1,6,678,Lindenwold,,0,,,1,1
-1,6,679,Lindenwold,,0,,,1,1
-1,6,680,Lindenwold,,0,,,1,1
-1,6,681,Lindenwold,,0,,,1,1
-1,6,682,Lindenwold,,0,,,1,1
-1,6,683,Lindenwold,,0,,,1,1
-2,6,684,Philadelphia,,0,,,1,1
-2,6,685,Philadelphia,,0,,,1,1
-2,6,686,Philadelphia,,0,,,1,1
-2,6,687,Philadelphia,,0,,,1,1
-2,6,688,Philadelphia,,0,,,1,1
-2,6,689,Philadelphia,,0,,,1,1
-2,6,690,Philadelphia,,0,,,1,1
-2,6,691,Philadelphia,,0,,,1,1
-2,6,692,Philadelphia,,0,,,1,1
-2,6,693,Philadelphia,,0,,,1,1
-2,6,694,Philadelphia,,0,,,1,1
-2,6,695,Philadelphia,,0,,,1,1
-2,6,696,Philadelphia,,0,,,1,1
-2,6,697,Philadelphia,,0,,,1,1
-2,6,698,Philadelphia,,0,,,1,1
-2,6,699,Philadelphia,,0,,,1,1
-2,6,700,Philadelphia,,0,,,1,1
-2,6,701,Philadelphia,,0,,,1,1
-2,6,702,Philadelphia,,0,,,1,1
-2,6,703,Philadelphia,,0,,,1,1
-2,6,704,Philadelphia,,0,,,1,1
-2,6,705,Philadelphia,,0,,,1,1
-2,6,706,Philadelphia,,0,,,1,1
-2,6,707,Philadelphia,,0,,,1,1
-2,6,708,Philadelphia,,0,,,1,1
-2,6,709,Philadelphia,,0,,,1,1
-2,6,710,Philadelphia,,0,,,1,1
-2,6,711,Philadelphia,,0,,,1,1
-2,6,712,Philadelphia,,0,,,1,1
-2,6,713,Philadelphia,,0,,,1,1
-2,6,714,Philadelphia,,0,,,1,1
-2,6,715,Philadelphia,,0,,,1,1
-2,6,716,Philadelphia,,0,,,1,1
-2,6,717,Philadelphia,,0,,,1,1
-2,6,718,Philadelphia,,0,,,1,1
-2,6,719,Philadelphia,,0,,,1,1
-2,6,720,Philadelphia,,0,,,1,1
-2,6,721,Philadelphia,,0,,,1,1
-2,6,722,Philadelphia,,0,,,1,1
-2,6,723,Philadelphia,,0,,,1,1
-2,6,724,Philadelphia,,0,,,1,1
-2,6,725,Philadelphia,,0,,,1,1
-2,6,726,Philadelphia,,0,,,1,1
-2,6,727,Philadelphia,,0,,,1,1
-2,6,728,Philadelphia,,0,,,1,1
-1,4,729,Lindenwold,,0,,,1,1
-1,4,730,Lindenwold,,0,,,1,1
-1,4,731,Lindenwold,,0,,,1,1
-1,4,732,Lindenwold,,0,,,1,1
-1,4,733,Lindenwold,,0,,,1,1
-1,4,734,Lindenwold,,0,,,1,1
-1,4,735,Lindenwold,,0,,,1,1
-1,4,736,Lindenwold,,0,,,1,1
-1,4,737,Lindenwold,,0,,,1,1
-1,4,738,Lindenwold,,0,,,1,1
-1,4,739,Lindenwold,,0,,,1,1
-1,4,740,Lindenwold,,0,,,1,1
-1,4,741,Lindenwold,,0,,,1,1
-1,4,742,Lindenwold,,0,,,1,1
-1,4,743,Lindenwold,,0,,,1,1
-1,4,744,Lindenwold,,0,,,1,1
-1,4,745,Lindenwold,,0,,,1,1
-1,4,746,Lindenwold,,0,,,1,1
-1,4,747,Lindenwold,,0,,,1,1
-1,4,748,Lindenwold,,0,,,1,1
-1,4,749,Lindenwold,,0,,,1,1
-1,4,750,Lindenwold,,0,,,1,1
-1,4,751,Lindenwold,,0,,,1,1
-1,4,752,Lindenwold,,0,,,1,1
-1,4,753,Lindenwold,,0,,,1,1
-1,4,754,Lindenwold,,0,,,1,1
-1,4,755,Lindenwold,,0,,,1,1
-1,4,756,Lindenwold,,0,,,1,1
-1,4,757,Lindenwold,,0,,,1,1
-1,4,758,Lindenwold,,0,,,1,1
-1,4,759,Lindenwold,,0,,,1,1
-1,4,760,Lindenwold,,0,,,1,1
-1,4,761,Lindenwold,,0,,,1,1
-1,4,762,Lindenwold,,0,,,1,1
-1,4,763,Lindenwold,,0,,,1,1
-1,4,764,Lindenwold,,0,,,1,1
-1,4,765,Lindenwold,,0,,,1,1
-1,4,766,Lindenwold,,0,,,1,1
-1,4,767,Lindenwold,,0,,,1,1
-1,4,768,Lindenwold,,0,,,1,1
-1,4,769,Lindenwold,,0,,,1,1
-1,4,770,Lindenwold,,0,,,1,1
-1,4,771,Lindenwold,,0,,,1,1
-1,4,772,Lindenwold,,0,,,1,1
-1,4,773,Lindenwold,,0,,,1,1
-1,4,774,Lindenwold,,0,,,1,1
-1,4,775,Lindenwold,,0,,,1,1
-1,4,776,Lindenwold,,0,,,1,1
-1,4,777,Lindenwold,,0,,,1,1
-1,4,778,Lindenwold,,0,,,1,1
-1,4,779,Lindenwold,,0,,,1,1
-1,4,780,Lindenwold,,0,,,1,1
-1,4,781,Lindenwold,,0,,,1,1
-1,4,782,Lindenwold,,0,,,1,1
-1,4,783,Lindenwold,,0,,,1,1
-1,4,784,Lindenwold,,0,,,1,1
-1,4,785,Lindenwold,,0,,,1,1
-1,4,786,Lindenwold,,0,,,1,1
-1,4,787,Lindenwold,,0,,,1,1
-1,4,788,Lindenwold,,0,,,1,1
-1,4,789,Lindenwold,,0,,,1,1
-1,4,790,Lindenwold,,0,,,1,1
-1,4,791,Lindenwold,,0,,,1,1
-1,4,792,Lindenwold,,0,,,1,1
-1,4,793,Lindenwold,,0,,,1,1
-1,4,794,Lindenwold,,0,,,1,1
-1,4,795,Lindenwold,,0,,,1,1
-1,4,796,Lindenwold,,0,,,1,1
-1,4,797,Lindenwold,,0,,,1,1
-1,4,798,Lindenwold,,0,,,1,1
-1,4,799,Lindenwold,,0,,,1,1
-1,4,800,Lindenwold,,0,,,1,1
-1,4,801,Lindenwold,,0,,,1,1
-1,4,802,Lindenwold,,0,,,1,1
-1,4,803,Lindenwold,,0,,,1,1
-1,4,804,Lindenwold,,0,,,1,1
-1,4,805,Lindenwold,,0,,,1,1
-1,4,806,Lindenwold,,0,,,1,1
-1,4,807,Lindenwold,,0,,,1,1
-1,4,808,Lindenwold,,0,,,1,1
-1,4,809,Lindenwold,,0,,,1,1
-1,4,810,Lindenwold,,0,,,1,1
-1,4,811,Lindenwold,,0,,,1,1
-1,4,812,Lindenwold,,0,,,1,1
-1,4,813,Lindenwold,,0,,,1,1
-1,4,814,Lindenwold,,0,,,1,1
-1,4,815,Lindenwold,,0,,,1,1
-1,4,816,Lindenwold,,0,,,1,1
-1,4,817,Lindenwold,,0,,,1,1
-1,4,818,Lindenwold,,0,,,1,1
-1,4,819,Lindenwold,,0,,,1,1
-1,4,820,Lindenwold,,0,,,1,1
-1,4,821,Lindenwold,,0,,,1,1
-2,4,822,Philadelphia,,0,,,1,1
-2,4,823,Philadelphia,,0,,,1,1
-2,4,824,Philadelphia,,0,,,1,1
-2,4,825,Philadelphia,,0,,,1,1
-2,4,826,Philadelphia,,0,,,1,1
-2,4,827,Philadelphia,,0,,,1,1
-2,4,828,Philadelphia,,0,,,1,1
-2,4,829,Philadelphia,,0,,,1,1
-2,4,830,Philadelphia,,0,,,1,1
-2,4,831,Philadelphia,,0,,,1,1
-2,4,832,Philadelphia,,0,,,1,1
-2,4,833,Philadelphia,,0,,,1,1
-2,4,834,Philadelphia,,0,,,1,1
-2,4,835,Philadelphia,,0,,,1,1
-2,4,836,Philadelphia,,0,,,1,1
-2,4,837,Philadelphia,,0,,,1,1
-2,4,838,Philadelphia,,0,,,1,1
-2,4,839,Philadelphia,,0,,,1,1
-2,4,840,Philadelphia,,0,,,1,1
-2,4,841,Philadelphia,,0,,,1,1
-2,4,842,Philadelphia,,0,,,1,1
-2,4,843,Philadelphia,,0,,,1,1
-2,4,844,Philadelphia,,0,,,1,1
-2,4,845,Philadelphia,,0,,,1,1
-2,4,846,Philadelphia,,0,,,1,1
-2,4,847,Philadelphia,,0,,,1,1
-2,4,848,Philadelphia,,0,,,1,1
-2,4,849,Philadelphia,,0,,,1,1
-2,4,850,Philadelphia,,0,,,1,1
-2,4,851,Philadelphia,,0,,,1,1
-2,4,852,Philadelphia,,0,,,1,1
-2,4,853,Philadelphia,,0,,,1,1
-2,4,854,Philadelphia,,0,,,1,1
-2,4,855,Philadelphia,,0,,,1,1
-2,4,856,Philadelphia,,0,,,1,1
-2,4,857,Philadelphia,,0,,,1,1
-2,4,858,Philadelphia,,0,,,1,1
-2,4,859,Philadelphia,,0,,,1,1
-2,4,860,Philadelphia,,0,,,1,1
-2,4,861,Philadelphia,,0,,,1,1
-2,4,862,Philadelphia,,0,,,1,1
-2,4,863,Philadelphia,,0,,,1,1
-2,4,864,Philadelphia,,0,,,1,1
-2,4,865,Philadelphia,,0,,,1,1
-2,4,866,Philadelphia,,0,,,1,1
-2,4,867,Philadelphia,,0,,,1,1
-2,4,868,Philadelphia,,0,,,1,1
-2,4,869,Philadelphia,,0,,,1,1
-2,4,870,Philadelphia,,0,,,1,1
-2,4,871,Philadelphia,,0,,,1,1
-2,4,872,Philadelphia,,0,,,1,1
-2,4,873,Philadelphia,,0,,,1,1
-2,4,874,Philadelphia,,0,,,1,1
-2,4,875,Philadelphia,,0,,,1,1
-2,4,876,Philadelphia,,0,,,1,1
-2,4,877,Philadelphia,,0,,,1,1
-2,4,878,Philadelphia,,0,,,1,1
-2,4,879,Philadelphia,,0,,,1,1
-2,4,880,Philadelphia,,0,,,1,1
-2,4,881,Philadelphia,,0,,,1,1
-2,4,882,Philadelphia,,0,,,1,1
-2,4,883,Philadelphia,,0,,,1,1
-2,4,884,Philadelphia,,0,,,1,1
-2,4,885,Philadelphia,,0,,,1,1
-2,4,886,Philadelphia,,0,,,1,1
-2,4,887,Philadelphia,,0,,,1,1
-2,4,888,Philadelphia,,0,,,1,1
-2,4,889,Philadelphia,,0,,,1,1
-2,4,890,Philadelphia,,0,,,1,1
-2,4,891,Philadelphia,,0,,,1,1
-2,4,892,Philadelphia,,0,,,1,1
-2,4,893,Philadelphia,,0,,,1,1
-2,4,894,Philadelphia,,0,,,1,1
-2,4,895,Philadelphia,,0,,,1,1
-2,4,896,Philadelphia,,0,,,1,1
-2,4,897,Philadelphia,,0,,,1,1
-2,4,898,Philadelphia,,0,,,1,1
-2,4,899,Philadelphia,,0,,,1,1
-2,4,900,Philadelphia,,0,,,1,1
-2,4,901,Philadelphia,,0,,,1,1
-2,4,902,Philadelphia,,0,,,1,1
-2,4,903,Philadelphia,,0,,,1,1
-2,4,904,Philadelphia,,0,,,1,1
-2,4,905,Philadelphia,,0,,,1,1
-2,4,906,Philadelphia,,0,,,1,1
-2,4,907,Philadelphia,,0,,,1,1
-2,4,908,Philadelphia,,0,,,1,1
-2,4,909,Philadelphia,,0,,,1,1
-2,4,910,Philadelphia,,0,,,1,1
-2,4,911,Philadelphia,,0,,,1,1
-2,4,912,Philadelphia,,0,,,1,1
-2,4,913,Philadelphia,,0,,,1,1
-2,4,914,Philadelphia,,0,,,1,1
-2,4,915,Philadelphia,,0,,,1,1
-2,7,916,Philadelphia,,0,,,1,1
-2,7,917,Philadelphia,,0,,,1,1
-2,7,918,Philadelphia,,0,,,1,1
-2,7,919,Philadelphia,,0,,,1,1
-2,7,920,Philadelphia,,0,,,1,1
-2,7,921,Philadelphia,,0,,,1,1
-2,7,922,Philadelphia,,0,,,1,1
-2,7,923,Philadelphia,,0,,,1,1
-2,7,924,Philadelphia,,0,,,1,1
-2,7,925,Philadelphia,,0,,,1,1
-2,7,926,Philadelphia,,0,,,1,1
-2,7,927,Philadelphia,,0,,,1,1
-2,7,928,Philadelphia,,0,,,1,1
-2,7,929,Philadelphia,,0,,,1,1
-2,7,930,Philadelphia,,0,,,1,1
-2,7,931,Philadelphia,,0,,,1,1
-2,7,932,Philadelphia,,0,,,1,1
-2,7,933,Philadelphia,,0,,,1,1
-2,7,934,Philadelphia,,0,,,1,1
-2,7,935,Philadelphia,,0,,,1,1
-2,7,936,Philadelphia,,0,,,1,1
-2,7,937,Philadelphia,,0,,,1,1
-2,7,938,Philadelphia,,0,,,1,1
-2,7,939,Philadelphia,,0,,,1,1
-2,7,940,Philadelphia,,0,,,1,1
-2,7,941,Philadelphia,,0,,,1,1
-2,7,942,Philadelphia,,0,,,1,1
-2,7,943,Philadelphia,,0,,,1,1
-2,7,944,Philadelphia,,0,,,1,1
-2,7,945,Philadelphia,,0,,,1,1
-2,7,946,Philadelphia,,0,,,1,1
-2,7,947,Philadelphia,,0,,,1,1
-2,7,948,Philadelphia,,0,,,1,1
-2,7,949,Philadelphia,,0,,,1,1
-2,7,950,Philadelphia,,0,,,1,1
-2,7,951,Philadelphia,,0,,,1,1
-2,7,952,Philadelphia,,0,,,1,1
-2,7,953,Philadelphia,,0,,,1,1
-2,7,954,Philadelphia,,0,,,1,1
-2,7,955,Philadelphia,,0,,,1,1
-2,7,956,Philadelphia,,0,,,1,1
-2,7,957,Philadelphia,,0,,,1,1
-2,7,958,Philadelphia,,0,,,1,1
-2,7,959,Philadelphia,,0,,,1,1
-2,7,960,Philadelphia,,0,,,1,1
-2,7,961,Philadelphia,,0,,,1,1
-2,7,962,Philadelphia,,0,,,1,1
-2,7,963,Philadelphia,,0,,,1,1
-2,7,964,Philadelphia,,0,,,1,1
-2,7,965,Philadelphia,,0,,,1,1
-2,7,966,Philadelphia,,0,,,1,1
-2,7,967,Philadelphia,,0,,,1,1
-2,7,968,Philadelphia,,0,,,1,1
-2,7,969,Philadelphia,,0,,,1,1
-2,7,970,Philadelphia,,0,,,1,1
-2,7,971,Philadelphia,,0,,,1,1
-2,7,972,Philadelphia,,0,,,1,1
-2,7,973,Philadelphia,,0,,,1,1
-2,7,974,Philadelphia,,0,,,1,1
-2,7,975,Philadelphia,,0,,,1,1
-2,7,976,Philadelphia,,0,,,1,1
-2,7,977,Philadelphia,,0,,,1,1
-2,7,978,Philadelphia,,0,,,1,1
-2,7,979,Philadelphia,,0,,,1,1
-2,7,980,Philadelphia,,0,,,1,1
-2,7,981,Philadelphia,,0,,,1,1
-2,7,982,Philadelphia,,0,,,1,1
-2,7,983,Philadelphia,,0,,,1,1
-2,7,984,Philadelphia,,0,,,1,1
-2,7,985,Philadelphia,,0,,,1,1
-2,7,986,Philadelphia,,0,,,1,1
-2,7,987,Philadelphia,,0,,,1,1
-2,7,988,Philadelphia,,0,,,1,1
-2,7,989,Philadelphia,,0,,,1,1
-2,7,990,Philadelphia,,0,,,1,1
-2,7,991,Philadelphia,,0,,,1,1
-2,7,992,Philadelphia,,0,,,1,1
-2,7,993,Philadelphia,,0,,,1,1
-2,7,994,Philadelphia,,0,,,1,1
-2,7,995,Philadelphia,,0,,,1,1
-2,7,996,Philadelphia,,0,,,1,1
-2,7,997,Philadelphia,,0,,,1,1
-2,7,998,Philadelphia,,0,,,1,1
-2,7,999,Philadelphia,,0,,,1,1
-2,7,1000,Philadelphia,,0,,,1,1
-2,7,1001,Philadelphia,,0,,,1,1
-2,7,1002,Philadelphia,,0,,,1,1
-2,7,1003,Philadelphia,,0,,,1,1
-2,7,1004,Philadelphia,,0,,,1,1
-2,7,1005,Philadelphia,,0,,,1,1
-2,7,1006,Philadelphia,,0,,,1,1
-2,7,1007,Philadelphia,,0,,,1,1
-2,7,1008,Philadelphia,,0,,,1,1
-2,7,1009,Philadelphia,,0,,,1,1
-2,7,1010,Philadelphia,,0,,,1,1
-1,7,1011,Lindenwold,,0,,,1,1
-1,7,1012,Lindenwold,,0,,,1,1
-1,7,1013,Lindenwold,,0,,,1,1
-1,7,1014,Lindenwold,,0,,,1,1
-1,7,1015,Lindenwold,,0,,,1,1
-1,7,1016,Lindenwold,,0,,,1,1
-1,7,1017,Lindenwold,,0,,,1,1
-1,7,1018,Lindenwold,,0,,,1,1
-1,7,1019,Lindenwold,,0,,,1,1
-1,7,1020,Lindenwold,,0,,,1,1
-1,7,1021,Lindenwold,,0,,,1,1
-1,7,1022,Lindenwold,,0,,,1,1
-1,7,1023,Lindenwold,,0,,,1,1
-1,7,1024,Lindenwold,,0,,,1,1
-1,7,1025,Lindenwold,,0,,,1,1
-1,7,1026,Lindenwold,,0,,,1,1
-1,7,1027,Lindenwold,,0,,,1,1
-1,7,1028,Lindenwold,,0,,,1,1
-1,7,1029,Lindenwold,,0,,,1,1
-1,7,1030,Lindenwold,,0,,,1,1
-1,7,1031,Lindenwold,,0,,,1,1
-1,7,1032,Lindenwold,,0,,,1,1
-1,7,1033,Lindenwold,,0,,,1,1
-1,7,1034,Lindenwold,,0,,,1,1
-1,7,1035,Lindenwold,,0,,,1,1
-1,7,1036,Lindenwold,,0,,,1,1
-1,7,1037,Lindenwold,,0,,,1,1
-1,7,1038,Lindenwold,,0,,,1,1
-1,7,1039,Lindenwold,,0,,,1,1
-1,7,1040,Lindenwold,,0,,,1,1
-1,7,1041,Lindenwold,,0,,,1,1
-1,7,1042,Lindenwold,,0,,,1,1
-1,7,1043,Lindenwold,,0,,,1,1
-1,7,1044,Lindenwold,,0,,,1,1
-1,7,1045,Lindenwold,,0,,,1,1
-1,7,1046,Lindenwold,,0,,,1,1
-1,7,1047,Lindenwold,,0,,,1,1
-1,7,1048,Lindenwold,,0,,,1,1
-1,7,1049,Lindenwold,,0,,,1,1
-1,7,1050,Lindenwold,,0,,,1,1
-1,7,1051,Lindenwold,,0,,,1,1
-1,7,1052,Lindenwold,,0,,,1,1
-1,7,1053,Lindenwold,,0,,,1,1
-1,7,1054,Lindenwold,,0,,,1,1
-1,7,1055,Lindenwold,,0,,,1,1
-1,7,1056,Lindenwold,,0,,,1,1
-1,7,1057,Lindenwold,,0,,,1,1
-1,7,1058,Lindenwold,,0,,,1,1
-1,7,1059,Lindenwold,,0,,,1,1
-1,7,1060,Lindenwold,,0,,,1,1
-1,7,1061,Lindenwold,,0,,,1,1
-1,7,1062,Lindenwold,,0,,,1,1
-1,7,1063,Lindenwold,,0,,,1,1
-1,7,1064,Lindenwold,,0,,,1,1
-1,7,1065,Lindenwold,,0,,,1,1
-1,7,1066,Lindenwold,,0,,,1,1
-1,7,1067,Lindenwold,,0,,,1,1
-1,7,1068,Lindenwold,,0,,,1,1
-1,7,1069,Lindenwold,,0,,,1,1
-1,7,1070,Lindenwold,,0,,,1,1
-1,7,1071,Lindenwold,,0,,,1,1
-1,7,1072,Lindenwold,,0,,,1,1
-1,7,1073,Lindenwold,,0,,,1,1
-1,7,1074,Lindenwold,,0,,,1,1
-1,7,1075,Lindenwold,,0,,,1,1
-1,7,1076,Lindenwold,,0,,,1,1
-1,7,1077,Lindenwold,,0,,,1,1
-1,7,1078,Lindenwold,,0,,,1,1
-1,7,1079,Lindenwold,,0,,,1,1
-1,7,1080,Lindenwold,,0,,,1,1
-1,7,1081,Lindenwold,,0,,,1,1
-1,7,1082,Lindenwold,,0,,,1,1
-1,7,1083,Lindenwold,,0,,,1,1
-1,7,1084,Lindenwold,,0,,,1,1
-1,7,1085,Lindenwold,,0,,,1,1
-1,7,1086,Lindenwold,,0,,,1,1
-1,7,1087,Lindenwold,,0,,,1,1
-1,7,1088,Lindenwold,,0,,,1,1
-1,7,1089,Lindenwold,,0,,,1,1
-1,7,1090,Lindenwold,,0,,,1,1
-1,7,1091,Lindenwold,,0,,,1,1
-1,7,1092,Lindenwold,,0,,,1,1
-1,7,1093,Lindenwold,,0,,,1,1
-1,7,1094,Lindenwold,,0,,,1,1
-1,7,1095,Lindenwold,,0,,,1,1
-1,7,1096,Lindenwold,,0,,,1,1
-1,7,1097,Lindenwold,,0,,,1,1
-1,7,1098,Lindenwold,,0,,,1,1
-1,7,1099,Lindenwold,,0,,,1,1
-1,7,1100,Lindenwold,,0,,,1,1
-1,7,1101,Lindenwold,,0,,,1,1
-1,7,1102,Lindenwold,,0,,,1,1
-2,8,1103,Philadelphia,,0,,,1,1
-2,8,1104,Philadelphia,,0,,,1,1
-2,8,1105,Philadelphia,,0,,,1,1
-2,8,1106,Philadelphia,,0,,,1,1
-2,8,1107,Philadelphia,,0,,,1,1
-2,8,1108,Philadelphia,,0,,,1,1
-2,8,1109,Philadelphia,,0,,,1,1
-2,8,1110,Philadelphia,,0,,,1,1
-2,8,1111,Philadelphia,,0,,,1,1
-2,8,1112,Philadelphia,,0,,,1,1
-2,8,1113,Philadelphia,,0,,,1,1
-2,8,1114,Philadelphia,,0,,,1,1
-2,8,1115,Philadelphia,,0,,,1,1
-2,8,1116,Philadelphia,,0,,,1,1
-2,8,1117,Philadelphia,,0,,,1,1
-2,8,1118,Philadelphia,,0,,,1,1
-2,8,1119,Philadelphia,,0,,,1,1
-2,8,1120,Philadelphia,,0,,,1,1
-2,8,1122,Philadelphia,,0,,,1,1
-2,8,1121,Philadelphia,,0,,,1,1
-2,8,1123,Philadelphia,,0,,,1,1
-2,8,1124,Philadelphia,,0,,,1,1
-2,8,1125,Philadelphia,,0,,,1,1
-2,8,1126,Philadelphia,,0,,,1,1
-2,8,1127,Philadelphia,,0,,,1,1
-2,8,1128,Philadelphia,,0,,,1,1
-2,8,1129,Philadelphia,,0,,,1,1
-2,8,1130,Philadelphia,,0,,,1,1
-2,8,1131,Philadelphia,,0,,,1,1
-2,8,1132,Philadelphia,,0,,,1,1
-2,8,1133,Philadelphia,,0,,,1,1
-2,8,1134,Philadelphia,,0,,,1,1
-2,8,1135,Philadelphia,,0,,,1,1
-2,8,1136,Philadelphia,,0,,,1,1
-2,8,1137,Philadelphia,,0,,,1,1
-2,8,1138,Philadelphia,,0,,,1,1
-2,8,1139,Philadelphia,,0,,,1,1
-2,8,1140,Philadelphia,,0,,,1,1
-2,8,1141,Philadelphia,,0,,,1,1
-2,8,1142,Philadelphia,,0,,,1,1
-2,8,1143,Philadelphia,,0,,,1,1
-2,8,1144,Philadelphia,,0,,,1,1
-2,8,1145,Philadelphia,,0,,,1,1
-2,8,1146,Philadelphia,,0,,,1,1
-2,8,1147,Philadelphia,,0,,,1,1
-2,8,1148,Philadelphia,,0,,,1,1
-2,8,1149,Philadelphia,,0,,,1,1
-2,8,1150,Philadelphia,,0,,,1,1
-2,8,1151,Philadelphia,,0,,,1,1
-2,8,1152,Philadelphia,,0,,,1,1
-2,8,1153,Philadelphia,,0,,,1,1
-2,8,1154,Philadelphia,,0,,,1,1
-2,8,1155,Philadelphia,,0,,,1,1
-2,8,1156,Philadelphia,,0,,,1,1
-2,8,1157,Philadelphia,,0,,,1,1
-2,8,1158,Philadelphia,,0,,,1,1
-2,8,1159,Philadelphia,,0,,,1,1
-2,8,1160,Philadelphia,,0,,,1,1
-2,8,1161,Philadelphia,,0,,,1,1
-2,8,1162,Philadelphia,,0,,,1,1
-2,8,1163,Philadelphia,,0,,,1,1
-2,8,1164,Philadelphia,,0,,,1,1
-2,8,1165,Philadelphia,,0,,,1,1
-2,8,1166,Philadelphia,,0,,,1,1
-2,8,1167,Philadelphia,,0,,,1,1
-2,8,1168,Philadelphia,,0,,,1,1
-2,8,1169,Philadelphia,,0,,,1,1
-2,8,1170,Philadelphia,,0,,,1,1
-2,8,1171,Philadelphia,,0,,,1,1
-2,8,1172,Philadelphia,,0,,,1,1
-2,8,1173,Philadelphia,,0,,,1,1
-2,8,1174,Philadelphia,,0,,,1,1
-2,8,1175,Philadelphia,,0,,,1,1
-2,8,1176,Philadelphia,,0,,,1,1
-2,8,1177,Philadelphia,,0,,,1,1
-2,8,1178,Philadelphia,,0,,,1,1
-2,8,1179,Philadelphia,,0,,,1,1
-2,8,1180,Philadelphia,,0,,,1,1
-2,8,1181,Philadelphia,,0,,,1,1
-2,8,1182,Philadelphia,,0,,,1,1
-2,8,1183,Philadelphia,,0,,,1,1
-2,8,1184,Philadelphia,,0,,,1,1
-2,8,1185,Philadelphia,,0,,,1,1
-2,8,1186,Philadelphia,,0,,,1,1
-2,8,1187,Philadelphia,,0,,,1,1
-2,8,1188,Philadelphia,,0,,,1,1
-2,8,1189,Philadelphia,,0,,,1,1
-2,8,1190,Philadelphia,,0,,,1,1
-2,8,1191,Philadelphia,,0,,,1,1
-2,8,1192,Philadelphia,,0,,,1,1
-2,8,1193,Philadelphia,,0,,,1,1
-2,8,1194,Philadelphia,,0,,,1,1
-2,8,1195,Philadelphia,,0,,,1,1
-2,8,1196,Philadelphia,,0,,,1,1
-2,8,1197,Philadelphia,,0,,,1,1
-2,8,1198,Philadelphia,,0,,,1,1
-2,8,1199,Philadelphia,,0,,,1,1
-2,8,1200,Philadelphia,,0,,,1,1
-2,8,1201,Philadelphia,,0,,,1,1
-2,8,1202,Philadelphia,,0,,,1,1
-2,8,1203,Philadelphia,,0,,,1,1
-2,8,1204,Philadelphia,,0,,,1,1
-2,8,1205,Philadelphia,,0,,,1,1
-1,8,1206,Lindenwold,,0,,,1,1
-1,8,1207,Lindenwold,,0,,,1,1
-1,8,1208,Lindenwold,,0,,,1,1
-1,8,1209,Lindenwold,,0,,,1,1
-1,8,1210,Lindenwold,,0,,,1,1
-1,8,1211,Lindenwold,,0,,,1,1
-1,8,1212,Lindenwold,,0,,,1,1
-1,8,1213,Lindenwold,,0,,,1,1
-1,8,1214,Lindenwold,,0,,,1,1
-1,8,1215,Lindenwold,,0,,,1,1
-1,8,1216,Lindenwold,,0,,,1,1
-1,8,1217,Lindenwold,,0,,,1,1
-1,8,1218,Lindenwold,,0,,,1,1
-1,8,1219,Lindenwold,,0,,,1,1
-1,8,1220,Lindenwold,,0,,,1,1
-1,8,1221,Lindenwold,,0,,,1,1
-1,8,1222,Lindenwold,,0,,,1,1
-1,8,1223,Lindenwold,,0,,,1,1
-1,8,1224,Lindenwold,,0,,,1,1
-1,8,1225,Lindenwold,,0,,,1,1
-1,8,1226,Lindenwold,,0,,,1,1
-1,8,1227,Lindenwold,,0,,,1,1
-1,8,1228,Lindenwold,,0,,,1,1
-1,8,1229,Lindenwold,,0,,,1,1
-1,8,1230,Lindenwold,,0,,,1,1
-1,8,1231,Lindenwold,,0,,,1,1
-1,8,1234,Lindenwold,,0,,,1,1
-1,8,1232,Lindenwold,,0,,,1,1
-1,8,1233,Lindenwold,,0,,,1,1
-1,8,1235,Lindenwold,,0,,,1,1
-1,8,1236,Lindenwold,,0,,,1,1
-1,8,1237,Lindenwold,,0,,,1,1
-1,8,1238,Lindenwold,,0,,,1,1
-1,8,1239,Lindenwold,,0,,,1,1
-1,8,1240,Lindenwold,,0,,,1,1
-1,8,1241,Lindenwold,,0,,,1,1
-1,8,1242,Lindenwold,,0,,,1,1
-1,8,1243,Lindenwold,,0,,,1,1
-1,8,1244,Lindenwold,,0,,,1,1
-1,8,1245,Lindenwold,,0,,,1,1
-1,8,1246,Lindenwold,,0,,,1,1
-1,8,1247,Lindenwold,,0,,,1,1
-1,8,1248,Lindenwold,,0,,,1,1
-1,8,1249,Lindenwold,,0,,,1,1
-1,8,1250,Lindenwold,,0,,,1,1
-1,8,1251,Lindenwold,,0,,,1,1
-1,8,1252,Lindenwold,,0,,,1,1
-1,8,1253,Lindenwold,,0,,,1,1
-1,8,1254,Lindenwold,,0,,,1,1
-1,8,1255,Lindenwold,,0,,,1,1
-1,8,1256,Lindenwold,,0,,,1,1
-1,8,1257,Lindenwold,,0,,,1,1
-1,8,1258,Lindenwold,,0,,,1,1
-1,8,1259,Lindenwold,,0,,,1,1
-1,8,1260,Lindenwold,,0,,,1,1
-1,8,1261,Lindenwold,,0,,,1,1
-1,8,1262,Lindenwold,,0,,,1,1
-1,8,1263,Lindenwold,,0,,,1,1
-1,8,1264,Lindenwold,,0,,,1,1
-1,8,1265,Lindenwold,,0,,,1,1
-1,8,1266,Lindenwold,,0,,,1,1
-1,8,1267,Lindenwold,,0,,,1,1
-1,8,1268,Lindenwold,,0,,,1,1
-1,8,1269,Lindenwold,,0,,,1,1
-1,8,1270,Lindenwold,,0,,,1,1
-1,8,1271,Lindenwold,,0,,,1,1
-1,8,1272,Lindenwold,,0,,,1,1
-1,8,1273,Lindenwold,,0,,,1,1
-1,8,1274,Lindenwold,,0,,,1,1
-1,8,1275,Lindenwold,,0,,,1,1
-1,8,1276,Lindenwold,,0,,,1,1
-1,8,1277,Lindenwold,,0,,,1,1
-1,8,1278,Lindenwold,,0,,,1,1
-1,8,1279,Lindenwold,,0,,,1,1
-1,8,1280,Lindenwold,,0,,,1,1
-1,8,1281,Lindenwold,,0,,,1,1
-1,8,1282,Lindenwold,,0,,,1,1
-1,8,1283,Lindenwold,,0,,,1,1
-1,8,1284,Lindenwold,,0,,,1,1
-1,8,1285,Lindenwold,,0,,,1,1
-1,8,1286,Lindenwold,,0,,,1,1
-1,8,1287,Lindenwold,,0,,,1,1
-1,8,1288,Lindenwold,,0,,,1,1
-1,8,1289,Lindenwold,,0,,,1,1
-1,8,1290,Lindenwold,,0,,,1,1
-1,8,1291,Lindenwold,,0,,,1,1
-1,8,1292,Lindenwold,,0,,,1,1
-1,8,1293,Lindenwold,,0,,,1,1
-1,8,1294,Lindenwold,,0,,,1,1
-1,8,1295,Lindenwold,,0,,,1,1
-1,8,1296,Lindenwold,,0,,,1,1
-1,8,1297,Lindenwold,,0,,,1,1
-1,8,1298,Lindenwold,,0,,,1,1
-1,8,1299,Lindenwold,,0,,,1,1
-1,8,1300,Lindenwold,,0,,,1,1
-1,8,1301,Lindenwold,,0,,,1,1
-1,8,1302,Lindenwold,,0,,,1,1
-1,8,1303,Lindenwold,,0,,,1,1
-1,9,1304,Lindenwold,,0,,,1,1
-1,9,1305,Lindenwold,,0,,,1,1
-1,9,1306,Lindenwold,,0,,,1,1
-1,9,1307,Lindenwold,,0,,,1,1
-1,9,1308,Lindenwold,,0,,,1,1
-1,9,1309,Lindenwold,,0,,,1,1
-1,9,1310,Lindenwold,,0,,,1,1
-1,9,1311,Lindenwold,,0,,,1,1
-1,9,1312,Lindenwold,,0,,,1,1
-1,9,1313,Lindenwold,,0,,,1,1
-1,9,1314,Lindenwold,,0,,,1,1
-1,9,1315,Lindenwold,,0,,,1,1
-1,9,1316,Lindenwold,,0,,,1,1
-1,9,1317,Lindenwold,,0,,,1,1
-1,9,1318,Lindenwold,,0,,,1,1
-1,9,1319,Lindenwold,,0,,,1,1
-1,9,1320,Lindenwold,,0,,,1,1
-1,9,1321,Lindenwold,,0,,,1,1
-1,9,1322,Lindenwold,,0,,,1,1
-1,9,1323,Lindenwold,,0,,,1,1
-1,9,1324,Lindenwold,,0,,,1,1
-1,9,1325,Lindenwold,,0,,,1,1
-1,9,1326,Lindenwold,,0,,,1,1
-1,9,1327,Lindenwold,,0,,,1,1
-1,9,1328,Lindenwold,,0,,,1,1
-1,9,1329,Lindenwold,,0,,,1,1
-1,9,1330,Lindenwold,,0,,,1,1
-1,9,1331,Lindenwold,,0,,,1,1
-1,9,1332,Lindenwold,,0,,,1,1
-1,9,1333,Lindenwold,,0,,,1,1
-1,9,1334,Lindenwold,,0,,,1,1
-1,9,1335,Lindenwold,,0,,,1,1
-1,9,1336,Lindenwold,,0,,,1,1
-1,9,1337,Lindenwold,,0,,,1,1
-1,9,1338,Lindenwold,,0,,,1,1
-1,9,1339,Lindenwold,,0,,,1,1
-1,9,1340,Lindenwold,,0,,,1,1
-1,9,1341,Lindenwold,,0,,,1,1
-1,9,1342,Lindenwold,,0,,,1,1
-1,9,1343,Lindenwold,,0,,,1,1
-1,9,1344,Lindenwold,,0,,,1,1
-1,9,1345,Lindenwold,,0,,,1,1
-1,9,1346,Lindenwold,,0,,,1,1
-1,9,1347,Lindenwold,,0,,,1,1
-1,9,1348,Lindenwold,,0,,,1,1
-1,9,1349,Lindenwold,,0,,,1,1
-2,9,1350,Philadelphia,,0,,,1,1
-2,9,1351,Philadelphia,,0,,,1,1
-2,9,1352,Philadelphia,,0,,,1,1
-2,9,1353,Philadelphia,,0,,,1,1
-2,9,1354,Philadelphia,,0,,,1,1
-2,9,1355,Philadelphia,,0,,,1,1
-2,9,1356,Philadelphia,,0,,,1,1
-2,9,1357,Philadelphia,,0,,,1,1
-2,9,1358,Philadelphia,,0,,,1,1
-2,9,1359,Philadelphia,,0,,,1,1
-2,9,1360,Philadelphia,,0,,,1,1
-2,9,1361,Philadelphia,,0,,,1,1
-2,9,1362,Philadelphia,,0,,,1,1
-2,9,1363,Philadelphia,,0,,,1,1
-2,9,1364,Philadelphia,,0,,,1,1
-2,9,1365,Philadelphia,,0,,,1,1
-2,9,1366,Philadelphia,,0,,,1,1
-2,9,1367,Philadelphia,,0,,,1,1
-2,9,1368,Philadelphia,,0,,,1,1
-2,9,1369,Philadelphia,,0,,,1,1
-2,9,1370,Philadelphia,,0,,,1,1
-2,9,1371,Philadelphia,,0,,,1,1
-2,9,1372,Philadelphia,,0,,,1,1
-2,9,1373,Philadelphia,,0,,,1,1
-2,9,1374,Philadelphia,,0,,,1,1
-2,9,1375,Philadelphia,,0,,,1,1
-2,9,1376,Philadelphia,,0,,,1,1
-2,9,1377,Philadelphia,,0,,,1,1
-2,9,1378,Philadelphia,,0,,,1,1
-2,9,1379,Philadelphia,,0,,,1,1
-2,9,1380,Philadelphia,,0,,,1,1
-2,9,1381,Philadelphia,,0,,,1,1
-2,9,1382,Philadelphia,,0,,,1,1
-2,9,1383,Philadelphia,,0,,,1,1
-2,9,1384,Philadelphia,,0,,,1,1
-2,9,1385,Philadelphia,,0,,,1,1
-2,9,1386,Philadelphia,,0,,,1,1
-2,9,1387,Philadelphia,,0,,,1,1
-2,9,1388,Philadelphia,,0,,,1,1
-2,9,1389,Philadelphia,,0,,,1,1
-2,9,1390,Philadelphia,,0,,,1,1
-2,9,1391,Philadelphia,,0,,,1,1
-2,9,1392,Philadelphia,,0,,,1,1
-2,9,1393,Philadelphia,,0,,,1,1
-2,9,1394,Philadelphia,,0,,,1,1
-2,10,1395,Philadelphia,,0,,,1,1
-2,10,1396,Philadelphia,,0,,,1,1
-2,10,1397,Philadelphia,,0,,,1,1
-2,10,1398,Philadelphia,,0,,,1,1
-2,10,1399,Philadelphia,,0,,,1,1
-2,10,1400,Philadelphia,,0,,,1,1
-2,10,1401,Philadelphia,,0,,,1,1
-2,10,1402,Philadelphia,,0,,,1,1
-2,10,1403,Philadelphia,,0,,,1,1
-2,10,1404,Philadelphia,,0,,,1,1
-2,10,1405,Philadelphia,,0,,,1,1
-2,10,1406,Philadelphia,,0,,,1,1
-2,10,1407,Philadelphia,,0,,,1,1
-2,10,1408,Philadelphia,,0,,,1,1
-2,10,1409,Philadelphia,,0,,,1,1
-2,10,1410,Philadelphia,,0,,,1,1
-2,10,1411,Philadelphia,,0,,,1,1
-2,10,1412,Philadelphia,,0,,,1,1
-2,10,1413,Philadelphia,,0,,,1,1
-2,10,1414,Philadelphia,,0,,,1,1
-2,10,1415,Philadelphia,,0,,,1,1
-2,10,1416,Philadelphia,,0,,,1,1
-2,10,1417,Philadelphia,,0,,,1,1
-2,10,1418,Philadelphia,,0,,,1,1
-2,10,1419,Philadelphia,,0,,,1,1
-2,10,1420,Philadelphia,,0,,,1,1
-2,10,1421,Philadelphia,,0,,,1,1
-2,10,1422,Philadelphia,,0,,,1,1
-2,10,1423,Philadelphia,,0,,,1,1
-2,10,1424,Philadelphia,,0,,,1,1
-2,10,1425,Philadelphia,,0,,,1,1
-2,10,1426,Philadelphia,,0,,,1,1
-2,10,1427,Philadelphia,,0,,,1,1
-2,10,1428,Philadelphia,,0,,,1,1
-2,10,1429,Philadelphia,,0,,,1,1
-2,10,1430,Philadelphia,,0,,,1,1
-2,10,1431,Philadelphia,,0,,,1,1
-2,10,1432,Philadelphia,,0,,,1,1
-2,10,1433,Philadelphia,,0,,,1,1
-2,10,1434,Philadelphia,,0,,,1,1
-2,10,1435,Philadelphia,,0,,,1,1
-2,10,1436,Philadelphia,,0,,,1,1
-2,10,1437,Philadelphia,,0,,,1,1
-2,10,1438,Philadelphia,,0,,,1,1
-2,10,1439,Philadelphia,,0,,,1,1
-2,10,1440,Philadelphia,,0,,,1,1
-2,10,1441,Philadelphia,,0,,,1,1
-2,10,1442,Philadelphia,,0,,,1,1
-2,10,1443,Philadelphia,,0,,,1,1
-2,10,1444,Philadelphia,,0,,,1,1
-2,10,1445,Philadelphia,,0,,,1,1
-2,10,1446,Philadelphia,,0,,,1,1
-2,10,1447,Philadelphia,,0,,,1,1
-2,10,1448,Philadelphia,,0,,,1,1
-2,10,1449,Philadelphia,,0,,,1,1
-2,10,1450,Philadelphia,,0,,,1,1
-2,10,1451,Philadelphia,,0,,,1,1
-2,10,1452,Philadelphia,,0,,,1,1
-2,10,1453,Philadelphia,,0,,,1,1
-2,10,1454,Philadelphia,,0,,,1,1
-2,10,1455,Philadelphia,,0,,,1,1
-2,10,1456,Philadelphia,,0,,,1,1
-2,10,1457,Philadelphia,,0,,,1,1
-2,10,1458,Philadelphia,,0,,,1,1
-2,10,1459,Philadelphia,,0,,,1,1
-2,10,1460,Philadelphia,,0,,,1,1
-2,10,1461,Philadelphia,,0,,,1,1
-2,10,1462,Philadelphia,,0,,,1,1
-2,10,1463,Philadelphia,,0,,,1,1
-2,10,1464,Philadelphia,,0,,,1,1
-2,10,1465,Philadelphia,,0,,,1,1
-2,10,1466,Philadelphia,,0,,,1,1
-2,10,1467,Philadelphia,,0,,,1,1
-2,10,1468,Philadelphia,,0,,,1,1
-2,10,1469,Philadelphia,,0,,,1,1
-2,10,1470,Philadelphia,,0,,,1,1
-2,10,1471,Philadelphia,,0,,,1,1
-2,10,1472,Philadelphia,,0,,,1,1
-2,10,1473,Philadelphia,,0,,,1,1
-2,10,1474,Philadelphia,,0,,,1,1
-2,10,1475,Philadelphia,,0,,,1,1
-2,10,1476,Philadelphia,,0,,,1,1
-2,10,1477,Philadelphia,,0,,,1,1
-2,10,1478,Philadelphia,,0,,,1,1
-2,10,1479,Philadelphia,,0,,,1,1
-2,10,1480,Philadelphia,,0,,,1,1
-2,10,1481,Philadelphia,,0,,,1,1
-2,10,1482,Philadelphia,,0,,,1,1
-2,10,1483,Philadelphia,,0,,,1,1
-2,10,1484,Philadelphia,,0,,,1,1
-2,10,1485,Philadelphia,,0,,,1,1
-2,10,1486,Philadelphia,,0,,,1,1
-2,10,1487,Philadelphia,,0,,,1,1
-2,10,1488,Philadelphia,,0,,,1,1
-2,10,1489,Philadelphia,,0,,,1,1
-2,10,1490,Philadelphia,,0,,,1,1
-2,10,1491,Philadelphia,,0,,,1,1
-2,10,1492,Philadelphia,,0,,,1,1
-2,10,1493,Philadelphia,,0,,,1,1
-2,10,1494,Philadelphia,,0,,,1,1
-2,10,1495,Philadelphia,,0,,,1,1
-1,10,1496,Lindenwold,,0,,,1,1
-1,10,1497,Lindenwold,,0,,,1,1
-1,10,1498,Lindenwold,,0,,,1,1
-1,10,1499,Lindenwold,,0,,,1,1
-1,10,1500,Lindenwold,,0,,,1,1
-1,10,1501,Lindenwold,,0,,,1,1
-1,10,1502,Lindenwold,,0,,,1,1
-1,10,1503,Lindenwold,,0,,,1,1
-1,10,1504,Lindenwold,,0,,,1,1
-1,10,1505,Lindenwold,,0,,,1,1
-1,10,1506,Lindenwold,,0,,,1,1
-1,10,1507,Lindenwold,,0,,,1,1
-1,10,1508,Lindenwold,,0,,,1,1
-1,10,1509,Lindenwold,,0,,,1,1
-1,10,1510,Lindenwold,,0,,,1,1
-1,10,1511,Lindenwold,,0,,,1,1
-1,10,1512,Lindenwold,,0,,,1,1
-1,10,1513,Lindenwold,,0,,,1,1
-1,10,1514,Lindenwold,,0,,,1,1
-1,10,1515,Lindenwold,,0,,,1,1
-1,10,1516,Lindenwold,,0,,,1,1
-1,10,1517,Lindenwold,,0,,,1,1
-1,10,1518,Lindenwold,,0,,,1,1
-1,10,1519,Lindenwold,,0,,,1,1
-1,10,1520,Lindenwold,,0,,,1,1
-1,10,1521,Lindenwold,,0,,,1,1
-1,10,1522,Lindenwold,,0,,,1,1
-1,10,1523,Lindenwold,,0,,,1,1
-1,10,1524,Lindenwold,,0,,,1,1
-1,10,1525,Lindenwold,,0,,,1,1
-1,10,1526,Lindenwold,,0,,,1,1
-1,10,1527,Lindenwold,,0,,,1,1
-1,10,1528,Lindenwold,,0,,,1,1
-1,10,1529,Lindenwold,,0,,,1,1
-1,10,1530,Lindenwold,,0,,,1,1
-1,10,1531,Lindenwold,,0,,,1,1
-1,10,1532,Lindenwold,,0,,,1,1
-1,10,1533,Lindenwold,,0,,,1,1
-1,10,1534,Lindenwold,,0,,,1,1
-1,10,1535,Lindenwold,,0,,,1,1
-1,10,1536,Lindenwold,,0,,,1,1
-1,10,1537,Lindenwold,,0,,,1,1
-1,10,1538,Lindenwold,,0,,,1,1
-1,10,1539,Lindenwold,,0,,,1,1
-1,10,1540,Lindenwold,,0,,,1,1
-1,10,1541,Lindenwold,,0,,,1,1
-1,10,1542,Lindenwold,,0,,,1,1
-1,10,1543,Lindenwold,,0,,,1,1
-1,10,1544,Lindenwold,,0,,,1,1
-1,10,1545,Lindenwold,,0,,,1,1
-1,10,1546,Lindenwold,,0,,,1,1
-1,10,1547,Lindenwold,,0,,,1,1
-1,10,1548,Lindenwold,,0,,,1,1
-1,10,1549,Lindenwold,,0,,,1,1
-1,10,1550,Lindenwold,,0,,,1,1
-1,10,1551,Lindenwold,,0,,,1,1
-1,10,1552,Lindenwold,,0,,,1,1
-1,10,1553,Lindenwold,,0,,,1,1
-1,10,1554,Lindenwold,,0,,,1,1
-1,10,1555,Lindenwold,,0,,,1,1
-1,10,1556,Lindenwold,,0,,,1,1
-1,10,1557,Lindenwold,,0,,,1,1
-1,10,1558,Lindenwold,,0,,,1,1
-1,10,1559,Lindenwold,,0,,,1,1
-1,10,1560,Lindenwold,,0,,,1,1
-1,10,1561,Lindenwold,,0,,,1,1
-1,10,1562,Lindenwold,,0,,,1,1
-1,10,1563,Lindenwold,,0,,,1,1
-1,10,1564,Lindenwold,,0,,,1,1
-1,10,1565,Lindenwold,,0,,,1,1
-1,10,1566,Lindenwold,,0,,,1,1
-1,10,1567,Lindenwold,,0,,,1,1
-1,10,1568,Lindenwold,,0,,,1,1
-1,10,1569,Lindenwold,,0,,,1,1
-1,10,1570,Lindenwold,,0,,,1,1
-1,10,1571,Lindenwold,,0,,,1,1
-1,10,1572,Lindenwold,,0,,,1,1
-1,10,1573,Lindenwold,,0,,,1,1
-1,10,1574,Lindenwold,,0,,,1,1
-1,10,1575,Lindenwold,,0,,,1,1
-1,10,1576,Lindenwold,,0,,,1,1
-1,10,1577,Lindenwold,,0,,,1,1
-1,10,1578,Lindenwold,,0,,,1,1
-1,10,1579,Lindenwold,,0,,,1,1
-1,10,1580,Lindenwold,,0,,,1,1
-1,10,1581,Lindenwold,,0,,,1,1
-1,10,1582,Lindenwold,,0,,,1,1
-1,10,1583,Lindenwold,,0,,,1,1
-1,10,1584,Lindenwold,,0,,,1,1
-1,10,1585,Lindenwold,,0,,,1,1
-1,10,1586,Lindenwold,,0,,,1,1
-1,10,1587,Lindenwold,,0,,,1,1
-1,10,1588,Lindenwold,,0,,,1,1
-1,10,1589,Lindenwold,,0,,,1,1
-1,10,1590,Lindenwold,,0,,,1,1
-1,10,1591,Lindenwold,,0,,,1,1
-1,10,1592,Lindenwold,,0,,,1,1
-1,10,1593,Lindenwold,,0,,,1,1
-1,10,1594,Lindenwold,,0,,,1,1
-2,11,1595,Philadelphia,,0,,,1,1
-2,11,1596,Philadelphia,,0,,,1,1
-2,11,1597,Philadelphia,,0,,,1,1
-2,11,1598,Philadelphia,,0,,,1,1
-2,11,1599,Philadelphia,,0,,,1,1
-2,11,1600,Philadelphia,,0,,,1,1
-2,11,1601,Philadelphia,,0,,,1,1
-2,11,1602,Philadelphia,,0,,,1,1
-2,11,1603,Philadelphia,,0,,,1,1
-2,11,1604,Philadelphia,,0,,,1,1
-2,11,1605,Philadelphia,,0,,,1,1
-2,11,1606,Philadelphia,,0,,,1,1
-2,11,1607,Philadelphia,,0,,,1,1
-2,11,1608,Philadelphia,,0,,,1,1
-2,11,1609,Philadelphia,,0,,,1,1
-2,11,1610,Philadelphia,,0,,,1,1
-2,11,1611,Philadelphia,,0,,,1,1
-2,11,1612,Philadelphia,,0,,,1,1
-2,11,1613,Philadelphia,,0,,,1,1
-2,11,1614,Philadelphia,,0,,,1,1
-2,11,1615,Philadelphia,,0,,,1,1
-2,11,1616,Philadelphia,,0,,,1,1
-2,11,1617,Philadelphia,,0,,,1,1
-2,11,1618,Philadelphia,,0,,,1,1
-2,11,1619,Philadelphia,,0,,,1,1
-2,11,1620,Philadelphia,,0,,,1,1
-2,11,1621,Philadelphia,,0,,,1,1
-2,11,1622,Philadelphia,,0,,,1,1
-2,11,1623,Philadelphia,,0,,,1,1
-2,11,1624,Philadelphia,,0,,,1,1
-2,11,1625,Philadelphia,,0,,,1,1
-2,11,1626,Philadelphia,,0,,,1,1
-2,11,1627,Philadelphia,,0,,,1,1
-2,11,1628,Philadelphia,,0,,,1,1
-2,11,1629,Philadelphia,,0,,,1,1
-2,11,1630,Philadelphia,,0,,,1,1
-2,11,1631,Philadelphia,,0,,,1,1
-2,11,1632,Philadelphia,,0,,,1,1
-2,11,1633,Philadelphia,,0,,,1,1
-2,11,1634,Philadelphia,,0,,,1,1
-2,11,1635,Philadelphia,,0,,,1,1
-2,11,1636,Philadelphia,,0,,,1,1
-2,11,1637,Philadelphia,,0,,,1,1
-2,11,1638,Philadelphia,,0,,,1,1
-2,11,1639,Philadelphia,,0,,,1,1
-2,11,1640,Philadelphia,,0,,,1,1
-2,11,1641,Philadelphia,,0,,,1,1
-2,11,1642,Philadelphia,,0,,,1,1
-2,11,1643,Philadelphia,,0,,,1,1
-2,11,1644,Philadelphia,,0,,,1,1
-2,11,1645,Philadelphia,,0,,,1,1
-2,11,1646,Philadelphia,,0,,,1,1
-2,11,1647,Philadelphia,,0,,,1,1
-2,11,1648,Philadelphia,,0,,,1,1
-2,11,1649,Philadelphia,,0,,,1,1
-2,11,1650,Philadelphia,,0,,,1,1
-2,11,1651,Philadelphia,,0,,,1,1
-2,11,1652,Philadelphia,,0,,,1,1
-2,11,1653,Philadelphia,,0,,,1,1
-2,11,1654,Philadelphia,,0,,,1,1
-2,11,1655,Philadelphia,,0,,,1,1
-2,11,1656,Philadelphia,,0,,,1,1
-2,11,1657,Philadelphia,,0,,,1,1
-2,11,1658,Philadelphia,,0,,,1,1
-2,11,1659,Philadelphia,,0,,,1,1
-2,11,1660,Philadelphia,,0,,,1,1
-2,11,1661,Philadelphia,,0,,,1,1
-2,11,1662,Philadelphia,,0,,,1,1
-2,11,1663,Philadelphia,,0,,,1,1
-2,11,1664,Philadelphia,,0,,,1,1
-2,11,1665,Philadelphia,,0,,,1,1
-2,11,1666,Philadelphia,,0,,,1,1
-2,11,1667,Philadelphia,,0,,,1,1
-2,11,1668,Philadelphia,,0,,,1,1
-2,11,1669,Philadelphia,,0,,,1,1
-2,11,1670,Philadelphia,,0,,,1,1
-2,11,1671,Philadelphia,,0,,,1,1
-2,11,1672,Philadelphia,,0,,,1,1
-2,11,1673,Philadelphia,,0,,,1,1
-2,11,1674,Philadelphia,,0,,,1,1
-2,11,1675,Philadelphia,,0,,,1,1
-2,11,1676,Philadelphia,,0,,,1,1
-2,11,1677,Philadelphia,,0,,,1,1
-2,11,1678,Philadelphia,,0,,,1,1
-2,11,1679,Philadelphia,,0,,,1,1
-2,11,1680,Philadelphia,,0,,,1,1
-2,11,1681,Philadelphia,,0,,,1,1
-2,11,1682,Philadelphia,,0,,,1,1
-2,11,1683,Philadelphia,,0,,,1,1
-2,11,1684,Philadelphia,,0,,,1,1
-2,11,1685,Philadelphia,,0,,,1,1
-2,11,1686,Philadelphia,,0,,,1,1
-2,11,1687,Philadelphia,,0,,,1,1
-2,11,1688,Philadelphia,,0,,,1,1
-1,11,1689,Lindenwold,,0,,,1,1
-1,11,1690,Lindenwold,,0,,,1,1
-1,11,1691,Lindenwold,,0,,,1,1
-1,11,1692,Lindenwold,,0,,,1,1
-1,11,1693,Lindenwold,,0,,,1,1
-1,11,1694,Lindenwold,,0,,,1,1
-1,11,1695,Lindenwold,,0,,,1,1
-1,11,1696,Lindenwold,,0,,,1,1
-1,11,1697,Lindenwold,,0,,,1,1
-1,11,1698,Lindenwold,,0,,,1,1
-1,11,1699,Lindenwold,,0,,,1,1
-1,11,1700,Lindenwold,,0,,,1,1
-1,11,1701,Lindenwold,,0,,,1,1
-1,11,1702,Lindenwold,,0,,,1,1
-1,11,1703,Lindenwold,,0,,,1,1
-1,11,1704,Lindenwold,,0,,,1,1
-1,11,1705,Lindenwold,,0,,,1,1
-1,11,1706,Lindenwold,,0,,,1,1
-1,11,1707,Lindenwold,,0,,,1,1
-1,11,1708,Lindenwold,,0,,,1,1
-1,11,1709,Lindenwold,,0,,,1,1
-1,11,1710,Lindenwold,,0,,,1,1
-1,11,1711,Lindenwold,,0,,,1,1
-1,11,1712,Lindenwold,,0,,,1,1
-1,11,1713,Lindenwold,,0,,,1,1
-1,11,1714,Lindenwold,,0,,,1,1
-1,11,1715,Lindenwold,,0,,,1,1
-1,11,1716,Lindenwold,,0,,,1,1
-1,11,1717,Lindenwold,,0,,,1,1
-1,11,1718,Lindenwold,,0,,,1,1
-1,11,1719,Lindenwold,,0,,,1,1
-1,11,1720,Lindenwold,,0,,,1,1
-1,11,1721,Lindenwold,,0,,,1,1
-1,11,1722,Lindenwold,,0,,,1,1
-1,11,1723,Lindenwold,,0,,,1,1
-1,11,1724,Lindenwold,,0,,,1,1
-1,11,1725,Lindenwold,,0,,,1,1
-1,11,1726,Lindenwold,,0,,,1,1
-1,11,1727,Lindenwold,,0,,,1,1
-1,11,1728,Lindenwold,,0,,,1,1
-1,11,1729,Lindenwold,,0,,,1,1
-1,11,1730,Lindenwold,,0,,,1,1
-1,11,1731,Lindenwold,,0,,,1,1
-1,11,1732,Lindenwold,,0,,,1,1
-1,11,1733,Lindenwold,,0,,,1,1
-1,11,1734,Lindenwold,,0,,,1,1
-1,11,1735,Lindenwold,,0,,,1,1
-1,11,1736,Lindenwold,,0,,,1,1
-1,11,1737,Lindenwold,,0,,,1,1
-1,11,1738,Lindenwold,,0,,,1,1
-1,11,1739,Lindenwold,,0,,,1,1
-1,11,1740,Lindenwold,,0,,,1,1
-1,11,1741,Lindenwold,,0,,,1,1
-1,11,1742,Lindenwold,,0,,,1,1
-1,11,1743,Lindenwold,,0,,,1,1
-1,11,1744,Lindenwold,,0,,,1,1
-1,11,1745,Lindenwold,,0,,,1,1
-1,11,1746,Lindenwold,,0,,,1,1
-1,11,1747,Lindenwold,,0,,,1,1
-1,11,1748,Lindenwold,,0,,,1,1
-1,11,1749,Lindenwold,,0,,,1,1
-1,11,1750,Lindenwold,,0,,,1,1
-1,11,1751,Lindenwold,,0,,,1,1
-1,11,1752,Lindenwold,,0,,,1,1
-1,11,1753,Lindenwold,,0,,,1,1
-1,11,1754,Lindenwold,,0,,,1,1
-1,11,1755,Lindenwold,,0,,,1,1
-1,11,1756,Lindenwold,,0,,,1,1
-1,11,1757,Lindenwold,,0,,,1,1
-1,11,1758,Lindenwold,,0,,,1,1
-1,11,1759,Lindenwold,,0,,,1,1
-1,11,1760,Lindenwold,,0,,,1,1
-1,11,1761,Lindenwold,,0,,,1,1
-1,11,1762,Lindenwold,,0,,,1,1
-1,11,1763,Lindenwold,,0,,,1,1
-1,11,1764,Lindenwold,,0,,,1,1
-1,11,1765,Lindenwold,,0,,,1,1
-1,11,1766,Lindenwold,,0,,,1,1
-1,11,1767,Lindenwold,,0,,,1,1
-1,11,1768,Lindenwold,,0,,,1,1
-1,11,1769,Lindenwold,,0,,,1,1
-1,11,1770,Lindenwold,,0,,,1,1
-1,11,1771,Lindenwold,,0,,,1,1
-1,11,1772,Lindenwold,,0,,,1,1
-1,11,1773,Lindenwold,,0,,,1,1
-1,11,1774,Lindenwold,,0,,,1,1
-1,11,1775,Lindenwold,,0,,,1,1
-1,11,1776,Lindenwold,,0,,,1,1
-1,11,1777,Lindenwold,,0,,,1,1
-1,11,1778,Lindenwold,,0,,,1,1
-1,11,1779,Lindenwold,,0,,,1,1
-1,11,1780,Lindenwold,,0,,,1,1
-1,11,1781,Lindenwold,,0,,,1,1
-2,12,1782,Philadelphia,,0,,,1,1
-2,12,1783,Philadelphia,,0,,,1,1
-2,12,1784,Philadelphia,,0,,,1,1
-2,12,1785,Philadelphia,,0,,,1,1
-2,12,1786,Philadelphia,,0,,,1,1
-2,12,1787,Philadelphia,,0,,,1,1
-2,12,1788,Philadelphia,,0,,,1,1
-2,12,1789,Philadelphia,,0,,,1,1
-2,12,1790,Philadelphia,,0,,,1,1
-2,12,1791,Philadelphia,,0,,,1,1
-2,12,1792,Philadelphia,,0,,,1,1
-2,12,1793,Philadelphia,,0,,,1,1
-2,12,1794,Philadelphia,,0,,,1,1
-2,12,1795,Philadelphia,,0,,,1,1
-2,12,1796,Philadelphia,,0,,,1,1
-2,12,1797,Philadelphia,,0,,,1,1
-2,12,1798,Philadelphia,,0,,,1,1
-2,12,1799,Philadelphia,,0,,,1,1
-2,12,1800,Philadelphia,,0,,,1,1
-2,12,1801,Philadelphia,,0,,,1,1
-2,12,1802,Philadelphia,,0,,,1,1
-2,12,1803,Philadelphia,,0,,,1,1
-2,12,1804,Philadelphia,,0,,,1,1
-2,12,1805,Philadelphia,,0,,,1,1
-2,12,1806,Philadelphia,,0,,,1,1
-2,12,1807,Philadelphia,,0,,,1,1
-2,12,1808,Philadelphia,,0,,,1,1
-2,12,1809,Philadelphia,,0,,,1,1
-2,12,1810,Philadelphia,,0,,,1,1
-2,12,1811,Philadelphia,,0,,,1,1
-2,12,1812,Philadelphia,,0,,,1,1
-2,12,1813,Philadelphia,,0,,,1,1
-2,12,1814,Philadelphia,,0,,,1,1
-2,12,1815,Philadelphia,,0,,,1,1
-2,12,1816,Philadelphia,,0,,,1,1
-2,12,1817,Philadelphia,,0,,,1,1
-2,12,1818,Philadelphia,,0,,,1,1
-2,12,1819,Philadelphia,,0,,,1,1
-2,12,1820,Philadelphia,,0,,,1,1
-2,12,1821,Philadelphia,,0,,,1,1
-2,12,1822,Philadelphia,,0,,,1,1
-2,12,1823,Philadelphia,,0,,,1,1
-2,12,1824,Philadelphia,,0,,,1,1
-2,12,1825,Philadelphia,,0,,,1,1
-2,12,1826,Philadelphia,,0,,,1,1
-2,12,1827,Philadelphia,,0,,,1,1
-2,12,1828,Philadelphia,,0,,,1,1
-2,12,1829,Philadelphia,,0,,,1,1
-2,12,1830,Philadelphia,,0,,,1,1
-2,12,1831,Philadelphia,,0,,,1,1
-2,12,1832,Philadelphia,,0,,,1,1
-2,12,1833,Philadelphia,,0,,,1,1
-2,12,1834,Philadelphia,,0,,,1,1
-2,12,1835,Philadelphia,,0,,,1,1
-2,12,1836,Philadelphia,,0,,,1,1
-2,12,1837,Philadelphia,,0,,,1,1
-2,12,1838,Philadelphia,,0,,,1,1
-2,12,1839,Philadelphia,,0,,,1,1
-2,12,1840,Philadelphia,,0,,,1,1
-2,12,1841,Philadelphia,,0,,,1,1
-2,12,1842,Philadelphia,,0,,,1,1
-2,12,1843,Philadelphia,,0,,,1,1
-2,12,1844,Philadelphia,,0,,,1,1
-2,12,1845,Philadelphia,,0,,,1,1
-2,12,1846,Philadelphia,,0,,,1,1
-2,12,1847,Philadelphia,,0,,,1,1
-2,12,1848,Philadelphia,,0,,,1,1
-2,12,1849,Philadelphia,,0,,,1,1
-2,12,1850,Philadelphia,,0,,,1,1
-2,12,1851,Philadelphia,,0,,,1,1
-2,12,1852,Philadelphia,,0,,,1,1
-2,12,1853,Philadelphia,,0,,,1,1
-2,12,1854,Philadelphia,,0,,,1,1
-2,12,1855,Philadelphia,,0,,,1,1
-2,12,1856,Philadelphia,,0,,,1,1
-2,12,1857,Philadelphia,,0,,,1,1
-2,12,1858,Philadelphia,,0,,,1,1
-2,12,1859,Philadelphia,,0,,,1,1
-2,12,1860,Philadelphia,,0,,,1,1
-2,12,1861,Philadelphia,,0,,,1,1
-2,12,1862,Philadelphia,,0,,,1,1
-2,12,1863,Philadelphia,,0,,,1,1
-2,12,1864,Philadelphia,,0,,,1,1
-2,12,1865,Philadelphia,,0,,,1,1
-2,12,1866,Philadelphia,,0,,,1,1
-1,12,1867,Lindenwold,,0,,,1,1
-1,12,1868,Lindenwold,,0,,,1,1
-1,12,1869,Lindenwold,,0,,,1,1
-1,12,1870,Lindenwold,,0,,,1,1
-1,12,1871,Lindenwold,,0,,,1,1
-1,12,1872,Lindenwold,,0,,,1,1
-1,12,1873,Lindenwold,,0,,,1,1
-1,12,1874,Lindenwold,,0,,,1,1
-1,12,1875,Lindenwold,,0,,,1,1
-1,12,1876,Lindenwold,,0,,,1,1
-1,12,1877,Lindenwold,,0,,,1,1
-1,12,1878,Lindenwold,,0,,,1,1
-1,12,1879,Lindenwold,,0,,,1,1
-1,12,1880,Lindenwold,,0,,,1,1
-1,12,1881,Lindenwold,,0,,,1,1
-1,12,1882,Lindenwold,,0,,,1,1
-1,12,1883,Lindenwold,,0,,,1,1
-1,12,1884,Lindenwold,,0,,,1,1
-1,12,1885,Lindenwold,,0,,,1,1
-1,12,1886,Lindenwold,,0,,,1,1
-1,12,1887,Lindenwold,,0,,,1,1
-1,12,1888,Lindenwold,,0,,,1,1
-1,12,1889,Lindenwold,,0,,,1,1
-1,12,1890,Lindenwold,,0,,,1,1
-1,12,1891,Lindenwold,,0,,,1,1
-1,12,1892,Lindenwold,,0,,,1,1
-1,12,1893,Lindenwold,,0,,,1,1
-1,12,1894,Lindenwold,,0,,,1,1
-1,12,1895,Lindenwold,,0,,,1,1
-1,12,1896,Lindenwold,,0,,,1,1
-1,12,1897,Lindenwold,,0,,,1,1
-1,12,1898,Lindenwold,,0,,,1,1
-1,12,1899,Lindenwold,,0,,,1,1
-1,12,1900,Lindenwold,,0,,,1,1
-1,12,1901,Lindenwold,,0,,,1,1
-1,12,1902,Lindenwold,,0,,,1,1
-1,12,1903,Lindenwold,,0,,,1,1
-1,12,1904,Lindenwold,,0,,,1,1
-1,12,1905,Lindenwold,,0,,,1,1
-1,12,1906,Lindenwold,,0,,,1,1
-1,12,1907,Lindenwold,,0,,,1,1
-1,12,1908,Lindenwold,,0,,,1,1
-1,12,1909,Lindenwold,,0,,,1,1
-1,12,1910,Lindenwold,,0,,,1,1
-1,12,1911,Lindenwold,,0,,,1,1
-1,12,1912,Lindenwold,,0,,,1,1
-1,12,1913,Lindenwold,,0,,,1,1
-1,12,1914,Lindenwold,,0,,,1,1
-1,12,1915,Lindenwold,,0,,,1,1
-1,12,1916,Lindenwold,,0,,,1,1
-1,12,1917,Lindenwold,,0,,,1,1
-1,12,1918,Lindenwold,,0,,,1,1
-1,12,1919,Lindenwold,,0,,,1,1
-1,12,1920,Lindenwold,,0,,,1,1
-1,12,1921,Lindenwold,,0,,,1,1
-1,12,1922,Lindenwold,,0,,,1,1
-1,12,1923,Lindenwold,,0,,,1,1
-1,12,1924,Lindenwold,,0,,,1,1
-1,12,1925,Lindenwold,,0,,,1,1
-1,12,1926,Lindenwold,,0,,,1,1
-1,12,1927,Lindenwold,,0,,,1,1
-1,12,1928,Lindenwold,,0,,,1,1
-1,12,1929,Lindenwold,,0,,,1,1
-1,12,1930,Lindenwold,,0,,,1,1
-1,12,1931,Lindenwold,,0,,,1,1
-1,12,1932,Lindenwold,,0,,,1,1
-1,12,1933,Lindenwold,,0,,,1,1
-1,12,1934,Lindenwold,,0,,,1,1
-1,12,1935,Lindenwold,,0,,,1,1
-1,12,1936,Lindenwold,,0,,,1,1
-1,12,1937,Lindenwold,,0,,,1,1
-1,12,1938,Lindenwold,,0,,,1,1
-1,12,1939,Lindenwold,,0,,,1,1
-1,12,1940,Lindenwold,,0,,,1,1
-1,12,1941,Lindenwold,,0,,,1,1
-1,12,1942,Lindenwold,,0,,,1,1
-1,12,1943,Lindenwold,,0,,,1,1
-1,12,1944,Lindenwold,,0,,,1,1
-1,12,1945,Lindenwold,,0,,,1,1
-1,12,1946,Lindenwold,,0,,,1,1
-1,12,1947,Lindenwold,,0,,,1,1
-1,12,1948,Lindenwold,,0,,,1,1
-1,12,1949,Lindenwold,,0,,,1,1
-1,12,1950,Lindenwold,,0,,,1,1
-1,12,1951,Lindenwold,,0,,,1,1
-1,12,1952,Lindenwold,,0,,,1,1
-1,12,1953,Lindenwold,,0,,,1,1
-2,13,1954,Philadelphia,,0,,,1,1
-2,13,1955,Philadelphia,,0,,,1,1
-2,13,1956,Philadelphia,,0,,,1,1
-2,13,1957,Philadelphia,,0,,,1,1
-2,13,1958,Philadelphia,,0,,,1,1
-2,13,1959,Philadelphia,,0,,,1,1
-2,13,1960,Philadelphia,,0,,,1,1
-2,13,1961,Philadelphia,,0,,,1,1
-2,13,1962,Philadelphia,,0,,,1,1
-2,13,1963,Philadelphia,,0,,,1,1
-2,13,1964,Philadelphia,,0,,,1,1
-2,13,1965,Philadelphia,,0,,,1,1
-2,13,1966,Philadelphia,,0,,,1,1
-2,13,1967,Philadelphia,,0,,,1,1
-2,13,1968,Philadelphia,,0,,,1,1
-2,13,1969,Philadelphia,,0,,,1,1
-2,13,1970,Philadelphia,,0,,,1,1
-2,13,1971,Philadelphia,,0,,,1,1
-2,13,1972,Philadelphia,,0,,,1,1
-2,13,1973,Philadelphia,,0,,,1,1
-2,13,1974,Philadelphia,,0,,,1,1
-2,13,1975,Philadelphia,,0,,,1,1
-2,13,1976,Philadelphia,,0,,,1,1
-2,13,1977,Philadelphia,,0,,,1,1
-2,13,1978,Philadelphia,,0,,,1,1
-2,13,1979,Philadelphia,,0,,,1,1
-2,13,1980,Philadelphia,,0,,,1,1
-2,13,1981,Philadelphia,,0,,,1,1
-2,13,1982,Philadelphia,,0,,,1,1
-2,13,1983,Philadelphia,,0,,,1,1
-2,13,1984,Philadelphia,,0,,,1,1
-2,13,1985,Philadelphia,,0,,,1,1
-2,13,1986,Philadelphia,,0,,,1,1
-2,13,1987,Philadelphia,,0,,,1,1
-2,13,1988,Philadelphia,,0,,,1,1
-2,13,1989,Philadelphia,,0,,,1,1
-2,13,1990,Philadelphia,,0,,,1,1
-2,13,1991,Philadelphia,,0,,,1,1
-2,13,1992,Philadelphia,,0,,,1,1
-2,13,1993,Philadelphia,,0,,,1,1
-2,13,1994,Philadelphia,,0,,,1,1
-2,13,1995,Philadelphia,,0,,,1,1
-2,13,1996,Philadelphia,,0,,,1,1
-2,13,1997,Philadelphia,,0,,,1,1
-2,13,1998,Philadelphia,,0,,,1,1
-1,13,1999,Lindenwold,,0,,,1,1
-1,13,2000,Lindenwold,,0,,,1,1
-1,13,2001,Lindenwold,,0,,,1,1
-1,13,2002,Lindenwold,,0,,,1,1
-1,13,2003,Lindenwold,,0,,,1,1
-1,13,2004,Lindenwold,,0,,,1,1
-1,13,2005,Lindenwold,,0,,,1,1
-1,13,2006,Lindenwold,,0,,,1,1
-1,13,2007,Lindenwold,,0,,,1,1
-1,13,2008,Lindenwold,,0,,,1,1
-1,13,2009,Lindenwold,,0,,,1,1
-1,13,2010,Lindenwold,,0,,,1,1
-1,13,2011,Lindenwold,,0,,,1,1
-1,13,2012,Lindenwold,,0,,,1,1
-1,13,2013,Lindenwold,,0,,,1,1
-1,13,2014,Lindenwold,,0,,,1,1
-1,13,2015,Lindenwold,,0,,,1,1
-1,13,2016,Lindenwold,,0,,,1,1
-1,13,2017,Lindenwold,,0,,,1,1
-1,13,2018,Lindenwold,,0,,,1,1
-1,13,2019,Lindenwold,,0,,,1,1
-1,13,2020,Lindenwold,,0,,,1,1
-1,13,2021,Lindenwold,,0,,,1,1
-1,13,2022,Lindenwold,,0,,,1,1
-1,13,2023,Lindenwold,,0,,,1,1
-1,13,2024,Lindenwold,,0,,,1,1
-1,13,2025,Lindenwold,,0,,,1,1
-1,13,2026,Lindenwold,,0,,,1,1
-1,13,2027,Lindenwold,,0,,,1,1
-1,13,2028,Lindenwold,,0,,,1,1
-1,13,2029,Lindenwold,,0,,,1,1
-1,13,2030,Lindenwold,,0,,,1,1
-1,13,2031,Lindenwold,,0,,,1,1
-1,13,2032,Lindenwold,,0,,,1,1
-1,13,2033,Lindenwold,,0,,,1,1
-1,13,2034,Lindenwold,,0,,,1,1
-1,13,2035,Lindenwold,,0,,,1,1
-1,13,2036,Lindenwold,,0,,,1,1
-1,13,2037,Lindenwold,,0,,,1,1
-1,13,2038,Lindenwold,,0,,,1,1
-1,13,2039,Lindenwold,,0,,,1,1
-1,13,2040,Lindenwold,,0,,,1,1
-1,13,2041,Lindenwold,,0,,,1,1
-1,13,2042,Lindenwold,,0,,,1,1
-1,13,2043,Lindenwold,,0,,,1,1
-1,13,2044,Lindenwold,,0,,,1,1
-2,14,2045,Philadelphia,,0,,,1,1
-2,14,2046,Philadelphia,,0,,,1,1
-2,14,2047,Philadelphia,,0,,,1,1
-2,14,2048,Philadelphia,,0,,,1,1
-2,14,2049,Philadelphia,,0,,,1,1
-2,14,2050,Philadelphia,,0,,,1,1
-2,14,2051,Philadelphia,,0,,,1,1
-2,14,2052,Philadelphia,,0,,,1,1
-2,14,2053,Philadelphia,,0,,,1,1
-2,14,2054,Philadelphia,,0,,,1,1
-2,14,2055,Philadelphia,,0,,,1,1
-2,14,2056,Philadelphia,,0,,,1,1
-2,14,2057,Philadelphia,,0,,,1,1
-2,14,2058,Philadelphia,,0,,,1,1
-2,14,2059,Philadelphia,,0,,,1,1
-2,14,2060,Philadelphia,,0,,,1,1
-2,14,2061,Philadelphia,,0,,,1,1
-2,14,2062,Philadelphia,,0,,,1,1
-2,14,2063,Philadelphia,,0,,,1,1
-2,14,2064,Philadelphia,,0,,,1,1
-2,14,2065,Philadelphia,,0,,,1,1
-2,14,2066,Philadelphia,,0,,,1,1
-2,14,2067,Philadelphia,,0,,,1,1
-2,14,2068,Philadelphia,,0,,,1,1
-2,14,2069,Philadelphia,,0,,,1,1
-2,14,2070,Philadelphia,,0,,,1,1
-2,14,2071,Philadelphia,,0,,,1,1
-2,14,2072,Philadelphia,,0,,,1,1
-2,14,2073,Philadelphia,,0,,,1,1
-2,14,2074,Philadelphia,,0,,,1,1
-2,14,2075,Philadelphia,,0,,,1,1
-2,14,2076,Philadelphia,,0,,,1,1
-2,14,2077,Philadelphia,,0,,,1,1
-2,14,2078,Philadelphia,,0,,,1,1
-2,14,2079,Philadelphia,,0,,,1,1
-2,14,2080,Philadelphia,,0,,,1,1
-2,14,2081,Philadelphia,,0,,,1,1
-2,14,2082,Philadelphia,,0,,,1,1
-2,14,2083,Philadelphia,,0,,,1,1
-2,14,2084,Philadelphia,,0,,,1,1
-2,14,2085,Philadelphia,,0,,,1,1
-2,14,2086,Philadelphia,,0,,,1,1
-2,14,2087,Philadelphia,,0,,,1,1
-2,14,2088,Philadelphia,,0,,,1,1
-2,14,2089,Philadelphia,,0,,,1,1
-2,14,2090,Philadelphia,,0,,,1,1
-2,14,2091,Philadelphia,,0,,,1,1
-2,14,2092,Philadelphia,,0,,,1,1
-2,14,2093,Philadelphia,,0,,,1,1
-2,14,2094,Philadelphia,,0,,,1,1
-2,14,2095,Philadelphia,,0,,,1,1
-2,14,2096,Philadelphia,,0,,,1,1
-2,14,2097,Philadelphia,,0,,,1,1
-2,14,2098,Philadelphia,,0,,,1,1
-2,14,2099,Philadelphia,,0,,,1,1
-2,14,2100,Philadelphia,,0,,,1,1
-2,14,2101,Philadelphia,,0,,,1,1
-2,14,2102,Philadelphia,,0,,,1,1
-2,14,2103,Philadelphia,,0,,,1,1
-2,14,2104,Philadelphia,,0,,,1,1
-2,14,2105,Philadelphia,,0,,,1,1
-2,14,2106,Philadelphia,,0,,,1,1
-2,14,2107,Philadelphia,,0,,,1,1
-2,14,2108,Philadelphia,,0,,,1,1
-2,14,2109,Philadelphia,,0,,,1,1
-2,14,2110,Philadelphia,,0,,,1,1
-2,14,2111,Philadelphia,,0,,,1,1
-2,14,2112,Philadelphia,,0,,,1,1
-2,14,2113,Philadelphia,,0,,,1,1
-2,14,2114,Philadelphia,,0,,,1,1
-2,14,2115,Philadelphia,,0,,,1,1
-2,14,2116,Philadelphia,,0,,,1,1
-2,14,2117,Philadelphia,,0,,,1,1
-2,14,2118,Philadelphia,,0,,,1,1
-2,14,2119,Philadelphia,,0,,,1,1
-2,14,2120,Philadelphia,,0,,,1,1
-2,14,2121,Philadelphia,,0,,,1,1
-2,14,2122,Philadelphia,,0,,,1,1
-2,14,2123,Philadelphia,,0,,,1,1
-2,14,2124,Philadelphia,,0,,,1,1
-2,14,2125,Philadelphia,,0,,,1,1
-2,14,2126,Philadelphia,,0,,,1,1
-2,14,2127,Philadelphia,,0,,,1,1
-2,14,2128,Philadelphia,,0,,,1,1
-2,14,2129,Philadelphia,,0,,,1,1
-2,14,2130,Philadelphia,,0,,,1,1
-2,14,2131,Philadelphia,,0,,,1,1
-2,14,2132,Philadelphia,,0,,,1,1
-2,14,2133,Philadelphia,,0,,,1,1
-1,14,2134,Lindenwold,,0,,,1,1
-1,14,2135,Lindenwold,,0,,,1,1
-1,14,2136,Lindenwold,,0,,,1,1
-1,14,2137,Lindenwold,,0,,,1,1
-1,14,2138,Lindenwold,,0,,,1,1
-1,14,2139,Lindenwold,,0,,,1,1
-1,14,2140,Lindenwold,,0,,,1,1
-1,14,2141,Lindenwold,,0,,,1,1
-1,14,2142,Lindenwold,,0,,,1,1
-1,14,2143,Lindenwold,,0,,,1,1
-1,14,2144,Lindenwold,,0,,,1,1
-1,14,2145,Lindenwold,,0,,,1,1
-1,14,2146,Lindenwold,,0,,,1,1
-1,14,2147,Lindenwold,,0,,,1,1
-1,14,2148,Lindenwold,,0,,,1,1
-1,14,2149,Lindenwold,,0,,,1,1
-1,14,2150,Lindenwold,,0,,,1,1
-1,14,2151,Lindenwold,,0,,,1,1
-1,14,2152,Lindenwold,,0,,,1,1
-1,14,2153,Lindenwold,,0,,,1,1
-1,14,2154,Lindenwold,,0,,,1,1
-1,14,2155,Lindenwold,,0,,,1,1
-1,14,2156,Lindenwold,,0,,,1,1
-1,14,2157,Lindenwold,,0,,,1,1
-1,14,2158,Lindenwold,,0,,,1,1
-1,14,2159,Lindenwold,,0,,,1,1
-1,14,2160,Lindenwold,,0,,,1,1
-1,14,2161,Lindenwold,,0,,,1,1
-1,14,2162,Lindenwold,,0,,,1,1
-1,14,2163,Lindenwold,,0,,,1,1
-1,14,2164,Lindenwold,,0,,,1,1
-1,14,2165,Lindenwold,,0,,,1,1
-1,14,2166,Lindenwold,,0,,,1,1
-1,14,2167,Lindenwold,,0,,,1,1
-1,14,2168,Lindenwold,,0,,,1,1
-1,14,2169,Lindenwold,,0,,,1,1
-1,14,2170,Lindenwold,,0,,,1,1
-1,14,2171,Lindenwold,,0,,,1,1
-1,14,2172,Lindenwold,,0,,,1,1
-1,14,2173,Lindenwold,,0,,,1,1
-1,14,2174,Lindenwold,,0,,,1,1
-1,14,2175,Lindenwold,,0,,,1,1
-1,14,2176,Lindenwold,,0,,,1,1
-1,14,2177,Lindenwold,,0,,,1,1
-1,14,2178,Lindenwold,,0,,,1,1
-1,14,2179,Lindenwold,,0,,,1,1
-1,14,2180,Lindenwold,,0,,,1,1
-1,14,2181,Lindenwold,,0,,,1,1
-1,14,2182,Lindenwold,,0,,,1,1
-1,14,2183,Lindenwold,,0,,,1,1
-1,14,2184,Lindenwold,,0,,,1,1
-1,14,2185,Lindenwold,,0,,,1,1
-1,14,2186,Lindenwold,,0,,,1,1
-1,14,2187,Lindenwold,,0,,,1,1
-1,14,2188,Lindenwold,,0,,,1,1
-1,14,2189,Lindenwold,,0,,,1,1
-1,14,2190,Lindenwold,,0,,,1,1
-1,14,2191,Lindenwold,,0,,,1,1
-1,14,2192,Lindenwold,,0,,,1,1
-1,14,2193,Lindenwold,,0,,,1,1
-1,14,2194,Lindenwold,,0,,,1,1
-1,14,2195,Lindenwold,,0,,,1,1
-1,14,2196,Lindenwold,,0,,,1,1
-1,14,2197,Lindenwold,,0,,,1,1
-1,14,2198,Lindenwold,,0,,,1,1
-1,14,2199,Lindenwold,,0,,,1,1
-1,14,2200,Lindenwold,,0,,,1,1
-1,14,2201,Lindenwold,,0,,,1,1
-1,14,2202,Lindenwold,,0,,,1,1
-1,14,2203,Lindenwold,,0,,,1,1
-1,14,2204,Lindenwold,,0,,,1,1
-1,14,2205,Lindenwold,,0,,,1,1
-1,14,2206,Lindenwold,,0,,,1,1
-1,14,2207,Lindenwold,,0,,,1,1
-1,14,2208,Lindenwold,,0,,,1,1
-1,14,2209,Lindenwold,,0,,,1,1
-1,14,2210,Lindenwold,,0,,,1,1
-1,14,2211,Lindenwold,,0,,,1,1
-1,14,2212,Lindenwold,,0,,,1,1
-1,14,2213,Lindenwold,,0,,,1,1
-1,14,2214,Lindenwold,,0,,,1,1
-1,14,2215,Lindenwold,,0,,,1,1
-1,14,2216,Lindenwold,,0,,,1,1
-1,14,2217,Lindenwold,,0,,,1,1
-1,14,2218,Lindenwold,,0,,,1,1
-1,14,2219,Lindenwold,,0,,,1,1
-1,14,2220,Lindenwold,,0,,,1,1
-1,14,2221,Lindenwold,,0,,,1,1
-1,14,2222,Lindenwold,,0,,,1,1
-2,15,2223,Philadelphia,,0,,,1,1
-2,15,2224,Philadelphia,,0,,,1,1
-2,15,2225,Philadelphia,,0,,,1,1
-2,15,2226,Philadelphia,,0,,,1,1
-2,15,2227,Philadelphia,,0,,,1,1
-2,15,2228,Philadelphia,,0,,,1,1
-2,15,2229,Philadelphia,,0,,,1,1
-2,15,2230,Philadelphia,,0,,,1,1
-2,15,2231,Philadelphia,,0,,,1,1
-2,15,2232,Philadelphia,,0,,,1,1
-2,15,2233,Philadelphia,,0,,,1,1
-2,15,2234,Philadelphia,,0,,,1,1
-2,15,2235,Philadelphia,,0,,,1,1
-2,15,2236,Philadelphia,,0,,,1,1
-2,15,2237,Philadelphia,,0,,,1,1
-2,15,2238,Philadelphia,,0,,,1,1
-2,15,2239,Philadelphia,,0,,,1,1
-2,15,2240,Philadelphia,,0,,,1,1
-2,15,2241,Philadelphia,,0,,,1,1
-2,15,2242,Philadelphia,,0,,,1,1
-2,15,2243,Philadelphia,,0,,,1,1
-2,15,2244,Philadelphia,,0,,,1,1
-2,15,2245,Philadelphia,,0,,,1,1
-2,15,2246,Philadelphia,,0,,,1,1
-2,15,2247,Philadelphia,,0,,,1,1
-2,15,2248,Philadelphia,,0,,,1,1
-2,15,2249,Philadelphia,,0,,,1,1
-2,15,2250,Philadelphia,,0,,,1,1
-2,15,2251,Philadelphia,,0,,,1,1
-2,15,2252,Philadelphia,,0,,,1,1
-2,15,2253,Philadelphia,,0,,,1,1
-2,15,2254,Philadelphia,,0,,,1,1
-2,15,2255,Philadelphia,,0,,,1,1
-2,15,2256,Philadelphia,,0,,,1,1
-2,15,2257,Philadelphia,,0,,,1,1
-2,15,2258,Philadelphia,,0,,,1,1
-2,15,2259,Philadelphia,,0,,,1,1
-2,15,2260,Philadelphia,,0,,,1,1
-2,15,2261,Philadelphia,,0,,,1,1
-2,15,2262,Philadelphia,,0,,,1,1
-2,15,2263,Philadelphia,,0,,,1,1
-2,15,2264,Philadelphia,,0,,,1,1
-2,15,2265,Philadelphia,,0,,,1,1
-2,15,2266,Philadelphia,,0,,,1,1
-2,15,2267,Philadelphia,,0,,,1,1
-1,15,2268,Lindenwold,,0,,,1,1
-1,15,2269,Lindenwold,,0,,,1,1
-1,15,2270,Lindenwold,,0,,,1,1
-1,15,2271,Lindenwold,,0,,,1,1
-1,15,2272,Lindenwold,,0,,,1,1
-1,15,2273,Lindenwold,,0,,,1,1
-1,15,2274,Lindenwold,,0,,,1,1
-1,15,2275,Lindenwold,,0,,,1,1
-1,15,2276,Lindenwold,,0,,,1,1
-1,15,2277,Lindenwold,,0,,,1,1
-1,15,2278,Lindenwold,,0,,,1,1
-1,15,2279,Lindenwold,,0,,,1,1
-1,15,2280,Lindenwold,,0,,,1,1
-1,15,2281,Lindenwold,,0,,,1,1
-1,15,2282,Lindenwold,,0,,,1,1
-1,15,2283,Lindenwold,,0,,,1,1
-1,15,2284,Lindenwold,,0,,,1,1
-1,15,2285,Lindenwold,,0,,,1,1
-1,15,2286,Lindenwold,,0,,,1,1
-1,15,2287,Lindenwold,,0,,,1,1
-1,15,2288,Lindenwold,,0,,,1,1
-1,15,2289,Lindenwold,,0,,,1,1
-1,15,2290,Lindenwold,,0,,,1,1
-1,15,2291,Lindenwold,,0,,,1,1
-1,15,2292,Lindenwold,,0,,,1,1
-1,15,2293,Lindenwold,,0,,,1,1
-1,15,2294,Lindenwold,,0,,,1,1
-1,15,2295,Lindenwold,,0,,,1,1
-1,15,2296,Lindenwold,,0,,,1,1
-1,15,2297,Lindenwold,,0,,,1,1
-1,15,2298,Lindenwold,,0,,,1,1
-1,15,2299,Lindenwold,,0,,,1,1
-1,15,2300,Lindenwold,,0,,,1,1
-1,15,2301,Lindenwold,,0,,,1,1
-1,15,2302,Lindenwold,,0,,,1,1
-1,15,2303,Lindenwold,,0,,,1,1
-1,15,2304,Lindenwold,,0,,,1,1
-1,15,2305,Lindenwold,,0,,,1,1
-1,15,2306,Lindenwold,,0,,,1,1
-1,15,2307,Lindenwold,,0,,,1,1
-1,15,2308,Lindenwold,,0,,,1,1
-1,15,2309,Lindenwold,,0,,,1,1
-1,15,2310,Lindenwold,,0,,,1,1
-1,15,2311,Lindenwold,,0,,,1,1
-1,15,2312,Lindenwold,,0,,,1,1
-2,16,2313,Philadelphia,,0,,,1,1
-2,16,2314,Philadelphia,,0,,,1,1
-2,16,2315,Philadelphia,,0,,,1,1
-2,16,2316,Philadelphia,,0,,,1,1
-2,16,2317,Philadelphia,,0,,,1,1
-2,16,2318,Philadelphia,,0,,,1,1
-2,16,2319,Philadelphia,,0,,,1,1
-2,16,2320,Philadelphia,,0,,,1,1
-2,16,2321,Philadelphia,,0,,,1,1
-2,16,2322,Philadelphia,,0,,,1,1
-2,16,2323,Philadelphia,,0,,,1,1
-2,16,2324,Philadelphia,,0,,,1,1
-2,16,2325,Philadelphia,,0,,,1,1
-2,16,2326,Philadelphia,,0,,,1,1
-2,16,2327,Philadelphia,,0,,,1,1
-2,16,2328,Philadelphia,,0,,,1,1
-2,16,2329,Philadelphia,,0,,,1,1
-2,16,2330,Philadelphia,,0,,,1,1
-2,16,2331,Philadelphia,,0,,,1,1
-2,16,2332,Philadelphia,,0,,,1,1
-2,16,2333,Philadelphia,,0,,,1,1
-2,16,2334,Philadelphia,,0,,,1,1
-2,16,2335,Philadelphia,,0,,,1,1
-2,16,2336,Philadelphia,,0,,,1,1
-2,16,2337,Philadelphia,,0,,,1,1
-2,16,2338,Philadelphia,,0,,,1,1
-2,16,2339,Philadelphia,,0,,,1,1
-2,16,2340,Philadelphia,,0,,,1,1
-2,16,2341,Philadelphia,,0,,,1,1
-2,16,2342,Philadelphia,,0,,,1,1
-2,16,2343,Philadelphia,,0,,,1,1
-2,16,2344,Philadelphia,,0,,,1,1
-2,16,2345,Philadelphia,,0,,,1,1
-2,16,2346,Philadelphia,,0,,,1,1
-2,16,2347,Philadelphia,,0,,,1,1
-2,16,2348,Philadelphia,,0,,,1,1
-2,16,2349,Philadelphia,,0,,,1,1
-2,16,2350,Philadelphia,,0,,,1,1
-2,16,2351,Philadelphia,,0,,,1,1
-2,16,2352,Philadelphia,,0,,,1,1
-2,16,2353,Philadelphia,,0,,,1,1
-2,16,2354,Philadelphia,,0,,,1,1
-2,16,2355,Philadelphia,,0,,,1,1
-2,16,2356,Philadelphia,,0,,,1,1
-2,16,2357,Philadelphia,,0,,,1,1
-2,16,2358,Philadelphia,,0,,,1,1
-2,16,2359,Philadelphia,,0,,,1,1
-2,16,2360,Philadelphia,,0,,,1,1
-2,16,2361,Philadelphia,,0,,,1,1
-2,16,2362,Philadelphia,,0,,,1,1
-2,16,2363,Philadelphia,,0,,,1,1
-2,16,2364,Philadelphia,,0,,,1,1
-2,16,2365,Philadelphia,,0,,,1,1
-2,16,2366,Philadelphia,,0,,,1,1
-2,16,2367,Philadelphia,,0,,,1,1
-2,16,2368,Philadelphia,,0,,,1,1
-2,16,2369,Philadelphia,,0,,,1,1
-2,16,2370,Philadelphia,,0,,,1,1
-2,16,2371,Philadelphia,,0,,,1,1
-2,16,2372,Philadelphia,,0,,,1,1
-2,16,2373,Philadelphia,,0,,,1,1
-2,16,2374,Philadelphia,,0,,,1,1
-2,16,2375,Philadelphia,,0,,,1,1
-2,16,2376,Philadelphia,,0,,,1,1
-2,16,2377,Philadelphia,,0,,,1,1
-2,16,2378,Philadelphia,,0,,,1,1
-2,16,2379,Philadelphia,,0,,,1,1
-2,16,2380,Philadelphia,,0,,,1,1
-2,16,2381,Philadelphia,,0,,,1,1
-2,16,2382,Philadelphia,,0,,,1,1
-2,16,2383,Philadelphia,,0,,,1,1
-2,16,2384,Philadelphia,,0,,,1,1
-2,16,2385,Philadelphia,,0,,,1,1
-2,16,2386,Philadelphia,,0,,,1,1
-2,16,2387,Philadelphia,,0,,,1,1
-2,16,2388,Philadelphia,,0,,,1,1
-2,16,2389,Philadelphia,,0,,,1,1
-2,16,2390,Philadelphia,,0,,,1,1
-2,16,2391,Philadelphia,,0,,,1,1
-2,16,2392,Philadelphia,,0,,,1,1
-2,16,2393,Philadelphia,,0,,,1,1
-2,16,2394,Philadelphia,,0,,,1,1
-2,16,2395,Philadelphia,,0,,,1,1
-2,16,2396,Philadelphia,,0,,,1,1
-2,16,2397,Philadelphia,,0,,,1,1
-2,16,2398,Philadelphia,,0,,,1,1
-2,16,2399,Philadelphia,,0,,,1,1
-2,16,2400,Philadelphia,,0,,,1,1
-2,16,2401,Philadelphia,,0,,,1,1
-2,16,2402,Philadelphia,,0,,,1,1
-2,16,2403,Philadelphia,,0,,,1,1
-2,16,2404,Philadelphia,,0,,,1,1
-2,16,2405,Philadelphia,,0,,,1,1
-2,16,2406,Philadelphia,,0,,,1,1
-2,16,2407,Philadelphia,,0,,,1,1
-2,16,2408,Philadelphia,,0,,,1,1
-2,16,2409,Philadelphia,,0,,,1,1
-2,16,2410,Philadelphia,,0,,,1,1
-2,16,2411,Philadelphia,,0,,,1,1
-2,16,2412,Philadelphia,,0,,,1,1
-2,16,2413,Philadelphia,,0,,,1,1
-2,16,2414,Philadelphia,,0,,,1,1
-2,16,2415,Philadelphia,,0,,,1,1
-2,16,2416,Philadelphia,,0,,,1,1
-2,16,2417,Philadelphia,,0,,,1,1
-1,16,2418,Lindenwold,,0,,,1,1
-1,16,2419,Lindenwold,,0,,,1,1
-1,16,2420,Lindenwold,,0,,,1,1
-1,16,2421,Lindenwold,,0,,,1,1
-1,16,2422,Lindenwold,,0,,,1,1
-1,16,2423,Lindenwold,,0,,,1,1
-1,16,2424,Lindenwold,,0,,,1,1
-1,16,2425,Lindenwold,,0,,,1,1
-1,16,2426,Lindenwold,,0,,,1,1
-1,16,2427,Lindenwold,,0,,,1,1
-1,16,2428,Lindenwold,,0,,,1,1
-1,16,2429,Lindenwold,,0,,,1,1
-1,16,2430,Lindenwold,,0,,,1,1
-1,16,2431,Lindenwold,,0,,,1,1
-1,16,2432,Lindenwold,,0,,,1,1
-1,16,2433,Lindenwold,,0,,,1,1
-1,16,2434,Lindenwold,,0,,,1,1
-1,16,2435,Lindenwold,,0,,,1,1
-1,16,2436,Lindenwold,,0,,,1,1
-1,16,2437,Lindenwold,,0,,,1,1
-1,16,2438,Lindenwold,,0,,,1,1
-1,16,2439,Lindenwold,,0,,,1,1
-1,16,2440,Lindenwold,,0,,,1,1
-1,16,2441,Lindenwold,,0,,,1,1
-1,16,2442,Lindenwold,,0,,,1,1
-1,16,2443,Lindenwold,,0,,,1,1
-1,16,2444,Lindenwold,,0,,,1,1
-1,16,2445,Lindenwold,,0,,,1,1
-1,16,2446,Lindenwold,,0,,,1,1
-1,16,2447,Lindenwold,,0,,,1,1
-1,16,2448,Lindenwold,,0,,,1,1
-1,16,2449,Lindenwold,,0,,,1,1
-1,16,2450,Lindenwold,,0,,,1,1
-1,16,2451,Lindenwold,,0,,,1,1
-1,16,2452,Lindenwold,,0,,,1,1
-1,16,2453,Lindenwold,,0,,,1,1
-1,16,2454,Lindenwold,,0,,,1,1
-1,16,2455,Lindenwold,,0,,,1,1
-1,16,2456,Lindenwold,,0,,,1,1
-1,16,2457,Lindenwold,,0,,,1,1
-1,16,2458,Lindenwold,,0,,,1,1
-1,16,2459,Lindenwold,,0,,,1,1
-1,16,2460,Lindenwold,,0,,,1,1
-1,16,2461,Lindenwold,,0,,,1,1
-1,16,2462,Lindenwold,,0,,,1,1
-1,16,2463,Lindenwold,,0,,,1,1
-1,16,2464,Lindenwold,,0,,,1,1
-1,16,2465,Lindenwold,,0,,,1,1
-1,16,2466,Lindenwold,,0,,,1,1
-1,16,2467,Lindenwold,,0,,,1,1
-1,16,2468,Lindenwold,,0,,,1,1
-1,16,2469,Lindenwold,,0,,,1,1
-1,16,2470,Lindenwold,,0,,,1,1
-1,16,2471,Lindenwold,,0,,,1,1
-1,16,2472,Lindenwold,,0,,,1,1
-1,16,2473,Lindenwold,,0,,,1,1
-1,16,2474,Lindenwold,,0,,,1,1
-1,16,2475,Lindenwold,,0,,,1,1
-1,16,2476,Lindenwold,,0,,,1,1
-1,16,2477,Lindenwold,,0,,,1,1
-1,16,2478,Lindenwold,,0,,,1,1
-1,16,2479,Lindenwold,,0,,,1,1
-1,16,2480,Lindenwold,,0,,,1,1
-1,16,2481,Lindenwold,,0,,,1,1
-1,16,2482,Lindenwold,,0,,,1,1
-1,16,2483,Lindenwold,,0,,,1,1
-1,16,2484,Lindenwold,,0,,,1,1
-1,16,2485,Lindenwold,,0,,,1,1
-1,16,2486,Lindenwold,,0,,,1,1
-1,16,2487,Lindenwold,,0,,,1,1
-1,16,2488,Lindenwold,,0,,,1,1
-1,16,2489,Lindenwold,,0,,,1,1
-1,16,2490,Lindenwold,,0,,,1,1
-1,16,2491,Lindenwold,,0,,,1,1
-1,16,2492,Lindenwold,,0,,,1,1
-1,16,2493,Lindenwold,,0,,,1,1
-1,16,2494,Lindenwold,,0,,,1,1
-1,16,2495,Lindenwold,,0,,,1,1
-1,16,2496,Lindenwold,,0,,,1,1
-1,16,2497,Lindenwold,,0,,,1,1
-1,16,2498,Lindenwold,,0,,,1,1
-1,16,2499,Lindenwold,,0,,,1,1
-1,16,2500,Lindenwold,,0,,,1,1
-1,16,2501,Lindenwold,,0,,,1,1
-1,16,2502,Lindenwold,,0,,,1,1
-1,16,2503,Lindenwold,,0,,,1,1
-1,16,2504,Lindenwold,,0,,,1,1
-1,16,2505,Lindenwold,,0,,,1,1
-1,16,2506,Lindenwold,,0,,,1,1
-1,16,2507,Lindenwold,,0,,,1,1
-1,16,2508,Lindenwold,,0,,,1,1
-1,16,2509,Lindenwold,,0,,,1,1
-2,17,2510,Philadelphia,,0,,,1,1
-2,17,2511,Philadelphia,,0,,,1,1
-2,17,2512,Philadelphia,,0,,,1,1
-2,17,2513,Philadelphia,,0,,,1,1
-2,17,2514,Philadelphia,,0,,,1,1
-2,17,2515,Philadelphia,,0,,,1,1
-2,17,2516,Philadelphia,,0,,,1,1
-2,17,2517,Philadelphia,,0,,,1,1
-2,17,2518,Philadelphia,,0,,,1,1
-2,17,2519,Philadelphia,,0,,,1,1
-2,17,2520,Philadelphia,,0,,,1,1
-2,17,2521,Philadelphia,,0,,,1,1
-2,17,2522,Philadelphia,,0,,,1,1
-2,17,2523,Philadelphia,,0,,,1,1
-2,17,2524,Philadelphia,,0,,,1,1
-2,17,2525,Philadelphia,,0,,,1,1
-2,17,2526,Philadelphia,,0,,,1,1
-2,17,2527,Philadelphia,,0,,,1,1
-2,17,2528,Philadelphia,,0,,,1,1
-2,17,2529,Philadelphia,,0,,,1,1
-2,17,2530,Philadelphia,,0,,,1,1
-2,17,2531,Philadelphia,,0,,,1,1
-2,17,2532,Philadelphia,,0,,,1,1
-2,17,2533,Philadelphia,,0,,,1,1
-2,17,2534,Philadelphia,,0,,,1,1
-2,17,2535,Philadelphia,,0,,,1,1
-2,17,2536,Philadelphia,,0,,,1,1
-2,17,2537,Philadelphia,,0,,,1,1
-2,17,2538,Philadelphia,,0,,,1,1
-2,17,2539,Philadelphia,,0,,,1,1
-2,17,2540,Philadelphia,,0,,,1,1
-2,17,2541,Philadelphia,,0,,,1,1
-2,17,2542,Philadelphia,,0,,,1,1
-2,17,2543,Philadelphia,,0,,,1,1
-2,17,2544,Philadelphia,,0,,,1,1
-2,17,2545,Philadelphia,,0,,,1,1
-2,17,2546,Philadelphia,,0,,,1,1
-2,17,2547,Philadelphia,,0,,,1,1
-2,17,2548,Philadelphia,,0,,,1,1
-2,17,2549,Philadelphia,,0,,,1,1
-2,17,2550,Philadelphia,,0,,,1,1
-2,17,2551,Philadelphia,,0,,,1,1
-2,17,2552,Philadelphia,,0,,,1,1
-2,17,2553,Philadelphia,,0,,,1,1
-2,17,2554,Philadelphia,,0,,,1,1
-2,17,2555,Philadelphia,,0,,,1,1
-2,17,2556,Philadelphia,,0,,,1,1
-2,17,2557,Philadelphia,,0,,,1,1
-2,17,2558,Philadelphia,,0,,,1,1
-2,17,2559,Philadelphia,,0,,,1,1
-2,17,2560,Philadelphia,,0,,,1,1
-2,17,2561,Philadelphia,,0,,,1,1
-2,17,2562,Philadelphia,,0,,,1,1
-2,17,2563,Philadelphia,,0,,,1,1
-2,17,2564,Philadelphia,,0,,,1,1
-2,17,2565,Philadelphia,,0,,,1,1
-2,17,2566,Philadelphia,,0,,,1,1
-2,17,2567,Philadelphia,,0,,,1,1
-2,17,2568,Philadelphia,,0,,,1,1
-2,17,2569,Philadelphia,,0,,,1,1
-2,17,2570,Philadelphia,,0,,,1,1
-2,17,2571,Philadelphia,,0,,,1,1
-2,17,2572,Philadelphia,,0,,,1,1
-2,17,2573,Philadelphia,,0,,,1,1
-2,17,2574,Philadelphia,,0,,,1,1
-2,17,2575,Philadelphia,,0,,,1,1
-2,17,2576,Philadelphia,,0,,,1,1
-2,17,2577,Philadelphia,,0,,,1,1
-2,17,2578,Philadelphia,,0,,,1,1
-2,17,2579,Philadelphia,,0,,,1,1
-2,17,2580,Philadelphia,,0,,,1,1
-2,17,2581,Philadelphia,,0,,,1,1
-2,17,2582,Philadelphia,,0,,,1,1
-2,17,2583,Philadelphia,,0,,,1,1
-2,17,2584,Philadelphia,,0,,,1,1
-2,17,2585,Philadelphia,,0,,,1,1
-2,17,2586,Philadelphia,,0,,,1,1
-2,17,2587,Philadelphia,,0,,,1,1
-2,17,2588,Philadelphia,,0,,,1,1
-2,17,2589,Philadelphia,,0,,,1,1
-2,17,2590,Philadelphia,,0,,,1,1
-2,17,2591,Philadelphia,,0,,,1,1
-2,17,2592,Philadelphia,,0,,,1,1
-2,17,2593,Philadelphia,,0,,,1,1
-2,17,2594,Philadelphia,,0,,,1,1
-2,17,2595,Philadelphia,,0,,,1,1
-2,17,2596,Philadelphia,,0,,,1,1
-2,17,2597,Philadelphia,,0,,,1,1
-1,17,2598,Lindenwold,,0,,,1,1
-1,17,2599,Lindenwold,,0,,,1,1
-1,17,2600,Lindenwold,,0,,,1,1
-1,17,2601,Lindenwold,,0,,,1,1
-1,17,2602,Lindenwold,,0,,,1,1
-1,17,2603,Lindenwold,,0,,,1,1
-1,17,2604,Lindenwold,,0,,,1,1
-1,17,2605,Lindenwold,,0,,,1,1
-1,17,2606,Lindenwold,,0,,,1,1
-1,17,2607,Lindenwold,,0,,,1,1
-1,17,2608,Lindenwold,,0,,,1,1
-1,17,2609,Lindenwold,,0,,,1,1
-1,17,2610,Lindenwold,,0,,,1,1
-1,17,2611,Lindenwold,,0,,,1,1
-1,17,2612,Lindenwold,,0,,,1,1
-1,17,2613,Lindenwold,,0,,,1,1
-1,17,2614,Lindenwold,,0,,,1,1
-1,17,2615,Lindenwold,,0,,,1,1
-1,17,2616,Lindenwold,,0,,,1,1
-1,17,2617,Lindenwold,,0,,,1,1
-1,17,2618,Lindenwold,,0,,,1,1
-1,17,2619,Lindenwold,,0,,,1,1
-1,17,2620,Lindenwold,,0,,,1,1
-1,17,2621,Lindenwold,,0,,,1,1
-1,17,2622,Lindenwold,,0,,,1,1
-1,17,2623,Lindenwold,,0,,,1,1
-1,17,2624,Lindenwold,,0,,,1,1
-1,17,2625,Lindenwold,,0,,,1,1
-1,17,2626,Lindenwold,,0,,,1,1
-1,17,2627,Lindenwold,,0,,,1,1
-1,17,2628,Lindenwold,,0,,,1,1
-1,17,2629,Lindenwold,,0,,,1,1
-1,17,2630,Lindenwold,,0,,,1,1
-1,17,2631,Lindenwold,,0,,,1,1
-1,17,2632,Lindenwold,,0,,,1,1
-1,17,2633,Lindenwold,,0,,,1,1
-1,17,2634,Lindenwold,,0,,,1,1
-1,17,2635,Lindenwold,,0,,,1,1
-1,17,2636,Lindenwold,,0,,,1,1
-1,17,2637,Lindenwold,,0,,,1,1
-1,17,2638,Lindenwold,,0,,,1,1
-1,17,2639,Lindenwold,,0,,,1,1
-1,17,2640,Lindenwold,,0,,,1,1
-1,17,2641,Lindenwold,,0,,,1,1
-1,17,2642,Lindenwold,,0,,,1,1
-1,17,2643,Lindenwold,,0,,,1,1
-1,17,2644,Lindenwold,,0,,,1,1
-1,17,2645,Lindenwold,,0,,,1,1
-1,17,2646,Lindenwold,,0,,,1,1
-1,17,2647,Lindenwold,,0,,,1,1
-1,17,2648,Lindenwold,,0,,,1,1
-1,17,2649,Lindenwold,,0,,,1,1
-1,17,2650,Lindenwold,,0,,,1,1
-1,17,2651,Lindenwold,,0,,,1,1
-1,17,2652,Lindenwold,,0,,,1,1
-1,17,2653,Lindenwold,,0,,,1,1
-1,17,2654,Lindenwold,,0,,,1,1
-1,17,2655,Lindenwold,,0,,,1,1
-1,17,2656,Lindenwold,,0,,,1,1
-1,17,2657,Lindenwold,,0,,,1,1
-1,17,2658,Lindenwold,,0,,,1,1
-1,17,2659,Lindenwold,,0,,,1,1
-1,17,2660,Lindenwold,,0,,,1,1
-1,17,2661,Lindenwold,,0,,,1,1
-1,17,2662,Lindenwold,,0,,,1,1
-1,17,2663,Lindenwold,,0,,,1,1
-1,17,2664,Lindenwold,,0,,,1,1
-1,17,2665,Lindenwold,,0,,,1,1
-1,17,2666,Lindenwold,,0,,,1,1
-1,17,2667,Lindenwold,,0,,,1,1
-1,17,2668,Lindenwold,,0,,,1,1
-1,17,2669,Lindenwold,,0,,,1,1
-1,17,2670,Lindenwold,,0,,,1,1
-1,17,2671,Lindenwold,,0,,,1,1
-1,17,2672,Lindenwold,,0,,,1,1
-1,17,2673,Lindenwold,,0,,,1,1
-1,17,2674,Lindenwold,,0,,,1,1
-1,17,2675,Lindenwold,,0,,,1,1
-1,17,2676,Lindenwold,,0,,,1,1
-1,17,2677,Lindenwold,,0,,,1,1
-1,17,2678,Lindenwold,,0,,,1,1
-1,17,2679,Lindenwold,,0,,,1,1
-1,17,2680,Lindenwold,,0,,,1,1
-1,17,2681,Lindenwold,,0,,,1,1
-1,17,2682,Lindenwold,,0,,,1,1
-1,17,2683,Lindenwold,,0,,,1,1
-1,17,2684,Lindenwold,,0,,,1,1
-1,17,2685,Lindenwold,,0,,,1,1
-2,18,2686,Philadelphia,,0,,,1,1
-2,18,2687,Philadelphia,,0,,,1,1
-2,18,2688,Philadelphia,,0,,,1,1
-2,18,2689,Philadelphia,,0,,,1,1
-2,18,2690,Philadelphia,,0,,,1,1
-2,18,2691,Philadelphia,,0,,,1,1
-2,18,2692,Philadelphia,,0,,,1,1
-2,18,2693,Philadelphia,,0,,,1,1
-2,18,2694,Philadelphia,,0,,,1,1
-2,18,2695,Philadelphia,,0,,,1,1
-2,18,2696,Philadelphia,,0,,,1,1
-2,18,2697,Philadelphia,,0,,,1,1
-2,18,2698,Philadelphia,,0,,,1,1
-2,18,2710,Philadelphia,,0,,,1,1
-2,18,2711,Philadelphia,,0,,,1,1
-2,18,2712,Philadelphia,,0,,,1,1
-2,18,2713,Philadelphia,,0,,,1,1
-2,18,2714,Philadelphia,,0,,,1,1
-2,18,2715,Philadelphia,,0,,,1,1
-2,18,2716,Philadelphia,,0,,,1,1
-2,18,2717,Philadelphia,,0,,,1,1
-2,18,2718,Philadelphia,,0,,,1,1
-2,18,2719,Philadelphia,,0,,,1,1
-2,18,2720,Philadelphia,,0,,,1,1
-2,18,2721,Philadelphia,,0,,,1,1
-2,18,2722,Philadelphia,,0,,,1,1
-2,18,2723,Philadelphia,,0,,,1,1
-2,18,2699,Philadelphia,,0,,,1,1
-2,18,2700,Philadelphia,,0,,,1,1
-2,18,2701,Philadelphia,,0,,,1,1
-2,18,2702,Philadelphia,,0,,,1,1
-2,18,2703,Philadelphia,,0,,,1,1
-2,18,2704,Philadelphia,,0,,,1,1
-2,18,2705,Philadelphia,,0,,,1,1
-2,18,2706,Philadelphia,,0,,,1,1
-2,18,2707,Philadelphia,,0,,,1,1
-2,18,2708,Philadelphia,,0,,,1,1
-2,18,2709,Philadelphia,,0,,,1,1
-2,18,2724,Philadelphia,,0,,,1,1
-2,18,2725,Philadelphia,,0,,,1,1
-2,18,2726,Philadelphia,,0,,,1,1
-2,18,2727,Philadelphia,,0,,,1,1
-2,18,2728,Philadelphia,,0,,,1,1
-2,18,2729,Philadelphia,,0,,,1,1
-2,18,2730,Philadelphia,,0,,,1,1
-2,18,2731,Philadelphia,,0,,,1,1
-2,18,2732,Philadelphia,,0,,,1,1
-2,18,2733,Philadelphia,,0,,,1,1
-2,18,2734,Philadelphia,,0,,,1,1
-2,18,2735,Philadelphia,,0,,,1,1
-2,18,2736,Philadelphia,,0,,,1,1
-2,18,2737,Philadelphia,,0,,,1,1
-2,18,2738,Philadelphia,,0,,,1,1
-2,18,2739,Philadelphia,,0,,,1,1
-2,18,2740,Philadelphia,,0,,,1,1
-2,18,2741,Philadelphia,,0,,,1,1
-2,18,2742,Philadelphia,,0,,,1,1
-2,18,2743,Philadelphia,,0,,,1,1
-2,18,2744,Philadelphia,,0,,,1,1
-2,18,2745,Philadelphia,,0,,,1,1
-2,18,2746,Philadelphia,,0,,,1,1
-2,18,2747,Philadelphia,,0,,,1,1
-2,18,2748,Philadelphia,,0,,,1,1
-2,18,2749,Philadelphia,,0,,,1,1
-2,18,2750,Philadelphia,,0,,,1,1
-2,18,2751,Philadelphia,,0,,,1,1
-2,18,2752,Philadelphia,,0,,,1,1
-2,18,2753,Philadelphia,,0,,,1,1
-2,18,2754,Philadelphia,,0,,,1,1
-2,18,2755,Philadelphia,,0,,,1,1
-2,18,2756,Philadelphia,,0,,,1,1
-2,18,2757,Philadelphia,,0,,,1,1
-2,18,2758,Philadelphia,,0,,,1,1
-2,18,2759,Philadelphia,,0,,,1,1
-2,18,2760,Philadelphia,,0,,,1,1
-2,18,2761,Philadelphia,,0,,,1,1
-2,18,2762,Philadelphia,,0,,,1,1
-2,18,2763,Philadelphia,,0,,,1,1
-2,18,2764,Philadelphia,,0,,,1,1
-2,18,2765,Philadelphia,,0,,,1,1
-2,18,2766,Philadelphia,,0,,,1,1
-2,18,2767,Philadelphia,,0,,,1,1
-2,18,2768,Philadelphia,,0,,,1,1
-2,18,2769,Philadelphia,,0,,,1,1
-2,18,2770,Philadelphia,,0,,,1,1
-2,18,2771,Philadelphia,,0,,,1,1
-2,18,2772,Philadelphia,,0,,,1,1
-2,18,2773,Philadelphia,,0,,,1,1
-2,18,2774,Philadelphia,,0,,,1,1
-2,18,2775,Philadelphia,,0,,,1,1
-2,18,2776,Philadelphia,,0,,,1,1
-2,18,2777,Philadelphia,,0,,,1,1
-2,18,2778,Philadelphia,,0,,,1,1
-2,18,2779,Philadelphia,,0,,,1,1
-2,18,2780,Philadelphia,,0,,,1,1
-2,18,2781,Philadelphia,,0,,,1,1
-2,18,2782,Philadelphia,,0,,,1,1
-2,18,2783,Philadelphia,,0,,,1,1
-2,18,2784,Philadelphia,,0,,,1,1
-2,18,2785,Philadelphia,,0,,,1,1
-2,18,2786,Philadelphia,,0,,,1,1
-2,18,2787,Philadelphia,,0,,,1,1
-2,18,2788,Philadelphia,,0,,,1,1
-2,18,2789,Philadelphia,,0,,,1,1
-2,18,2790,Philadelphia,,0,,,1,1
-2,18,2791,Philadelphia,,0,,,1,1
-2,18,2792,Philadelphia,,0,,,1,1
-2,18,2793,Philadelphia,,0,,,1,1
-1,18,2794,Lindenwold,,0,,,1,1
-1,18,2795,Lindenwold,,0,,,1,1
-1,18,2796,Lindenwold,,0,,,1,1
-1,18,2797,Lindenwold,,0,,,1,1
-1,18,2798,Lindenwold,,0,,,1,1
-1,18,2799,Lindenwold,,0,,,1,1
-1,18,2800,Lindenwold,,0,,,1,1
-1,18,2801,Lindenwold,,0,,,1,1
-1,18,2802,Lindenwold,,0,,,1,1
-1,18,2803,Lindenwold,,0,,,1,1
-1,18,2804,Lindenwold,,0,,,1,1
-1,18,2805,Lindenwold,,0,,,1,1
-1,18,2806,Lindenwold,,0,,,1,1
-1,18,2807,Lindenwold,,0,,,1,1
-1,18,2808,Lindenwold,,0,,,1,1
-1,18,2809,Lindenwold,,0,,,1,1
-1,18,2810,Lindenwold,,0,,,1,1
-1,18,2811,Lindenwold,,0,,,1,1
-1,18,2812,Lindenwold,,0,,,1,1
-1,18,2813,Lindenwold,,0,,,1,1
-1,18,2814,Lindenwold,,0,,,1,1
-1,18,2815,Lindenwold,,0,,,1,1
-1,18,2816,Lindenwold,,0,,,1,1
-1,18,2817,Lindenwold,,0,,,1,1
-1,18,2818,Lindenwold,,0,,,1,1
-1,18,2819,Lindenwold,,0,,,1,1
-1,18,2820,Lindenwold,,0,,,1,1
-1,18,2821,Lindenwold,,0,,,1,1
-1,18,2822,Lindenwold,,0,,,1,1
-1,18,2823,Lindenwold,,0,,,1,1
-1,18,2824,Lindenwold,,0,,,1,1
-1,18,2825,Lindenwold,,0,,,1,1
-1,18,2826,Lindenwold,,0,,,1,1
-1,18,2827,Lindenwold,,0,,,1,1
-1,18,2828,Lindenwold,,0,,,1,1
-1,18,2829,Lindenwold,,0,,,1,1
-1,18,2830,Lindenwold,,0,,,1,1
-1,18,2831,Lindenwold,,0,,,1,1
-1,18,2832,Lindenwold,,0,,,1,1
-1,18,2833,Lindenwold,,0,,,1,1
-1,18,2834,Lindenwold,,0,,,1,1
-1,18,2835,Lindenwold,,0,,,1,1
-1,18,2836,Lindenwold,,0,,,1,1
-1,18,2837,Lindenwold,,0,,,1,1
-1,18,2838,Lindenwold,,0,,,1,1
-1,18,2839,Lindenwold,,0,,,1,1
-1,18,2840,Lindenwold,,0,,,1,1
-1,18,2841,Lindenwold,,0,,,1,1
-1,18,2842,Lindenwold,,0,,,1,1
-1,18,2843,Lindenwold,,0,,,1,1
-1,18,2844,Lindenwold,,0,,,1,1
-1,18,2845,Lindenwold,,0,,,1,1
-1,18,2846,Lindenwold,,0,,,1,1
-1,18,2847,Lindenwold,,0,,,1,1
-1,18,2848,Lindenwold,,0,,,1,1
-1,18,2849,Lindenwold,,0,,,1,1
-1,18,2850,Lindenwold,,0,,,1,1
-1,18,2851,Lindenwold,,0,,,1,1
-1,18,2852,Lindenwold,,0,,,1,1
-1,18,2853,Lindenwold,,0,,,1,1
-1,18,2854,Lindenwold,,0,,,1,1
-1,18,2855,Lindenwold,,0,,,1,1
-1,18,2856,Lindenwold,,0,,,1,1
-1,18,2857,Lindenwold,,0,,,1,1
-1,18,2858,Lindenwold,,0,,,1,1
-1,18,2859,Lindenwold,,0,,,1,1
-1,18,2860,Lindenwold,,0,,,1,1
-1,18,2861,Lindenwold,,0,,,1,1
-1,18,2862,Lindenwold,,0,,,1,1
-1,18,2863,Lindenwold,,0,,,1,1
-1,18,2864,Lindenwold,,0,,,1,1
-1,18,2865,Lindenwold,,0,,,1,1
-1,18,2866,Lindenwold,,0,,,1,1
-1,18,2867,Lindenwold,,0,,,1,1
-1,18,2868,Lindenwold,,0,,,1,1
-1,18,2869,Lindenwold,,0,,,1,1
-1,18,2870,Lindenwold,,0,,,1,1
-1,18,2871,Lindenwold,,0,,,1,1
-1,18,2872,Lindenwold,,0,,,1,1
-1,18,2873,Lindenwold,,0,,,1,1
-1,18,2874,Lindenwold,,0,,,1,1
-1,18,2875,Lindenwold,,0,,,1,1
-1,18,2876,Lindenwold,,0,,,1,1
-1,18,2877,Lindenwold,,0,,,1,1
-1,18,2878,Lindenwold,,0,,,1,1
-1,18,2879,Lindenwold,,0,,,1,1
-1,18,2880,Lindenwold,,0,,,1,1
-1,18,2881,Lindenwold,,0,,,1,1
-1,18,2882,Lindenwold,,0,,,1,1
-1,18,2883,Lindenwold,,0,,,1,1
-1,18,2884,Lindenwold,,0,,,1,1
-1,18,2885,Lindenwold,,0,,,1,1
-1,18,2886,Lindenwold,,0,,,1,1
-1,18,2887,Lindenwold,,0,,,1,1
-1,18,2888,Lindenwold,,0,,,1,1
-1,18,2889,Lindenwold,,0,,,1,1
-1,18,2890,Lindenwold,,0,,,1,1
-1,18,2891,Lindenwold,,0,,,1,1
-1,18,2892,Lindenwold,,0,,,1,1
-1,18,2893,Lindenwold,,0,,,1,1
-1,18,2894,Lindenwold,,0,,,1,1
-1,18,2895,Lindenwold,,0,,,1,1
-1,18,2896,Lindenwold,,0,,,1,1
-1,18,2897,Lindenwold,,0,,,1,1
-2,19,2898,Philadelphia,,0,,,1,1
-2,19,2899,Philadelphia,,0,,,1,1
-2,19,2900,Philadelphia,,0,,,1,1
-2,19,2901,Philadelphia,,0,,,1,1
-2,19,2902,Philadelphia,,0,,,1,1
-2,19,2903,Philadelphia,,0,,,1,1
-2,19,2904,Philadelphia,,0,,,1,1
-2,19,2905,Philadelphia,,0,,,1,1
-2,19,2906,Philadelphia,,0,,,1,1
-2,19,2907,Philadelphia,,0,,,1,1
-2,19,2908,Philadelphia,,0,,,1,1
-2,19,2909,Philadelphia,,0,,,1,1
-2,19,2910,Philadelphia,,0,,,1,1
-2,19,2911,Philadelphia,,0,,,1,1
-2,19,2912,Philadelphia,,0,,,1,1
-2,19,2913,Philadelphia,,0,,,1,1
-2,19,2914,Philadelphia,,0,,,1,1
-2,19,2915,Philadelphia,,0,,,1,1
-2,19,2916,Philadelphia,,0,,,1,1
-2,19,2917,Philadelphia,,0,,,1,1
-2,19,2918,Philadelphia,,0,,,1,1
-2,19,2919,Philadelphia,,0,,,1,1
-2,19,2920,Philadelphia,,0,,,1,1
-2,19,2921,Philadelphia,,0,,,1,1
-2,19,2922,Philadelphia,,0,,,1,1
-2,19,2923,Philadelphia,,0,,,1,1
-2,19,2924,Philadelphia,,0,,,1,1
-2,19,2925,Philadelphia,,0,,,1,1
-2,19,2926,Philadelphia,,0,,,1,1
-2,19,2927,Philadelphia,,0,,,1,1
-2,19,2928,Philadelphia,,0,,,1,1
-2,19,2929,Philadelphia,,0,,,1,1
-2,19,2930,Philadelphia,,0,,,1,1
-2,19,2931,Philadelphia,,0,,,1,1
-2,19,2932,Philadelphia,,0,,,1,1
-2,19,2933,Philadelphia,,0,,,1,1
-2,19,2934,Philadelphia,,0,,,1,1
-2,19,2935,Philadelphia,,0,,,1,1
-2,19,2936,Philadelphia,,0,,,1,1
-2,19,2937,Philadelphia,,0,,,1,1
-2,19,2938,Philadelphia,,0,,,1,1
-2,19,2939,Philadelphia,,0,,,1,1
-2,19,2940,Philadelphia,,0,,,1,1
-2,19,2941,Philadelphia,,0,,,1,1
-2,19,2942,Philadelphia,,0,,,1,1
-2,19,2943,Philadelphia,,0,,,1,1
-2,19,2944,Philadelphia,,0,,,1,1
-2,19,2945,Philadelphia,,0,,,1,1
-2,19,2946,Philadelphia,,0,,,1,1
-2,19,2947,Philadelphia,,0,,,1,1
-2,19,2948,Philadelphia,,0,,,1,1
-2,19,2949,Philadelphia,,0,,,1,1
-1,19,2950,Lindenwold,,0,,,1,1
-1,19,2951,Lindenwold,,0,,,1,1
-1,19,2952,Lindenwold,,0,,,1,1
-1,19,2953,Lindenwold,,0,,,1,1
-1,19,2954,Lindenwold,,0,,,1,1
-1,19,2955,Lindenwold,,0,,,1,1
-1,19,2956,Lindenwold,,0,,,1,1
-1,19,2957,Lindenwold,,0,,,1,1
-1,19,2958,Lindenwold,,0,,,1,1
-1,19,2959,Lindenwold,,0,,,1,1
-1,19,2960,Lindenwold,,0,,,1,1
-1,19,2961,Lindenwold,,0,,,1,1
-1,19,2962,Lindenwold,,0,,,1,1
-1,19,2963,Lindenwold,,0,,,1,1
-1,19,2964,Lindenwold,,0,,,1,1
-1,19,2965,Lindenwold,,0,,,1,1
-1,19,2966,Lindenwold,,0,,,1,1
-1,19,2967,Lindenwold,,0,,,1,1
-1,19,2968,Lindenwold,,0,,,1,1
-1,19,2969,Lindenwold,,0,,,1,1
-1,19,2970,Lindenwold,,0,,,1,1
-1,19,2971,Lindenwold,,0,,,1,1
-1,19,2972,Lindenwold,,0,,,1,1
-1,19,2973,Lindenwold,,0,,,1,1
-1,19,2974,Lindenwold,,0,,,1,1
-1,19,2975,Lindenwold,,0,,,1,1
-1,19,2976,Lindenwold,,0,,,1,1
-1,19,2977,Lindenwold,,0,,,1,1
-1,19,2978,Lindenwold,,0,,,1,1
-1,19,2979,Lindenwold,,0,,,1,1
-1,19,2980,Lindenwold,,0,,,1,1
-1,19,2981,Lindenwold,,0,,,1,1
-1,19,2982,Lindenwold,,0,,,1,1
-1,19,2983,Lindenwold,,0,,,1,1
-1,19,2984,Lindenwold,,0,,,1,1
-1,19,2985,Lindenwold,,0,,,1,1
-1,19,2986,Lindenwold,,0,,,1,1
-1,19,2987,Lindenwold,,0,,,1,1
-1,19,2988,Lindenwold,,0,,,1,1
-1,19,2989,Lindenwold,,0,,,1,1
-1,19,2990,Lindenwold,,0,,,1,1
-1,19,2991,Lindenwold,,0,,,1,1
-1,19,2992,Lindenwold,,0,,,1,1
-1,19,2993,Lindenwold,,0,,,1,1
-1,19,2994,Lindenwold,,0,,,1,1
-1,19,2995,Lindenwold,,0,,,1,1
-1,19,2996,Lindenwold,,0,,,1,1
-1,19,2997,Lindenwold,,0,,,1,1
-1,19,2998,Lindenwold,,0,,,1,1
-1,19,2999,Lindenwold,,0,,,1,1
-1,19,3000,Lindenwold,,0,,,1,1
-1,19,3001,Lindenwold,,0,,,1,1
-1,19,3002,Lindenwold,,0,,,1,1
-2,20,3003,Philadelphia,,0,,,1,1
-2,20,3004,Philadelphia,,0,,,1,1
-2,20,3005,Philadelphia,,0,,,1,1
-2,20,3006,Philadelphia,,0,,,1,1
-2,20,3007,Philadelphia,,0,,,1,1
-2,20,3008,Philadelphia,,0,,,1,1
-2,20,3009,Philadelphia,,0,,,1,1
-2,20,3010,Philadelphia,,0,,,1,1
-2,20,3011,Philadelphia,,0,,,1,1
-2,20,3012,Philadelphia,,0,,,1,1
-2,20,3013,Philadelphia,,0,,,1,1
-2,20,3014,Philadelphia,,0,,,1,1
-2,20,3015,Philadelphia,,0,,,1,1
-2,20,3016,Philadelphia,,0,,,1,1
-2,20,3017,Philadelphia,,0,,,1,1
-2,20,3018,Philadelphia,,0,,,1,1
-2,20,3019,Philadelphia,,0,,,1,1
-2,20,3020,Philadelphia,,0,,,1,1
-2,20,3021,Philadelphia,,0,,,1,1
-2,20,3022,Philadelphia,,0,,,1,1
-2,20,3023,Philadelphia,,0,,,1,1
-2,20,3024,Philadelphia,,0,,,1,1
-2,20,3025,Philadelphia,,0,,,1,1
-2,20,3026,Philadelphia,,0,,,1,1
-2,20,3027,Philadelphia,,0,,,1,1
-2,20,3028,Philadelphia,,0,,,1,1
-2,20,3029,Philadelphia,,0,,,1,1
-2,20,3030,Philadelphia,,0,,,1,1
-2,20,3031,Philadelphia,,0,,,1,1
-2,20,3032,Philadelphia,,0,,,1,1
-2,20,3033,Philadelphia,,0,,,1,1
-2,20,3034,Philadelphia,,0,,,1,1
-2,20,3035,Philadelphia,,0,,,1,1
-2,20,3036,Philadelphia,,0,,,1,1
-2,20,3037,Philadelphia,,0,,,1,1
-2,20,3038,Philadelphia,,0,,,1,1
-2,20,3039,Philadelphia,,0,,,1,1
-2,20,3040,Philadelphia,,0,,,1,1
-2,20,3041,Philadelphia,,0,,,1,1
-2,20,3042,Philadelphia,,0,,,1,1
-2,20,3043,Philadelphia,,0,,,1,1
-2,20,3044,Philadelphia,,0,,,1,1
-2,20,3045,Philadelphia,,0,,,1,1
-2,20,3046,Philadelphia,,0,,,1,1
-2,20,3047,Philadelphia,,0,,,1,1
-1,20,3048,Lindenwold,,0,,,1,1
-1,20,3049,Lindenwold,,0,,,1,1
-1,20,3050,Lindenwold,,0,,,1,1
-1,20,3051,Lindenwold,,0,,,1,1
-1,20,3052,Lindenwold,,0,,,1,1
-1,20,3053,Lindenwold,,0,,,1,1
-1,20,3054,Lindenwold,,0,,,1,1
-1,20,3055,Lindenwold,,0,,,1,1
-1,20,3056,Lindenwold,,0,,,1,1
-1,20,3057,Lindenwold,,0,,,1,1
-1,20,3058,Lindenwold,,0,,,1,1
-1,20,3059,Lindenwold,,0,,,1,1
-1,20,3060,Lindenwold,,0,,,1,1
-1,20,3061,Lindenwold,,0,,,1,1
-1,20,3062,Lindenwold,,0,,,1,1
-1,20,3063,Lindenwold,,0,,,1,1
-1,20,3064,Lindenwold,,0,,,1,1
-1,20,3065,Lindenwold,,0,,,1,1
-1,20,3066,Lindenwold,,0,,,1,1
-1,20,3067,Lindenwold,,0,,,1,1
-1,20,3068,Lindenwold,,0,,,1,1
-1,20,3069,Lindenwold,,0,,,1,1
-1,20,3070,Lindenwold,,0,,,1,1
-1,20,3071,Lindenwold,,0,,,1,1
-1,20,3072,Lindenwold,,0,,,1,1
-1,20,3073,Lindenwold,,0,,,1,1
-1,20,3074,Lindenwold,,0,,,1,1
-1,20,3075,Lindenwold,,0,,,1,1
-1,20,3076,Lindenwold,,0,,,1,1
-1,20,3077,Lindenwold,,0,,,1,1
-1,20,3078,Lindenwold,,0,,,1,1
-1,20,3079,Lindenwold,,0,,,1,1
-1,20,3080,Lindenwold,,0,,,1,1
-1,20,3081,Lindenwold,,0,,,1,1
-1,20,3082,Lindenwold,,0,,,1,1
-1,20,3083,Lindenwold,,0,,,1,1
-1,20,3084,Lindenwold,,0,,,1,1
-1,20,3085,Lindenwold,,0,,,1,1
-1,20,3086,Lindenwold,,0,,,1,1
-1,20,3087,Lindenwold,,0,,,1,1
-1,20,3088,Lindenwold,,0,,,1,1
-1,20,3089,Lindenwold,,0,,,1,1
-1,20,3090,Lindenwold,,0,,,1,1
-1,20,3091,Lindenwold,,0,,,1,1
-1,20,3092,Lindenwold,,0,,,1,1
-1,20,3093,Lindenwold,,0,,,1,1
-1,21,3094,Lindenwold,,0,,,1,1
-1,21,3095,Lindenwold,,0,,,1,1
-1,21,3096,Lindenwold,,0,,,1,1
-1,21,3097,Lindenwold,,0,,,1,1
-1,21,3098,Lindenwold,,0,,,1,1
-1,21,3099,Lindenwold,,0,,,1,1
-1,21,3100,Lindenwold,,0,,,1,1
-1,21,3101,Lindenwold,,0,,,1,1
-1,21,3102,Lindenwold,,0,,,1,1
-1,21,3103,Lindenwold,,0,,,1,1
-1,21,3104,Lindenwold,,0,,,1,1
-1,21,3105,Lindenwold,,0,,,1,1
-1,21,3106,Lindenwold,,0,,,1,1
-1,21,3107,Lindenwold,,0,,,1,1
-1,21,3108,Lindenwold,,0,,,1,1
-1,21,3109,Lindenwold,,0,,,1,1
-1,21,3110,Lindenwold,,0,,,1,1
-1,21,3111,Lindenwold,,0,,,1,1
-1,21,3112,Lindenwold,,0,,,1,1
-1,21,3113,Lindenwold,,0,,,1,1
-1,21,3114,Lindenwold,,0,,,1,1
-1,21,3115,Lindenwold,,0,,,1,1
-1,21,3116,Lindenwold,,0,,,1,1
-1,21,3117,Lindenwold,,0,,,1,1
-1,21,3118,Lindenwold,,0,,,1,1
-1,21,3119,Lindenwold,,0,,,1,1
-1,21,3120,Lindenwold,,0,,,1,1
-1,21,3121,Lindenwold,,0,,,1,1
-1,21,3122,Lindenwold,,0,,,1,1
-1,21,3123,Lindenwold,,0,,,1,1
-1,21,3124,Lindenwold,,0,,,1,1
-1,21,3125,Lindenwold,,0,,,1,1
-1,21,3126,Lindenwold,,0,,,1,1
-1,21,3127,Lindenwold,,0,,,1,1
-1,21,3128,Lindenwold,,0,,,1,1
-1,21,3129,Lindenwold,,0,,,1,1
-1,21,3130,Lindenwold,,0,,,1,1
-1,21,3131,Lindenwold,,0,,,1,1
-1,21,3132,Lindenwold,,0,,,1,1
-1,21,3133,Lindenwold,,0,,,1,1
-1,21,3134,Lindenwold,,0,,,1,1
-1,21,3135,Lindenwold,,0,,,1,1
-1,21,3136,Lindenwold,,0,,,1,1
-1,21,3137,Lindenwold,,0,,,1,1
-1,21,3138,Lindenwold,,0,,,1,1
-1,21,3139,Lindenwold,,0,,,1,1
-1,21,3140,Lindenwold,,0,,,1,1
-1,21,3141,Lindenwold,,0,,,1,1
-1,21,3142,Lindenwold,,0,,,1,1
-1,21,3143,Lindenwold,,0,,,1,1
-1,21,3144,Lindenwold,,0,,,1,1
-1,21,3145,Lindenwold,,0,,,1,1
-1,21,3146,Lindenwold,,0,,,1,1
-1,21,3147,Lindenwold,,0,,,1,1
-1,21,3148,Lindenwold,,0,,,1,1
-1,21,3149,Lindenwold,,0,,,1,1
-1,21,3150,Lindenwold,,0,,,1,1
-1,21,3151,Lindenwold,,0,,,1,1
-1,21,3152,Lindenwold,,0,,,1,1
-1,21,3153,Lindenwold,,0,,,1,1
-1,21,3154,Lindenwold,,0,,,1,1
-1,21,3155,Lindenwold,,0,,,1,1
-1,21,3156,Lindenwold,,0,,,1,1
-1,21,3157,Lindenwold,,0,,,1,1
-1,21,3158,Lindenwold,,0,,,1,1
-1,21,3159,Lindenwold,,0,,,1,1
-1,21,3160,Lindenwold,,0,,,1,1
-1,21,3161,Lindenwold,,0,,,1,1
-1,21,3162,Lindenwold,,0,,,1,1
-1,21,3163,Lindenwold,,0,,,1,1
-1,21,3164,Lindenwold,,0,,,1,1
-1,21,3165,Lindenwold,,0,,,1,1
-1,21,3166,Lindenwold,,0,,,1,1
-1,21,3167,Lindenwold,,0,,,1,1
-1,21,3168,Lindenwold,,0,,,1,1
-1,21,3169,Lindenwold,,0,,,1,1
-1,21,3170,Lindenwold,,0,,,1,1
-1,21,3171,Lindenwold,,0,,,1,1
-1,21,3172,Lindenwold,,0,,,1,1
-1,21,3173,Lindenwold,,0,,,1,1
-1,21,3174,Lindenwold,,0,,,1,1
-1,21,3175,Lindenwold,,0,,,1,1
-1,21,3176,Lindenwold,,0,,,1,1
-1,21,3177,Lindenwold,,0,,,1,1
-1,21,3178,Lindenwold,,0,,,1,1
-1,21,3179,Lindenwold,,0,,,1,1
-1,21,3180,Lindenwold,,0,,,1,1
-1,21,3181,Lindenwold,,0,,,1,1
-1,21,3182,Lindenwold,,0,,,1,1
-1,21,3183,Lindenwold,,0,,,1,1
-1,21,3184,Lindenwold,,0,,,1,1
-1,21,3185,Lindenwold,,0,,,1,1
-1,21,3186,Lindenwold,,0,,,1,1
-1,21,3187,Lindenwold,,0,,,1,1
-1,21,3188,Lindenwold,,0,,,1,1
-1,21,3189,Lindenwold,,0,,,1,1
-1,21,3190,Lindenwold,,0,,,1,1
-1,21,3191,Lindenwold,,0,,,1,1
-1,21,3192,Lindenwold,,0,,,1,1
-1,21,3193,Lindenwold,,0,,,1,1
-1,21,3194,Lindenwold,,0,,,1,1
-1,21,3195,Lindenwold,,0,,,1,1
-1,21,3196,Lindenwold,,0,,,1,1
-1,21,3197,Lindenwold,,0,,,1,1
-2,21,3198,Philadelphia,,0,,,1,1
-2,21,3199,Philadelphia,,0,,,1,1
-2,21,3200,Philadelphia,,0,,,1,1
-2,21,3201,Philadelphia,,0,,,1,1
-2,21,3202,Philadelphia,,0,,,1,1
-2,21,3203,Philadelphia,,0,,,1,1
-2,21,3204,Philadelphia,,0,,,1,1
-2,21,3205,Philadelphia,,0,,,1,1
-2,21,3206,Philadelphia,,0,,,1,1
-2,21,3207,Philadelphia,,0,,,1,1
-2,21,3208,Philadelphia,,0,,,1,1
-2,21,3209,Philadelphia,,0,,,1,1
-2,21,3210,Philadelphia,,0,,,1,1
-2,21,3211,Philadelphia,,0,,,1,1
-2,21,3212,Philadelphia,,0,,,1,1
-2,21,3213,Philadelphia,,0,,,1,1
-2,21,3214,Philadelphia,,0,,,1,1
-2,21,3215,Philadelphia,,0,,,1,1
-2,21,3216,Philadelphia,,0,,,1,1
-2,21,3217,Philadelphia,,0,,,1,1
-2,21,3218,Philadelphia,,0,,,1,1
-2,21,3219,Philadelphia,,0,,,1,1
-2,21,3220,Philadelphia,,0,,,1,1
-2,21,3221,Philadelphia,,0,,,1,1
-2,21,3222,Philadelphia,,0,,,1,1
-2,21,3223,Philadelphia,,0,,,1,1
-2,21,3224,Philadelphia,,0,,,1,1
-2,21,3225,Philadelphia,,0,,,1,1
-2,21,3226,Philadelphia,,0,,,1,1
-2,21,3227,Philadelphia,,0,,,1,1
-2,21,3228,Philadelphia,,0,,,1,1
-2,21,3229,Philadelphia,,0,,,1,1
-2,21,3230,Philadelphia,,0,,,1,1
-2,21,3231,Philadelphia,,0,,,1,1
-2,21,3232,Philadelphia,,0,,,1,1
-2,21,3233,Philadelphia,,0,,,1,1
-2,21,3234,Philadelphia,,0,,,1,1
-2,21,3235,Philadelphia,,0,,,1,1
-2,21,3236,Philadelphia,,0,,,1,1
-2,21,3237,Philadelphia,,0,,,1,1
-2,21,3238,Philadelphia,,0,,,1,1
-2,21,3239,Philadelphia,,0,,,1,1
-2,21,3240,Philadelphia,,0,,,1,1
-2,21,3241,Philadelphia,,0,,,1,1
-2,21,3242,Philadelphia,,0,,,1,1
-2,21,3243,Philadelphia,,0,,,1,1
-2,21,3244,Philadelphia,,0,,,1,1
-2,21,3245,Philadelphia,,0,,,1,1
-2,21,3246,Philadelphia,,0,,,1,1
-2,21,3247,Philadelphia,,0,,,1,1
-2,21,3248,Philadelphia,,0,,,1,1
-2,21,3249,Philadelphia,,0,,,1,1
-2,21,3250,Philadelphia,,0,,,1,1
-2,21,3251,Philadelphia,,0,,,1,1
-2,21,3252,Philadelphia,,0,,,1,1
-2,21,3253,Philadelphia,,0,,,1,1
-2,21,3254,Philadelphia,,0,,,1,1
-2,21,3255,Philadelphia,,0,,,1,1
-2,21,3256,Philadelphia,,0,,,1,1
-2,21,3257,Philadelphia,,0,,,1,1
-2,21,3258,Philadelphia,,0,,,1,1
-2,21,3259,Philadelphia,,0,,,1,1
-2,21,3260,Philadelphia,,0,,,1,1
-2,21,3261,Philadelphia,,0,,,1,1
-2,21,3262,Philadelphia,,0,,,1,1
-2,21,3263,Philadelphia,,0,,,1,1
-2,21,3264,Philadelphia,,0,,,1,1
-2,21,3265,Philadelphia,,0,,,1,1
-2,21,3266,Philadelphia,,0,,,1,1
-2,21,3267,Philadelphia,,0,,,1,1
-2,21,3268,Philadelphia,,0,,,1,1
-2,21,3269,Philadelphia,,0,,,1,1
-2,21,3270,Philadelphia,,0,,,1,1
-2,21,3271,Philadelphia,,0,,,1,1
-2,21,3272,Philadelphia,,0,,,1,1
-2,21,3273,Philadelphia,,0,,,1,1
-2,21,3274,Philadelphia,,0,,,1,1
-2,21,3275,Philadelphia,,0,,,1,1
-2,21,3276,Philadelphia,,0,,,1,1
-2,21,3277,Philadelphia,,0,,,1,1
-2,21,3278,Philadelphia,,0,,,1,1
-2,21,3279,Philadelphia,,0,,,1,1
-2,21,3280,Philadelphia,,0,,,1,1
-2,21,3281,Philadelphia,,0,,,1,1
-2,21,3282,Philadelphia,,0,,,1,1
-2,21,3283,Philadelphia,,0,,,1,1
-2,21,3284,Philadelphia,,0,,,1,1
-2,21,3285,Philadelphia,,0,,,1,1
-2,21,3286,Philadelphia,,0,,,1,1
-2,21,3287,Philadelphia,,0,,,1,1
-2,21,3288,Philadelphia,,0,,,1,1
-2,21,3289,Philadelphia,,0,,,1,1
-2,21,3290,Philadelphia,,0,,,1,1
-2,21,3291,Philadelphia,,0,,,1,1
-2,21,3292,Philadelphia,,0,,,1,1
-2,21,3293,Philadelphia,,0,,,1,1
-2,21,3294,Philadelphia,,0,,,1,1
-2,21,3295,Philadelphia,,0,,,1,1
-2,21,3296,Philadelphia,,0,,,1,1
-2,21,3297,Philadelphia,,0,,,1,1
-2,21,3298,Philadelphia,,0,,,1,1
-2,21,3299,Philadelphia,,0,,,1,1
-2,21,3300,Philadelphia,,0,,,1,1
-2,21,3301,Philadelphia,,0,,,1,1
-2,21,3302,Philadelphia,,0,,,1,1
-2,21,3303,Philadelphia,,0,,,1,1
-2,21,3304,Philadelphia,,0,,,1,1
-2,21,3305,Philadelphia,,0,,,1,1
-1,22,3306,Lindenwold,,0,,,1,1
-1,22,3307,Lindenwold,,0,,,1,1
-1,22,3308,Lindenwold,,0,,,1,1
-1,22,3309,Lindenwold,,0,,,1,1
-1,22,3310,Lindenwold,,0,,,1,1
-1,22,3311,Lindenwold,,0,,,1,1
-1,22,3312,Lindenwold,,0,,,1,1
-1,22,3313,Lindenwold,,0,,,1,1
-1,22,3314,Lindenwold,,0,,,1,1
-1,22,3315,Lindenwold,,0,,,1,1
-1,22,3316,Lindenwold,,0,,,1,1
-1,22,3317,Lindenwold,,0,,,1,1
-1,22,3318,Lindenwold,,0,,,1,1
-1,22,3319,Lindenwold,,0,,,1,1
-1,22,3320,Lindenwold,,0,,,1,1
-1,22,3321,Lindenwold,,0,,,1,1
-1,22,3322,Lindenwold,,0,,,1,1
-1,22,3323,Lindenwold,,0,,,1,1
-1,22,3324,Lindenwold,,0,,,1,1
-1,22,3325,Lindenwold,,0,,,1,1
-1,22,3326,Lindenwold,,0,,,1,1
-1,22,3327,Lindenwold,,0,,,1,1
-1,22,3328,Lindenwold,,0,,,1,1
-1,22,3329,Lindenwold,,0,,,1,1
-1,22,3330,Lindenwold,,0,,,1,1
-1,22,3331,Lindenwold,,0,,,1,1
-1,22,3332,Lindenwold,,0,,,1,1
-1,22,3333,Lindenwold,,0,,,1,1
-1,22,3334,Lindenwold,,0,,,1,1
-1,22,3335,Lindenwold,,0,,,1,1
-1,22,3336,Lindenwold,,0,,,1,1
-1,22,3337,Lindenwold,,0,,,1,1
-1,22,3338,Lindenwold,,0,,,1,1
-1,22,3339,Lindenwold,,0,,,1,1
-1,22,3340,Lindenwold,,0,,,1,1
-1,22,3341,Lindenwold,,0,,,1,1
-1,22,3342,Lindenwold,,0,,,1,1
-1,22,3343,Lindenwold,,0,,,1,1
-1,22,3344,Lindenwold,,0,,,1,1
-1,22,3345,Lindenwold,,0,,,1,1
-1,22,3346,Lindenwold,,0,,,1,1
-1,22,3347,Lindenwold,,0,,,1,1
-1,22,3348,Lindenwold,,0,,,1,1
-1,22,3349,Lindenwold,,0,,,1,1
-1,22,3350,Lindenwold,,0,,,1,1
-1,22,3351,Lindenwold,,0,,,1,1
-1,22,3352,Lindenwold,,0,,,1,1
-1,22,3353,Lindenwold,,0,,,1,1
-1,22,3354,Lindenwold,,0,,,1,1
-1,22,3355,Lindenwold,,0,,,1,1
-1,22,3356,Lindenwold,,0,,,1,1
-1,22,3357,Lindenwold,,0,,,1,1
-1,22,3358,Lindenwold,,0,,,1,1
-1,22,3359,Lindenwold,,0,,,1,1
-1,22,3360,Lindenwold,,0,,,1,1
-1,22,3361,Lindenwold,,0,,,1,1
-1,22,3362,Lindenwold,,0,,,1,1
-1,22,3363,Lindenwold,,0,,,1,1
-1,22,3364,Lindenwold,,0,,,1,1
-1,22,3365,Lindenwold,,0,,,1,1
-1,22,3366,Lindenwold,,0,,,1,1
-1,22,3367,Lindenwold,,0,,,1,1
-1,23,3368,Lindenwold,,0,,,1,1
-1,23,3369,Lindenwold,,0,,,1,1
-1,23,3370,Lindenwold,,0,,,1,1
-1,23,3371,Lindenwold,,0,,,1,1
-1,23,3372,Lindenwold,,0,,,1,1
-1,23,3373,Lindenwold,,0,,,1,1
-1,23,3374,Lindenwold,,0,,,1,1
-1,23,3375,Lindenwold,,0,,,1,1
-1,23,3376,Lindenwold,,0,,,1,1
-1,23,3377,Lindenwold,,0,,,1,1
-1,23,3378,Lindenwold,,0,,,1,1
-1,23,3379,Lindenwold,,0,,,1,1
-1,23,3380,Lindenwold,,0,,,1,1
-1,23,3381,Lindenwold,,0,,,1,1
-1,23,3382,Lindenwold,,0,,,1,1
-1,23,3383,Lindenwold,,0,,,1,1
-1,23,3384,Lindenwold,,0,,,1,1
-1,23,3385,Lindenwold,,0,,,1,1
-1,23,3386,Lindenwold,,0,,,1,1
-1,23,3387,Lindenwold,,0,,,1,1
-1,23,3388,Lindenwold,,0,,,1,1
-1,23,3389,Lindenwold,,0,,,1,1
-1,23,3390,Lindenwold,,0,,,1,1
-1,23,3391,Lindenwold,,0,,,1,1
-1,23,3392,Lindenwold,,0,,,1,1
-1,23,3393,Lindenwold,,0,,,1,1
-1,23,3394,Lindenwold,,0,,,1,1
-1,23,3395,Lindenwold,,0,,,1,1
-1,23,3396,Lindenwold,,0,,,1,1
-1,23,3397,Lindenwold,,0,,,1,1
-1,23,3398,Lindenwold,,0,,,1,1
-1,23,3399,Lindenwold,,0,,,1,1
-1,23,3400,Lindenwold,,0,,,1,1
-1,23,3401,Lindenwold,,0,,,1,1
-1,23,3402,Lindenwold,,0,,,1,1
-1,23,3403,Lindenwold,,0,,,1,1
-1,23,3404,Lindenwold,,0,,,1,1
-1,23,3405,Lindenwold,,0,,,1,1
-1,23,3406,Lindenwold,,0,,,1,1
-1,23,3407,Lindenwold,,0,,,1,1
-1,23,3408,Lindenwold,,0,,,1,1
-1,23,3409,Lindenwold,,0,,,1,1
-1,23,3410,Lindenwold,,0,,,1,1
-1,23,3411,Lindenwold,,0,,,1,1
-1,23,3412,Lindenwold,,0,,,1,1
-2,22,3413,Philadelphia,,0,,,1,1
-2,22,3414,Philadelphia,,0,,,1,1
-2,22,3415,Philadelphia,,0,,,1,1
-2,22,3416,Philadelphia,,0,,,1,1
-2,22,3417,Philadelphia,,0,,,1,1
-2,22,3418,Philadelphia,,0,,,1,1
-2,22,3419,Philadelphia,,0,,,1,1
-2,22,3420,Philadelphia,,0,,,1,1
-2,22,3421,Philadelphia,,0,,,1,1
-2,22,3422,Philadelphia,,0,,,1,1
-2,22,3423,Philadelphia,,0,,,1,1
-2,22,3424,Philadelphia,,0,,,1,1
-2,22,3425,Philadelphia,,0,,,1,1
-2,22,3426,Philadelphia,,0,,,1,1
-2,22,3427,Philadelphia,,0,,,1,1
-2,22,3428,Philadelphia,,0,,,1,1
-2,22,3429,Philadelphia,,0,,,1,1
-2,22,3430,Philadelphia,,0,,,1,1
-2,22,3431,Philadelphia,,0,,,1,1
-2,22,3432,Philadelphia,,0,,,1,1
-2,22,3433,Philadelphia,,0,,,1,1
-2,22,3434,Philadelphia,,0,,,1,1
-2,22,3435,Philadelphia,,0,,,1,1
-2,22,3436,Philadelphia,,0,,,1,1
-2,22,3437,Philadelphia,,0,,,1,1
-2,22,3438,Philadelphia,,0,,,1,1
-2,22,3439,Philadelphia,,0,,,1,1
-2,22,3440,Philadelphia,,0,,,1,1
-2,22,3441,Philadelphia,,0,,,1,1
-2,22,3442,Philadelphia,,0,,,1,1
-2,22,3443,Philadelphia,,0,,,1,1
-2,22,3444,Philadelphia,,0,,,1,1
-2,22,3445,Philadelphia,,0,,,1,1
-2,22,3446,Philadelphia,,0,,,1,1
-2,22,3447,Philadelphia,,0,,,1,1
-2,22,3448,Philadelphia,,0,,,1,1
-2,22,3449,Philadelphia,,0,,,1,1
-2,22,3450,Philadelphia,,0,,,1,1
-2,22,3451,Philadelphia,,0,,,1,1
-2,22,3452,Philadelphia,,0,,,1,1
-2,22,3453,Philadelphia,,0,,,1,1
-2,22,3454,Philadelphia,,0,,,1,1
-2,22,3455,Philadelphia,,0,,,1,1
-2,22,3456,Philadelphia,,0,,,1,1
-2,22,3457,Philadelphia,,0,,,1,1
-2,22,3458,Philadelphia,,0,,,1,1
-2,22,3459,Philadelphia,,0,,,1,1
-2,22,3460,Philadelphia,,0,,,1,1
-2,22,3461,Philadelphia,,0,,,1,1
-2,22,3462,Philadelphia,,0,,,1,1
-2,22,3463,Philadelphia,,0,,,1,1
-2,22,3464,Philadelphia,,0,,,1,1
-2,22,3465,Philadelphia,,0,,,1,1
-2,22,3466,Philadelphia,,0,,,1,1
-2,22,3467,Philadelphia,,0,,,1,1
-2,22,3468,Philadelphia,,0,,,1,1
-2,22,3469,Philadelphia,,0,,,1,1
-2,22,3470,Philadelphia,,0,,,1,1
-2,22,3471,Philadelphia,,0,,,1,1
-2,22,3472,Philadelphia,,0,,,1,1
-2,22,3473,Philadelphia,,0,,,1,1
-2,22,3474,Philadelphia,,0,,,1,1
-2,23,3475,Philadelphia,,0,,,1,1
-2,23,3476,Philadelphia,,0,,,1,1
-2,23,3477,Philadelphia,,0,,,1,1
-2,23,3478,Philadelphia,,0,,,1,1
-2,23,3479,Philadelphia,,0,,,1,1
-2,23,3480,Philadelphia,,0,,,1,1
-2,23,3481,Philadelphia,,0,,,1,1
-2,23,3482,Philadelphia,,0,,,1,1
-2,23,3483,Philadelphia,,0,,,1,1
-2,23,3484,Philadelphia,,0,,,1,1
-2,23,3485,Philadelphia,,0,,,1,1
-2,23,3486,Philadelphia,,0,,,1,1
-2,23,3487,Philadelphia,,0,,,1,1
-2,23,3488,Philadelphia,,0,,,1,1
-2,23,3489,Philadelphia,,0,,,1,1
-2,23,3490,Philadelphia,,0,,,1,1
-2,23,3491,Philadelphia,,0,,,1,1
-2,23,3492,Philadelphia,,0,,,1,1
-2,23,3493,Philadelphia,,0,,,1,1
-2,23,3494,Philadelphia,,0,,,1,1
-2,23,3495,Philadelphia,,0,,,1,1
-2,23,3496,Philadelphia,,0,,,1,1
-2,23,3497,Philadelphia,,0,,,1,1
-2,23,3498,Philadelphia,,0,,,1,1
-2,23,3499,Philadelphia,,0,,,1,1
-2,23,3500,Philadelphia,,0,,,1,1
-2,23,3501,Philadelphia,,0,,,1,1
-2,23,3502,Philadelphia,,0,,,1,1
-2,23,3503,Philadelphia,,0,,,1,1
-2,23,3504,Philadelphia,,0,,,1,1
-2,23,3505,Philadelphia,,0,,,1,1
-2,23,3506,Philadelphia,,0,,,1,1
-2,23,3507,Philadelphia,,0,,,1,1
-2,23,3508,Philadelphia,,0,,,1,1
-2,23,3509,Philadelphia,,0,,,1,1
-2,23,3510,Philadelphia,,0,,,1,1
-2,23,3511,Philadelphia,,0,,,1,1
-2,23,3512,Philadelphia,,0,,,1,1
-2,23,3513,Philadelphia,,0,,,1,1
-2,23,3514,Philadelphia,,0,,,1,1
-2,23,3515,Philadelphia,,0,,,1,1
-2,23,3516,Philadelphia,,0,,,1,1
-2,23,3517,Philadelphia,,0,,,1,1
-2,23,3518,Philadelphia,,0,,,1,1
-2,23,3519,Philadelphia,,0,,,1,1
+"route_id","service_id","trip_id","trip_headsign","direction_id","shape_id","bikes_allowed"
+12,3,4151,"LINDENWOLD LOCAL",1,1,1
+12,3,4152,"LINDENWOLD SPECIAL",1,1,1
+12,3,4153,"LINDENWOLD SPECIAL",1,1,1
+12,3,4154,"LINDENWOLD SPECIAL",1,1,1
+12,3,4155,"LINDENWOLD SPECIAL",1,1,1
+12,3,4156,"LINDENWOLD SPECIAL",1,1,1
+12,3,4157,"LINDENWOLD LOCAL",1,1,1
+12,3,4158,"LINDENWOLD LOCAL",1,1,1
+12,3,4159,"LINDENWOLD LOCAL",1,1,1
+12,3,4160,"LINDENWOLD LOCAL",1,1,1
+12,3,4161,"LINDENWOLD LOCAL",1,1,1
+12,3,4162,"LINDENWOLD LOCAL",1,1,1
+12,3,4163,"LINDENWOLD LOCAL",1,1,1
+12,3,4164,"LINDENWOLD LOCAL",1,1,1
+12,3,4165,"LINDENWOLD LOCAL",1,1,1
+12,3,4166,"LINDENWOLD LOCAL",1,1,1
+12,3,4167,"LINDENWOLD LOCAL",1,1,1
+12,3,4168,"LINDENWOLD LOCAL",1,1,1
+12,3,4169,"LINDENWOLD LOCAL",1,1,1
+12,3,4170,"LINDENWOLD LOCAL",1,1,1
+12,3,4171,"LINDENWOLD LOCAL",1,1,1
+12,3,4172,"LINDENWOLD LOCAL",1,1,1
+12,3,4173,"LINDENWOLD LOCAL",1,1,1
+12,3,4174,"LINDENWOLD LOCAL",1,1,1
+12,3,4175,"LINDENWOLD LOCAL",1,1,1
+12,3,4176,"LINDENWOLD LOCAL",1,1,1
+12,3,4177,"LINDENWOLD LOCAL",1,1,1
+12,3,4178,"LINDENWOLD LOCAL",1,1,1
+12,3,4179,"LINDENWOLD LOCAL",1,1,1
+12,3,4180,"LINDENWOLD LOCAL",1,1,1
+12,3,4181,"LINDENWOLD LOCAL",1,1,1
+12,3,4182,"LINDENWOLD LOCAL",1,1,1
+12,3,4183,"LINDENWOLD LOCAL",1,1,1
+12,3,4184,"LINDENWOLD LOCAL",1,1,1
+12,3,4185,"LINDENWOLD LOCAL",1,1,1
+12,3,4186,"LINDENWOLD LOCAL",1,1,1
+12,3,4187,"LINDENWOLD LOCAL",1,1,1
+12,3,4188,"LINDENWOLD LOCAL",1,1,1
+12,3,4189,"LINDENWOLD LOCAL",1,1,1
+12,3,4190,"LINDENWOLD LOCAL",1,1,1
+12,3,4191,"LINDENWOLD LOCAL",1,1,1
+12,3,4192,"LINDENWOLD LOCAL",1,1,1
+12,3,4193,"LINDENWOLD LOCAL",1,1,1
+12,3,4194,"LINDENWOLD LOCAL",1,1,1
+12,3,4195,"LINDENWOLD LOCAL",1,1,1
+12,1,4196,"LINDENWOLD LOCAL",1,1,1
+12,1,4197,"LINDENWOLD SPECIAL",1,1,1
+12,1,4198,"LINDENWOLD SPECIAL",1,1,1
+12,1,4199,"LINDENWOLD SPECIAL",1,1,1
+12,1,4200,"LINDENWOLD SPECIAL",1,1,1
+12,1,4201,"LINDENWOLD SPECIAL",1,1,1
+12,1,4202,"LINDENWOLD LOCAL",1,1,1
+12,1,4203,"LINDENWOLD LOCAL",1,1,1
+12,1,4204,"LINDENWOLD LOCAL",1,1,1
+12,1,4205,"LINDENWOLD LOCAL",1,1,1
+12,1,4206,"LINDENWOLD LOCAL",1,1,1
+12,1,4207,"LINDENWOLD LOCAL",1,1,1
+12,1,4208,"LINDENWOLD LOCAL",1,1,1
+12,1,4209,"LINDENWOLD LOCAL",1,1,1
+12,1,4210,"LINDENWOLD LOCAL",1,1,1
+12,1,4211,"LINDENWOLD LOCAL",1,1,1
+12,1,4212,"LINDENWOLD LOCAL",1,1,1
+12,1,4213,"LINDENWOLD LOCAL",1,1,1
+12,1,4214,"LINDENWOLD LOCAL",1,1,1
+12,1,4215,"LINDENWOLD LOCAL",1,1,1
+12,1,4216,"LINDENWOLD LOCAL",1,1,1
+12,1,4217,"LINDENWOLD LOCAL",1,1,1
+12,1,4218,"LINDENWOLD LOCAL",1,1,1
+12,1,4219,"LINDENWOLD LOCAL",1,1,1
+12,1,4220,"LINDENWOLD LOCAL",1,1,1
+12,1,4221,"LINDENWOLD LOCAL",1,1,1
+12,1,4222,"LINDENWOLD LOCAL",1,1,1
+12,1,4223,"LINDENWOLD LOCAL",1,1,1
+12,1,4224,"LINDENWOLD LOCAL",1,1,1
+12,1,4225,"LINDENWOLD LOCAL",1,1,1
+12,1,4226,"LINDENWOLD LOCAL",1,1,1
+12,1,4227,"LINDENWOLD LOCAL",1,1,1
+12,1,4228,"LINDENWOLD LOCAL",1,1,1
+12,1,4229,"LINDENWOLD LOCAL",1,1,1
+12,1,4230,"LINDENWOLD LOCAL",1,1,1
+12,1,4231,"LINDENWOLD LOCAL",1,1,1
+12,1,4232,"LINDENWOLD LOCAL",1,1,1
+12,1,4233,"LINDENWOLD LOCAL",1,1,1
+12,1,4234,"LINDENWOLD LOCAL",1,1,1
+12,1,4235,"LINDENWOLD LOCAL",1,1,1
+12,1,4236,"LINDENWOLD LOCAL",1,1,1
+12,1,4237,"LINDENWOLD LOCAL",1,1,1
+12,1,4238,"LINDENWOLD LOCAL",1,1,1
+12,1,4239,"LINDENWOLD LOCAL",1,1,1
+12,1,4240,"LINDENWOLD LOCAL",1,1,1
+12,1,4241,"LINDENWOLD LOCAL",1,1,1
+12,1,4242,"LINDENWOLD LOCAL",1,1,1
+12,1,4243,"LINDENWOLD LOCAL",1,1,1
+12,1,4244,"LINDENWOLD LOCAL",1,1,1
+12,1,4245,"LINDENWOLD LOCAL",1,1,1
+12,1,4246,"LINDENWOLD LOCAL",1,1,1
+12,1,4247,"LINDENWOLD LOCAL",1,1,1
+12,1,4248,"LINDENWOLD LOCAL",1,1,1
+12,1,4249,"LINDENWOLD LOCAL",1,1,1
+12,1,4250,"LINDENWOLD LOCAL",1,1,1
+12,1,4251,"LINDENWOLD LOCAL",1,1,1
+12,1,4252,"LINDENWOLD LOCAL",1,1,1
+12,1,4253,"LINDENWOLD LOCAL",1,1,1
+12,1,4254,"LINDENWOLD LOCAL",1,1,1
+12,1,4255,"LINDENWOLD LOCAL",1,1,1
+12,1,4256,"LINDENWOLD LOCAL",1,1,1
+12,1,4257,"LINDENWOLD LOCAL",1,1,1
+12,1,4258,"LINDENWOLD LOCAL",1,1,1
+12,1,4259,"LINDENWOLD LOCAL",1,1,1
+12,1,4260,"LINDENWOLD LOCAL",1,1,1
+12,1,4261,"LINDENWOLD LOCAL",1,1,1
+12,1,4262,"LINDENWOLD LOCAL",1,1,1
+12,1,4263,"LINDENWOLD LOCAL",1,1,1
+12,1,4264,"LINDENWOLD LOCAL",1,1,1
+12,1,4265,"LINDENWOLD LOCAL",1,1,1
+12,1,4266,"LINDENWOLD LOCAL",1,1,1
+12,1,4267,"LINDENWOLD LOCAL",1,1,1
+12,1,4268,"LINDENWOLD LOCAL",1,1,1
+12,1,4269,"LINDENWOLD LOCAL",1,1,1
+12,1,4270,"LINDENWOLD LOCAL",1,1,1
+12,1,4271,"LINDENWOLD LOCAL",1,1,1
+12,1,4272,"LINDENWOLD LOCAL",1,1,1
+12,1,4273,"LINDENWOLD LOCAL",1,1,1
+12,1,4274,"LINDENWOLD LOCAL",1,1,1
+12,1,4275,"LINDENWOLD LOCAL",1,1,1
+12,1,4276,"LINDENWOLD LOCAL",1,1,1
+12,1,4277,"LINDENWOLD LOCAL",1,1,1
+12,1,4278,"LINDENWOLD LOCAL",1,1,1
+12,1,4279,"LINDENWOLD LOCAL",1,1,1
+12,1,4280,"LINDENWOLD LOCAL",1,1,1
+12,1,4281,"LINDENWOLD LOCAL",1,1,1
+12,1,4282,"LINDENWOLD LOCAL",1,1,1
+12,1,4283,"LINDENWOLD LOCAL",1,1,1
+12,1,4284,"LINDENWOLD LOCAL",1,1,1
+12,1,4285,"LINDENWOLD LOCAL",1,1,1
+12,1,4286,"LINDENWOLD LOCAL",1,1,1
+12,1,4287,"LINDENWOLD LOCAL",1,1,1
+12,1,4288,"LINDENWOLD LOCAL",1,1,1
+12,1,4289,"LINDENWOLD LOCAL",1,1,1
+12,1,4290,"LINDENWOLD LOCAL",1,1,1
+12,1,4291,"LINDENWOLD LOCAL",1,1,1
+12,1,4292,"LINDENWOLD LOCAL",1,1,1
+12,1,4293,"LINDENWOLD LOCAL",1,1,1
+12,1,4294,"LINDENWOLD LOCAL",1,1,1
+12,1,4295,"LINDENWOLD LOCAL",1,1,1
+12,1,4296,"LINDENWOLD LOCAL",1,1,1
+12,1,4297,"LINDENWOLD LOCAL",1,1,1
+12,1,4298,"LINDENWOLD LOCAL",1,1,1
+12,1,4299,"LINDENWOLD LOCAL",1,1,1
+12,2,4300,"LINDENWOLD LOCAL",1,1,1
+12,2,4301,"LINDENWOLD SPECIAL",1,1,1
+12,2,4302,"LINDENWOLD SPECIAL",1,1,1
+12,2,4303,"LINDENWOLD SPECIAL",1,1,1
+12,2,4304,"LINDENWOLD SPECIAL",1,1,1
+12,2,4305,"LINDENWOLD SPECIAL",1,1,1
+12,2,4306,"LINDENWOLD LOCAL",1,1,1
+12,2,4307,"LINDENWOLD LOCAL",1,1,1
+12,2,4308,"LINDENWOLD LOCAL",1,1,1
+12,2,4309,"LINDENWOLD LOCAL",1,1,1
+12,2,4310,"LINDENWOLD LOCAL",1,1,1
+12,2,4311,"LINDENWOLD LOCAL",1,1,1
+12,2,4312,"LINDENWOLD LOCAL",1,1,1
+12,2,4313,"LINDENWOLD LOCAL",1,1,1
+12,2,4314,"LINDENWOLD LOCAL",1,1,1
+12,2,4315,"LINDENWOLD LOCAL",1,1,1
+12,2,4316,"LINDENWOLD LOCAL",1,1,1
+12,2,4317,"LINDENWOLD LOCAL",1,1,1
+12,2,4318,"LINDENWOLD LOCAL",1,1,1
+12,2,4319,"LINDENWOLD LOCAL",1,1,1
+12,2,4320,"LINDENWOLD LOCAL",1,1,1
+12,2,4321,"LINDENWOLD LOCAL",1,1,1
+12,2,4322,"LINDENWOLD LOCAL",1,1,1
+12,2,4323,"LINDENWOLD LOCAL",1,1,1
+12,2,4324,"LINDENWOLD LOCAL",1,1,1
+12,2,4325,"LINDENWOLD LOCAL",1,1,1
+12,2,4326,"LINDENWOLD LOCAL",1,1,1
+12,2,4327,"LINDENWOLD LOCAL",1,1,1
+12,2,4328,"LINDENWOLD LOCAL",1,1,1
+12,2,4329,"LINDENWOLD LOCAL",1,1,1
+12,2,4330,"LINDENWOLD LOCAL",1,1,1
+12,2,4331,"LINDENWOLD LOCAL",1,1,1
+12,2,4332,"LINDENWOLD LOCAL",1,1,1
+12,2,4333,"LINDENWOLD LOCAL",1,1,1
+12,2,4334,"LINDENWOLD LOCAL",1,1,1
+12,2,4335,"LINDENWOLD LOCAL",1,1,1
+12,2,4336,"LINDENWOLD LOCAL",1,1,1
+12,2,4337,"LINDENWOLD LOCAL",1,1,1
+12,2,4338,"LINDENWOLD LOCAL",1,1,1
+12,2,4339,"LINDENWOLD LOCAL",1,1,1
+12,2,4340,"LINDENWOLD LOCAL",1,1,1
+12,2,4341,"LINDENWOLD LOCAL",1,1,1
+12,2,4342,"LINDENWOLD LOCAL",1,1,1
+12,2,4343,"LINDENWOLD LOCAL",1,1,1
+12,2,4344,"LINDENWOLD LOCAL",1,1,1
+12,2,4345,"LINDENWOLD LOCAL",1,1,1
+12,2,4346,"LINDENWOLD LOCAL",1,1,1
+12,2,4347,"LINDENWOLD LOCAL",1,1,1
+12,2,4348,"LINDENWOLD LOCAL",1,1,1
+12,2,4349,"LINDENWOLD LOCAL",1,1,1
+12,2,4350,"LINDENWOLD LOCAL",1,1,1
+12,2,4351,"LINDENWOLD LOCAL",1,1,1
+12,2,4352,"LINDENWOLD LOCAL",1,1,1
+12,2,4353,"LINDENWOLD LOCAL",1,1,1
+12,2,4354,"LINDENWOLD LOCAL",1,1,1
+12,2,4355,"LINDENWOLD LOCAL",1,1,1
+12,2,4356,"LINDENWOLD LOCAL",1,1,1
+12,2,4357,"LINDENWOLD LOCAL",1,1,1
+12,2,4358,"LINDENWOLD LOCAL",1,1,1
+12,2,4359,"LINDENWOLD LOCAL",1,1,1
+12,2,4360,"LINDENWOLD LOCAL",1,1,1
+12,2,4361,"LINDENWOLD LOCAL",1,1,1
+12,3,4362,"PHILADELPHIA SPECIAL",0,0,1
+12,3,4363,"PHILADELPHIA SPECIAL",0,0,1
+12,3,4364,"PHILADELPHIA SPECIAL",0,0,1
+12,3,4365,"PHILADELPHIA SPECIAL",0,0,1
+12,3,4366,"PHILADELPHIA SPECIAL",0,0,1
+12,3,4367,"PHILADELPHIA SPECIAL",0,0,1
+12,3,4368,"PHILADELPHIA LOCAL",0,0,1
+12,3,4369,"PHILADELPHIA LOCAL",0,0,1
+12,3,4370,"PHILADELPHIA LOCAL",0,0,1
+12,3,4371,"PHILADELPHIA LOCAL",0,0,1
+12,3,4372,"PHILADELPHIA LOCAL",0,0,1
+12,3,4373,"PHILADELPHIA LOCAL",0,0,1
+12,3,4374,"PHILADELPHIA LOCAL",0,0,1
+12,3,4375,"PHILADELPHIA LOCAL",0,0,1
+12,3,4376,"PHILADELPHIA LOCAL",0,0,1
+12,3,4377,"PHILADELPHIA LOCAL",0,0,1
+12,3,4378,"PHILADELPHIA LOCAL",0,0,1
+12,3,4379,"PHILADELPHIA LOCAL",0,0,1
+12,3,4380,"PHILADELPHIA LOCAL",0,0,1
+12,3,4381,"PHILADELPHIA LOCAL",0,0,1
+12,3,4382,"PHILADELPHIA LOCAL",0,0,1
+12,3,4383,"PHILADELPHIA LOCAL",0,0,1
+12,3,4384,"PHILADELPHIA LOCAL",0,0,1
+12,3,4385,"PHILADELPHIA LOCAL",0,0,1
+12,3,4386,"PHILADELPHIA LOCAL",0,0,1
+12,3,4387,"PHILADELPHIA LOCAL",0,0,1
+12,3,4388,"PHILADELPHIA LOCAL",0,0,1
+12,3,4389,"PHILADELPHIA LOCAL",0,0,1
+12,3,4390,"PHILADELPHIA LOCAL",0,0,1
+12,3,4391,"PHILADELPHIA LOCAL",0,0,1
+12,3,4392,"PHILADELPHIA LOCAL",0,0,1
+12,3,4393,"PHILADELPHIA LOCAL",0,0,1
+12,3,4394,"PHILADELPHIA LOCAL",0,0,1
+12,3,4395,"PHILADELPHIA LOCAL",0,0,1
+12,3,4396,"PHILADELPHIA LOCAL",0,0,1
+12,3,4397,"PHILADELPHIA LOCAL",0,0,1
+12,3,4398,"PHILADELPHIA LOCAL",0,0,1
+12,3,4399,"PHILADELPHIA LOCAL",0,0,1
+12,3,4400,"PHILADELPHIA LOCAL",0,0,1
+12,3,4401,"PHILADELPHIA LOCAL",0,0,1
+12,3,4402,"PHILADELPHIA LOCAL",0,0,1
+12,3,4403,"PHILADELPHIA LOCAL",0,0,1
+12,3,4404,"PHILADELPHIA LOCAL",0,0,1
+12,3,4405,"PHILADELPHIA LOCAL",0,0,1
+12,3,4406,"PHILADELPHIA LOCAL",0,0,1
+12,1,4407,"PHILADELPHIA SPECIAL",0,0,1
+12,1,4408,"PHILADELPHIA SPECIAL",0,0,1
+12,1,4409,"PHILADELPHIA SPECIAL",0,0,1
+12,1,4410,"PHILADELPHIA SPECIAL",0,0,1
+12,1,4411,"PHILADELPHIA SPECIAL",0,0,1
+12,1,4412,"PHILADELPHIA SPECIAL",0,0,1
+12,1,4413,"PHILADELPHIA LOCAL",0,0,1
+12,1,4414,"PHILADELPHIA LOCAL",0,0,1
+12,1,4415,"PHILADELPHIA LOCAL",0,0,1
+12,1,4416,"PHILADELPHIA LOCAL",0,0,1
+12,1,4417,"PHILADELPHIA LOCAL",0,0,1
+12,1,4418,"PHILADELPHIA LOCAL",0,0,1
+12,1,4419,"PHILADELPHIA LOCAL",0,0,1
+12,1,4420,"PHILADELPHIA LOCAL",0,0,1
+12,1,4421,"PHILADELPHIA LOCAL",0,0,1
+12,1,4422,"PHILADELPHIA LOCAL",0,0,1
+12,1,4423,"PHILADELPHIA LOCAL",0,0,1
+12,1,4424,"PHILADELPHIA LOCAL",0,0,1
+12,1,4425,"PHILADELPHIA LOCAL",0,0,1
+12,1,4426,"PHILADELPHIA LOCAL",0,0,1
+12,1,4427,"PHILADELPHIA LOCAL",0,0,1
+12,1,4428,"PHILADELPHIA LOCAL",0,0,1
+12,1,4429,"PHILADELPHIA LOCAL",0,0,1
+12,1,4430,"PHILADELPHIA LOCAL",0,0,1
+12,1,4431,"PHILADELPHIA SPECIAL",0,0,1
+12,1,4432,"PHILADELPHIA SPECIAL",0,0,1
+12,1,4433,"PHILADELPHIA LOCAL",0,0,1
+12,1,4434,"PHILADELPHIA SPECIAL",0,0,1
+12,1,4435,"PHILADELPHIA SPECIAL",0,0,1
+12,1,4436,"PHILADELPHIA SPECIAL",0,0,1
+12,1,4437,"PHILADELPHIA SPECIAL",0,0,1
+12,1,4438,"PHILADELPHIA SPECIAL",0,0,1
+12,1,4439,"PHILADELPHIA SPECIAL",0,0,1
+12,1,4440,"PHILADELPHIA SPECIAL",0,0,1
+12,1,4441,"PHILADELPHIA SPECIAL",0,0,1
+12,1,4442,"PHILADELPHIA SPECIAL",0,0,1
+12,1,4443,"PHILADELPHIA SPECIAL",0,0,1
+12,1,4444,"PHILADELPHIA LOCAL",0,0,1
+12,1,4445,"PHILADELPHIA LOCAL",0,0,1
+12,1,4446,"PHILADELPHIA LOCAL",0,0,1
+12,1,4447,"PHILADELPHIA LOCAL",0,0,1
+12,1,4448,"PHILADELPHIA LOCAL",0,0,1
+12,1,4449,"PHILADELPHIA LOCAL",0,0,1
+12,1,4450,"PHILADELPHIA LOCAL",0,0,1
+12,1,4451,"PHILADELPHIA LOCAL",0,0,1
+12,1,4452,"PHILADELPHIA LOCAL",0,0,1
+12,1,4453,"PHILADELPHIA LOCAL",0,0,1
+12,1,4454,"PHILADELPHIA LOCAL",0,0,1
+12,1,4455,"PHILADELPHIA LOCAL",0,0,1
+12,1,4456,"PHILADELPHIA LOCAL",0,0,1
+12,1,4457,"PHILADELPHIA LOCAL",0,0,1
+12,1,4458,"PHILADELPHIA LOCAL",0,0,1
+12,1,4459,"PHILADELPHIA LOCAL",0,0,1
+12,1,4460,"PHILADELPHIA LOCAL",0,0,1
+12,1,4461,"PHILADELPHIA LOCAL",0,0,1
+12,1,4462,"PHILADELPHIA LOCAL",0,0,1
+12,1,4463,"PHILADELPHIA LOCAL",0,0,1
+12,1,4464,"PHILADELPHIA LOCAL",0,0,1
+12,1,4465,"PHILADELPHIA LOCAL",0,0,1
+12,1,4466,"PHILADELPHIA LOCAL",0,0,1
+12,1,4467,"PHILADELPHIA LOCAL",0,0,1
+12,1,4468,"PHILADELPHIA LOCAL",0,0,1
+12,1,4469,"PHILADELPHIA LOCAL",0,0,1
+12,1,4470,"PHILADELPHIA LOCAL",0,0,1
+12,1,4471,"PHILADELPHIA LOCAL",0,0,1
+12,1,4472,"PHILADELPHIA LOCAL",0,0,1
+12,1,4473,"PHILADELPHIA LOCAL",0,0,1
+12,1,4474,"PHILADELPHIA LOCAL",0,0,1
+12,1,4475,"PHILADELPHIA LOCAL",0,0,1
+12,1,4476,"PHILADELPHIA LOCAL",0,0,1
+12,1,4477,"PHILADELPHIA LOCAL",0,0,1
+12,1,4478,"PHILADELPHIA LOCAL",0,0,1
+12,1,4479,"PHILADELPHIA LOCAL",0,0,1
+12,1,4480,"PHILADELPHIA LOCAL",0,0,1
+12,1,4481,"PHILADELPHIA LOCAL",0,0,1
+12,1,4482,"PHILADELPHIA LOCAL",0,0,1
+12,1,4483,"PHILADELPHIA LOCAL",0,0,1
+12,1,4484,"PHILADELPHIA LOCAL",0,0,1
+12,1,4485,"PHILADELPHIA LOCAL",0,0,1
+12,1,4486,"PHILADELPHIA LOCAL",0,0,1
+12,1,4487,"PHILADELPHIA LOCAL",0,0,1
+12,1,4488,"PHILADELPHIA LOCAL",0,0,1
+12,1,4489,"PHILADELPHIA LOCAL",0,0,1
+12,1,4490,"PHILADELPHIA LOCAL",0,0,1
+12,1,4491,"PHILADELPHIA LOCAL",0,0,1
+12,1,4492,"PHILADELPHIA LOCAL",0,0,1
+12,1,4493,"PHILADELPHIA LOCAL",0,0,1
+12,1,4494,"PHILADELPHIA LOCAL",0,0,1
+12,1,4495,"PHILADELPHIA LOCAL",0,0,1
+12,1,4496,"PHILADELPHIA LOCAL",0,0,1
+12,1,4497,"PHILADELPHIA LOCAL",0,0,1
+12,1,4498,"PHILADELPHIA LOCAL",0,0,1
+12,1,4499,"PHILADELPHIA LOCAL",0,0,1
+12,1,4500,"PHILADELPHIA LOCAL",0,0,1
+12,1,4501,"PHILADELPHIA LOCAL",0,0,1
+12,1,4502,"PHILADELPHIA LOCAL",0,0,1
+12,1,4503,"PHILADELPHIA LOCAL",0,0,1
+12,1,4504,"PHILADELPHIA LOCAL",0,0,1
+12,1,4505,"PHILADELPHIA LOCAL",0,0,1
+12,1,4506,"PHILADELPHIA LOCAL",0,0,1
+12,1,4507,"PHILADELPHIA LOCAL",0,0,1
+12,1,4508,"PHILADELPHIA LOCAL",0,0,1
+12,1,4509,"PHILADELPHIA LOCAL",0,0,1
+12,1,4510,"PHILADELPHIA LOCAL",0,0,1
+12,1,4511,"PHILADELPHIA LOCAL",0,0,1
+12,1,4512,"PHILADELPHIA LOCAL",0,0,1
+12,1,4513,"PHILADELPHIA LOCAL",0,0,1
+12,1,4514,"PHILADELPHIA LOCAL",0,0,1
+12,2,4515,"PHILADELPHIA SPECIAL",0,0,1
+12,2,4516,"PHILADELPHIA SPECIAL",0,0,1
+12,2,4517,"PHILADELPHIA SPECIAL",0,0,1
+12,2,4518,"PHILADELPHIA SPECIAL",0,0,1
+12,2,4519,"PHILADELPHIA SPECIAL",0,0,1
+12,2,4520,"PHILADELPHIA SPECIAL",0,0,1
+12,2,4521,"PHILADELPHIA LOCAL",0,0,1
+12,2,4522,"PHILADELPHIA LOCAL",0,0,1
+12,2,4523,"PHILADELPHIA LOCAL",0,0,1
+12,2,4524,"PHILADELPHIA LOCAL",0,0,1
+12,2,4525,"PHILADELPHIA LOCAL",0,0,1
+12,2,4526,"PHILADELPHIA LOCAL",0,0,1
+12,2,4527,"PHILADELPHIA LOCAL",0,0,1
+12,2,4528,"PHILADELPHIA LOCAL",0,0,1
+12,2,4529,"PHILADELPHIA LOCAL",0,0,1
+12,2,4530,"PHILADELPHIA LOCAL",0,0,1
+12,2,4531,"PHILADELPHIA LOCAL",0,0,1
+12,2,4532,"PHILADELPHIA LOCAL",0,0,1
+12,2,4533,"PHILADELPHIA LOCAL",0,0,1
+12,2,4534,"PHILADELPHIA LOCAL",0,0,1
+12,2,4535,"PHILADELPHIA LOCAL",0,0,1
+12,2,4536,"PHILADELPHIA LOCAL",0,0,1
+12,2,4537,"PHILADELPHIA LOCAL",0,0,1
+12,2,4538,"PHILADELPHIA LOCAL",0,0,1
+12,2,4539,"PHILADELPHIA LOCAL",0,0,1
+12,2,4540,"PHILADELPHIA LOCAL",0,0,1
+12,2,4541,"PHILADELPHIA LOCAL",0,0,1
+12,2,4542,"PHILADELPHIA LOCAL",0,0,1
+12,2,4543,"PHILADELPHIA LOCAL",0,0,1
+12,2,4544,"PHILADELPHIA LOCAL",0,0,1
+12,2,4545,"PHILADELPHIA LOCAL",0,0,1
+12,2,4546,"PHILADELPHIA LOCAL",0,0,1
+12,2,4547,"PHILADELPHIA LOCAL",0,0,1
+12,2,4548,"PHILADELPHIA LOCAL",0,0,1
+12,2,4549,"PHILADELPHIA LOCAL",0,0,1
+12,2,4550,"PHILADELPHIA LOCAL",0,0,1
+12,2,4551,"PHILADELPHIA LOCAL",0,0,1
+12,2,4552,"PHILADELPHIA LOCAL",0,0,1
+12,2,4553,"PHILADELPHIA LOCAL",0,0,1
+12,2,4554,"PHILADELPHIA LOCAL",0,0,1
+12,2,4555,"PHILADELPHIA LOCAL",0,0,1
+12,2,4556,"PHILADELPHIA LOCAL",0,0,1
+12,2,4557,"PHILADELPHIA LOCAL",0,0,1
+12,2,4558,"PHILADELPHIA LOCAL",0,0,1
+12,2,4559,"PHILADELPHIA LOCAL",0,0,1
+12,2,4560,"PHILADELPHIA LOCAL",0,0,1
+12,2,4561,"PHILADELPHIA LOCAL",0,0,1
+12,2,4562,"PHILADELPHIA LOCAL",0,0,1
+12,2,4563,"PHILADELPHIA LOCAL",0,0,1
+12,2,4564,"PHILADELPHIA LOCAL",0,0,1
+12,2,4565,"PHILADELPHIA LOCAL",0,0,1
+12,2,4566,"PHILADELPHIA LOCAL",0,0,1
+12,2,4567,"PHILADELPHIA LOCAL",0,0,1
+12,2,4568,"PHILADELPHIA LOCAL",0,0,1
+12,2,4569,"PHILADELPHIA LOCAL",0,0,1
+12,2,4570,"PHILADELPHIA LOCAL",0,0,1
+12,2,4571,"PHILADELPHIA LOCAL",0,0,1
+12,2,4572,"PHILADELPHIA LOCAL",0,0,1
+12,2,4573,"PHILADELPHIA LOCAL",0,0,1
+12,2,4574,"PHILADELPHIA LOCAL",0,0,1
+12,2,4575,"PHILADELPHIA LOCAL",0,0,1
+12,2,4576,"PHILADELPHIA LOCAL",0,0,1
