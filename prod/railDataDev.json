@@ -18,7 +18,7 @@
         "name":"NJ Transit Rail",
         "root":"njt",
         "folder":"njt_20160425",
-        "version":"njt_20160425-1",
+        "version":"njt_20160425-2",
         "type":"offline",
         "active":"yes",
         "alertMessage":"",
