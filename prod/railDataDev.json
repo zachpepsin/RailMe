@@ -26,10 +26,10 @@
       {
         "name":"RiverLink",
         "root":"riverlink",
-        "folder":"riverlink_20160506",
-        "version":"riverlink_20160506-13",
+        "folder":"riverlink_20150709",
+        "version":"riverlink_20150709-1",
         "type":"offline",
-        "active":"yes",
+        "active":"no",
         "alertMessage":"",
         "alertLink":""
       },
