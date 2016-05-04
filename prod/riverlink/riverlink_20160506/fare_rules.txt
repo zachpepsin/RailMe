@@ -1,3 +1,0 @@
-fare_id,origin_id,destination_id
-phl_cam,001,002
-phl_cam,002,001
