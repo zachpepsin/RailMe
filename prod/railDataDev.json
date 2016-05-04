@@ -1,5 +1,5 @@
 {
-  "railDataVersion":"100dev",
+  "railDataVersion":"101dev",
   "minAppVersionCode":"24",
   
   "RailLines" : 
@@ -28,7 +28,7 @@
         "name":"RiverLink",
         "root":"riverlink",
         "folder":"riverlink_20160506",
-        "version":"riverlink_20160506-8",
+        "version":"riverlink_20160506-10",
         "type":"offline",
         "active":"yes",
         "alertMessage":"",
