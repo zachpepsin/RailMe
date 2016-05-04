@@ -1,0 +1,2 @@
+fare_id,price,currency_type,payment_method,transfers
+phl_cam,7.00,USD,1,0
