@@ -11,8 +11,8 @@
         "version":"patco_20160409-1",
         "type":"offline",
         "active":"yes",
-        "alertMessage":"On Sunday, May 15th PATCO is running a special schedule for WESTBOUND trains only that is not reflected in RailMe.  Click \"View\" to view the schedule.",
-        "alertLink":"http://ridepatco.org/publish/library/PATCO_SpecialSchedule_Westbound_05-15-16.pdf"
+        "alertMessage":"",
+        "alertLink":""
       },
       {
         "name":"NJ Transit Rail",
