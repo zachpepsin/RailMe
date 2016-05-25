@@ -1,134 +1,134 @@
 
 CREATE TABLE agency(
-	agency_id TEXT,
-	agency_name TEXT,
-	agency_url TEXT,
-	agency_timezone TEXT,
-	agency_lang TEXT,
-	agency_phone TEXT,
-	agency_fare_url TEXT,
-	agency_email TEXT,
+	agency_id TEXT DEFAULT NULL,
+	agency_name TEXT DEFAULT NULL,
+	agency_url TEXT DEFAULT NULL,
+	agency_timezone TEXT DEFAULT NULL,
+	agency_lang TEXT DEFAULT NULL,
+	agency_phone TEXT DEFAULT NULL,
+	agency_fare_url TEXT DEFAULT NULL,
+	agency_email TEXT DEFAULT NULL
 	);
 	
 CREATE TABLE stops (
-	stop_id TEXT,
-	stop_code TEXT,
-	stop_name TEXT,
-	stop_desc TEXT,
-	stop_lat TEXT,
-	stop_lon TEXT,
-	zone_id TEXT,
-	stop_url TEXT,
-	location_type TEXT,
-	parent_station TEXT,
-	stop_timezone TEXT,
-	wheelchair_boarding TEXT
+	stop_id TEXT DEFAULT NULL,
+	stop_code TEXT DEFAULT NULL,
+	stop_name TEXT DEFAULT NULL,
+	stop_desc TEXT DEFAULT NULL,
+	stop_lat TEXT DEFAULT NULL,
+	stop_lon TEXT DEFAULT NULL,
+	zone_id TEXT DEFAULT NULL,
+	stop_url TEXT DEFAULT NULL,
+	location_type TEXT DEFAULT NULL,
+	parent_station TEXT DEFAULT NULL,
+	stop_timezone TEXT DEFAULT NULL,
+	wheelchair_boarding TEXT DEFAULT NULL
 	);
 	
 CREATE TABLE routes (
-	route_id TEXT,
-	agency_id TEXT,
-	route_short_name TEXT,
-	route_long_name TEXT,
-	route_desc TEXT,
-	route_type TEXT,
-	route_url TEXT,
-	route_color TEXT,
-	route_text_color TEXT
+	route_id TEXT DEFAULT NULL,
+	agency_id TEXT DEFAULT NULL,
+	route_short_name TEXT DEFAULT NULL,
+	route_long_name TEXT DEFAULT NULL,
+	route_desc TEXT DEFAULT NULL,
+	route_type TEXT DEFAULT NULL,
+	route_url TEXT DEFAULT NULL,
+	route_color TEXT DEFAULT NULL,
+	route_text_color TEXT DEFAULT NULL
 	);
 	
 CREATE TABLE trips (
-	route_id TEXT,
-	service_id TEXT,
-	trip_id TEXT,
-	trip_headsign TEXT,
-	trip_short_name TEXT,
-	direction_id TEXT,
-	block_id TEXT,
-	shape_id TEXT,
-	wheelchair_accessible TEXT,
-	bikes_allowed TEXT
+	route_id TEXT DEFAULT NULL,
+	service_id TEXT DEFAULT NULL,
+	trip_id TEXT DEFAULT NULL,
+	trip_headsign TEXT DEFAULT NULL,
+	trip_short_name TEXT DEFAULT NULL,
+	direction_id TEXT DEFAULT NULL,
+	block_id TEXT DEFAULT NULL,
+	shape_id TEXT DEFAULT NULL,
+	wheelchair_accessible TEXT DEFAULT NULL,
+	bikes_allowed TEXT DEFAULT NULL
 	);
 	
 CREATE TABLE stop_times (
-	trip_id TEXT,
-	arrival_time TEXT,
-	departure_time TEXT,
-	stop_id TEXT,
-	stop_sequence TEXT,
-	stop_headsign TEXT,
-	pickup_type TEXT,
-	drop_off_type TEXT,
-	shape_dist_traveled TEXT
-	timepoint TEXT
+	trip_id TEXT DEFAULT NULL,
+	arrival_time TEXT DEFAULT NULL,
+	departure_time TEXT DEFAULT NULL,
+	stop_id TEXT DEFAULT NULL,
+	stop_sequence TEXT DEFAULT NULL,
+	stop_headsign TEXT DEFAULT NULL,
+	pickup_type TEXT DEFAULT NULL,
+	drop_off_type TEXT DEFAULT NULL,
+	shape_dist_traveled TEXT DEFAULT NULL,
+	timepoint TEXT DEFAULT NULL
 	);
 	
 CREATE TABLE calendar (
-	service_id TEXT,
-	monday TEXT,
-	tuesday TEXT,
-	wednesday TEXT,
-	thursday TEXT,
-	friday TEXT,
-	saturday TEXT,
-	sunday TEXT,
-	start_date TEXT,
-	end_date TEXT
+	service_id TEXT DEFAULT NULL,
+	monday TEXT DEFAULT NULL,
+	tuesday TEXT DEFAULT NULL,
+	wednesday TEXT DEFAULT NULL,
+	thursday TEXT DEFAULT NULL,
+	friday TEXT DEFAULT NULL,
+	saturday TEXT DEFAULT NULL,
+	sunday TEXT DEFAULT NULL,
+	start_date TEXT DEFAULT NULL,
+	end_date TEXT DEFAULT NULL
 	);
 
 CREATE TABLE calendar_dates (
-	service_id TEXT,
-	date TEXT,
-	exception_type TEXT
+	service_id TEXT DEFAULT NULL,
+	date TEXT DEFAULT NULL,
+	exception_type TEXT DEFAULT NULL
 	);
 	
 CREATE TABLE fare_attributes (
-	fare_id TEXT,
-	price TEXT,
-	currency_type TEXT,
-	payment_method TEXT,
-	transfers TEXT,
-	transfer_duration TEXT
+	fare_id TEXT DEFAULT NULL,
+	price TEXT DEFAULT NULL,
+	currency_type TEXT DEFAULT NULL,
+	payment_method TEXT DEFAULT NULL,
+	transfers TEXT DEFAULT NULL,
+	transfer_duration TEXT DEFAULT NULL
 	);
 	
 CREATE TABLE fare_rules (
-	fare_id TEXT,
-	route_id TEXT,
-	origin_id TEXT,
-	destination_id TEXT,
-	contains_id TEXT
+	fare_id TEXT DEFAULT NULL,
+	route_id TEXT DEFAULT NULL,
+	origin_id TEXT DEFAULT NULL,
+	destination_id TEXT DEFAULT NULL,
+	contains_id TEXT DEFAULT NULL
 	);
 	
 CREATE TABLE shapes (
-	shape_id TEXT,
-	shape_pt_lat TEXT,
-	shape_pt_lon TEXT,
-	shape_pt_sequence TEXT,
-	shape_dist_traveled TEXT
+	shape_id TEXT DEFAULT NULL,
+	shape_pt_lat TEXT DEFAULT NULL,
+	shape_pt_lon TEXT DEFAULT NULL,
+	shape_pt_sequence TEXT DEFAULT NULL,
+	shape_dist_traveled TEXT DEFAULT NULL
 	);
 	
 CREATE TABLE frequencies (
-	trip_id TEXT,
-	start_time TEXT,
-	end_time TEXT,
-	headway_secs TEXT,
-	exact_times TEXT
+	trip_id TEXT DEFAULT NULL,
+	start_time TEXT DEFAULT NULL,
+	end_time TEXT DEFAULT NULL,
+	headway_secs TEXT DEFAULT NULL,
+	exact_times TEXT DEFAULT NULL
 	);
 	
 CREATE TABLE transfers (
-	from_stop_id TEXT,
-	to_stop_id TEXT,
-	transfer_type TEXT,
-	min_transfer_time TEXT
+	from_stop_id TEXT DEFAULT NULL,
+	to_stop_id TEXT DEFAULT NULL,
+	transfer_type TEXT DEFAULT NULL,
+	min_transfer_time TEXT DEFAULT NULL
 	);
 	
 CREATE TABLE feed_info (
-	feed_publisher_name TEXT,
-	feed_publisher_url TEXT,
-	feed_lang TEXT,
-	feed_start_date TEXT,
-	feed_end_date TEXT,
-	feed_version TEXT
+	feed_publisher_name TEXT DEFAULT NULL,
+	feed_publisher_url TEXT DEFAULT NULL,
+	feed_lang TEXT DEFAULT NULL,
+	feed_start_date TEXT DEFAULT NULL,
+	feed_end_date TEXT DEFAULT NULL,
+	feed_version TEXT DEFAULT NULL
 	);
 	
 .separator ,
