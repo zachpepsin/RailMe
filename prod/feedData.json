@@ -1,0 +1,15 @@
+{
+  "minAppVersionCode":"24",
+  
+  "feeds" : 
+    [
+      {
+		"name":"patco"
+        "prodDbName":"patco_20160406_1.db",
+		"devDbName":"patco_20160406_1.db",
+        "type":"offline",
+        "alertMessage":"",
+        "alertLink":""
+      }
+    ]
+}
