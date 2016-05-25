@@ -5,8 +5,8 @@
     [
       {
 		"name":"patco",
-        "prodDbName":"patco_20160406_1.db",
-		"devDbName":"patco_20160406_1.db",
+        "prodDbName":"patco_20160406_2.db",
+		"devDbName":"patco_20160406_2.db",
         "type":"offline",
         "alertMessage":"",
         "alertLink":""
