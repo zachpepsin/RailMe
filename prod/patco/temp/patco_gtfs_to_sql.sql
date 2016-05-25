@@ -4,6 +4,7 @@ CREATE TABLE agency(
 	agency_name TEXT DEFAULT NULL,
 	agency_url TEXT DEFAULT NULL,
 	agency_timezone TEXT DEFAULT NULL,
+	
 	agency_lang TEXT DEFAULT NULL,
 	agency_phone TEXT DEFAULT NULL,
 	agency_fare_url TEXT DEFAULT NULL,
@@ -12,12 +13,13 @@ CREATE TABLE agency(
 	
 CREATE TABLE stops (
 	stop_id TEXT DEFAULT NULL,
-	stop_code TEXT DEFAULT NULL,
 	stop_name TEXT DEFAULT NULL,
 	stop_desc TEXT DEFAULT NULL,
 	stop_lat TEXT DEFAULT NULL,
 	stop_lon TEXT DEFAULT NULL,
 	zone_id TEXT DEFAULT NULL,
+	
+	stop_code TEXT DEFAULT NULL,
 	stop_url TEXT DEFAULT NULL,
 	location_type TEXT DEFAULT NULL,
 	parent_station TEXT DEFAULT NULL,
@@ -132,6 +134,7 @@ CREATE TABLE feed_info (
 	);
 	
 .separator ,
+.mode csv
 .import agency.txt agency
 .import stops.txt stops
 .import routes.txt routes
