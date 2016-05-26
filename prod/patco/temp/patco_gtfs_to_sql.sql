@@ -32,8 +32,9 @@ CREATE TABLE routes (
 	agency_id TEXT DEFAULT NULL,
 	route_short_name TEXT DEFAULT NULL,
 	route_long_name TEXT DEFAULT NULL,
-	route_desc TEXT DEFAULT NULL,
 	route_type TEXT DEFAULT NULL,
+	
+	route_desc TEXT DEFAULT NULL,
 	route_url TEXT DEFAULT NULL,
 	route_color TEXT DEFAULT NULL,
 	route_text_color TEXT DEFAULT NULL
@@ -44,12 +45,13 @@ CREATE TABLE trips (
 	service_id TEXT DEFAULT NULL,
 	trip_id TEXT DEFAULT NULL,
 	trip_headsign TEXT DEFAULT NULL,
-	trip_short_name TEXT DEFAULT NULL,
 	direction_id TEXT DEFAULT NULL,
-	block_id TEXT DEFAULT NULL,
 	shape_id TEXT DEFAULT NULL,
-	wheelchair_accessible TEXT DEFAULT NULL,
-	bikes_allowed TEXT DEFAULT NULL
+	bikes_allowed TEXT DEFAULT NULL,
+	
+	trip_short_name TEXT DEFAULT NULL,
+	block_id TEXT DEFAULT NULL,
+	wheelchair_accessible TEXT DEFAULT NULL
 	);
 	
 CREATE TABLE stop_times (
@@ -58,9 +60,10 @@ CREATE TABLE stop_times (
 	departure_time TEXT DEFAULT NULL,
 	stop_id TEXT DEFAULT NULL,
 	stop_sequence TEXT DEFAULT NULL,
-	stop_headsign TEXT DEFAULT NULL,
 	pickup_type TEXT DEFAULT NULL,
 	drop_off_type TEXT DEFAULT NULL,
+	
+	stop_headsign TEXT DEFAULT NULL,
 	shape_dist_traveled TEXT DEFAULT NULL,
 	timepoint TEXT DEFAULT NULL
 	);
@@ -90,14 +93,16 @@ CREATE TABLE fare_attributes (
 	currency_type TEXT DEFAULT NULL,
 	payment_method TEXT DEFAULT NULL,
 	transfers TEXT DEFAULT NULL,
+	
 	transfer_duration TEXT DEFAULT NULL
 	);
 	
 CREATE TABLE fare_rules (
 	fare_id TEXT DEFAULT NULL,
-	route_id TEXT DEFAULT NULL,
 	origin_id TEXT DEFAULT NULL,
 	destination_id TEXT DEFAULT NULL,
+	
+	route_id TEXT DEFAULT NULL,
 	contains_id TEXT DEFAULT NULL
 	);
 	
