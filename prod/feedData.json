@@ -19,6 +19,15 @@
         "type":"offline",
         "alertMessage":"",
         "alertLink":""
+      },
+	  
+	  {
+		"name":"njt",
+        "prodDbName":"njt_20160425_1.db",
+		"devDbName":"njt_20160425_1.db",
+        "type":"offline",
+        "alertMessage":"",
+        "alertLink":""
       }
     ]
 }
