@@ -11,8 +11,8 @@
         "version":"patco_20160409-1",
         "type":"offline",
         "active":"yes",
-        "alertMessage":"",
-        "alertLink":""
+        "alertMessage":"On Monday, May 30th, PATCO is running a special Memorial Day schedule that is not reflected in RailMe.  Click \"View\" to view the schedule.",
+        "alertLink":"http://ridepatco.org/publish/library/MemorialDayHolidaySchedule_2016-05-30.pdf"
       },
       {
         "name":"NJ Transit Rail",
