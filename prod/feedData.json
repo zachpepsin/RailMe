@@ -21,7 +21,7 @@
       },
       {
       	"name":"njt",
-      	"prodDbName":"njt_20160425_1.db",
+      	"prodDbName":"",
         "devDbName":"njt_20160425_1.db",
         "type":"offline",
         "alertMessage":"",
