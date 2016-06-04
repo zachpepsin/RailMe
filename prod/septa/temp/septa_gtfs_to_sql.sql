@@ -147,7 +147,7 @@ CREATE TABLE feed_info (
 .import calendar_dates.txt calendar_dates
 .import fare_attributes.txt fare_attributes
 .import fare_rules.txt fare_rules
-.import shapes.txt shapes
+--.import shapes.txt shapes
 .import frequencies.txt frequencies
 .import transfers.txt transfers
 .import feed_info.txt feed_info
