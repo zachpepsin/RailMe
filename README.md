@@ -1,7 +1,15 @@
-RailMe
-======
+# RailMe
 
-For use with the RailMe mobile application
+## Data used within the RailMe mobile application
 
 
-*In railData and railDataDev, remember to change the version name whenever the folder changes!
+## feedData.json
+* minAppVersionCode: The minimum reccomended version code for the app to function correectly (ex: "24").  If it is higher than what the user has, the user will see an alert on startup reccomending that they update the app.
+* feeds: List of GTFS feeds being used
+  * name: Name of the feed.  Used by the application during things such as updating, checking for most recent selection...
+  * prodDbName: Name of the database being used in production (ex: patco_20160406_5.db)
+  * devDbName: Name of the database being used while in dev mode
+  * type: Could be used in the future to integreate online schedules.  for now, all are set to "offline"
+  * alertMessage: Text of an alert a rider would see for various reasons, such as unexpected schedule change.  Left blank if no alert.
+  * alertLink: Link user would see in the alert dialog mentioned above.  Left blank if no link.  Must use http:// or https://.
+
