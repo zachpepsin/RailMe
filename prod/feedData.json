@@ -6,14 +6,14 @@
       {
       	"name":"patco",
         "prodDbName":"patco_20160406_5.db",
-        "devDbName":"patco_20160406_4.db",
+        "devDbName":"patco_20160406_5.db",
         "type":"offline",
         "alertMessage":"",
         "alertLink":""
       },
       {
       	"name":"septa",
-        "prodDbName":"septa_20160507_1.db",
+        "prodDbName":"septa_20160507_2.db",
         "devDbName":"septa_20160507_2.db",
         "type":"offline",
         "alertMessage":"",
@@ -21,7 +21,7 @@
       },
       {
       	"name":"njt",
-      	"prodDbName":"njt_20160425_1.db",
+      	"prodDbName":"njt_20160425_3.db",
         "devDbName":"njt_20160425_3.db",
         "type":"offline",
         "alertMessage":"",
