@@ -9,7 +9,7 @@
         "devDbName":"patco_20160406_5.db",
         "type":"offline",
         "alertMessage":"",
-        "alertLink":"http://www.google.com"
+        "alertLink":""
       },
       {
       	"name":"septa",
