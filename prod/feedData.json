@@ -4,27 +4,25 @@
   "feeds" : 
     [
       {
-		"name":"patco",
+      	"name":"patco",
         "prodDbName":"patco_20160406_5.db",
-		"devDbName":"patco_20160406_5.db",
+        "devDbName":"patco_20160406_5.db",
         "type":"offline",
-        "alertMessage":"",
+        "alertMessage":"Test Message",
         "alertLink":""
       },
-	  
-	  {
-		"name":"septa",
+      {
+      	"name":"septa",
         "prodDbName":"septa_20160507_1.db",
-		"devDbName":"septa_20160507_1.db",
+        "devDbName":"septa_20160507_1.db",
         "type":"offline",
         "alertMessage":"",
         "alertLink":""
       },
-	  
-	  {
-		"name":"njt",
-        "prodDbName":"njt_20160425_1.db",
-		"devDbName":"njt_20160425_1.db",
+      {
+      	"name":"njt",
+      	"prodDbName":"njt_20160425_1.db",
+        "devDbName":"njt_20160425_1.db",
         "type":"offline",
         "alertMessage":"",
         "alertLink":""
