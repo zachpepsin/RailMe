@@ -59,7 +59,7 @@ CREATE TABLE stop_times (
 	arrival_time TEXT DEFAULT NULL,
 	departure_time TEXT DEFAULT NULL,
 	stop_id TEXT DEFAULT NULL,
-	stop_sequence TEXT DEFAULT NULL,
+	stop_sequence INTEGER DEFAULT NULL,
 	pickup_type TEXT DEFAULT NULL,
 	drop_off_type TEXT DEFAULT NULL,
 	
