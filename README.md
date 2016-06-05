@@ -13,3 +13,15 @@
   * alertMessage: Text of an alert a rider would see for various reasons, such as unexpected schedule change.  Left blank if no alert.
   * alertLink: Link user would see in the alert dialog mentioned above.  Left blank if no link.  Must use http:// or https://.
 
+
+
+## RailMe Changelog
+
+### 2.0.0
+* Completely redesigned UI
+* Implemented Material Design
+* Automatically updating train schedules
+* Optimized for tablets
+* New rail lines added
+* Fare and bike accessibility information
+* Reduced app permissions
