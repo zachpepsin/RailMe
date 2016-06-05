@@ -17,7 +17,11 @@
 
 ## RailMe Changelog
 
-### 2.0.0
+### 2.1.0
+* Performance optimiation
+* Raised minimum SDK to 16
+
+### 2.0.5
 * Completely redesigned UI
 * Implemented Material Design
 * Automatically updating train schedules
