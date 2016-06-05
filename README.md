@@ -18,7 +18,7 @@
 ## RailMe Changelog
 
 ### 2.1.0
-* Performance improvements
+* Major performance improvements
 * Raised minimum SDK to 16
 
 ### 2.0.5
