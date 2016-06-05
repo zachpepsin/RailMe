@@ -59,7 +59,7 @@ CREATE TABLE stop_times (
 	arrival_time TEXT DEFAULT NULL,
 	departure_time TEXT DEFAULT NULL,
 	stop_id TEXT DEFAULT NULL,
-	stop_sequence TEXT DEFAULT NULL,
+	stop_sequence INTEGER DEFAULT NULL,
 	pickup_type TEXT DEFAULT NULL,
 	drop_off_type TEXT DEFAULT NULL,
 	shape_dist_traveled TEXT DEFAULT NULL,
@@ -110,7 +110,7 @@ CREATE TABLE shapes (
 	shape_id TEXT DEFAULT NULL,
 	shape_pt_lat TEXT DEFAULT NULL,
 	shape_pt_lon TEXT DEFAULT NULL,
-	shape_pt_sequence TEXT DEFAULT NULL,
+	shape_pt_sequence INTEGER DEFAULT NULL,
 	shape_dist_traveled TEXT DEFAULT NULL
 	);
 	
@@ -126,7 +126,7 @@ CREATE TABLE transfers (
 	from_stop_id TEXT DEFAULT NULL,
 	to_stop_id TEXT DEFAULT NULL,
 	transfer_type TEXT DEFAULT NULL,
-	min_transfer_time TEXT DEFAULT NULL
+	min_transfer_time INTEGER DEFAULT NULL
 	);
 	
 CREATE TABLE feed_info (

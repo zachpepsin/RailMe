@@ -5,7 +5,7 @@
     [
       {
       	"name":"patco",
-        "prodDbName":"patco_20160406_5.db",
+        "prodDbName":"patco_20160406_6.db",
         "devDbName":"patco_20160406_6.db",
         "type":"offline",
         "alertMessage":"",
@@ -21,8 +21,8 @@
       },
       {
       	"name":"njt",
-      	"prodDbName":"njt_20160425_3.db",
-        "devDbName":"njt_20160425_3.db",
+      	"prodDbName":"njt_20160425_4.db",
+        "devDbName":"njt_20160425_4.db",
         "type":"offline",
         "alertMessage":"",
         "alertLink":""
