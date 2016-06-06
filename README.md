@@ -17,7 +17,7 @@
 
 ## RailMe Changelog
 
-### 2.0 (Alpha) (September 2015)
+### 2.0 (Alpha) (August 2015)
 * Completely redesigned UI
 * Implemented Material Design
 * Automatically updating train schedules
@@ -27,9 +27,10 @@
 * Reduced app permissions
 
 #### 2.0.5 (Production) (September 2015)
-* Undocumented bug fixes 
+* Added option to report an incorrect schedule or bug
+* Bug fixes related to displaying fare/bike information
 
-### 2.1 (Beta) (June 2016)
+### 2.1.0 (Beta) (June 2016)
 * Major performance improvements
 * Added Samsung Multi Window support
 * Added wheelchair accessibility information
