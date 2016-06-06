@@ -17,13 +17,7 @@
 
 ## RailMe Changelog
 
-### 2.1 (Expected June 2016)
-* Major performance improvements
-* Added Samsung Multi Window support
-* Added wheelchair accessibility information
-* Raised minimum SDK to 16
-
-### 2.0 (September 2015)
+### 2.0 (Alpha) (September 2015)
 * Completely redesigned UI
 * Implemented Material Design
 * Automatically updating train schedules
@@ -31,3 +25,16 @@
 * New rail lines added
 * Fare and bike accessibility information
 * Reduced app permissions
+
+#### 2.0.5 (Production) (September 2015)
+* Undocumented bug fixes 
+
+### 2.1 (Beta) (June 2016)
+* Major performance improvements
+* Added Samsung Multi Window support
+* Added wheelchair accessibility information
+* Raised minimum SDK from 8 to 16
+
+#### 2.1.1 (Beta, RC) (June 2016)
+* Fixed bug where alert messages would not display
+
