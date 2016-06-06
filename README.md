@@ -30,12 +30,15 @@
 * Added option to report an incorrect schedule or bug
 * Bug fixes related to displaying fare/bike information
 
-### 2.1.0 (Beta) (June 2016)
+### 2.1.0 (Beta) (5 June 2016)
 * Major performance improvements
 * Added Samsung Multi Window support
 * Added wheelchair accessibility information
 * Raised minimum SDK from 8 to 16
 
-#### 2.1.1 (Beta, RC) (June 2016)
+#### 2.1.1 (Beta) (6 June 2016)
 * Fixed bug where alert messages would not display
+
+#### 2.1.2 (Beta) (6 June 2016)
+* Fixed bug where only one schedule could update/download at a time
 
