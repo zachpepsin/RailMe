@@ -5,7 +5,7 @@
     [
       {
       	"name":"patco",
-        "prodDbName":"",
+        "prodDbName":"patco_20160406_6.db",
         "devDbName":"patco_20160406_6.db",
         "type":"offline",
         "alertMessage":"On the morning of Tuesday June 7, from 12:05am to 4am, PATCO is running a special schedule that is not reflected in RailMe.  Click \"View\" to view the schedule.",
