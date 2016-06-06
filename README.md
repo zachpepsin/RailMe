@@ -17,7 +17,7 @@
 
 ## RailMe Changelog
 
-### 2.0 (Alpha) (August 2015)
+### 2.0.0 (Alpha) (August 2015)
 * Completely redesigned UI
 * Implemented Material Design
 * Automatically updating train schedules
