@@ -8,8 +8,8 @@
         "prodDbName":"patco_20160406_6.db",
         "devDbName":"patco_20160406_6.db",
         "type":"offline",
-        "alertMessage":"",
-        "alertLink":""
+        "alertMessage":"On Saturday June 11, from 6am to 5:30pm, PATCO is running a special schedule that is not reflected in RailMe.  Click \"View\" to view the special schedule.",
+        "alertLink":"http://ridepatco.org/publish/library/PATCO_SpecialSchedule_Westbound_06-11-16.pdf"
       },
       {
       	"name":"septa",
