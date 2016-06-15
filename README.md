@@ -39,6 +39,11 @@
 #### 2.1.1 (Beta) (6 June 2016)
 * Fixed bug where alert messages would not display
 
-#### 2.1.2 (Beta, RC) (6 June 2016)
+#### 2.1.2 (Prodution) (6 June 2016)
 * Fixed bug where only one schedule could update/download at a time
+
+#### 2.1.3 (Beta, RC) (15 June 2016)
+* Optimization for Android N
+* Fixed bug where response code of 400 from GitHub JSON file would crash app
+* Error handling for bad responses from GitHub
 
