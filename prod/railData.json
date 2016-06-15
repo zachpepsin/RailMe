@@ -11,8 +11,8 @@
         "version":"patco_20160409-1",
         "type":"offline",
         "active":"yes",
-        "alertMessage":"On Tuesday June 14, from 8:30pm to 4:30am, PATCO is running a special schedule for EASTBOUND trains that is not reflected in RailMe.  Click \"View\" to view the special schedule",
-        "alertLink":"http://ridepatco.org/publish/library/PATCO_SpecialSchedule_Eastbound_06-14-16.pdf"
+        "alertMessage":"",
+        "alertLink":""
       },
       {
         "name":"NJ Transit Rail",
