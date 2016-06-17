@@ -1,5 +1,5 @@
 {
-  "minAppVersionCode":"24",
+  "minAppVersionCode":"32",
   
   "feeds" : 
     [
@@ -14,7 +14,7 @@
       {
       	"name":"septa",
         "prodDbName":"septa_20160507_2.db",
-        "devDbName":"septa_20160507_2.db",
+        "devDbName":"septa_20160619_1.db",
         "type":"offline",
         "alertMessage":"",
         "alertLink":""
