@@ -1,4 +1,5 @@
-﻿CREATE TABLE agency(
+
+CREATE TABLE agency(
 	agency_id TEXT DEFAULT NULL,
 	agency_name TEXT DEFAULT NULL,
 	agency_url TEXT DEFAULT NULL,
@@ -328,4 +329,4 @@ DELETE FROM feed_info WHERE feed_publisher_name = (
 		LIMIT 1
 	);
 
---sqlite3 septa_20160619_1.db < septa_20160619_gtfs_to_sql.sql
+--sqlite3 septa_20160619_2.db < septa_20160619_gtfs_to_sql.sql

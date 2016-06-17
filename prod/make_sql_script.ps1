@@ -99,6 +99,7 @@ $feedFileNames = @("agency", "stops", "routes", "trips", "stop_times", "calendar
 #################### CREATE TABLES ########################
 Write-Host "`nMaking CREATE TABLE Statements"
 Write-Host "----------"
+$fileText = "`r`n"
 
 ##CREATE TABLES
 $feedFileCount = 0
@@ -438,7 +439,14 @@ $fileText += "--" + $sqlCommandString
 		
 ##Create SQL script in sub folder
 $fileName = $subFolder + '_gtfs_to_sql.sql'
-$fileText | Out-File -Encoding "UTF8" ./$rootFolder/$subFolder/$fileName
+
+
+#$fileText | Out-File -Encoding "UTF8" ./$rootFolder/$subFolder/$fileName
+#Must use WriteAllLines or else BOM messes it up
+
+#[System.IO.File]::WriteAllLines(".\Documents\RailMe\Git\RailMe\prod\$rootFolder\$subFolder\$fileName", $fileText)
+$scriptPath = split-path -parent $MyInvocation.MyCommand.Definition
+[System.IO.File]::WriteAllLines("$scriptPath\$rootFolder\$subFolder\$fileName", $fileText)
 
 
 $dbName = $subFolder + "_" + $dbVersion

@@ -1,4 +1,5 @@
-﻿CREATE TABLE agency(
+
+CREATE TABLE agency(
 	agency_id TEXT DEFAULT NULL,
 	agency_name TEXT DEFAULT NULL,
 	agency_url TEXT DEFAULT NULL,
