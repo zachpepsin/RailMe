@@ -8,8 +8,8 @@
         "prodDbName":"patco_20160406_6.db",
         "devDbName":"patco_20160406_6.db",
         "type":"offline",
-        "alertMessage":"",
-        "alertLink":""
+        "alertMessage":"On Monday June 20th, from 8:30pm from 4:30am, PATCO is running a special schedule for EASTBOUND trains only that is not reflected in RailMe.  Click \"View\" to view the special schedule.",
+        "alertLink":"http://www.ridepatco.org/publish/library/PATCO_SpecialSchedule_Eastbound_06-20-16.pdf"
       },
       {
       	"name":"septa",
