@@ -8,8 +8,8 @@
         "prodDbName":"patco_20160406_6.db",
         "devDbName":"patco_20160406_6.db",
         "type":"offline",
-        "alertMessage":"On Monday June 27, from 8:30pm to 4:30am, PATCO is running a special schedule for EASTBOUND trains only.  Click \"View\" to view the special schedule.",
-        "alertLink":"http://ridepatco.org/publish/library/PATCO_SpecialSchedule_Eastbound_06-27-16.pdf"
+        "alertMessage":"",
+        "alertLink":""
       },
       {
       	"name":"septa",
