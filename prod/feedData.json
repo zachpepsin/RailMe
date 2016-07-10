@@ -8,8 +8,8 @@
         "prodDbName":"patco_20160406_6.db",
         "devDbName":"patco_20160406_6.db",
         "type":"offline",
-        "alertMessage":"On Saturday June 9, from 6am to 11:30pm, PATCO is running a special schedule for WESTBOUND trains only that is not reflected in RailMe.  Click \"View\" to view the special schedule.",
-        "alertLink":"http://ridepatco.org/publish/library/PATCO_Westbound_07-09-16.pdf"
+        "alertMessage":"",
+        "alertLink":""
       },
       {
       	"name":"septa",
