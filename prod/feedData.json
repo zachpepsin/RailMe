@@ -13,8 +13,8 @@
       },
       {
       	"name":"septa",
-        "prodDbName":"septa_20160706_1.db",
-        "devDbName":"septa_20160706_1.db",
+        "prodDbName":"septa_20160711_1.db",
+        "devDbName":"septa_20160711_1.db",
         "type":"offline",
         "alertMessage":"",
         "alertLink":""
