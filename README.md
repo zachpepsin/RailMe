@@ -49,6 +49,7 @@
 
 #### 2.1.4 (Production) (July 2016)
 * Fixed block_id bug that caused some SEPTA trips to not be displayed
+* Added "Automatic" option for Time Convention
 * Updated SettingsActivity to use PreferenceFragments
 * Updated ScheduleActivity to use RecyclerView
 
