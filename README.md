@@ -42,8 +42,13 @@
 #### 2.1.2 (Prodution) (6 June 2016)
 * Fixed bug where only one schedule could update/download at a time
 
-#### 2.1.3 (Beta, RC) (15 June 2016)
+#### 2.1.3 (Production) (15 June 2016)
 * Optimization for Android N
 * Fixed bug where response code of 400 from GitHub JSON file would crash app
 * Error handling for bad responses from GitHub
+
+#### 2.1.4 (Production) (July 2016)
+* Fixed block_id bug that caused some SEPTA trips to not be displayed
+* Updated SettingsActivity to use PreferenceFragments
+* Updated ScheduleActivity to use RecyclerView
 
