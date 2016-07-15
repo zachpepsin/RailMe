@@ -47,7 +47,7 @@
 * Fixed bug where response code of 400 from GitHub JSON file would crash app
 * Error handling for bad responses from GitHub
 
-#### 2.1.4 (Production) (July 2016)
+#### 2.1.4 (Production) (15 July 2016)
 * Fixed block_id bug that caused some SEPTA trips to not be displayed
 * Added "Automatic" option for Time Convention
 * Updated SettingsActivity to use PreferenceFragments
