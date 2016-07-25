@@ -17,7 +17,9 @@
         "devDbName":"septa_20160719_1.db",
         "type":"offline",
         "alertMessage":"",
-        "alertLink":""
+        "alertLink":"",
+        "rtServiceAlerts":"",
+        "rtTripUpdates":""
       },
       {
       	"name":"njt",
