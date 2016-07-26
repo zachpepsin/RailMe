@@ -8,8 +8,8 @@
         "prodDbName":"patco_20160406_6.db",
         "devDbName":"patco_20160406_6.db",
         "type":"offline",
-        "alertMessage":"On July 25, from 10:30pm to midnight, PATCO is running a special scheudle for EASTBOUND trains only that is not reflected in RailMe.  Click \"View\" to view the special schedule.",
-        "alertLink":"http://ridepatco.org/publish/library/PATCO_SpecialSchedule_7-25-16_Eastbound.pdf"
+        "alertMessage":"",
+        "alertLink":""
       },
       {
       	"name":"septa",
