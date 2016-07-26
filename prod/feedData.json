@@ -27,7 +27,9 @@
         "devDbName":"njt_20160601_4.db",
         "type":"offline",
         "alertMessage":"",
-        "alertLink":""
+        "alertLink":"",
+        "rtServiceAlerts":"",
+        "rtTripUpdates":"http://standards.xcmdata.org/TransitDE/rest/GTFSController/njtrailgtfsrt"
       }
     ]
 }
