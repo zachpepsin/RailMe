@@ -18,7 +18,7 @@
         "type":"offline",
         "alertMessage":"",
         "alertLink":"",
-        "rtServiceAlerts":"http://www3.septa.org/gtfsrt/septarail-pa-us/Service/rtServiceAlerts.pb",
+        "rtServiceAlerts":"http://www3.septa.org/gtfsrt/septarail-pa-us/Service/rtServiceAler1",
         "rtTripUpdates":"http://www3.septa.org/gtfsrt/septarail-pa-us/Trip/rtTripUpdates.pb"
       },
       {
