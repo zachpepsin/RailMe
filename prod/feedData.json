@@ -19,7 +19,7 @@
         "alertMessage":"",
         "alertLink":"",
         "rtServiceAlerts":"http://www3.septa.org/gtfsrt/septarail-pa-us/Service/rtServiceAler1",
-        "rtTripUpdates":"http://www3.septa.org/gtfsrt/septarail-pa-us/Trip/rtTripUpdates.pb"
+        "rtTripUpdates":"http://www3.septa.org/gtfsrt/septarail-pa-us/Trip/rtTripUpdat1"
       },
       {
       	"name":"njt",
