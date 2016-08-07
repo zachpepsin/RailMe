@@ -8,8 +8,8 @@
         "prodDbName":"patco_20160406_6.db",
         "devDbName":"patco_20160406_6.db",
         "type":"offline",
-        "alertMessage":"On August 6th, from 9pm to 12:30am, PATCO is running a special schedule that is not reflected in RailMe.  Click \"View\" to view the special schedule.",
-        "alertLink":"http://ridepatco.org/publish/library/PATCO_SpecialSchedule_2016-08-06.pdf",
+        "alertMessage":".",
+        "alertLink":"",
         "rtServiceAlerts":"",
         "rtTripUpdates":""
       },
