@@ -53,5 +53,6 @@
 * Updated SettingsActivity to use PreferenceFragments
 * Updated ScheduleActivity to use RecyclerView
 
-### 2.2.0 (In Development) (TBD)
-* Added live train delay information
+### 2.2.0 (Production) (9 September 2016)
+* Added live train status information
+* Added alert requesting user to rate the app
