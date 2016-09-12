@@ -1,3 +1,67 @@
+function generateDefaultStatement($feedFileName, $param) {
+	##If param is required, make NOT NULL, otherwise, set DEFAULT
+	if(
+		($feedFileName -eq "agency" -AND (
+			$param -eq "agency_name" -OR
+			$param -eq "agency_url" -OR
+			$param -eq "agency_timezone")
+		) -OR ( $feedFileName -eq "calendar"  #All Calendar params are required
+		) -OR ( $feedFileName -eq "calendar_dates" -AND (
+			$param -eq "exception_type" )
+		) -OR ( $feedFileName -eq "fare_attributes" -AND (
+			$param -eq "fare_id" -OR
+			$param -eq "price" -OR
+			$param -eq "currency_type" -OR 
+			$param -eq "payment_method" -OR
+			$param -eq "transfers")
+		) -OR ( $feedFIleName -eq "fare_rules" -AND (
+			$param -eq "fare_id")
+		) -OR ( $feedFileName -eq "feed_info" -AND (
+			$param -eq "feed_publisher_name" -OR
+			$param -eq "feed_publisher_url" -OR
+			$param -eq "feed_lang") 
+		) -OR ( $feedFileName -eq "frequencies" -AND (
+			$param -eq "trip_id" -OR
+			$param -eq "start_time" -OR
+			$param -eq "end_time" -OR 
+			$param -eq "headway_secs")
+		) -OR ( $feedFileName -eq "routes" -AND (
+			$param -eq "route_id" -OR
+			$param -eq "route_short_name" -OR
+			$param -eq "route_long_name" -OR 
+			$param -eq "route_type")
+		) -OR ( $feedFileName -eq "shapes" -AND (
+			$param -eq "shape_id" -OR
+			$param -eq "shape_pt_lat" -OR
+			$param -eq "shape_pt_lon" -OR 
+			$param -eq "shape_pt_sequence")
+		) -OR ( $feedFileName -eq "stops" -AND (
+			$param -eq "stop_id	" -OR
+			$param -eq "stop_name" -OR
+			$param -eq "stop_lat" -OR 
+			$param -eq "stop_lon")
+		) -OR ( $feedFileName -eq "stop_times" -AND (
+			$param -eq "trip_id" -OR
+			$param -eq "arrival_time" -OR
+			$param -eq "departure_time" -OR 
+			$param -eq "stop_id" -OR
+			$param -eq "stop_sequence")
+		) -OR ( $feedFileName -eq "transfers" -AND (
+			$param -eq "from_stop_id" -OR
+			$param -eq "to_stop_id" -OR
+			$param -eq "transfer_type")
+		) -OR ( $feedFileName -eq "trips" -AND (
+			$param -eq "route_id" -OR
+			$param -eq "service_id" -OR
+			$param -eq "trip_id"))
+	) {
+		return " NOT NULL"
+	} else {
+		return " DEFAULT NULL"
+	}
+}
+
+
 Write-Host "make_sql_script.ps1"
 Write-Host "Zach Pepsin"
 Write-Host "17 June 2016"
@@ -121,10 +185,10 @@ foreach($feedFileName in $feedFileNames){
 				#It should be INTEGER type, not TEXT
 				$variableType = "INTEGER"
 			}
+		
 			
-			#$fileText += "`t" + $param + " " + $variableType + " DEFAULT NULL`r`n"
-			
-			$fileText += "`t" + $param + " " +  $variableType + " DEFAULT NULL"
+			$fileText += "`t" + $param + " " + $variableType
+			$fileText += generateDefaultStatement $feedFileName $param
 			
 			if($count -lt $feedFileParamsArray[$feedFileCount].Count){
 				$fileText += ","
@@ -159,7 +223,8 @@ foreach($feedFileName in $feedFileNames){
 					$variableType = "INTEGER"
 				}
 				
-				$fileText += "`t" + $param + " " +  $variableType + " DEFAULT NULL"
+				$fileText += "`t" + $param + " " +  $variableType
+				$fileText += generateDefaultStatement $feedFileName $param
 				
 				if($count -lt $feedFileParamsArray[$feedFileCount].Count){
 					$fileText += ","
@@ -195,7 +260,8 @@ foreach($feedFileName in $feedFileNames){
 					$variableType = "INTEGER"
 				}
 				
-				$fileText += "`t" + $param + " " +  $variableType + " DEFAULT NULL"
+				$fileText += "`t" + $param + " " +  $variableType
+				$fileText += generateDefaultStatement $feedFileName $param
 				
 				$count++
 			}
@@ -455,3 +521,5 @@ Write-Host "`n`nSQL Command String: "
 Write-Host $sqlCommandString
 
 Read-Host "`nFinished! SQL Script is located in the GTFS folder. Press Enter to exit"
+
+
