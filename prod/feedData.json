@@ -28,7 +28,7 @@
       	"prodDbName":"njt_20160601_4.db",
         "devDbName":"njt_20160601_4.db",
         "type":"offline",
-        "alertMessage":"All train service in and out of Hoboken Station is currently suspended due to an accident.",
+        "alertMessage":"",
         "alertLink":"",
         "rtServiceAlerts":"",
         "rtTripUpdates":"http://standards.xcmdata.org/TransitDE/rest/GTFSController/njtrailgtfsrt"
