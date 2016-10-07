@@ -329,4 +329,4 @@ DELETE FROM feed_info WHERE feed_publisher_name = (
 		LIMIT 1
 	);
 
---sqlite3 njt_20161003_1.db < njt_20161007_gtfs_to_sql.sql
+--sqlite3 njt_20161007_1.db < njt_20161007_gtfs_to_sql.sql
