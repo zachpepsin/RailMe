@@ -1,142 +1,147 @@
+
 CREATE TABLE agency(
 	agency_id TEXT DEFAULT NULL,
-	agency_name TEXT DEFAULT NULL,
-	agency_url TEXT DEFAULT NULL,
-	agency_timezone TEXT DEFAULT NULL,
-	
+	agency_name TEXT NOT NULL,
+	agency_url TEXT NOT NULL,
+	agency_timezone TEXT NOT NULL,
 	agency_lang TEXT DEFAULT NULL,
 	agency_phone TEXT DEFAULT NULL,
 	agency_fare_url TEXT DEFAULT NULL,
+
 	agency_email TEXT DEFAULT NULL
 	);
-	
-CREATE TABLE stops (
+
+CREATE TABLE stops(
 	stop_id TEXT DEFAULT NULL,
-	stop_name TEXT DEFAULT NULL,
-	stop_desc TEXT DEFAULT NULL,
-	stop_lat TEXT DEFAULT NULL,
-	stop_lon TEXT DEFAULT NULL,
-	zone_id TEXT DEFAULT NULL,
-	
 	stop_code TEXT DEFAULT NULL,
+	stop_name TEXT NOT NULL,
+	stop_desc TEXT DEFAULT NULL,
+	stop_lat TEXT NOT NULL,
+	stop_lon TEXT NOT NULL,
+	zone_id TEXT DEFAULT NULL,
 	stop_url TEXT DEFAULT NULL,
 	location_type TEXT DEFAULT NULL,
 	parent_station TEXT DEFAULT NULL,
 	stop_timezone TEXT DEFAULT NULL,
 	wheelchair_boarding TEXT DEFAULT NULL
+
 	);
-	
-CREATE TABLE routes (
-	route_id TEXT DEFAULT NULL,
+
+CREATE TABLE routes(
+	route_id TEXT NOT NULL,
 	agency_id TEXT DEFAULT NULL,
-	route_short_name TEXT DEFAULT NULL,
-	route_long_name TEXT DEFAULT NULL,
-	route_type TEXT DEFAULT NULL,
-	
+	route_short_name TEXT NOT NULL,
+	route_long_name TEXT NOT NULL,
 	route_desc TEXT DEFAULT NULL,
+	route_type TEXT NOT NULL,
 	route_url TEXT DEFAULT NULL,
 	route_color TEXT DEFAULT NULL,
 	route_text_color TEXT DEFAULT NULL
-	);
-	
-CREATE TABLE trips (
-	route_id TEXT DEFAULT NULL,
-	service_id TEXT DEFAULT NULL,
-	trip_id TEXT DEFAULT NULL,
-	trip_headsign TEXT DEFAULT NULL,
-	direction_id TEXT DEFAULT NULL,
-	shape_id TEXT DEFAULT NULL,
-	bikes_allowed TEXT DEFAULT NULL,
-	
-	trip_short_name TEXT DEFAULT NULL,
-	block_id TEXT DEFAULT NULL,
-	wheelchair_accessible TEXT DEFAULT NULL
-	);
-	
-CREATE TABLE stop_times (
-	trip_id TEXT DEFAULT NULL,
-	arrival_time TEXT DEFAULT NULL,
-	departure_time TEXT DEFAULT NULL,
-	stop_id TEXT DEFAULT NULL,
-	stop_sequence INTEGER DEFAULT NULL,
-	pickup_type TEXT DEFAULT NULL,
-	drop_off_type TEXT DEFAULT NULL,
-	
-	stop_headsign TEXT DEFAULT NULL,
-	shape_dist_traveled TEXT DEFAULT NULL,
-	timepoint TEXT DEFAULT NULL
-	);
-	
-CREATE TABLE calendar (
-	service_id TEXT DEFAULT NULL,
-	monday TEXT DEFAULT NULL,
-	tuesday TEXT DEFAULT NULL,
-	wednesday TEXT DEFAULT NULL,
-	thursday TEXT DEFAULT NULL,
-	friday TEXT DEFAULT NULL,
-	saturday TEXT DEFAULT NULL,
-	sunday TEXT DEFAULT NULL,
-	start_date TEXT DEFAULT NULL,
-	end_date TEXT DEFAULT NULL
+
 	);
 
-CREATE TABLE calendar_dates (
+CREATE TABLE trips(
+	route_id TEXT NOT NULL,
+	service_id TEXT NOT NULL,
+	trip_id TEXT NOT NULL,
+	trip_headsign TEXT DEFAULT NULL,
+	trip_short_name TEXT DEFAULT NULL,
+	direction_id TEXT DEFAULT NULL,
+	block_id TEXT DEFAULT NULL,
+	shape_id TEXT DEFAULT NULL,
+	wheelchair_accessible TEXT DEFAULT NULL,
+	bikes_allowed TEXT DEFAULT NULL
+
+	);
+
+CREATE TABLE stop_times(
+	trip_id TEXT NOT NULL,
+	arrival_time TEXT NOT NULL,
+	departure_time TEXT NOT NULL,
+	stop_id TEXT NOT NULL,
+	stop_sequence INTEGER NOT NULL,
+	stop_headsign TEXT DEFAULT NULL,
+	pickup_type TEXT DEFAULT NULL,
+	drop_off_type TEXT DEFAULT NULL,
+	shape_dist_traveled TEXT DEFAULT NULL,
+
+	timepoint TEXT DEFAULT NULL
+	);
+
+CREATE TABLE calendar(
+	service_id TEXT NOT NULL,
+	monday TEXT NOT NULL,
+	tuesday TEXT NOT NULL,
+	wednesday TEXT NOT NULL,
+	thursday TEXT NOT NULL,
+	friday TEXT NOT NULL,
+	saturday TEXT NOT NULL,
+	sunday TEXT NOT NULL,
+	start_date TEXT NOT NULL,
+	end_date TEXT NOT NULL
+
+	);
+
+CREATE TABLE calendar_dates(
 	service_id TEXT DEFAULT NULL,
 	date TEXT DEFAULT NULL,
-	exception_type TEXT DEFAULT NULL
+	exception_type TEXT NOT NULL
+
 	);
-	
-CREATE TABLE fare_attributes (
-	fare_id TEXT DEFAULT NULL,
-	price TEXT DEFAULT NULL,
-	currency_type TEXT DEFAULT NULL,
-	payment_method TEXT DEFAULT NULL,
-	transfers TEXT DEFAULT NULL,
-	
+
+CREATE TABLE fare_attributes(
+	fare_id TEXT NOT NULL,
+	price TEXT NOT NULL,
+	currency_type TEXT NOT NULL,
+	payment_method TEXT NOT NULL,
+	transfers TEXT NOT NULL,
 	transfer_duration TEXT DEFAULT NULL
+
 	);
-	
-CREATE TABLE fare_rules (
-	fare_id TEXT DEFAULT NULL,
+
+CREATE TABLE fare_rules(
+	fare_id TEXT NOT NULL,
+	route_id TEXT DEFAULT NULL,
 	origin_id TEXT DEFAULT NULL,
 	destination_id TEXT DEFAULT NULL,
-	
-	route_id TEXT DEFAULT NULL,
 	contains_id TEXT DEFAULT NULL
+
 	);
-	
-CREATE TABLE shapes (
-	shape_id TEXT DEFAULT NULL,
-	shape_pt_lat TEXT DEFAULT NULL,
-	shape_pt_lon TEXT DEFAULT NULL,
-	shape_pt_sequence TEXT DEFAULT NULL,
+
+CREATE TABLE shapes(
+	shape_id TEXT NOT NULL,
+	shape_pt_lat TEXT NOT NULL,
+	shape_pt_lon TEXT NOT NULL,
+	shape_pt_sequence INTEGER NOT NULL,
 	shape_dist_traveled TEXT DEFAULT NULL
+
 	);
-	
-CREATE TABLE frequencies (
-	trip_id TEXT DEFAULT NULL,
-	start_time TEXT DEFAULT NULL,
-	end_time TEXT DEFAULT NULL,
-	headway_secs TEXT DEFAULT NULL,
+
+CREATE TABLE frequencies(
+	trip_id TEXT NOT NULL,
+	start_time TEXT NOT NULL,
+	end_time TEXT NOT NULL,
+	headway_secs TEXT NOT NULL,
 	exact_times TEXT DEFAULT NULL
 	);
-	
-CREATE TABLE transfers (
-	from_stop_id TEXT DEFAULT NULL,
-	to_stop_id TEXT DEFAULT NULL,
-	transfer_type TEXT DEFAULT NULL,
-	min_transfer_time TEXT DEFAULT NULL
+
+CREATE TABLE transfers(
+	from_stop_id TEXT NOT NULL,
+	to_stop_id TEXT NOT NULL,
+	transfer_type TEXT NOT NULL,
+	min_transfer_time INTEGER DEFAULT NULL
 	);
-	
-CREATE TABLE feed_info (
-	feed_publisher_name TEXT DEFAULT NULL,
-	feed_publisher_url TEXT DEFAULT NULL,
-	feed_lang TEXT DEFAULT NULL,
+
+CREATE TABLE feed_info(
+	feed_publisher_name TEXT NOT NULL,
+	feed_publisher_url TEXT NOT NULL,
+	feed_lang TEXT NOT NULL,
 	feed_start_date TEXT DEFAULT NULL,
 	feed_end_date TEXT DEFAULT NULL,
 	feed_version TEXT DEFAULT NULL
+
 	);
-	
+
 .separator ,
 .mode csv
 .import agency.txt agency
@@ -148,12 +153,12 @@ CREATE TABLE feed_info (
 .import calendar_dates.txt calendar_dates
 .import fare_attributes.txt fare_attributes
 .import fare_rules.txt fare_rules
-.import shapes.txt shapes
+--.import shapes.txt shapes
 .import frequencies.txt frequencies
 .import transfers.txt transfers
 .import feed_info.txt feed_info
 
---Delete first rows that are actually header text rows
+
 DELETE FROM agency WHERE agency_id IN (
 	SELECT agency_id FROM agency WHERE
 		(
@@ -168,7 +173,7 @@ DELETE FROM agency WHERE agency_id IN (
 		)
 		LIMIT 1
 	);
-	
+
 DELETE FROM stops WHERE stop_id = (
 	SELECT stop_id FROM stops WHERE
 		(
@@ -202,7 +207,7 @@ DELETE FROM routes WHERE route_id = (
 		)
 		LIMIT 1
 	);
-	
+
 DELETE FROM trips WHERE trip_id = (
 	SELECT trip_id FROM trips WHERE
 		(
@@ -236,7 +241,7 @@ DELETE FROM stop_times WHERE trip_id = (
 		)
 		LIMIT 1
 	);
-	
+
 DELETE FROM calendar WHERE service_id = (
 	SELECT service_id FROM calendar WHERE
 		(
@@ -253,7 +258,7 @@ DELETE FROM calendar WHERE service_id = (
 		)
 		LIMIT 1
 	);
-	
+
 DELETE FROM calendar_dates WHERE service_id = (
 	SELECT service_id FROM calendar_dates WHERE
 		(
@@ -276,7 +281,7 @@ DELETE FROM fare_attributes WHERE fare_id = (
 		)
 		LIMIT 1
 	);
-	
+
 DELETE FROM fare_rules WHERE fare_id = (
 	SELECT fare_id FROM fare_rules WHERE
 		(
@@ -288,7 +293,7 @@ DELETE FROM fare_rules WHERE fare_id = (
 		)
 		LIMIT 1
 	);
-	
+
 DELETE FROM shapes WHERE shape_id = (
 	SELECT shape_id FROM shapes WHERE
 		(
@@ -300,7 +305,7 @@ DELETE FROM shapes WHERE shape_id = (
 		)
 		LIMIT 1
 	);
-	
+
 DELETE FROM frequencies WHERE trip_id = (
 	SELECT trip_id FROM frequencies WHERE
 		(
@@ -312,7 +317,7 @@ DELETE FROM frequencies WHERE trip_id = (
 		)
 		LIMIT 1
 	);
-	
+
 DELETE FROM feed_info WHERE feed_publisher_name = (
 	SELECT feed_publisher_name FROM feed_info WHERE
 		(
@@ -325,8 +330,5 @@ DELETE FROM feed_info WHERE feed_publisher_name = (
 		)
 		LIMIT 1
 	);
-	
---Do I need primary keys?
---_id INTEGER PRIMARY KEY
---Note: Have to check order every time this way manually
---sqlite3 gtfs.db < gtfs_to_sql.sql
+
+--sqlite3 patco_20161022_1.db < patco_20161022_gtfs_to_sql.sql
