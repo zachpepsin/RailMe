@@ -6,7 +6,7 @@
       {
       	"name":"patco",
         "prodDbName":"patco_20160406_6.db",
-        "devDbName":"patco_201610_1.db",
+        "devDbName":"patco_20161022_1.db",
         "type":"offline",
         "alertMessage":"On Saturday October 22, PATCO is running a special schedule for EASTBOUND trains only that is not reflected in RailMe.  Click \"View\" to view the special schedule.",
         "alertLink":"http://ridepatco.org/publish/library/PATCO_SpecialSchedule_Eastbound_10-22-16.pdf",
