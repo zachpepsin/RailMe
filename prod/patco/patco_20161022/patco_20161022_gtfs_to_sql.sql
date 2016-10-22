@@ -86,7 +86,6 @@ CREATE TABLE calendar_dates(
 	service_id TEXT DEFAULT NULL,
 	date TEXT DEFAULT NULL,
 	exception_type TEXT NOT NULL
-
 	);
 
 CREATE TABLE fare_attributes(
