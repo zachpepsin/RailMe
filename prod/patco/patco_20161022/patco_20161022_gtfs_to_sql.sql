@@ -4,27 +4,27 @@ CREATE TABLE agency(
 	agency_name TEXT NOT NULL,
 	agency_url TEXT NOT NULL,
 	agency_timezone TEXT NOT NULL,
+
 	agency_lang TEXT DEFAULT NULL,
 	agency_phone TEXT DEFAULT NULL,
 	agency_fare_url TEXT DEFAULT NULL,
-
 	agency_email TEXT DEFAULT NULL
 	);
 
 CREATE TABLE stops(
 	stop_id TEXT DEFAULT NULL,
-	stop_code TEXT DEFAULT NULL,
 	stop_name TEXT NOT NULL,
 	stop_desc TEXT DEFAULT NULL,
 	stop_lat TEXT NOT NULL,
 	stop_lon TEXT NOT NULL,
 	zone_id TEXT DEFAULT NULL,
+
+	stop_code TEXT DEFAULT NULL,
 	stop_url TEXT DEFAULT NULL,
 	location_type TEXT DEFAULT NULL,
 	parent_station TEXT DEFAULT NULL,
 	stop_timezone TEXT DEFAULT NULL,
 	wheelchair_boarding TEXT DEFAULT NULL
-
 	);
 
 CREATE TABLE routes(
@@ -32,12 +32,12 @@ CREATE TABLE routes(
 	agency_id TEXT DEFAULT NULL,
 	route_short_name TEXT NOT NULL,
 	route_long_name TEXT NOT NULL,
-	route_desc TEXT DEFAULT NULL,
 	route_type TEXT NOT NULL,
+
+	route_desc TEXT DEFAULT NULL,
 	route_url TEXT DEFAULT NULL,
 	route_color TEXT DEFAULT NULL,
 	route_text_color TEXT DEFAULT NULL
-
 	);
 
 CREATE TABLE trips(
@@ -45,13 +45,13 @@ CREATE TABLE trips(
 	service_id TEXT NOT NULL,
 	trip_id TEXT NOT NULL,
 	trip_headsign TEXT DEFAULT NULL,
-	trip_short_name TEXT DEFAULT NULL,
 	direction_id TEXT DEFAULT NULL,
-	block_id TEXT DEFAULT NULL,
 	shape_id TEXT DEFAULT NULL,
-	wheelchair_accessible TEXT DEFAULT NULL,
-	bikes_allowed TEXT DEFAULT NULL
+	bikes_allowed TEXT DEFAULT NULL,
 
+	trip_short_name TEXT DEFAULT NULL,
+	block_id TEXT DEFAULT NULL,
+	wheelchair_accessible TEXT DEFAULT NULL
 	);
 
 CREATE TABLE stop_times(
@@ -60,11 +60,11 @@ CREATE TABLE stop_times(
 	departure_time TEXT NOT NULL,
 	stop_id TEXT NOT NULL,
 	stop_sequence INTEGER NOT NULL,
-	stop_headsign TEXT DEFAULT NULL,
 	pickup_type TEXT DEFAULT NULL,
 	drop_off_type TEXT DEFAULT NULL,
-	shape_dist_traveled TEXT DEFAULT NULL,
 
+	stop_headsign TEXT DEFAULT NULL,
+	shape_dist_traveled TEXT DEFAULT NULL,
 	timepoint TEXT DEFAULT NULL
 	);
 
@@ -86,6 +86,7 @@ CREATE TABLE calendar_dates(
 	service_id TEXT DEFAULT NULL,
 	date TEXT DEFAULT NULL,
 	exception_type TEXT NOT NULL
+
 	);
 
 CREATE TABLE fare_attributes(
@@ -94,17 +95,17 @@ CREATE TABLE fare_attributes(
 	currency_type TEXT NOT NULL,
 	payment_method TEXT NOT NULL,
 	transfers TEXT NOT NULL,
-	transfer_duration TEXT DEFAULT NULL
 
+	transfer_duration TEXT DEFAULT NULL
 	);
 
 CREATE TABLE fare_rules(
 	fare_id TEXT NOT NULL,
-	route_id TEXT DEFAULT NULL,
 	origin_id TEXT DEFAULT NULL,
 	destination_id TEXT DEFAULT NULL,
-	contains_id TEXT DEFAULT NULL
 
+	route_id TEXT DEFAULT NULL,
+	contains_id TEXT DEFAULT NULL
 	);
 
 CREATE TABLE shapes(
@@ -138,7 +139,6 @@ CREATE TABLE feed_info(
 	feed_start_date TEXT DEFAULT NULL,
 	feed_end_date TEXT DEFAULT NULL,
 	feed_version TEXT DEFAULT NULL
-
 	);
 
 .separator ,
