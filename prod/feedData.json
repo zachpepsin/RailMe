@@ -8,8 +8,8 @@
         "prodDbName":"patco_20161022_1.db",
         "devDbName":"patco_20161022_1.db",
         "type":"offline",
-        "alertMessage":"On November 30th, from 8:50pm to Midnight, PATCO is running a special schedule for WESTBOUND trains that is not reflected in RailMe.  Click \"View\" to view the special schedule.",
-        "alertLink":"http://ridepatco.org/publish/library/PATCO_SpecialSchedule_Westbound_11-30-16.pdf",
+        "alertMessage":"",
+        "alertLink":"",
         "rtServiceAlerts":"",
         "rtTripUpdates":""
       },
