@@ -8,8 +8,8 @@
         "prodDbName":"patco_20161022_1.db",
         "devDbName":"patco_20161022_1.db",
         "type":"offline",
-        "alertMessage":"",
-        "alertLink":"",
+        "alertMessage":"A new PATCO schedule began on December 3rd that has not yet been uploaded to RailMe.  Please click \"View\" to view the new schedule.",
+        "alertLink":"http://www.ridepatco.org/pdf/PATCO_Timetable_2016-12-03.pdf",
         "rtServiceAlerts":"",
         "rtTripUpdates":""
       },
