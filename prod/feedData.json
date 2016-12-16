@@ -8,8 +8,8 @@
         "prodDbName":"patco_20161203_2.db",
         "devDbName":"patco_20161203_2.db",
         "type":"offline",
-        "alertMessage":"",
-        "alertLink":"",
+        "alertMessage":"On Sunday December 18th, from 8am to 4pm PATCO is running special schedule for EASTBOUND trains that is not reflected in RailMe.  Click \"View\" to view the special schedule.",
+        "alertLink":"http://ridepatco.org/publish/library/PATCO_SpecialSchedule_Eastbound_12-18-16.pdf",
         "rtServiceAlerts":"",
         "rtTripUpdates":""
       },
