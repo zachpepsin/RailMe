@@ -8,7 +8,7 @@
         "prodDbName":"patco_20161203_2.db",
         "devDbName":"patco_20161203_2.db",
         "type":"offline",
-        "alertMessage":"PATCO is currently experiencing delays due to an equipment issue at Ferry Avenue.  Trains are now running every 15 minutes in both directions.",
+        "alertMessage":"",
         "alertLink":"",
         "rtServiceAlerts":"",
         "rtTripUpdates":""
