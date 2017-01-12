@@ -8,7 +8,7 @@
         "prodDbName":"patco_20161203_2.db",
         "devDbName":"patco_20161203_2.db",
         "type":"offline",
-        "alertMessage":"",
+        "alertMessage":"PATCO is currently experiencing an approximate 10-15 minute delay in both directions due to an equipment issue at Ferry Avenue.",
         "alertLink":"",
         "rtServiceAlerts":"",
         "rtTripUpdates":""
