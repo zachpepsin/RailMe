@@ -1,7 +1,5 @@
-﻿fare_id,origin_id,destination_id
-law_phl,240,249
-law_phl,249,240
-law_phl,240,250
+fare_id,origin_id,destination_idlaw_phl,240,249law_phl,249,240
+law_phl,240,250
 law_phl,250,240
 law_phl,240,251
 law_phl,251,240
