@@ -8,8 +8,8 @@
         "prodDbName":"patco_20170128_1.db",
         "devDbName":"patco_20170128_1.db",
         "type":"offline",
-        "alertMessage":"On February 9th, from 5am to Midnight, PATCO is running a special schedule that is not reflected in RailMe.  Click \"View\" to view the special schedule.",
-        "alertLink":"http://ridepatco.org/publish/library/PATCO_SnowSchedule_Weekday_ScheduleB.pdf",
+        "alertMessage":"",
+        "alertLink":"",
         "rtServiceAlerts":"",
         "rtTripUpdates":""
       },
