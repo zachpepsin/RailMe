@@ -1,15 +1,15 @@
 {
   "minAppVersionCode":"32",
   
-  "feeds" : 
+  "feeds" :
     [
       {
       	"name":"patco",
         "prodDbName":"patco_20170128_1.db",
         "devDbName":"patco_20170128_1.db",
         "type":"offline",
-        "alertMessage":"On February 19th, from 8am to 5:30pm, PATCO is running a special schedule for EASTBOUND trains that is not reflected in RailMe.  Click \"View\" to view the special schedule.",
-        "alertLink":"http://ridepatco.org/publish/library/PATCO_SpecialSchedule_Eastbound_2017-02-19.pdf",
+        "alertMessage":"On February 20th, PATCO is running a special schedule that is not reflected in RailMe.  Click \"View\" to view the special schedule.",
+        "alertLink":"http://www.ridepatco.org/publish/library/PATCO_SpecialSchedule_PresidentsDay2017.pdf",
         "rtServiceAlerts":"",
         "rtTripUpdates":""
       },
