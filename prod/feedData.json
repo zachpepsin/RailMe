@@ -8,7 +8,7 @@
         "prodDbName":"patco_20170128_1.db",
         "devDbName":"patco_20170128_1.db",
         "type":"offline",
-        "alertMessage":"On March 18th and 19th, PATCO is running special schedules that are not reflected in RailMe.  Got to RidePATCO.org for more info.",
+        "alertMessage":"",
         "alertLink":"",
         "rtServiceAlerts":"",
         "rtTripUpdates":""
