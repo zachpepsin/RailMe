@@ -8,8 +8,8 @@
         "prodDbName":"patco_20170424_1.db",
         "devDbName":"patco_20170424_1.db",
         "type":"offline",
-        "alertMessage":"From Tuesday May 23 through Thursday May 25, from 10:45am to 1:45pm PATCO is running a special schedule for EASTBOUND trains that is not reflected in RailMe.  Click \"View\" to view the special schedule.",
-        "alertLink":"http://ridepatco.org/publish/library/PATCO_SpecialSchedule_Eastbound_2017-05-22.pdf",
+        "alertMessage":"On Friday May 26th, PATCO is running a special schedule that is not reflected in RailMe.  Click \"View\" to view the special schedule.",
+        "alertLink":"http://ridepatco.org/publish/library/MemorialDayHolidaySchedule_2017-05-26.pdf",
         "rtServiceAlerts":"",
         "rtTripUpdates":""
       },
