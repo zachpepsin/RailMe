@@ -8,8 +8,8 @@
         "prodDbName":"patco_20170424_1.db",
         "devDbName":"patco_20170630_1.db",
         "type":"offline",
-        "alertMessage":"On Saturday July 1st, PATCO is running a special schedule for WESTBOUND trains only that is not reflected in RailMe.  Click \"View\" to view the special schedule.",
-        "alertLink":"http://ridepatco.org/publish/library/PATCO_SpecialSchedule_WB_2017-07-01.pdf",
+        "alertMessage":"On Tuesday July 4th, PATCO is running a special schedule that is not yet reflected in RailMe.  Click \"View\" to view the special schedule.",
+        "alertLink":"http://www.ridepatco.org/publish/library/HolidaySchedule_2017-07-04.pdf",
         "rtServiceAlerts":"",
         "rtTripUpdates":""
       },
