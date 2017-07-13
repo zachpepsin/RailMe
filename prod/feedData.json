@@ -8,8 +8,8 @@
         "prodDbName":"patco_20170424_1.db",
         "devDbName":"patco_20170630_1.db",
         "type":"offline",
-        "alertMessage":"PATCO is running on an emergency schedule until 3pm.  Click \"View\" to view the special schedule.",
-        "alertLink":"http://www.ridepatco.org/publish/library/PATCO_SpecialSchedule_WB-EB_2017-07-13.pdf",
+        "alertMessage":"",
+        "alertLink":"",
         "rtServiceAlerts":"",
         "rtTripUpdates":""
       },
