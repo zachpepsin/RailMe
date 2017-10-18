@@ -8,7 +8,7 @@
         "prodDbName":"patco_20170819_1.db",
         "devDbName":"patco_20170819_1.db",
         "type":"offline",
-        "alertMessage":"From October 16th through 20th, a special schedule is being used by PATCO that is not reflected in RailMr.  Click\"View\" to view the special schedule.",
+        "alertMessage":"From October 16th through 20th, a special schedule is being used by PATCO that is not reflected in RailMe.  Click\"View\" to view the special schedule.",
         "alertLink":"http://www.ridepatco.org/publish/library/PATCO_SpecialSchedule_Weekday_2017-10-16.pdf",
         "rtServiceAlerts":"",
         "rtTripUpdates":""
