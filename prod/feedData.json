@@ -8,8 +8,8 @@
         "prodDbName":"patco_20171216_1.db",
         "devDbName":"patco_20171216_1.db",
         "type":"offline",
-        "alertMessage":"Due to a downed electrical pole, all PATCO service between Lindenwold and Ferry Avenue is suspended.  Trains between 15th/16th & Locust and Brodaway are running in both directions at very limited intervals.",
-        "alertLink":"",
+        "alertMessage":"On January 29th, PATCO is running a special schedule that is not reflected in RailMe.  Click \"View\" to view the special schedule.",
+        "alertLink":"http://ridepatco.org/publish/library/PATCO_SpecialSchedule_Eastbound_2018-01-29.pdf",
         "rtServiceAlerts":"",
         "rtTripUpdates":""
       },
