@@ -8,8 +8,8 @@
         "prodDbName":"patco_20171216_1.db",
         "devDbName":"patco_20171216_1.db",
         "type":"offline",
-        "alertMessage":"",
-        "alertLink":"",
+        "alertMessage":"On February 8th, PATCO will be running a heavily modified schedule and will close most stations.  Click \"View\" to view details.",
+        "alertLink":"http://www.ridepatco.org/news/news.asp?param=2&archive=0&publication=19&pubnumber=3786",
         "rtServiceAlerts":"",
         "rtTripUpdates":""
       },
