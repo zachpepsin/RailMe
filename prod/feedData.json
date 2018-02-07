@@ -8,7 +8,7 @@
         "prodDbName":"patco_20171216_1.db",
         "devDbName":"patco_20171216_1.db",
         "type":"offline",
-        "alertMessage":"On February 8th, PATCO will be running a heavily modified schedule and will close most stations.  Click \"View\" to view details.",
+        "alertMessage":"On February 8th, PATCO will be running a heavily modified schedule and will close most stations.  These changes are NOT reflected in RailMe.  Click \"View\" to view details.",
         "alertLink":"http://www.ridepatco.org/news/news.asp?param=2&archive=0&publication=19&pubnumber=3786",
         "rtServiceAlerts":"",
         "rtTripUpdates":""
@@ -18,8 +18,8 @@
         "prodDbName":"septa_20180114_1.db",
         "devDbName":"septa_20180114_1.db",
         "type":"offline",
-        "alertMessage":"",
-        "alertLink":"",
+        "alertMessage":"On February 8th, SEPTA will be running a heavily modified scheduled and will close most stations.  These changes are NOT reflected in RailMe.  Click \"View\" for more information.",
+        "alertLink":"http://www.septa.org/eagles/index.html",
         "rtServiceAlerts":"http://www3.septa.org/gtfsrt/septarail-pa-us/Service/rtServiceAlerts.pb",
         "rtTripUpdates":"http://www3.septa.org/gtfsrt/septarail-pa-us/Trip/rtTripUpdates.pb"
       },
@@ -28,8 +28,8 @@
       	"prodDbName":"njt_20171114_1.db",
         "devDbName":"njt_20171114_1.db",
         "type":"offline",
-        "alertMessage":"",
-        "alertLink":"",
+        "alertMessage":"On February 8th, NJ Transit Atlantic City Line will add an extra train to and from Philadelphia.  Click \"View\" for more information.",
+        "alertLink":"http://www.njtransit.com/sa/sa_servlet.srv?hdnPageAction=CustomerNoticeTo&NoticeId=2523",
         "rtServiceAlerts":"",
         "rtTripUpdates":"http://standards.xcmdata.org/TransitDE/rest/GTFSController/njtrailgtfsrt"
       }
