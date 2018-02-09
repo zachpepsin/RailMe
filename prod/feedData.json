@@ -8,8 +8,8 @@
         "prodDbName":"patco_20171216_1.db",
         "devDbName":"patco_20171216_1.db",
         "type":"offline",
-        "alertMessage":"On February 8th, PATCO will be running a heavily modified schedule and will close most stations.  These changes are NOT reflected in RailMe.  Click \"View\" to view details.",
-        "alertLink":"http://www.ridepatco.org/news/news.asp?param=2&archive=0&publication=19&pubnumber=3786",
+        "alertMessage":"",
+        "alertLink":"",
         "rtServiceAlerts":"",
         "rtTripUpdates":""
       },
