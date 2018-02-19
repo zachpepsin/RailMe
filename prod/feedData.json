@@ -8,8 +8,8 @@
         "prodDbName":"patco_20171216_1.db",
         "devDbName":"patco_20171216_1.db",
         "type":"offline",
-        "alertMessage":"",
-        "alertLink":"",
+        "alertMessage":"On February 20th, PATCO is running a special schedule that is not reflected in RaiMe.  Click \"View\" to view the special schedule.",
+        "alertLink":"http://ridepatco.org/publish/library/PresidentsDaySchedule_2018-02-19.pdf",
         "rtServiceAlerts":"",
         "rtTripUpdates":""
       },
