@@ -18,7 +18,7 @@
         "prodDbName":"septa_20180114_1.db",
         "devDbName":"septa_20180114_1.db",
         "type":"offline",
-        "alertMessage":"",
+        "alertMessage":"The Chestnut Hill West line is now suspended.  All other SEPTA Regoinal Rail trains are currently expected to have 25 minute delays.",
         "alertLink":"",
         "rtServiceAlerts":"http://www3.septa.org/gtfsrt/septarail-pa-us/Service/rtServiceAlerts.pb",
         "rtTripUpdates":"http://www3.septa.org/gtfsrt/septarail-pa-us/Trip/rtTripUpdates.pb"
