@@ -10,8 +10,8 @@
         "type":"offline",
         "alertMessage":"",
         "alertLink":"",
-        "rtServiceAlerts":"",
-        "rtTripUpdates":""
+        "rtServiceAlerts":"On March 3rd, PATCO is running a special schedule that is not reflected in RailMe.  Click \"View\" to view the special schedule.",
+        "rtTripUpdates":"http://ridepatco.org/publish/library/FlowerShow_Saturdays_2018.pdf"
       },
       {
       	"name":"septa",
