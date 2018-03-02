@@ -10,7 +10,7 @@
         "type":"offline",
         "alertMessage":"",
         "alertLink":"",
-        "rtServiceAlerts":"On March 3rd, PATCO is running a special schedule that is not reflected in RailMe.  Click \"View\" to view the special schedule.",
+        "rtServiceAlerts":"PATCO is currently operating with minimal delays.   On March 3rd, PATCO is running a special schedule that is not reflected in RailMe.  Click \"View\" to view the special schedule.",
         "rtTripUpdates":"http://ridepatco.org/publish/library/FlowerShow_Saturdays_2018.pdf"
       },
       {
@@ -18,7 +18,7 @@
         "prodDbName":"septa_20180114_1.db",
         "devDbName":"septa_20180114_1.db",
         "type":"offline",
-        "alertMessage":"Most regional rail lines are now suspended.  All other SEPTA Regoinal Rail trains are expected to have 60+ minute delays.  Visit septa.org for the latest information.",
+        "alertMessage":"Most regional rail lines are now suspended.  All other SEPTA Regoinal Rail trains are expected to have significant delays.  Visit septa.org for the latest information.",
         "alertLink":"http://www.septa.org/",
         "rtServiceAlerts":"http://www3.septa.org/gtfsrt/septarail-pa-us/Service/rtServiceAlerts.pb",
         "rtTripUpdates":"http://www3.septa.org/gtfsrt/septarail-pa-us/Trip/rtTripUpdates.pb"
@@ -28,7 +28,7 @@
       	"prodDbName":"njt_20171114_1.db",
         "devDbName":"njt_20171114_1.db",
         "type":"offline",
-        "alertMessage":"All NJ Transit train lines are subject to 20 minute delays.  System cross honoring is currently in effect.",
+        "alertMessage":"The Atlantic City Line is suspended between 30th Street and Cherry Hill.  All other NJ Transit train lines are subject to delays.  System cross honoring is currently in effect.",
         "alertLink":"",
         "rtServiceAlerts":"",
         "rtTripUpdates":"http://standards.xcmdata.org/TransitDE/rest/GTFSController/njtrailgtfsrt"
