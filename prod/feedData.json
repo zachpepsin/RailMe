@@ -28,7 +28,7 @@
       	"prodDbName":"njt_20171114_1.db",
         "devDbName":"njt_20171114_1.db",
         "type":"offline",
-        "alertMessage":"The Atlantic City Line is suspended between 30th Street and Cherry Hill.  All other NJ Transit train lines are subject to delays.  System cross honoring is currently in effect.",
+        "alertMessage":"The Atlantic City Line is now suspended.  All other NJ Transit train lines are subject to significant delays.  System cross honoring is currently in effect.",
         "alertLink":"",
         "rtServiceAlerts":"",
         "rtTripUpdates":"http://standards.xcmdata.org/TransitDE/rest/GTFSController/njtrailgtfsrt"
