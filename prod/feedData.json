@@ -8,8 +8,8 @@
         "prodDbName":"patco_20171216_1.db",
         "devDbName":"patco_20171216_1.db",
         "type":"offline",
-        "alertMessage":"On March 3rd, PATCO is running a special schedule that is not reflected in RailMe.  Click \"View\" to view the special schedule.",
-        "alertLink":"http://ridepatco.org/publish/library/FlowerShow_Saturdays_2018.pdf",
+        "alertMessage":"On March 4th, PATCO is running a special schedule that is not reflected in RailMe.  Click \"View\" to view the special schedule.",
+        "alertLink":"http://www.ridepatco.org/publish/library/FlowerShow_Sunday_2018-03-04.pdf",
         "rtServiceAlerts":"",
         "rtTripUpdates":""
       },
