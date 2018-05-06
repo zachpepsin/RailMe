@@ -8,7 +8,7 @@
         "prodDbName":"patco_20171216_1.db",
         "devDbName":"patco_20171216_1.db",
         "type":"offline",
-        "alertMessage":"On Saturday May 5th, PATCO is running a special schedule for a portion of the day that is not reflected in RailMe.  Click \"View\" to view the special scheudle.",
+        "alertMessage":"",
         "alertLink":"http://ridepatco.org/publish/library/PATCO_SpecialSchedule_2018-05-05.pdf",
         "rtServiceAlerts":"",
         "rtTripUpdates":""
@@ -20,8 +20,8 @@
         "type":"offline",
         "alertMessage":"",
         "alertLink":"",
-        "rtServiceAlerts":"http://www3.septa.org/gtfsrt/septarail-pa-us/Service/rtServiceAlerts.pb",
-        "rtTripUpdates":"http://www3.septa.org/gtfsrt/septarail-pa-us/Trip/rtTripUpdates.pb"
+        "rtServiceAlerts":"",
+        "rtTripUpdates":""
       },
       {
       	"name":"njt",
