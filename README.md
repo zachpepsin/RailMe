@@ -17,6 +17,40 @@
 
 ## RailMe Changelog
 
+#### 2.2.1 (Pre-release)
+* Added adaptive icon support
+
+### 2.2.0 (Production) (9 September 2016)
+* Added live train status information
+* Added alert requesting user to rate the app
+
+#### 2.1.4 (Production) (15 July 2016)
+* Fixed block_id bug that caused some SEPTA trips to not be displayed
+* Added "Automatic" option for Time Convention
+* Updated SettingsActivity to use PreferenceFragments
+* Updated ScheduleActivity to use RecyclerView
+
+#### 2.1.3 (Production) (15 June 2016)
+* Optimization for Android N
+* Fixed bug where response code of 400 from GitHub JSON file would crash app
+* Error handling for bad responses from GitHub
+
+#### 2.1.2 (Prodution) (6 June 2016)
+* Fixed bug where only one schedule could update/download at a time
+
+#### 2.1.1 (Beta) (6 June 2016)
+* Fixed bug where alert messages would not display
+
+### 2.1.0 (Beta) (5 June 2016)
+* Major performance improvements
+* Added Samsung Multi Window support
+* Added wheelchair accessibility information
+* Raised minimum SDK from 8 to 16
+
+#### 2.0.5 (Production) (6 September 2015)
+* Added option to report an incorrect schedule or bug
+* Bug fixes related to displaying fare/bike information
+
 ### 2.0.0 (Alpha) (9 August 2015)
 * Completely redesigned UI
 * Implemented Material Design
@@ -25,34 +59,3 @@
 * New rail lines added
 * Fare and bike accessibility information
 * Reduced app permissions
-
-#### 2.0.5 (Production) (6 September 2015)
-* Added option to report an incorrect schedule or bug
-* Bug fixes related to displaying fare/bike information
-
-### 2.1.0 (Beta) (5 June 2016)
-* Major performance improvements
-* Added Samsung Multi Window support
-* Added wheelchair accessibility information
-* Raised minimum SDK from 8 to 16
-
-#### 2.1.1 (Beta) (6 June 2016)
-* Fixed bug where alert messages would not display
-
-#### 2.1.2 (Prodution) (6 June 2016)
-* Fixed bug where only one schedule could update/download at a time
-
-#### 2.1.3 (Production) (15 June 2016)
-* Optimization for Android N
-* Fixed bug where response code of 400 from GitHub JSON file would crash app
-* Error handling for bad responses from GitHub
-
-#### 2.1.4 (Production) (15 July 2016)
-* Fixed block_id bug that caused some SEPTA trips to not be displayed
-* Added "Automatic" option for Time Convention
-* Updated SettingsActivity to use PreferenceFragments
-* Updated ScheduleActivity to use RecyclerView
-
-### 2.2.0 (Production) (9 September 2016)
-* Added live train status information
-* Added alert requesting user to rate the app
