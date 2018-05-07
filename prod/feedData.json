@@ -9,7 +9,7 @@
         "devDbName":"patco_20171216_1.db",
         "type":"offline",
         "alertMessage":"",
-        "alertLink":"http://ridepatco.org/publish/library/PATCO_SpecialSchedule_2018-05-05.pdf",
+        "alertLink":"",
         "rtServiceAlerts":"",
         "rtTripUpdates":""
       },
@@ -20,8 +20,8 @@
         "type":"offline",
         "alertMessage":"",
         "alertLink":"",
-        "rtServiceAlerts":"",
-        "rtTripUpdates":""
+        "rtServiceAlerts":"http://www3.septa.org/gtfsrt/septarail-pa-us/Service/rtServiceAlerts.pb",
+        "rtTripUpdates":"http://www3.septa.org/gtfsrt/septarail-pa-us/Trip/rtTripUpdates.pb"
       },
       {
       	"name":"njt",
