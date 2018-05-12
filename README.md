@@ -19,6 +19,7 @@
 
 #### 2.2.1 (Pre-release)
 * Added adaptive icon support
+* Fixed bug where app could crash if user exited app before a toast was shown
 
 ### 2.2.0 (Production) (9 September 2016)
 * Added live train status information
