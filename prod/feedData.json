@@ -8,8 +8,8 @@
         "prodDbName":"patco_20171216_1.db",
         "devDbName":"patco_20171216_1.db",
         "type":"offline",
-        "alertMessage":"",
-        "alertLink":"",
+        "alertMessage":"On Friday May 25th, PATCO is running a special schedule that is not reflected in RailMe.  Click \"View\" to view the special schedule.",
+        "alertLink":"http://ridepatco.org/publish/library/MemorialDayHolidaySchedule_2018-05-25.pdf",
         "rtServiceAlerts":"",
         "rtTripUpdates":""
       },
