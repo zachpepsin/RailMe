@@ -17,7 +17,7 @@
 
 ## RailMe Changelog
 
-#### 2.2.1 (Beta)
+#### 2.2.2 (Beta) (18 May 2018)
 * Added adaptive icon support
 * Fixed bug where app could crash if user exited app before a toast was shown
 * Fixed bug where trips could incorrectly show on the schedule
