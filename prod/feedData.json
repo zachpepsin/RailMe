@@ -8,8 +8,8 @@
         "prodDbName":"patco_20171216_1.db",
         "devDbName":"patco_20171216_1.db",
         "type":"offline",
-        "alertMessage":"",
-        "alertLink":"",
+        "alertMessage":"A new schedule for PATCO is in effect that is not yet reflected in RailMe.  Click \"View\" to view the schedule.",
+        "alertLink":"http://www.ridepatco.org/pdf/PATCO_Timetable_2018-06-16.pdf",
         "rtServiceAlerts":"",
         "rtTripUpdates":""
       },
