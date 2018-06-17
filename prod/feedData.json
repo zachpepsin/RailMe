@@ -5,11 +5,11 @@
     [
       {
       	"name":"patco",
-        "prodDbName":"patco_20171216_1.db",
+        "prodDbName":"patco_20180616_1.db",
         "devDbName":"patco_20180616_1.db",
         "type":"offline",
-        "alertMessage":"A new schedule for PATCO is in effect that is not yet reflected in RailMe.  Click \"View\" to view the schedule.",
-        "alertLink":"http://www.ridepatco.org/pdf/PATCO_Timetable_2018-06-16.pdf",
+        "alertMessage":"On June 17th from 8am to 5pm, PATCO is running a special schedule for EASTBOUND trains that is not reflected in RailMe.  Click \"View\" to view the special schedule.",
+        "alertLink":"http://www.ridepatco.org/publish/library/PATCO_SpecialSchedule_Eastbound_2018-06-17_Day.pdf",
         "rtServiceAlerts":"",
         "rtTripUpdates":""
       },
