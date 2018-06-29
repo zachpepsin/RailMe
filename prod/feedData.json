@@ -8,7 +8,7 @@
         "prodDbName":"patco_20180616_1.db",
         "devDbName":"patco_20180616_1.db",
         "type":"offline",
-        "alertMessage":"On Sunday July 1st, PATCO is running a special schedule from 9am to 6:30pm that is not reflected in RailMe.  Click \"View\" to view the special schedule.",
+        "alertMessage":"On Sunday July 1st from 9am to 6:30pm, PATCO is running a special schedule for EASTBOUND trains that is not reflected in RailMe.  Click \"View\" to view the special schedule.",
         "alertLink":"http://ridepatco.org/publish/library/PATCO_SpecialSchedule_Eastbound_2018-07-01_Day.pdf",
         "rtServiceAlerts":"",
         "rtTripUpdates":""
