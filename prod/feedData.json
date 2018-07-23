@@ -8,8 +8,8 @@
         "prodDbName":"patco_20180616_1.db",
         "devDbName":"patco_20180616_1.db",
         "type":"offline",
-        "alertMessage":"On Sunday July 22nd, from 8am to 5pm, PATCO is running a special schedule for WESTBOUND trains that is not reflected in RailMe.  Click \"View\" to view the special schedule.",
-        "alertLink":"http://ridepatco.org/publish/library/PATCO_SpecialSchedule_Westbound_07-22-18.pdf",
+        "alertMessage":"",
+        "alertLink":"",
         "rtServiceAlerts":"",
         "rtTripUpdates":""
       },
