@@ -8,8 +8,8 @@
         "prodDbName":"patco_20180616_1.db",
         "devDbName":"patco_20180616_1.db",
         "type":"offline",
-        "alertMessage":"On August 31st, PATCO is running a special schedule that is not reflected in RailMe.  Click \"View\" to view the special schedule.",
-        "alertLink":"http://ridepatco.org/publish/library/LaborDayHolidaySchedule_2018-09-03_1stpage.pdf",
+        "alertMessage":"On September 3rd, PATCO is running a special schedule that is not reflected in RailMe.  Click \"View\" to view the special schedule.",
+        "alertLink":"http://ridepatco.org/publish/library/LaborDayHolidaySchedule_2018-09-03_2ndpage.pdf",
         "rtServiceAlerts":"",
         "rtTripUpdates":""
       },
