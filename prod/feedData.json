@@ -8,8 +8,8 @@
         "prodDbName":"patco_20180616_1.db",
         "devDbName":"patco_20180616_1.db",
         "type":"offline",
-        "alertMessage":"",
-        "alertLink":"",
+        "alertMessage":"On Sunday October 7th, PATCO is running a special scheudle for EASTBOUND trains that is not reflected in RailMe.  Click \"View\" to view the special schedule.",
+        "alertLink":"http://ridepatco.org/publish/library/PATCO_SpecialSchedule_10-7-18.pdf",
         "rtServiceAlerts":"",
         "rtTripUpdates":""
       },
