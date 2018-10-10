@@ -8,8 +8,8 @@
         "prodDbName":"patco_20180616_1.db",
         "devDbName":"patco_20180616_1.db",
         "type":"offline",
-        "alertMessage":"",
-        "alertLink":"",
+        "alertMessage":"A new PATCO schedule change effective October 13 has been announced, but has not yet been updated in RailMe.  Click \"View\" to view the new schedule.",
+        "alertLink":"http://www.ridepatco.org/pdf/PATCO_Timetable_2018-10-13.pdf",
         "rtServiceAlerts":"",
         "rtTripUpdates":""
       },
