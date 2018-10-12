@@ -1,4 +1,4 @@
-stop_id,stop_name,stop_desc,stop_lat,stop_lon,zone_id
+stop_id,stop_name,stop_desc,stop_lat,stop_lon,zone_id,wheelchair_boarding
 240,"Lindenwold","Lindenwold, NJ",39.83389,-75.00056,240,1
 241,"Ashland (Voorhees)","Ashland (Voorhees), NJ",39.85856,-75.009199,241,2
 242,"Woodcrest/Cherry Hill","Woodcrest/Cherry Hill, NJ",39.870166,-75.011217,242,1

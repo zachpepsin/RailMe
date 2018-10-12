@@ -18,13 +18,13 @@ CREATE TABLE stops(
 	stop_lat TEXT NOT NULL,
 	stop_lon TEXT NOT NULL,
 	zone_id TEXT DEFAULT NULL,
+	wheelchair_boarding TEXT DEFAULT NULL,
 
 	stop_code TEXT DEFAULT NULL,
 	stop_url TEXT DEFAULT NULL,
 	location_type TEXT DEFAULT NULL,
 	parent_station TEXT DEFAULT NULL,
-	stop_timezone TEXT DEFAULT NULL,
-	wheelchair_boarding TEXT DEFAULT NULL
+	stop_timezone TEXT DEFAULT NULL
 	);
 
 CREATE TABLE routes(
