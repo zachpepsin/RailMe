@@ -8,7 +8,7 @@
         "prodDbName":"patco_20181013_2.db",
         "devDbName":"patco_20181013_2.db",
         "type":"offline",
-        "alertMessage":"",
+        "alertMessage":"The PATCO stations at 15/16th Locust, 12/13th Locust, and 9/10th Locust are closed for emergency repair.  RailMe is not updated to reflect these changes.  More information will be posted to ridepatco.org as it becomes available.",
         "alertLink":"",
         "rtServiceAlerts":"",
         "rtTripUpdates":""
