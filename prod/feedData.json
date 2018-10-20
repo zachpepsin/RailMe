@@ -8,8 +8,8 @@
         "prodDbName":"patco_20181013_2.db",
         "devDbName":"patco_20181013_2.db",
         "type":"offline",
-        "alertMessage":"On October 20th, from 7:45am to 6pm, PATCO is running a special schedule that is not reflected in RailMe.  Click \"View\" to view the special schedule.",
-        "alertLink":"http://ridepatco.org/publish/library/PATCO_SpecialSchedule_2018-10-20-day.pdf",
+        "alertMessage":"On October 21st, from 7:45am to 6pm, PATCO is running a special schedule for EASTBOUND trains that is not reflected in RailMe.  Click \"View\" to view the special schedule.",
+        "alertLink":"http://ridepatco.org/publish/library/PATCO_SpecialSchedule_Eastbound_2018-10-21-day.pdf",
         "rtServiceAlerts":"",
         "rtTripUpdates":""
       },
