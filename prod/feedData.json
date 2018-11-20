@@ -8,7 +8,7 @@
         "prodDbName":"patco_20181013_2.db",
         "devDbName":"patco_20181013_2.db",
         "type":"offline",
-        "alertMessage":"On Tuesday, November 20th PATCO is running a special schedule that is not reflected in RailMe.  Click \"View\" to view the special schedule.",
+        "alertMessage":"On Tuesday, November 20th, PATCO is running a special schedule that is not reflected in RailMe.  Click \"View\" to view the special schedule.",
         "alertLink":"http://ridepatco.org/publish/library/PATCO_SpecialSchedule_2018-11-20.pdf",
         "rtServiceAlerts":"",
         "rtTripUpdates":""
