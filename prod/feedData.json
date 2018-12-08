@@ -6,7 +6,7 @@
       {
       	"name":"patco",
         "prodDbName":"patco_20181013_2.db",
-        "devDbName":"patco_20181013_2.db",
+        "devDbName":"patco_20181210_1.db",
         "type":"offline",
         "alertMessage":"",
         "alertLink":"",
@@ -26,7 +26,7 @@
       {
       	"name":"njt",
       	"prodDbName":"njt_20180603_1.db",
-        "devDbName":"njt_20180603_1.db",
+        "devDbName":"njt_20181014_1.db",
         "type":"offline",
         "alertMessage":"",
         "alertLink":"",
