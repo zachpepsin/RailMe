@@ -8,8 +8,8 @@
         "prodDbName":"patco_20181210_1.db",
         "devDbName":"patco_20181210_1.db",
         "type":"offline",
-        "alertMessage":"On December 28th, PATCO is running a special schedule that is not reflected in RailMe.  Click \"View\" to view the special schedule.",
-        "alertLink":"http://ridepatco.org/publish/library/PATCO_SPECIALSCHEDULES_NYE-2018_12-28.pdf",
+        "alertMessage":"On December 29th, PATCO is running a special schedule that is not reflected in RailMe.  Click \"View\" to view the special schedule.",
+        "alertLink":"http://www.ridepatco.org/publish/library/PATCO_SpecialSchedule_WB-EB_2018-12-29.pdf",
         "rtServiceAlerts":"",
         "rtTripUpdates":""
       },
