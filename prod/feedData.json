@@ -8,7 +8,7 @@
         "prodDbName":"patco_20181210_1.db",
         "devDbName":"patco_20181210_1.db",
         "type":"offline",
-        "alertMessage":"it",
+        "alertMessage":"",
         "alertLink":"",
         "rtServiceAlerts":"",
         "rtTripUpdates":""
