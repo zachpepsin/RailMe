@@ -17,6 +17,9 @@
 
 ## RailMe Changelog
 
+#### 2.2.4 (Pre-release)
+* Fixed bug that prevented users on Android 8.0+ from seeing live train status information
+
 #### 2.2.3 (Production) (1 December 2018)
 * Added adaptive icon support
 * Fixed bug where app could crash if user exited app before a toast was shown
