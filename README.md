@@ -19,6 +19,7 @@
 
 #### 2.2.4 (Pre-release)
 * Fixed bug that prevented users on Android 8.0+ from seeing live train status information
+* Closed DBs in areas where they weren't being closed before.  Potential fix for "SQLiteDiskIOException" errors reported in console
 
 #### 2.2.3 (Production) (1 December 2018)
 * Added adaptive icon support
