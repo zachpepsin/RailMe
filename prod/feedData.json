@@ -8,8 +8,8 @@
         "prodDbName":"patco_20181210_1.db",
         "devDbName":"patco_20181210_1.db",
         "type":"offline",
-        "alertMessage":"On January 23rd, from 9:30am to 2pm, PATCO is running a special scheudle for WESTBOUND trains that is not reflected in RailMe.  Click \"View\" to view the special schedule.",
-        "alertLink":"http://ridepatco.org/publish/library/PATCO_SpecialSchedule_Eastbound_2019-1-23_day.pdf",
+        "alertMessage":"",
+        "alertLink":"",
         "rtServiceAlerts":"",
         "rtTripUpdates":""
       },
