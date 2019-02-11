@@ -20,6 +20,11 @@
 #### 2.2.4 (Pre-release)
 * Fixed bug that prevented users on Android 8.0+ from seeing live train status information
 * Closed DBs in areas where they weren't being closed before.  Potential fix for "SQLiteDiskIOException" errors reported in console
+* Added support for "Cancelled" train status
+* Status now shows statuses corresponding to their entire block_id, not just for their trip_id
+* Delays reported for entire trips (not tied to stops) are now shown if not overridden by a stop delay
+* Route schedules now show all stops on block, rather than just the trip
+* Fixed bug were duplicate trains appear in schedule list because they are on the same block
 
 #### 2.2.3 (Production) (1 December 2018)
 * Added adaptive icon support
