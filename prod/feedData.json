@@ -8,8 +8,8 @@
         "prodDbName":"patco_20181210_1.db",
         "devDbName":"patco_20181210_1.db",
         "type":"offline",
-        "alertMessage":"",
-        "alertLink":"",
+        "alertMessage":"A new PATCO schedule effective Monday, February 18th has been announced and is not yet reflected in RailMe.  Click \"View\" to view the schedule that begins on February 18th.",
+        "alertLink":"http://www.ridepatco.org/pdf/PATCO_Timetable_2018-02-18.pdf",
         "rtServiceAlerts":"",
         "rtTripUpdates":""
       },
