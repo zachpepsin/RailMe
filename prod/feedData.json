@@ -6,7 +6,7 @@
       {
       	"name":"patco",
         "prodDbName":"patco_20181210_1.db",
-        "devDbName":"patco_20181210_1.db",
+        "devDbName":"patco_20190218_1.db",
         "type":"offline",
         "alertMessage":"A new PATCO schedule effective Monday, February 18th has been announced and is not yet reflected in RailMe.  Click \"View\" to view the schedule that begins on February 18th.",
         "alertLink":"http://www.ridepatco.org/pdf/PATCO_Timetable_2018-02-18.pdf",
@@ -25,7 +25,7 @@
       },
       {
       	"name":"njt",
-      	"prodDbName":"njt_20181014_1.db",
+      	"prodDbName":"njt_20190127_1.db",
         "devDbName":"njt_20190127_1.db",
         "type":"offline",
         "alertMessage":"",
