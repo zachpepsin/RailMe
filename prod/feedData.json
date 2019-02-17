@@ -5,11 +5,11 @@
     [
       {
       	"name":"patco",
-        "prodDbName":"patco_20181210_1.db",
+        "prodDbName":"patco_20190218_1.db",
         "devDbName":"patco_20190218_1.db",
         "type":"offline",
-        "alertMessage":"A new PATCO schedule effective Monday, February 18th has been announced and is not yet reflected in RailMe.  Click \"View\" to view the schedule that begins on February 18th.",
-        "alertLink":"http://www.ridepatco.org/pdf/PATCO_Timetable_2018-02-18.pdf",
+        "alertMessage":"On February 17th, from 6am to 7pm, PATCO is running a special schedule that is not reflected in RailMe.  Click \"View\" to view the special schedule.",
+        "alertLink":"http://ridepatco.org/publish/library/PATCO_SpecialSchedule_WB-EB_2019-2-17_day.pdf",
         "rtServiceAlerts":"",
         "rtTripUpdates":""
       },
