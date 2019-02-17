@@ -1,2 +1,2 @@
-route_id,agency_id,route_short_name,route_long_name,route_type
-12,"PATCO",PATCO,"PATCO Speedline",2
+route_id,agency_id,route_short_name,route_long_name,route_type,route_url,route_color,route_text_color,route_sort_order
+12,PATCO,PATCO,PATCO Speedline,2,http://www.ridepatco.org/stations/routemap.html,D11241,000000,1

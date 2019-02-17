@@ -1,3 +1,7 @@
+# Zach Pepsin
+# Created 17 June 2016
+# Revision 16 February 2019: Added 'route_sort_order' to routes and 'feed_contact_email', 'feed_contact_url' to feed_info
+
 function generateDefaultStatement($feedFileName, $param) {
 	##If param is required, make NOT NULL, otherwise, set DEFAULT
 	if(
@@ -64,7 +68,8 @@ function generateDefaultStatement($feedFileName, $param) {
 
 Write-Host "make_sql_script.ps1"
 Write-Host "Zach Pepsin"
-Write-Host "17 June 2016"
+Write-Host "Created: 17 June 2016"
+Write-Host "Updated: 16 February 2019"
 Write-Host "`nThis script should be located in folder 
 above the GTFS folders, along with the root folders, 
 in order to function properly"
@@ -117,7 +122,8 @@ if( $dbVersion -eq ''){
 		"parent_station", "stop_timezone", "wheelchair_boarding")
 		
 [System.Collections.ArrayList]$routesParams = @("route_id", "agency_id", "route_short_name",
-	"route_long_name", "route_desc", "route_type", "route_url", "route_color", "route_text_color")
+	"route_long_name", "route_desc", "route_type", "route_url", "route_color", "route_text_color",
+	"route_sort_order")
 
 [System.Collections.ArrayList]$tripsParams = @("route_id", "service_id", "trip_id", 
 	"trip_headsign", "trip_short_name", "direction_id", "block_id", "shape_id",
@@ -149,7 +155,7 @@ if( $dbVersion -eq ''){
 
 [System.Collections.ArrayList]$feed_infoParams = @("feed_publisher_name",
 	"feed_publisher_url", "feed_lang", "feed_start_date", "feed_end_date",
-	"feed_version")
+	"feed_version", "feed_contact_email", "feed_contact_url")
 	
 	
 $feedFileNames = @("agency", "stops", "routes", "trips", "stop_times", "calendar", "calendar_dates", 
@@ -215,6 +221,7 @@ foreach($feedFileName in $feedFileNames){
 				
 				$variableType = "TEXT"
 				if(
+					($feedFileName -eq "routes" -AND $param -eq "route_sort_order") -OR
 					($feedFileName -eq "stop_times" -AND $param -eq "stop_sequence") -OR
 					($feedFileName -eq "shapes" -AND $param -eq "shape_pt_sequence") -OR
 					($feedFileName -eq "transfers" -AND $param -eq "min_transfer_time")
@@ -252,6 +259,7 @@ foreach($feedFileName in $feedFileNames){
 			
 				$variableType = "TEXT"
 				if(
+					($feedFileName -eq "routes" -AND $param -eq "route_sort_order") -OR
 					($feedFileName -eq "stop_times" -AND $param -eq "stop_sequence") -OR
 					($feedFileName -eq "shapes" -AND $param -eq "shape_pt_sequence") -OR
 					($feedFileName -eq "transfers" -AND $param -eq "min_transfer_time")
@@ -295,7 +303,7 @@ $fileText += ".import calendar.txt calendar`r`n"
 $fileText += ".import calendar_dates.txt calendar_dates`r`n"
 $fileText += ".import fare_attributes.txt fare_attributes`r`n"
 $fileText += ".import fare_rules.txt fare_rules`r`n"
-$fileText += "--.import shapes.txt shapes`r`n"
+$fileText += ".import shapes.txt shapes`r`n"
 $fileText += ".import frequencies.txt frequencies`r`n"
 $fileText += ".import transfers.txt transfers`r`n"
 $fileText += ".import feed_info.txt feed_info`r`n"
@@ -351,7 +359,8 @@ $fileText += "`t`troute_id LIKE '%route_desc%' COLLATE NOCASE OR`r`n"
 $fileText += "`t`troute_id LIKE '%route_type%' COLLATE NOCASE OR`r`n"
 $fileText += "`t`troute_id LIKE '%route_url%' COLLATE NOCASE OR`r`n"
 $fileText += "`t`troute_id LIKE '%route_color%' COLLATE NOCASE OR`r`n"
-$fileText += "`t`troute_id LIKE '%route_text_color%' COLLATE NOCASE`r`n"
+$fileText += "`t`troute_id LIKE '%route_text_color%' COLLATE NOCASE OR`r`n"
+$fileText += "`t`troute_id LIKE '%route_sort_order%' COLLATE NOCASE`r`n"
 $fileText += "`t`t)`r`n"
 $fileText += "`t`tLIMIT 1`r`n"
 $fileText += "`t);`r`n"
@@ -492,7 +501,9 @@ $fileText += "`t`tfeed_publisher_name LIKE '%feed_publisher_url%' COLLATE NOCASE
 $fileText += "`t`tfeed_publisher_name LIKE '%feed_lang%' COLLATE NOCASE OR`r`n"
 $fileText += "`t`tfeed_publisher_name LIKE '%feed_start_date%' COLLATE NOCASE OR`r`n"
 $fileText += "`t`tfeed_publisher_name LIKE '%feed_end_date%' COLLATE NOCASE OR`r`n"
-$fileText += "`t`tfeed_publisher_name LIKE '%feed_version%' COLLATE NOCASE`r`n"
+$fileText += "`t`tfeed_publisher_name LIKE '%feed_version%' COLLATE NOCASE OR`r`n"
+$fileText += "`t`tfeed_publisher_name LIKE '%feed_contact_email%' COLLATE NOCASE OR`r`n"
+$fileText += "`t`tfeed_publisher_name LIKE '%feed_contact_url%' COLLATE NOCASE`r`n"
 $fileText += "`t`t)`r`n"
 $fileText += "`t`tLIMIT 1`r`n"
 $fileText += "`t);`r`n"
