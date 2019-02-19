@@ -37,7 +37,8 @@ CREATE TABLE routes(
 	route_color TEXT DEFAULT NULL,
 
 	route_desc TEXT DEFAULT NULL,
-	route_text_color TEXT DEFAULT NULL
+	route_text_color TEXT DEFAULT NULL,
+	route_sort_order INTEGER DEFAULT NULL
 	);
 
 CREATE TABLE trips(
@@ -136,7 +137,9 @@ CREATE TABLE feed_info(
 	feed_lang TEXT NOT NULL,
 	feed_start_date TEXT DEFAULT NULL,
 	feed_end_date TEXT DEFAULT NULL,
-	feed_version TEXT DEFAULT NULL
+	feed_version TEXT DEFAULT NULL,
+	feed_contact_email TEXT DEFAULT NULL,
+	feed_contact_url TEXT DEFAULT NULL
 	);
 
 .separator ,
@@ -150,7 +153,7 @@ CREATE TABLE feed_info(
 .import calendar_dates.txt calendar_dates
 .import fare_attributes.txt fare_attributes
 .import fare_rules.txt fare_rules
---.import shapes.txt shapes
+.import shapes.txt shapes
 .import frequencies.txt frequencies
 .import transfers.txt transfers
 .import feed_info.txt feed_info
@@ -200,7 +203,8 @@ DELETE FROM routes WHERE route_id = (
 		route_id LIKE '%route_type%' COLLATE NOCASE OR
 		route_id LIKE '%route_url%' COLLATE NOCASE OR
 		route_id LIKE '%route_color%' COLLATE NOCASE OR
-		route_id LIKE '%route_text_color%' COLLATE NOCASE
+		route_id LIKE '%route_text_color%' COLLATE NOCASE OR
+		route_id LIKE '%route_sort_order%' COLLATE NOCASE
 		)
 		LIMIT 1
 	);
@@ -323,9 +327,11 @@ DELETE FROM feed_info WHERE feed_publisher_name = (
 		feed_publisher_name LIKE '%feed_lang%' COLLATE NOCASE OR
 		feed_publisher_name LIKE '%feed_start_date%' COLLATE NOCASE OR
 		feed_publisher_name LIKE '%feed_end_date%' COLLATE NOCASE OR
-		feed_publisher_name LIKE '%feed_version%' COLLATE NOCASE
+		feed_publisher_name LIKE '%feed_version%' COLLATE NOCASE OR
+		feed_publisher_name LIKE '%feed_contact_email%' COLLATE NOCASE OR
+		feed_publisher_name LIKE '%feed_contact_url%' COLLATE NOCASE
 		)
 		LIMIT 1
 	);
 
---sqlite3 njt_20190127_1.db < njt_20190127_gtfs_to_sql.sql
+--sqlite3 njt_20190127_2.db < njt_20190127_gtfs_to_sql.sql
