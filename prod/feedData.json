@@ -8,8 +8,8 @@
         "prodDbName":"patco_20190218_1.db",
         "devDbName":"patco_20190218_1.db",
         "type":"offline",
-        "alertMessage":"On March 4th, PATCO may be running a specal snow schedule depening on the weather conditions.  Click \"View\" to view the snow schedule.",
-        "alertLink":"http://ridepatco.org/schedules/alerts_more.asp?param=2&archive=&publication=21&pubnumber=4174",
+        "alertMessage":"",
+        "alertLink":"",
         "rtServiceAlerts":"",
         "rtTripUpdates":""
       },
