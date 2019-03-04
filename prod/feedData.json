@@ -8,8 +8,8 @@
         "prodDbName":"patco_20190218_1.db",
         "devDbName":"patco_20190218_1.db",
         "type":"offline",
-        "alertMessage":"On Sunday March 3rd, PATCO is running a special schedule that is not reflected in RailMe.  Click \"View\" to view the special schedule.",
-        "alertLink":"http://ridepatco.org/publish/library/Patco_SpecialSchedule_FlowerShow_2019.pdf",
+        "alertMessage":"On March 4th, PATCO may be running a specal snow schedule depening on the weather conditions.  Click \"View\" to view the snow schedule.",
+        "alertLink":"http://ridepatco.org/schedules/alerts_more.asp?param=2&archive=&publication=21&pubnumber=4174",
         "rtServiceAlerts":"",
         "rtTripUpdates":""
       },
