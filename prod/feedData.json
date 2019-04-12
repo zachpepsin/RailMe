@@ -15,7 +15,7 @@
       },
       {
       	"name":"septa",
-        "prodDbName":"septa_20181216_1.db",
+        "prodDbName":"septa_20181216_2.db",
         "devDbName":"septa_20181216_2.db",
         "type":"offline",
         "alertMessage":"",
@@ -25,7 +25,7 @@
       },
       {
       	"name":"njt",
-      	"prodDbName":"njt_20190127_1.db",
+      	"prodDbName":"njt_20190127_2.db",
         "devDbName":"njt_20190127_2.db",
         "type":"offline",
         "alertMessage":"",

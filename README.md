@@ -26,6 +26,8 @@
 * Fixed bug that prevented users on Android 8.0+ from seeing live train status information
 * Closed DBs in areas where they weren't being closed before.  Potential fix for "SQLiteDiskIOException" errors reported in console
 * Fixed bug were duplicate trains appear in schedule list because they are on the same block
+* Added support for new GTFS parameter in routes table: 'route_sort_order'
+* Added support for new GTFS parameters in feed_info table: 'feed_contact_email' and 'feed_contact_url'
 
 #### 2.2.3 (Production) (1 December 2018)
 * Added adaptive icon support
