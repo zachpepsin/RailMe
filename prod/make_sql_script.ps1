@@ -510,6 +510,24 @@ $fileText += "`t);`r`n"
 
 $fileText += "`r`n"
 
+## March 2019 - Customization for missing data in each rail line
+if ($rootFolder -eq "njt") {
+	# NJT Customization
+	
+} elseif ($rootFolder -eq "septa") {
+	# SEPTA Customization
+	
+	# Do not use the page with all routes listed as the routes_url
+	$fileText += "`r`n"
+	$fileText += "UPDATE routes`r`n"
+	$fileText += "`tSET route_url = null`r`n"
+	$fileText += "`tWHERE route_url = 'http://www.septa.org/schedules/rail/index.html'"
+	$fileText += "`r`n"
+	
+}
+
+$fileText += "`r`n"
+
 
 $sqlCommandString = "sqlite3 " + $subFolder + "_" + $dbVersion + ".db < " + $subFolder + "_gtfs_to_sql.sql"
 $fileText += "--" + $sqlCommandString

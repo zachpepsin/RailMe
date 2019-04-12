@@ -5,10 +5,10 @@ CREATE TABLE agency(
 	agency_url TEXT NOT NULL,
 	agency_timezone TEXT NOT NULL,
 	agency_lang TEXT DEFAULT NULL,
-	agency_email TEXT DEFAULT NULL,
-
 	agency_phone TEXT DEFAULT NULL,
-	agency_fare_url TEXT DEFAULT NULL
+	agency_fare_url TEXT DEFAULT NULL,
+	agency_email TEXT DEFAULT NULL
+
 	);
 
 CREATE TABLE stops(
@@ -19,26 +19,26 @@ CREATE TABLE stops(
 	stop_lon TEXT NOT NULL,
 	zone_id TEXT DEFAULT NULL,
 	stop_url TEXT DEFAULT NULL,
+	wheelchair_boarding TEXT DEFAULT NULL,
 
 	stop_code TEXT DEFAULT NULL,
 	location_type TEXT DEFAULT NULL,
 	parent_station TEXT DEFAULT NULL,
-	stop_timezone TEXT DEFAULT NULL,
-	wheelchair_boarding TEXT DEFAULT NULL
+	stop_timezone TEXT DEFAULT NULL
 	);
 
 CREATE TABLE routes(
 	route_id TEXT NOT NULL,
+	agency_id TEXT DEFAULT NULL,
 	route_short_name TEXT NOT NULL,
 	route_long_name TEXT NOT NULL,
-	route_desc TEXT DEFAULT NULL,
-	agency_id TEXT DEFAULT NULL,
 	route_type TEXT NOT NULL,
+	route_url TEXT DEFAULT NULL,
 	route_color TEXT DEFAULT NULL,
 	route_text_color TEXT DEFAULT NULL,
-	route_url TEXT DEFAULT NULL,
+	route_sort_order INTEGER DEFAULT NULL,
 
-	route_sort_order INTEGER DEFAULT NULL
+	route_desc TEXT DEFAULT NULL
 	);
 
 CREATE TABLE trips(
@@ -46,13 +46,13 @@ CREATE TABLE trips(
 	service_id TEXT NOT NULL,
 	trip_id TEXT NOT NULL,
 	trip_headsign TEXT DEFAULT NULL,
-	block_id TEXT DEFAULT NULL,
-	trip_short_name TEXT DEFAULT NULL,
-	shape_id TEXT DEFAULT NULL,
 	direction_id TEXT DEFAULT NULL,
-
+	shape_id TEXT DEFAULT NULL,
+	bikes_allowed TEXT DEFAULT NULL,
 	wheelchair_accessible TEXT DEFAULT NULL,
-	bikes_allowed TEXT DEFAULT NULL
+
+	trip_short_name TEXT DEFAULT NULL,
+	block_id TEXT DEFAULT NULL
 	);
 
 CREATE TABLE stop_times(
@@ -96,14 +96,16 @@ CREATE TABLE fare_attributes(
 	currency_type TEXT NOT NULL,
 	payment_method TEXT NOT NULL,
 	transfers TEXT NOT NULL,
+
 	transfer_duration TEXT DEFAULT NULL
 	);
 
 CREATE TABLE fare_rules(
 	fare_id TEXT NOT NULL,
-	route_id TEXT DEFAULT NULL,
 	origin_id TEXT DEFAULT NULL,
 	destination_id TEXT DEFAULT NULL,
+
+	route_id TEXT DEFAULT NULL,
 	contains_id TEXT DEFAULT NULL
 	);
 
@@ -334,8 +336,4 @@ DELETE FROM feed_info WHERE feed_publisher_name = (
 	);
 
 
-UPDATE routes
-	SET route_url = null
-	WHERE route_url = 'http://www.septa.org/schedules/rail/index.html'
-
---sqlite3 septa_20181216_3.db < septa_20181216_gtfs_to_sql.sql
+--sqlite3 patco_20190415_1.db < patco_20190415_gtfs_to_sql.sql
