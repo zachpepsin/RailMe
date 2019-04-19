@@ -8,8 +8,8 @@
         "prodDbName":"patco_20190415_1.db",
         "devDbName":"patco_20190415_1.db",
         "type":"offline",
-        "alertMessage":"",
-        "alertLink":"",
+        "alertMessage":"On April 20th, from 7am to 5:30pm, PATCO is running a special schedule that is not reflected in RailMe.  Click \"View\" to view the special schedule.",
+        "alertLink":"http://ridepatco.org/publish/library/PATCO_SpecialSchedule_2019-04-20.pdf",
         "rtServiceAlerts":"",
         "rtTripUpdates":""
       },
