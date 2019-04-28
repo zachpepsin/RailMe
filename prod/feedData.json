@@ -16,7 +16,7 @@
       {
       	"name":"septa",
         "prodDbName":"septa_20181216_2.db",
-        "devDbName":"septa_20181216_2.db",
+        "devDbName":"septa_20190417_1.db",
         "type":"offline",
         "alertMessage":"",
         "alertLink":"",
