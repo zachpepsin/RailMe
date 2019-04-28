@@ -161,17 +161,17 @@ CREATE TABLE feed_info(
 .import feed_info.txt feed_info
 
 
-DELETE FROM agency WHERE agency_id IN (
-	SELECT agency_id FROM agency WHERE
+DELETE FROM agency WHERE agency_name IN (
+	SELECT agency_name FROM agency WHERE
 		(
-		agency_id LIKE '%agency_id%' COLLATE NOCASE OR
-		agency_id LIKE '%agency_name%' COLLATE NOCASE OR
-		agency_id LIKE '%agency_url%' COLLATE NOCASE OR
-		agency_id LIKE '%agency_timezone%' COLLATE NOCASE OR
-		agency_id LIKE '%agency_lang%' COLLATE NOCASE OR
-		agency_id LIKE '%agency_phone%' COLLATE NOCASE OR
-		agency_id LIKE '%agency_fare_url%' COLLATE NOCASE OR
-		agency_id LIKE '%agency_email%' COLLATE NOCASE
+		agency_name LIKE '%agency_id%' COLLATE NOCASE OR
+		agency_name LIKE '%agency_name%' COLLATE NOCASE OR
+		agency_name LIKE '%agency_url%' COLLATE NOCASE OR
+		agency_name LIKE '%agency_timezone%' COLLATE NOCASE OR
+		agency_name LIKE '%agency_lang%' COLLATE NOCASE OR
+		agency_name LIKE '%agency_phone%' COLLATE NOCASE OR
+		agency_name LIKE '%agency_fare_url%' COLLATE NOCASE OR
+		agency_name LIKE '%agency_email%' COLLATE NOCASE
 		)
 		LIMIT 1
 	);
@@ -346,11 +346,11 @@ UPDATE agency
 	WHERE agency_phone IS NULL;
 
 UPDATE agency
-	SET agency_fare_url = 'http://www.septa.org/fares/'
+	SET agency_fare_url = 'http://www.septa.org/fares/transit/index.html'
 	WHERE agency_fare_url IS NULL;
 
 UPDATE agency
 	SET agency_email = NULL
 	WHERE agency_email = 'noreply@septa.org';
 
---sqlite3 septa_bus_20190417_1.db < septa_bus_20190417_gtfs_to_sql.sql
+--sqlite3 septa_bus_20190417_2.db < septa_bus_20190417_gtfs_to_sql.sql

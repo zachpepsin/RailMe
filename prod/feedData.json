@@ -26,7 +26,7 @@
       {
       	"name":"septa_bus",
         "prodDbName":"",
-        "devDbName":"septa_bus_20190417_1.db",
+        "devDbName":"septa_bus_20190417_2.db",
         "type":"offline",
         "alertMessage":"",
         "alertLink":"",
