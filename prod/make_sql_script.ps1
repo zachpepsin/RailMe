@@ -516,14 +516,47 @@ if ($rootFolder -eq "njt") {
 	
 } elseif ($rootFolder -eq "septa") {
 	# SEPTA Customization
+	$output = "`tAdding custom SEPTA fix update statements..."
+	Write-Host $output
 	
-	# Do not use the page with all routes listed as the routes_url
+	#region agency
+	# Change the agency_name from SEPTA to "SEPTA Regional Rail"
+	$fileText += "`r`n"
+	$fileText += "UPDATE agency`r`n"
+	$fileText += "`tSET agency_name = 'SEPTA Regional Rail'`r`n"
+	$fileText += "`tWHERE agency_name = 'SEPTA'"
+	$fileText += ";`r`n"
+	
+	# Add agency_phone if it is blank
+	$fileText += "`r`n"
+	$fileText += "UPDATE agency`r`n"
+	$fileText += "`tSET agency_phone = '215-580-7800'`r`n"
+	$fileText += "`tWHERE agency_phone IS NULL"
+	$fileText += ";`r`n"
+	
+	# Add agency_fare_url if it is blank
+	$fileText += "`r`n"
+	$fileText += "UPDATE agency`r`n"
+	$fileText += "`tSET agency_fare_url = 'http://www.septa.org/fares/'`r`n"
+	$fileText += "`tWHERE agency_fare_url IS NULL"
+	$fileText += ";`r`n"
+	
+	# Do not use noreply@septa.org for agency_email
+	$fileText += "`r`n"
+	$fileText += "UPDATE agency`r`n"
+	$fileText += "`tSET agency_email = NULL`r`n"
+	$fileText += "`tWHERE agency_email = 'noreply@septa.org'"
+	$fileText += ";`r`n"
+	#endregion agency
+	
+	#region routes
+	# Do not use the page with all routes listed as the agency_routes_url
 	$fileText += "`r`n"
 	$fileText += "UPDATE routes`r`n"
-	$fileText += "`tSET route_url = null`r`n"
+	$fileText += "`tSET route_url = NULL`r`n"
 	$fileText += "`tWHERE route_url = 'http://www.septa.org/schedules/rail/index.html'"
-	$fileText += "`r`n"
-	
+	$fileText += ";`r`n"
+	#endregion routes
 }
 
 $fileText += "`r`n"
