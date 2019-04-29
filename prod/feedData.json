@@ -24,16 +24,6 @@
         "rtTripUpdates":"http://www3.septa.org/gtfsrt/septarail-pa-us/Trip/rtTripUpdates.pb"
       },
       {
-      	"name":"septa_bus",
-        "prodDbName":"",
-        "devDbName":"septa_bus_20190417_2i.db",
-        "type":"offline",
-        "alertMessage":"",
-        "alertLink":"",
-        "rtServiceAlerts":"http://www3.septa.org/gtfsrt/septarail-pa-us/Service/rtServiceAlerts.pb",
-        "rtTripUpdates":"http://www3.septa.org/gtfsrt/septarail-pa-us/Trip/rtTripUpdates.pb"
-      },
-      {
       	"name":"njt",
       	"prodDbName":"njt_20190127_2.db",
         "devDbName":"njt_20190127_2.db",
