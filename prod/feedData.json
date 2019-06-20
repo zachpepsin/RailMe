@@ -8,8 +8,8 @@
         "prodDbName":"patco_20190415_1.db",
         "devDbName":"patco_20190415_1.db",
         "type":"offline",
-        "alertMessage":"",
-        "alertLink":"",
+        "alertMessage":"PATCO service may be suspended due to storm damage.  Click \"View\" for the latest information.",
+        "alertLink":"http://www.ridepatco.org/news/news.asp?param=2&archive=0&publication=19&pubnumber=4261",
         "rtServiceAlerts":"",
         "rtTripUpdates":""
       },
