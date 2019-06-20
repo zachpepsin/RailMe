@@ -8,8 +8,8 @@
         "prodDbName":"patco_20190415_1.db",
         "devDbName":"patco_20190415_1.db",
         "type":"offline",
-        "alertMessage":"PATCO service may be suspended due to storm damage.  Click \"View\" for the latest information.",
-        "alertLink":"http://www.ridepatco.org/news/news.asp?param=2&archive=0&publication=19&pubnumber=4261",
+        "alertMessage":"On June 20th, PATCO is running a special schedule until 3:30pm that is not reflected in RailMe.  Click \"View\" to view the special schedule.",
+        "alertLink":"http://www.ridepatco.org/publish/library/620%20special%20schedule.PNG",
         "rtServiceAlerts":"",
         "rtTripUpdates":""
       },
