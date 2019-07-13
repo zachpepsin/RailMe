@@ -5,11 +5,11 @@
     [
       {
       	"name":"patco",
-        "prodDbName":"patco_20190415_1.db",
+        "prodDbName":"patco_20190713_1.db",
         "devDbName":"patco_20190713_1.db",
         "type":"offline",
-        "alertMessage":"PATCO began a new schedule on July 13th that is not yet reflected in RailMe.  Go to RidePATCO.org for more information.",
-        "alertLink":"http://www.ridepatco.org/news/news.asp?param=2&archive=0&publication=19&pubnumber=4283",
+        "alertMessage":"On July 13th, PATCO is running a speccial schedule for EASTBOUND trains that is not reflected in RailMe.  Click \"View\" to view the special schedule.",
+        "alertLink":"http://www.ridepatco.org/publish/library/Patco_SpecialSchedule_7-13-19.pdf",
         "rtServiceAlerts":"",
         "rtTripUpdates":""
       },
