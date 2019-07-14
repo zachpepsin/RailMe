@@ -8,8 +8,8 @@
         "prodDbName":"patco_20190713_1.db",
         "devDbName":"patco_20190713_1.db",
         "type":"offline",
-        "alertMessage":"On July 13th, PATCO is running a speccial schedule for EASTBOUND trains that is not reflected in RailMe.  Click \"View\" to view the special schedule.",
-        "alertLink":"http://ridepatco.org/publish/library/Patco_SpecialSchedule_7-13-19.pdf",
+        "alertMessage":"On July 14th, PATCO is running a speccial schedule for EASTBOUND trains that is not reflected in RailMe.  Click \"View\" to view the special schedule.",
+        "alertLink":"http://ridepatco.org/publish/library/Patco_SpecialSchedule_7-14-19.pdf",
         "rtServiceAlerts":"",
         "rtTripUpdates":""
       },
