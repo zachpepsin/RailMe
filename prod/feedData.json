@@ -8,8 +8,8 @@
         "prodDbName":"patco_20190713_1.db",
         "devDbName":"patco_20190713_1.db",
         "type":"offline",
-        "alertMessage":"",
-        "alertLink":"",
+        "alertMessage":"PATCO is operating a special schedule for the remainder of August 1st that is not reflected in RailMe.  Click \"View\" to view the special schedule.",
+        "alertLink":"http://www.ridepatco.org/publish/library/PATCO_SpecialSchedule_WB-EB_2019-8-1_day.pdf",
         "rtServiceAlerts":"",
         "rtTripUpdates":""
       },
