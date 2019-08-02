@@ -8,8 +8,8 @@
         "prodDbName":"patco_20190713_1.db",
         "devDbName":"patco_20190713_1.db",
         "type":"offline",
-        "alertMessage":"",
-        "alertLink":"",
+        "alertMessage":"On August 3rd and 4th, PATCO is operating a special schedule that is not reflected in RailMe.  Click \"View\" for more information.",
+        "alertLink":"http://www.ridepatco.org/",
         "rtServiceAlerts":"",
         "rtTripUpdates":""
       },
