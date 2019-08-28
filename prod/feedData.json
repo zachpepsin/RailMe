@@ -8,8 +8,8 @@
         "prodDbName":"patco_20190713_1.db",
         "devDbName":"patco_20190713_1.db",
         "type":"offline",
-        "alertMessage":"On August 28th, from 10:45am to 2pm, PATCO is operating a special schedule for EASTBOUND trains that is not reflected in RailMe.  Click \"View\" to view the special schedule.",
-        "alertLink":"http://ridepatco.org/publish/library/PATCO_SpecialSchedule_Eastbound_2019-8-24_day.pdf",
+        "alertMessage":"From August 29th through September 3rd, PATCO is operating special schedules that are not reflected in RailMe.  Go to RidePatco.org for more information.",
+        "alertLink":"http://ridepatco.org/",
         "rtServiceAlerts":"",
         "rtTripUpdates":""
       },
