@@ -6,7 +6,7 @@
       {
       	"name":"patco",
         "prodDbName":"patco_20190713_1.db",
-        "devDbName":"patco_20190713_1.db",
+        "devDbName":"patco_20191012_1.db",
         "type":"offline",
         "alertMessage":"",
         "alertLink":"",
