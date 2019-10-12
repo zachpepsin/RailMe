@@ -17,7 +17,7 @@
 
 ## RailMe Changelog
 
-#### 2.2.4 (Pre-release)
+#### 2.3.0 (Pre-release)
 * Added support for "Cancelled" train status
 * Route schedules now show all stops on block, rather than just the trip
 * Status now shows statuses corresponding to their entire block_id, not just for their trip_id
