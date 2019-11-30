@@ -8,8 +8,8 @@
         "prodDbName":"patco_20191012_1.db",
         "devDbName":"patco_20191012_1.db",
         "type":"offline",
-        "alertMessage":"",
-        "alertLink":"",
+        "alertMessage":"PATCO is running special scheudules through December 1st that are not reflected in RailMe.  Click \"View\" for more information.",
+        "alertLink":"www.ridepatco.org",
         "rtServiceAlerts":"",
         "rtTripUpdates":""
       },
