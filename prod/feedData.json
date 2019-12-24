@@ -8,8 +8,8 @@
         "prodDbName":"patco_20191207_1.db",
         "devDbName":"patco_20191207_1.db",
         "type":"offline",
-        "alertMessage":"",
-        "alertLink":"",
+        "alertMessage":"Through December 26th, PATCO is running a special schedule that is not reflected in RailMe.  Go to RidePATCO.org for more information.",
+        "alertLink":"http://ridepatco.org/",
         "rtServiceAlerts":"",
         "rtTripUpdates":""
       },
