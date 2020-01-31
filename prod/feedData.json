@@ -8,8 +8,8 @@
         "prodDbName":"patco_20191207_1.db",
         "devDbName":"patco_20191207_1.db",
         "type":"offline",
-        "alertMessage":"",
-        "alertLink":"",
+        "alertMessage":"On February 2nd, PATCO is running a special schedule for EASTBOUND trains that is not reflected in RailMe.  Click \"View\" to view the special schedule.",
+        "alertLink":"http://ridepatco.org/publish/library/2020-2-2-Day.pdf",
         "rtServiceAlerts":"",
         "rtTripUpdates":""
       },
