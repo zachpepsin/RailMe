@@ -1,0 +1,2 @@
+feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_end_date,feed_version
+SEPTA,http://www.septa.org,EN,20200308,20200718,"Mon Mar  2 18:44:45 UTC 2020"

@@ -625,6 +625,14 @@ if ($rootFolder -eq "njt") {
 	$fileText += ";`r`n"
 	#endregion routes
 	
+	#region trips
+	# Set the wheelchair_boarding for all trips
+	$fileText += "`r`n"
+	$fileText += "UPDATE trips`r`n"
+	$fileText += "`tSET wheelchair_accessible = '1'"
+	$fileText += ";`r`n"
+	#endregion trips
+	
 } elseif ($rootFolder -eq "septa_bus") {
 	# SEPTA Bus/Light Rail Customization
 	$output = "`tAdding custom SEPTA Bus/Light Rail fix update statements..."
