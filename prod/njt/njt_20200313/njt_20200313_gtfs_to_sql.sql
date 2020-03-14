@@ -335,4 +335,39 @@ DELETE FROM feed_info WHERE feed_publisher_name = (
 	);
 
 
+UPDATE agency
+	SET agency_name = 'NJ Transit Rail'
+	WHERE agency_name = 'NJ TRANSIT RAIL';
+
+	DELETE from agency
+	WHERE agency_name = 'NJ TRANSIT BUS';
+
+UPDATE agency
+	SET agency_phone = '973-275-5555'
+	WHERE agency_phone IS NULL OR agency_phone = '';
+
+UPDATE stops
+	SET wheelchair_boarding = '1'
+	WHERE stop_id IN ('1', '43298', '28', '71', '9', '55', '39', '2', '10');
+
+UPDATE stops
+	SET wheelchair_boarding = '1'
+	WHERE stop_id IN ('38291', '38292', '38293', '38294', '38295', '38296', '38297', '38298', '38299', '38300', '38301', '38302', '38303', '38304', '38305', '43288', '38306', '38307', '38308', '38309', '38310');
+
+UPDATE stops
+	SET wheelchair_boarding = CASE
+	WHEN stop_id IN ('148', '32905', '125', '103', '38', '84', '83', '127', '70', '41', '109', '37953', '107', '38187', '105')
+	THEN '1'
+	WHEN stop_id IN ('32906')
+	THEN '2'
+	END
+	WHERE stop_id IN ('148', '32905', '125', '103', '38', '84', '83', '127', '70', '41', '109', '37953', '107', '38187', '105', '32906');
+
+UPDATE trips
+	SET wheelchair_accessible = '1';
+
+UPDATE trips
+	SET bikes_allowed = '1'
+	WHERE route_id = '16';
+
 --sqlite3 njt_20200313_1.db < njt_20200313_gtfs_to_sql.sql

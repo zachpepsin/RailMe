@@ -513,6 +513,73 @@ $fileText += "`r`n"
 ## March 2019 - Customization for missing data in each rail line
 if ($rootFolder -eq "njt") {
 	# NJT Customization
+	$output = "`tAdding custom NJ Transit fix update statements..."
+	Write-Host $output
+	
+	#region agency
+	# Change the agency_name from NJ TRANSIT RAIL to "NJ Transit Rail"
+	$fileText += "`r`n"
+	$fileText += "UPDATE agency`r`n"
+	$fileText += "`tSET agency_name = 'NJ Transit Rail'`r`n"
+	$fileText += "`tWHERE agency_name = 'NJ TRANSIT RAIL'"
+	$fileText += ";`r`n"
+	
+	# Remove NJ TRANSIT BUS"
+	$fileText += "`r`n"
+	$fileText += "`tDELETE from agency`r`n"
+	$fileText += "`tWHERE agency_name = 'NJ TRANSIT BUS'"
+	$fileText += ";`r`n"
+
+	# Add agency_phone if it is blank
+	$fileText += "`r`n"
+	$fileText += "UPDATE agency`r`n"
+	$fileText += "`tSET agency_phone = '973-275-5555'`r`n"
+	$fileText += "`tWHERE agency_phone IS NULL OR agency_phone = ''"
+	$fileText += ";`r`n"
+	#endregion agency
+	
+	#region stops
+	# Set the wheelchair_boarding for ACL stops
+	$fileText += "`r`n"
+	$fileText += "UPDATE stops`r`n"
+	$fileText += "`tSET wheelchair_boarding = '1'`r`n"
+	$fileText += "`tWHERE stop_id IN ('1', '43298', '28', '71', '9', '55', '39', '2', '10')"
+	$fileText += ";`r`n"
+	
+	# Set the wheelchair_boarding for River Line stops
+	$fileText += "`r`n"
+	$fileText += "UPDATE stops`r`n"
+	$fileText += "`tSET wheelchair_boarding = '1'`r`n"
+	$fileText += "`tWHERE stop_id IN ('38291', '38292', '38293', '38294', '38295', '38296', '38297', '38298', '38299', '38300', '38301', '38302', '38303', '38304', '38305', '43288', '38306', '38307', '38308', '38309', '38310')"
+	$fileText += ";`r`n"
+	
+	# Set the wheelchair_boarding for NEC stops
+	$fileText += "`r`n"
+	$fileText += "UPDATE stops`r`n"
+	$fileText += "`tSET wheelchair_boarding = CASE`r`n"
+	$fileText += "`tWHEN stop_id IN ('148', '32905', '125', '103', '38', '84', '83', '127', '70', '41', '109', '37953', '107', '38187', '105')`r`n"
+	$fileText += "`tTHEN '1'`r`n"
+	$fileText += "`tWHEN stop_id IN ('32906')`r`n"
+	$fileText += "`tTHEN '2'`r`n"
+	$fileText += "`tEND`r`n"
+	$fileText += "`tWHERE stop_id IN ('148', '32905', '125', '103', '38', '84', '83', '127', '70', '41', '109', '37953', '107', '38187', '105', '32906')"
+	$fileText += ";`r`n"
+	#endregion stops
+	
+	#region trips
+	# Set the wheelchair_boarding for all trips
+	$fileText += "`r`n"
+	$fileText += "UPDATE trips`r`n"
+	$fileText += "`tSET wheelchair_accessible = '1'"
+	$fileText += ";`r`n"
+	
+	# Set bikes_allowed for RiverLine (only lines with bikes allowed at all times)
+	$fileText += "`r`n"
+	$fileText += "UPDATE trips`r`n"
+	$fileText += "`tSET bikes_allowed = '1'`r`n"
+	$fileText += "`tWHERE route_id = '16'"
+	$fileText += ";`r`n"
+	#endregion trips
 	
 } elseif ($rootFolder -eq "septa") {
 	# SEPTA Customization
