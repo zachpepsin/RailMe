@@ -8,8 +8,8 @@
         "prodDbName":"patco_20191207_1.db",
         "devDbName":"patco_20191207_1.db",
         "type":"offline",
-        "alertMessage":"On March 14th, PATCO is running a special schedule that is not reflected in RailMe.  Click \"View\" to view the special schedule.",
-        "alertLink":"http://ridepatco.org/publish/library/2020-3-14_day.pdf",
+        "alertMessage":"On March 15th, PATCO is running a special schedule that is not reflected in RailMe.  Click \"View\" to view the special schedule.",
+        "alertLink":"http://www.ridepatco.org/publish/library/2020-3-15_allday.pdf",
         "rtServiceAlerts":"",
         "rtTripUpdates":""
       },
