@@ -28,8 +28,8 @@
       	"prodDbName":"njt_20200313_1.db",
         "devDbName":"njt_20200313_1.db",
         "type":"offline",
-        "alertMessage":"",
-        "alertLink":"",
+        "alertMessage":"NJ Transit is currently operating on special schedules that are not reflected in RailMe.  Visit NJTransit.com for more information.",
+        "alertLink":"https://www.njtransit.com/",
         "rtServiceAlerts":"",
         "rtTripUpdates":"http://standards.xcmdata.org/TransitDE/rest/GTFSController/njtrailgtfsrt"
       }
