@@ -15,11 +15,11 @@
       },
       {
       	"name":"septa",
-        "prodDbName":"septa_20200308_1.db",
+        "prodDbName":"septa_20200628_1.db",
         "devDbName":"septa_20200628_1.db",
         "type":"offline",
-        "alertMessage":"SEPTA is currently operating on special schedules that are not reflected in RailMe.  Visit SEPTA.org for more information.",
-        "alertLink":"http://septa.org/",
+        "alertMessage":"",
+        "alertLink":"",
         "rtServiceAlerts":"http://www3.septa.org/gtfsrt/septarail-pa-us/Service/rtServiceAlerts.pb",
         "rtTripUpdates":"http://www3.septa.org/gtfsrt/septarail-pa-us/Trip/rtTripUpdates.pb"
       },
