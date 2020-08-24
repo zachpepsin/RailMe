@@ -5,11 +5,11 @@
     [
       {
       	"name":"patco",
-        "prodDbName":"patco_20191207_1.db",
+        "prodDbName":"patco_20200629_1.db",
         "devDbName":"patco_20200629_1.db",
         "type":"offline",
-        "alertMessage":"PATCO is currently operating on special schedules that are not reflected in RailMe.  Visit RidePATCO.org for more information.",
-        "alertLink":"http://ridepatco.org/",
+        "alertMessage":"",
+        "alertLink":"",
         "rtServiceAlerts":"",
         "rtTripUpdates":""
       },
