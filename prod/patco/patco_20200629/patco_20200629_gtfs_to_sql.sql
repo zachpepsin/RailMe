@@ -96,8 +96,8 @@ CREATE TABLE fare_attributes(
 	currency_type TEXT NOT NULL,
 	payment_method TEXT NOT NULL,
 	transfers TEXT NOT NULL,
-
 	transfer_duration TEXT DEFAULT NULL
+
 	);
 
 CREATE TABLE fare_rules(
@@ -336,4 +336,4 @@ DELETE FROM feed_info WHERE feed_publisher_name = (
 	);
 
 
---sqlite3 patco_20200629_1.db < patco_20200629_gtfs_to_sql.sql
+--sqlite3 patco_20200629_2.db < patco_20200629_gtfs_to_sql.sql
