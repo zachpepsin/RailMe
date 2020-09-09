@@ -103,12 +103,12 @@ CREATE TABLE calendar_dates(
 
 CREATE TABLE fare_attributes(
 	fare_id TEXT NOT NULL,
-	price TEXT NOT NULL,
+	price REAL NOT NULL,
 	currency_type TEXT NOT NULL,
-	payment_method TEXT NOT NULL,
-	transfers TEXT DEFAULT NULL,
+	payment_method INTEGER NOT NULL,
+	transfers INTEGER DEFAULT NULL,
 	agency_id TEXT DEFAULT NULL,
-	transfer_duration TEXT DEFAULT NULL
+	transfer_duration INTEGER DEFAULT NULL
 ,
 	PRIMARY KEY(fare_id)
 	);
@@ -127,7 +127,7 @@ CREATE TABLE shapes(
 	shape_id TEXT NOT NULL,
 	shape_pt_lat TEXT NOT NULL,
 	shape_pt_lon TEXT NOT NULL,
-	shape_pt_sequence INTEGER NOT NULL,
+	shape_pt_sequence TEXT NOT NULL,
 	shape_dist_traveled TEXT DEFAULT NULL
 ,
 	PRIMARY KEY(shape_id)
@@ -137,8 +137,8 @@ CREATE TABLE frequencies(
 	trip_id TEXT NOT NULL,
 	start_time TEXT NOT NULL,
 	end_time TEXT NOT NULL,
-	headway_secs TEXT NOT NULL,
-	exact_times TEXT DEFAULT NULL
+	headway_secs INTEGER NOT NULL,
+	exact_times INTEGER DEFAULT NULL
 ,
 	PRIMARY KEY(trip_id)
 	);
@@ -146,7 +146,7 @@ CREATE TABLE frequencies(
 CREATE TABLE transfers(
 	from_stop_id TEXT NOT NULL,
 	to_stop_id TEXT NOT NULL,
-	transfer_type TEXT NOT NULL,
+	transfer_type INTEGER NOT NULL,
 	min_transfer_time INTEGER DEFAULT NULL
 ,
 	PRIMARY KEY(from_stop_id, to_stop_id)
@@ -156,13 +156,13 @@ CREATE TABLE pathways(
 	pathway_id TEXT NOT NULL,
 	from_stop_id TEXT NOT NULL,
 	to_stop_id TEXT NOT NULL,
-	pathway_mode TEXT NOT NULL,
-	is_bidirectional TEXT NOT NULL,
-	length TEXT DEFAULT NULL,
-	traversal_time TEXT DEFAULT NULL,
-	stair_count TEXT DEFAULT NULL,
-	max_slope TEXT DEFAULT NULL,
-	min_width TEXT DEFAULT NULL,
+	pathway_mode INTEGER NOT NULL,
+	is_bidirectional INTEGER NOT NULL,
+	length REAL DEFAULT NULL,
+	traversal_time INTEGER DEFAULT NULL,
+	stair_count INTEGER DEFAULT NULL,
+	max_slope REAL DEFAULT NULL,
+	min_width REAL DEFAULT NULL,
 	signposted_as TEXT DEFAULT NULL,
 	reversed_signposted_as TEXT DEFAULT NULL
 ,
@@ -171,7 +171,7 @@ CREATE TABLE pathways(
 
 CREATE TABLE levels(
 	level_id TEXT NOT NULL,
-	level_index TEXT NOT NULL,
+	level_index REAL NOT NULL,
 	level_name TEXT DEFAULT NULL
 ,
 	PRIMARY KEY(level_id, level_index)
@@ -209,9 +209,9 @@ CREATE TABLE attributions(
 	route_id TEXT DEFAULT NULL,
 	trip_id TEXT DEFAULT NULL,
 	organization_name TEXT NOT NULL,
-	is_producer TEXT DEFAULT NULL,
-	is_operator TEXT DEFAULT NULL,
-	is_authority TEXT DEFAULT NULL,
+	is_producer INTEGER DEFAULT NULL,
+	is_operator INTEGER DEFAULT NULL,
+	is_authority INTEGER DEFAULT NULL,
 	attribution_url TEXT DEFAULT NULL,
 	attribution_email TEXT DEFAULT NULL,
 	attribution_phone TEXT DEFAULT NULL
@@ -435,4 +435,4 @@ UPDATE routes
 UPDATE trips
 	SET wheelchair_accessible = '1';
 
---sqlite3 septa_20200906_5.db < septa_20200906_gtfs_to_sql.sql
+--sqlite3 septa_20200906_6.db < septa_20200906_gtfs_to_sql.sql
