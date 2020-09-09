@@ -127,7 +127,7 @@ if( $dbVersion -eq ''){
 		
 [System.Collections.ArrayList]$stopsParams = @("stop_id", "stop_code", "stop_name",
 		"stop_desc", "stop_lat", "stop_lon", "zone_id", "stop_url", "location_type",
-		"parent_station", "stop_timezone", "wheelchair_boarding")
+		"parent_station", "stop_timezone", "wheelchair_boarding", "level_id", "platform_code")
 		
 [System.Collections.ArrayList]$routesParams = @("route_id", "agency_id", "route_short_name",
 	"route_long_name", "route_desc", "route_type", "route_url", "route_color", "route_text_color",
@@ -147,7 +147,7 @@ if( $dbVersion -eq ''){
 [System.Collections.ArrayList]$calendar_datesParams = @("service_id", "date", "exception_type")
 
 [System.Collections.ArrayList]$fare_attributesParams = @("fare_id", "price", "currency_type",
-	"payment_method", "transfers", "transfer_duration")
+	"payment_method", "transfers", "agency_id", "transfer_duration")
 
 [System.Collections.ArrayList]$fare_rulesParams = @("fare_id", "route_id", 
 	"origin_id", "destination_id", "contains_id")
@@ -160,19 +160,37 @@ if( $dbVersion -eq ''){
 
 [System.Collections.ArrayList]$transfersParams = @("from_stop_id", 
 	"to_stop_id", "transfer_type", "min_transfer_time")
+	
+[System.Collections.ArrayList]$pathwaysParams = @("pathway_id", 
+	"from_stop_id", "to_stop_id", "pathway_mode", "is_bidirectional",
+	"length", "traversal_time", "stair_count", "max_slope", "min_width",
+	"signposted_as", "reversed_signposted_as")
+	
+[System.Collections.ArrayList]$levelsParams = @("level_id", 
+	"level_index", "level_name")
+	
+[System.Collections.ArrayList]$translationsParams = @("table_name", 
+	"field_name", "language", "translation", "record_id",
+	"record_sub_id", "field_value")
 
 [System.Collections.ArrayList]$feed_infoParams = @("feed_publisher_name",
-	"feed_publisher_url", "feed_lang", "feed_start_date", "feed_end_date",
-	"feed_version", "feed_contact_email", "feed_contact_url")
+	"feed_publisher_url", "feed_lang", "default_lang", "feed_start_date", 
+	"feed_end_date", "feed_version", "feed_contact_email", "feed_contact_url")
 	
+[System.Collections.ArrayList]$attributionsParams = @("attribution_id",
+	"agency_id", "route_id", "trip_id", "organization_name", "is_producer", 
+	"is_operator", "is_authority", "attribution_url", "attribution_email",
+	"attribution_phone")
 	
 $feedFileNames = @("agency", "stops", "routes", "trips", "stop_times", "calendar", "calendar_dates", 
-	"fare_attributes", "fare_rules", "shapes", "frequencies", "transfers", "feed_info")
+	"fare_attributes", "fare_rules", "shapes", "frequencies", "transfers", "pathways", "levels",
+	"translations", "feed_info", "attributions")
 
 [System.Collections.ArrayList]$feedFileParamsArray = @($agencyParams, $stopsParams,
 			$routesParams, $tripsParams, $stop_timesParams, $calendarParams,
 			$calendar_datesParams, $fare_attributesParams, $fare_rulesParams,
-			$shapesParams, $frequenciesParams, $transfersParams, $feed_infoParams)
+			$shapesParams, $frequenciesParams, $transfersParams, $pathwaysParams, 
+			$levelsParams, $translationsParams, $feed_infoParams, $attributionsParams)
 
 #################### CREATE TABLES ########################
 Write-Host "`nMaking CREATE TABLE Statements"

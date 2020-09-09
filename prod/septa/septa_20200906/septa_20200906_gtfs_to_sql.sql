@@ -26,6 +26,8 @@ CREATE TABLE stops(
 	parent_station INTEGER DEFAULT NULL,
 	stop_timezone TEXT DEFAULT NULL,
 	wheelchair_boarding INTEGER DEFAULT NULL,
+	level_id TEXT DEFAULT NULL,
+	platform_code TEXT DEFAULT NULL,
 	PRIMARY KEY(stop_id)
 	);
 
@@ -105,6 +107,7 @@ CREATE TABLE fare_attributes(
 	currency_type TEXT NOT NULL,
 	payment_method TEXT NOT NULL,
 	transfers TEXT DEFAULT NULL,
+	agency_id TEXT DEFAULT NULL,
 	transfer_duration TEXT DEFAULT NULL
 ,
 	PRIMARY KEY(fare_id)
@@ -149,6 +152,43 @@ CREATE TABLE transfers(
 	PRIMARY KEY(from_stop_id, to_stop_id)
 	);
 
+CREATE TABLE pathways(
+	pathway_id TEXT NOT NULL,
+	from_stop_id TEXT NOT NULL,
+	to_stop_id TEXT NOT NULL,
+	pathway_mode TEXT NOT NULL,
+	is_bidirectional TEXT NOT NULL,
+	length TEXT DEFAULT NULL,
+	traversal_time TEXT DEFAULT NULL,
+	stair_count TEXT DEFAULT NULL,
+	max_slope TEXT DEFAULT NULL,
+	min_width TEXT DEFAULT NULL,
+	signposted_as TEXT DEFAULT NULL,
+	reversed_signposted_as TEXT DEFAULT NULL
+,
+	PRIMARY KEY(pathway_id)
+	);
+
+CREATE TABLE levels(
+	level_id TEXT NOT NULL,
+	level_index TEXT NOT NULL,
+	level_name TEXT DEFAULT NULL
+,
+	PRIMARY KEY(level_id, level_index)
+	);
+
+CREATE TABLE translations(
+	table_name TEXT NOT NULL,
+	field_name TEXT NOT NULL,
+	language TEXT NOT NULL,
+	translation TEXT NOT NULL,
+	record_id TEXT DEFAULT NULL,
+	record_sub_id TEXT DEFAULT NULL,
+	field_value TEXT DEFAULT NULL
+,
+	PRIMARY KEY(table_name, field_name, language)
+	);
+
 CREATE TABLE feed_info(
 	feed_publisher_name TEXT NOT NULL,
 	feed_publisher_url TEXT NOT NULL,
@@ -157,9 +197,26 @@ CREATE TABLE feed_info(
 	feed_end_date TEXT DEFAULT NULL,
 	feed_version TEXT DEFAULT NULL,
 
+	default_lang TEXT DEFAULT NULL,
 	feed_contact_email TEXT DEFAULT NULL,
 	feed_contact_url TEXT DEFAULT NULL,
 	PRIMARY KEY(feed_publisher_name)
+	);
+
+CREATE TABLE attributions(
+	attribution_id TEXT DEFAULT NULL,
+	agency_id TEXT DEFAULT NULL,
+	route_id TEXT DEFAULT NULL,
+	trip_id TEXT DEFAULT NULL,
+	organization_name TEXT NOT NULL,
+	is_producer TEXT DEFAULT NULL,
+	is_operator TEXT DEFAULT NULL,
+	is_authority TEXT DEFAULT NULL,
+	attribution_url TEXT DEFAULT NULL,
+	attribution_email TEXT DEFAULT NULL,
+	attribution_phone TEXT DEFAULT NULL
+,
+	PRIMARY KEY(organization_name)
 	);
 
 .separator ,
@@ -378,4 +435,4 @@ UPDATE routes
 UPDATE trips
 	SET wheelchair_accessible = '1';
 
---sqlite3 septa_20200906_3.db < septa_20200906_gtfs_to_sql.sql
+--sqlite3 septa_20200906_4.db < septa_20200906_gtfs_to_sql.sql
