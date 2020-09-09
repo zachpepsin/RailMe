@@ -13,7 +13,7 @@ CREATE TABLE agency(
 	);
 
 CREATE TABLE stops(
-	stop_id TEXT DEFAULT NULL,
+	stop_id TEXT NOT NULL,
 	stop_name TEXT DEFAULT NULL,
 	stop_desc TEXT DEFAULT NULL,
 	stop_lat TEXT DEFAULT NULL,
@@ -435,4 +435,4 @@ UPDATE routes
 UPDATE trips
 	SET wheelchair_accessible = '1';
 
---sqlite3 septa_20200906_4.db < septa_20200906_gtfs_to_sql.sql
+--sqlite3 septa_20200906_5.db < septa_20200906_gtfs_to_sql.sql

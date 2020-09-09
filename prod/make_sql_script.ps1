@@ -48,7 +48,7 @@ function generateDefaultStatement($feedFileName, $param) {
 			$param -eq "shape_pt_lon" -OR 
 			$param -eq "shape_pt_sequence")
 		) -OR ( $feedFileName -eq "stops" -AND (
-			$param -eq "stop_id	")
+			$param -eq "stop_id")
 		) -OR ( $feedFileName -eq "stop_times" -AND (
 			$param -eq "trip_id" -OR
 			$param -eq "stop_id" -OR
