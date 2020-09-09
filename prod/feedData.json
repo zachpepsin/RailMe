@@ -6,7 +6,7 @@
       {
       	"name":"patco",
         "prodDbName":"patco_20200629_2.db",
-        "devDbName":"patco_20200629_2.db",
+        "devDbName":"",
         "type":"offline",
         "alertMessage":"",
         "alertLink":"",
@@ -16,7 +16,7 @@
       {
       	"name":"septa",
         "prodDbName":"septa_20200816_1.db",
-        "devDbName":"septa_20200816_1.db",
+        "devDbName":"septa_20200906_1.db",
         "type":"offline",
         "alertMessage":"",
         "alertLink":"",
@@ -26,7 +26,7 @@
       {
       	"name":"njt",
       	"prodDbName":"njt_20200810_1.db",
-        "devDbName":"njt_20200810_1.db",
+        "devDbName":"",
         "type":"offline",
         "alertMessage":"",
         "alertLink":"",
