@@ -125,10 +125,10 @@ CREATE TABLE fare_rules(
 
 CREATE TABLE shapes(
 	shape_id TEXT NOT NULL,
-	shape_pt_lat TEXT NOT NULL,
-	shape_pt_lon TEXT NOT NULL,
-	shape_pt_sequence TEXT NOT NULL,
-	shape_dist_traveled TEXT DEFAULT NULL
+	shape_pt_lat REAL NOT NULL,
+	shape_pt_lon REAL NOT NULL,
+	shape_pt_sequence INTEGER NOT NULL,
+	shape_dist_traveled REAL DEFAULT NULL
 ,
 	PRIMARY KEY(shape_id)
 	);
@@ -435,4 +435,4 @@ UPDATE routes
 UPDATE trips
 	SET wheelchair_accessible = '1';
 
---sqlite3 septa_20200906_6.db < septa_20200906_gtfs_to_sql.sql
+--sqlite3 septa_20200906_7.db < septa_20200906_gtfs_to_sql.sql

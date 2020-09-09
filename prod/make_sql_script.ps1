@@ -231,7 +231,7 @@ foreach($feedFileName in $feedFileNames){
 				($feedFileName -eq "pathways" -AND $param -eq "stair_count") -OR
 				($feedFileName -eq "routes" -AND $param -eq "route_type") -OR
 				($feedFileName -eq "routes" -AND $param -eq "route_sort_order") -OR
-				($feedFileName -eq "shape" -AND $param -eq "shape_pt_sequence") -OR
+				($feedFileName -eq "shapes" -AND $param -eq "shape_pt_sequence") -OR
 				($feedFileName -eq "stops" -AND $param -eq "location_type") -OR
 				($feedFileName -eq "stops" -AND $param -eq "parent_station") -OR
 				($feedFileName -eq "stops" -AND $param -eq "wheelchair_boarding") -OR
@@ -253,9 +253,9 @@ foreach($feedFileName in $feedFileNames){
 				($feedFileName -eq "pathways" -AND $param -eq "length") -OR
 				($feedFileName -eq "pathways" -AND $param -eq "max_slope") -OR
 				($feedFileName -eq "pathways" -AND $param -eq "min_width") -OR
-				($feedFileName -eq "shape" -AND $param -eq "shape_pt_lat") -OR
-				($feedFileName -eq "shape" -AND $param -eq "shape_pt_lon") -OR
-				($feedFileName -eq "shape" -AND $param -eq "shape_dist_traveled") -OR
+				($feedFileName -eq "shapes" -AND $param -eq "shape_pt_lat") -OR
+				($feedFileName -eq "shapes" -AND $param -eq "shape_pt_lon") -OR
+				($feedFileName -eq "shapes" -AND $param -eq "shape_dist_traveled") -OR
 				($feedFileName -eq "stop_times" -AND $param -eq "shape_dist_traveled")
 			) {
 				#Float types
@@ -311,7 +311,7 @@ foreach($feedFileName in $feedFileNames){
 					($feedFileName -eq "pathways" -AND $param -eq "stair_count") -OR
 					($feedFileName -eq "routes" -AND $param -eq "route_type") -OR
 					($feedFileName -eq "routes" -AND $param -eq "route_sort_order") -OR
-					($feedFileName -eq "shape" -AND $param -eq "shape_pt_sequence") -OR
+					($feedFileName -eq "shapes" -AND $param -eq "shape_pt_sequence") -OR
 					($feedFileName -eq "stops" -AND $param -eq "location_type") -OR
 					($feedFileName -eq "stops" -AND $param -eq "parent_station") -OR
 					($feedFileName -eq "stops" -AND $param -eq "wheelchair_boarding") -OR
@@ -333,9 +333,9 @@ foreach($feedFileName in $feedFileNames){
 					($feedFileName -eq "pathways" -AND $param -eq "length") -OR
 					($feedFileName -eq "pathways" -AND $param -eq "max_slope") -OR
 					($feedFileName -eq "pathways" -AND $param -eq "min_width") -OR
-					($feedFileName -eq "shape" -AND $param -eq "shape_pt_lat") -OR
-					($feedFileName -eq "shape" -AND $param -eq "shape_pt_lon") -OR
-					($feedFileName -eq "shape" -AND $param -eq "shape_dist_traveled") -OR
+					($feedFileName -eq "shapes" -AND $param -eq "shape_pt_lat") -OR
+					($feedFileName -eq "shapes" -AND $param -eq "shape_pt_lon") -OR
+					($feedFileName -eq "shapes" -AND $param -eq "shape_dist_traveled") -OR
 					($feedFileName -eq "stop_times" -AND $param -eq "shape_dist_traveled")
 				) {
 					#Float types
@@ -392,7 +392,7 @@ foreach($feedFileName in $feedFileNames){
 					($feedFileName -eq "pathways" -AND $param -eq "stair_count") -OR
 					($feedFileName -eq "routes" -AND $param -eq "route_type") -OR
 					($feedFileName -eq "routes" -AND $param -eq "route_sort_order") -OR
-					($feedFileName -eq "shape" -AND $param -eq "shape_pt_sequence") -OR
+					($feedFileName -eq "shapes" -AND $param -eq "shape_pt_sequence") -OR
 					($feedFileName -eq "stops" -AND $param -eq "location_type") -OR
 					($feedFileName -eq "stops" -AND $param -eq "parent_station") -OR
 					($feedFileName -eq "stops" -AND $param -eq "wheelchair_boarding") -OR
@@ -414,9 +414,9 @@ foreach($feedFileName in $feedFileNames){
 					($feedFileName -eq "pathways" -AND $param -eq "length") -OR
 					($feedFileName -eq "pathways" -AND $param -eq "max_slope") -OR
 					($feedFileName -eq "pathways" -AND $param -eq "min_width") -OR
-					($feedFileName -eq "shape" -AND $param -eq "shape_pt_lat") -OR
-					($feedFileName -eq "shape" -AND $param -eq "shape_pt_lon") -OR
-					($feedFileName -eq "shape" -AND $param -eq "shape_dist_traveled") -OR
+					($feedFileName -eq "shapes" -AND $param -eq "shape_pt_lat") -OR
+					($feedFileName -eq "shapes" -AND $param -eq "shape_pt_lon") -OR
+					($feedFileName -eq "shapes" -AND $param -eq "shape_dist_traveled") -OR
 					($feedFileName -eq "stop_times" -AND $param -eq "shape_dist_traveled")
 				) {
 					#Float types
