@@ -6,6 +6,7 @@ function generateDefaultStatement($feedFileName, $param) {
 	##If param is required, make NOT NULL, otherwise, set DEFAULT
 	if(
 		($feedFileName -eq "agency" -AND (
+			$param -eq "agency_id" -OR
 			$param -eq "agency_name" -OR
 			$param -eq "agency_url" -OR
 			$param -eq "agency_timezone")
@@ -203,7 +204,7 @@ foreach($feedFileName in $feedFileNames){
 			$fileText += "`r`n"
 		}
 		
-		$fileText += "`t);"
+		#$fileText += "`t);"
 		
 	}else{
 			
@@ -274,11 +275,14 @@ foreach($feedFileName in $feedFileNames){
 				$count++
 			}
 		}
-		if($count -gt 0){
-			$fileText += "`r`n"
-		}
 		
-		$fileText += "`t);"
+	#	if($count -gt 0){
+	#		$fileText += "`r`n"
+	#	}
+		
+		
+			
+		#$fileText += "`t);"
 		
 		$output = "`tDONE!"
 		if($count -gt 0){
@@ -286,6 +290,46 @@ foreach($feedFileName in $feedFileNames){
 		}
 		Write-Host $output
 	}
+	
+	#add primary keys
+		if($feedFileName -eq "agency") {
+			$fileText += ",`r`n`tPRIMARY KEY(agency_id)`r`n"
+		} elseif ($feedFileName -eq "attributions") {
+			$fileText += ",`r`n`tPRIMARY KEY(organization_name)`r`n"
+		} elseif ($feedFileName -eq "calendar") {
+			$fileText += ",`r`n`tPRIMARY KEY(service_id)`r`n"
+		} elseif ($feedFileName -eq "calendar_dates") {
+			$fileText += ",`r`n`tPRIMARY KEY(service_id, date)`r`n"
+		} elseif ($feedFileName -eq "fare_attributes") {
+			$fileText += ",`r`n`tPRIMARY KEY(fare_id)`r`n"
+		} elseif ($feedFileName -eq "fare_rules") {
+			$fileText += ",`r`n`tPRIMARY KEY(fare_id)`r`n"
+		} elseif ($feedFileName -eq "feed_info") {
+			$fileText += ",`r`n`tPRIMARY KEY(feed_publisher_name)`r`n"
+		} elseif ($feedFileName -eq "frequencies") {
+			$fileText += ",`r`n`tPRIMARY KEY(trip_id)`r`n"
+		} elseif ($feedFileName -eq "levels") {
+			$fileText += ",`r`n`tPRIMARY KEY(level_id, level_index)`r`n"
+		} elseif ($feedFileName -eq "pathways") {
+			$fileText += ",`r`n`tPRIMARY KEY(pathway_id)`r`n"
+		} elseif ($feedFileName -eq "routes") {
+			$fileText += ",`r`n`tPRIMARY KEY(route_id)`r`n"
+		} elseif ($feedFileName -eq "shapes") {
+			$fileText += ",`r`n`tPRIMARY KEY(shape_id)`r`n"
+		} elseif ($feedFileName -eq "stops") {
+			$fileText += ",`r`n`tPRIMARY KEY(stop_id)`r`n"
+		} elseif ($feedFileName -eq "stop_times") {
+			$fileText += ",`r`n`tPRIMARY KEY(trip_id, stop_sequence)`r`n"
+		} elseif ($feedFileName -eq "transfers") {
+			$fileText += ",`r`n`tPRIMARY KEY(from_stop_id, to_stop_id)`r`n"
+		} elseif ($feedFileName -eq "translations") {
+			$fileText += ",`r`n`tPRIMARY KEY(table_name, field_name, language)`r`n"
+		} elseif ($feedFileName -eq "trips") {
+			$fileText += ",`r`n`tPRIMARY KEY(trip_id)`r`n"
+		}
+		
+		
+	$fileText += "`t);"
 
 	$fileText += "`r`n`r`n"
 	$feedFileCount++
