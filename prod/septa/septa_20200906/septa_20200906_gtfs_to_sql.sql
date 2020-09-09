@@ -14,28 +14,28 @@ CREATE TABLE agency(
 
 CREATE TABLE stops(
 	stop_id TEXT DEFAULT NULL,
-	stop_name TEXT NOT NULL,
+	stop_name TEXT DEFAULT NULL,
 	stop_desc TEXT DEFAULT NULL,
-	stop_lat TEXT NOT NULL,
-	stop_lon TEXT NOT NULL,
+	stop_lat TEXT DEFAULT NULL,
+	stop_lon TEXT DEFAULT NULL,
 	zone_id TEXT DEFAULT NULL,
 	stop_url TEXT DEFAULT NULL,
 
 	stop_code TEXT DEFAULT NULL,
-	location_type TEXT DEFAULT NULL,
-	parent_station TEXT DEFAULT NULL,
+	location_type INTEGER DEFAULT NULL,
+	parent_station INTEGER DEFAULT NULL,
 	stop_timezone TEXT DEFAULT NULL,
-	wheelchair_boarding TEXT DEFAULT NULL,
+	wheelchair_boarding INTEGER DEFAULT NULL,
 	PRIMARY KEY(stop_id)
 	);
 
 CREATE TABLE routes(
 	route_id TEXT NOT NULL,
-	route_short_name TEXT NOT NULL,
-	route_long_name TEXT NOT NULL,
+	route_short_name TEXT DEFAULT NULL,
+	route_long_name TEXT DEFAULT NULL,
 	route_desc TEXT DEFAULT NULL,
 	agency_id TEXT DEFAULT NULL,
-	route_type TEXT NOT NULL,
+	route_type INTEGER NOT NULL,
 	route_color TEXT DEFAULT NULL,
 	route_text_color TEXT DEFAULT NULL,
 	route_url TEXT DEFAULT NULL,
@@ -52,37 +52,37 @@ CREATE TABLE trips(
 	block_id TEXT DEFAULT NULL,
 	trip_short_name TEXT DEFAULT NULL,
 	shape_id TEXT DEFAULT NULL,
-	direction_id TEXT DEFAULT NULL,
+	direction_id INTEGER DEFAULT NULL,
 
-	wheelchair_accessible TEXT DEFAULT NULL,
-	bikes_allowed TEXT DEFAULT NULL,
+	wheelchair_accessible INTEGER DEFAULT NULL,
+	bikes_allowed INTEGER DEFAULT NULL,
 	PRIMARY KEY(trip_id)
 	);
 
 CREATE TABLE stop_times(
 	trip_id TEXT NOT NULL,
-	arrival_time TEXT NOT NULL,
-	departure_time TEXT NOT NULL,
+	arrival_time TEXT DEFAULT NULL,
+	departure_time TEXT DEFAULT NULL,
 	stop_id TEXT NOT NULL,
 	stop_sequence INTEGER NOT NULL,
-	pickup_type TEXT DEFAULT NULL,
-	drop_off_type TEXT DEFAULT NULL,
+	pickup_type INTEGER DEFAULT NULL,
+	drop_off_type INTEGER DEFAULT NULL,
 
 	stop_headsign TEXT DEFAULT NULL,
-	shape_dist_traveled TEXT DEFAULT NULL,
-	timepoint TEXT DEFAULT NULL,
+	shape_dist_traveled REAL DEFAULT NULL,
+	timepoint INTEGER DEFAULT NULL,
 	PRIMARY KEY(trip_id, stop_sequence)
 	);
 
 CREATE TABLE calendar(
 	service_id TEXT NOT NULL,
-	monday TEXT NOT NULL,
-	tuesday TEXT NOT NULL,
-	wednesday TEXT NOT NULL,
-	thursday TEXT NOT NULL,
-	friday TEXT NOT NULL,
-	saturday TEXT NOT NULL,
-	sunday TEXT NOT NULL,
+	monday INTEGER NOT NULL,
+	tuesday INTEGER NOT NULL,
+	wednesday INTEGER NOT NULL,
+	thursday INTEGER NOT NULL,
+	friday INTEGER NOT NULL,
+	saturday INTEGER NOT NULL,
+	sunday INTEGER NOT NULL,
 	start_date TEXT NOT NULL,
 	end_date TEXT NOT NULL
 
@@ -91,8 +91,8 @@ CREATE TABLE calendar(
 	);
 
 CREATE TABLE calendar_dates(
-	service_id TEXT DEFAULT NULL,
-	date TEXT DEFAULT NULL,
+	service_id TEXT NOT NULL,
+	date TEXT NOT NULL,
 	exception_type TEXT NOT NULL
 
 ,
@@ -104,7 +104,7 @@ CREATE TABLE fare_attributes(
 	price TEXT NOT NULL,
 	currency_type TEXT NOT NULL,
 	payment_method TEXT NOT NULL,
-	transfers TEXT NOT NULL,
+	transfers TEXT DEFAULT NULL,
 	transfer_duration TEXT DEFAULT NULL
 ,
 	PRIMARY KEY(fare_id)
@@ -378,4 +378,4 @@ UPDATE routes
 UPDATE trips
 	SET wheelchair_accessible = '1';
 
---sqlite3 septa_20200906_1.db < septa_20200906_gtfs_to_sql.sql
+--sqlite3 septa_20200906_3.db < septa_20200906_gtfs_to_sql.sql

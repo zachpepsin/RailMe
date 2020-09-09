@@ -10,16 +10,16 @@ function generateDefaultStatement($feedFileName, $param) {
 			$param -eq "agency_name" -OR
 			$param -eq "agency_url" -OR
 			$param -eq "agency_timezone")
+		) -OR ( $feedFileName -eq "attributions" -AND (
+			$param -eq "organization_name")
 		) -OR ( $feedFileName -eq "calendar"  #All Calendar params are required
-		) -OR ( $feedFileName -eq "calendar_dates" -AND (
-			$param -eq "exception_type" )
+		) -OR ( $feedFileName -eq "calendar_dates" #All Calendar Date params are required
 		) -OR ( $feedFileName -eq "fare_attributes" -AND (
 			$param -eq "fare_id" -OR
 			$param -eq "price" -OR
 			$param -eq "currency_type" -OR 
-			$param -eq "payment_method" -OR
-			$param -eq "transfers")
-		) -OR ( $feedFIleName -eq "fare_rules" -AND (
+			$param -eq "payment_method")
+		) -OR ( $feedFileName -eq "fare_rules" -AND (
 			$param -eq "fare_id")
 		) -OR ( $feedFileName -eq "feed_info" -AND (
 			$param -eq "feed_publisher_name" -OR
@@ -30,10 +30,17 @@ function generateDefaultStatement($feedFileName, $param) {
 			$param -eq "start_time" -OR
 			$param -eq "end_time" -OR 
 			$param -eq "headway_secs")
+		) -OR ( $feedFileName -eq "levels" -AND (
+			$param -eq "level_id" -OR
+			$param -eq "level_index")
+		) -OR ( $feedFileName -eq "pathways" -AND (
+			$param -eq "pathway_id" -OR
+			$param -eq "from_stop_id" -OR
+			$param -eq "to_stop_id" -OR
+			$param -eq "pathway_mode" -OR
+			$param -eq "is_bidirectional")
 		) -OR ( $feedFileName -eq "routes" -AND (
-			$param -eq "route_id" -OR
-			$param -eq "route_short_name" -OR
-			$param -eq "route_long_name" -OR 
+			$param -eq "route_id" -OR 
 			$param -eq "route_type")
 		) -OR ( $feedFileName -eq "shapes" -AND (
 			$param -eq "shape_id" -OR
@@ -41,20 +48,20 @@ function generateDefaultStatement($feedFileName, $param) {
 			$param -eq "shape_pt_lon" -OR 
 			$param -eq "shape_pt_sequence")
 		) -OR ( $feedFileName -eq "stops" -AND (
-			$param -eq "stop_id	" -OR
-			$param -eq "stop_name" -OR
-			$param -eq "stop_lat" -OR 
-			$param -eq "stop_lon")
+			$param -eq "stop_id	")
 		) -OR ( $feedFileName -eq "stop_times" -AND (
 			$param -eq "trip_id" -OR
-			$param -eq "arrival_time" -OR
-			$param -eq "departure_time" -OR 
 			$param -eq "stop_id" -OR
 			$param -eq "stop_sequence")
 		) -OR ( $feedFileName -eq "transfers" -AND (
 			$param -eq "from_stop_id" -OR
 			$param -eq "to_stop_id" -OR
 			$param -eq "transfer_type")
+		) -OR ( $feedFileName -eq "translations" -AND (
+			$param -eq "table_name" -OR
+			$param -eq "field_name" -OR
+			$param -eq "language" -OR
+			$param -eq "translation")
 		) -OR ( $feedFileName -eq "trips" -AND (
 			$param -eq "route_id" -OR
 			$param -eq "service_id" -OR
@@ -222,13 +229,56 @@ foreach($feedFileName in $feedFileNames){
 				
 				$variableType = "TEXT"
 				if(
+					($feedFileName -eq "attributions" -AND $param -eq "is_producer") -OR
+					($feedFileName -eq "attributions" -AND $param -eq "is_operator") -OR
+					($feedFileName -eq "attributions" -AND $param -eq "is_authority") -OR
+					($feedFileName -eq "calendar" -AND $param -eq "monday") -OR
+					($feedFileName -eq "calendar" -AND $param -eq "tuesday") -OR
+					($feedFileName -eq "calendar" -AND $param -eq "wednesday") -OR
+					($feedFileName -eq "calendar" -AND $param -eq "thursday") -OR
+					($feedFileName -eq "calendar" -AND $param -eq "friday") -OR
+					($feedFileName -eq "calendar" -AND $param -eq "saturday") -OR
+					($feedFileName -eq "calendar" -AND $param -eq "sunday") -OR
+					($feedFileName -eq "fare_attributes" -AND $param -eq "payment_method") -OR
+					($feedFileName -eq "fare_attributes" -AND $param -eq "transfers") -OR
+					($feedFileName -eq "fare_attributes" -AND $param -eq "transfer_duration") -OR
+					($feedFileName -eq "frequencies" -AND $param -eq "headway_secs") -OR
+					($feedFileName -eq "frequencies" -AND $param -eq "exact_times") -OR
+					($feedFileName -eq "pathways" -AND $param -eq "pathway_mode") -OR
+					($feedFileName -eq "pathways" -AND $param -eq "is_bidirectional") -OR
+					($feedFileName -eq "pathways" -AND $param -eq "traversal_time") -OR
+					($feedFileName -eq "pathways" -AND $param -eq "stair_count") -OR
+					($feedFileName -eq "routes" -AND $param -eq "route_type") -OR
 					($feedFileName -eq "routes" -AND $param -eq "route_sort_order") -OR
+					($feedFileName -eq "shape" -AND $param -eq "shape_pt_sequence") -OR
+					($feedFileName -eq "stops" -AND $param -eq "location_type") -OR
+					($feedFileName -eq "stops" -AND $param -eq "parent_station") -OR
+					($feedFileName -eq "stops" -AND $param -eq "wheelchair_boarding") -OR
 					($feedFileName -eq "stop_times" -AND $param -eq "stop_sequence") -OR
-					($feedFileName -eq "shapes" -AND $param -eq "shape_pt_sequence") -OR
-					($feedFileName -eq "transfers" -AND $param -eq "min_transfer_time")
+					($feedFileName -eq "stop_times" -AND $param -eq "pickup_type") -OR
+					($feedFileName -eq "stop_times" -AND $param -eq "drop_off_type") -OR
+					($feedFileName -eq "stop_times" -AND $param -eq "timepoint") -OR
+					($feedFileName -eq "transfers" -AND $param -eq "transfer_type") -OR
+					($feedFileName -eq "transfers" -AND $param -eq "min_transfer_time") -OR
+					($feedFileName -eq "trips" -AND $param -eq "direction_id") -OR
+					($feedFileName -eq "trips" -AND $param -eq "wheelchair_accessible") -OR
+					($feedFileName -eq "trips" -AND $param -eq "bikes_allowed")
 				){
 					#It should be INTEGER type, not TEXT
 					$variableType = "INTEGER"
+				}elseif (
+					($feedFileName -eq "fare_attributes" -AND $param -eq "price") -OR
+					($feedFileName -eq "levels" -AND $param -eq "level_index") -OR
+					($feedFileName -eq "pathways" -AND $param -eq "length") -OR
+					($feedFileName -eq "pathways" -AND $param -eq "max_slope") -OR
+					($feedFileName -eq "pathways" -AND $param -eq "min_width") -OR
+					($feedFileName -eq "shape" -AND $param -eq "shape_pt_lat") -OR
+					($feedFileName -eq "shape" -AND $param -eq "shape_pt_lon") -OR
+					($feedFileName -eq "shape" -AND $param -eq "shape_dist_traveled") -OR
+					($feedFileName -eq "stop_times" -AND $param -eq "shape_dist_traveled")
+				) {
+					#Float types
+					$variableType = "REAL"
 				}
 				
 				$fileText += "`t" + $param + " " +  $variableType
@@ -260,13 +310,56 @@ foreach($feedFileName in $feedFileNames){
 			
 				$variableType = "TEXT"
 				if(
+					($feedFileName -eq "attributions" -AND $param -eq "is_producer") -OR
+					($feedFileName -eq "attributions" -AND $param -eq "is_operator") -OR
+					($feedFileName -eq "attributions" -AND $param -eq "is_authority") -OR
+					($feedFileName -eq "calendar" -AND $param -eq "monday") -OR
+					($feedFileName -eq "calendar" -AND $param -eq "tuesday") -OR
+					($feedFileName -eq "calendar" -AND $param -eq "wednesday") -OR
+					($feedFileName -eq "calendar" -AND $param -eq "thursday") -OR
+					($feedFileName -eq "calendar" -AND $param -eq "friday") -OR
+					($feedFileName -eq "calendar" -AND $param -eq "saturday") -OR
+					($feedFileName -eq "calendar" -AND $param -eq "sunday") -OR
+					($feedFileName -eq "fare_attributes" -AND $param -eq "payment_method") -OR
+					($feedFileName -eq "fare_attributes" -AND $param -eq "transfers") -OR
+					($feedFileName -eq "fare_attributes" -AND $param -eq "transfer_duration") -OR
+					($feedFileName -eq "frequencies" -AND $param -eq "headway_secs") -OR
+					($feedFileName -eq "frequencies" -AND $param -eq "exact_times") -OR
+					($feedFileName -eq "pathways" -AND $param -eq "pathway_mode") -OR
+					($feedFileName -eq "pathways" -AND $param -eq "is_bidirectional") -OR
+					($feedFileName -eq "pathways" -AND $param -eq "traversal_time") -OR
+					($feedFileName -eq "pathways" -AND $param -eq "stair_count") -OR
+					($feedFileName -eq "routes" -AND $param -eq "route_type") -OR
 					($feedFileName -eq "routes" -AND $param -eq "route_sort_order") -OR
+					($feedFileName -eq "shape" -AND $param -eq "shape_pt_sequence") -OR
+					($feedFileName -eq "stops" -AND $param -eq "location_type") -OR
+					($feedFileName -eq "stops" -AND $param -eq "parent_station") -OR
+					($feedFileName -eq "stops" -AND $param -eq "wheelchair_boarding") -OR
 					($feedFileName -eq "stop_times" -AND $param -eq "stop_sequence") -OR
-					($feedFileName -eq "shapes" -AND $param -eq "shape_pt_sequence") -OR
-					($feedFileName -eq "transfers" -AND $param -eq "min_transfer_time")
+					($feedFileName -eq "stop_times" -AND $param -eq "pickup_type") -OR
+					($feedFileName -eq "stop_times" -AND $param -eq "drop_off_type") -OR
+					($feedFileName -eq "stop_times" -AND $param -eq "timepoint") -OR
+					($feedFileName -eq "transfers" -AND $param -eq "transfer_type") -OR
+					($feedFileName -eq "transfers" -AND $param -eq "min_transfer_time") -OR
+					($feedFileName -eq "trips" -AND $param -eq "direction_id") -OR
+					($feedFileName -eq "trips" -AND $param -eq "wheelchair_accessible") -OR
+					($feedFileName -eq "trips" -AND $param -eq "bikes_allowed")
 				){
 					#It should be INTEGER type, not TEXT
 					$variableType = "INTEGER"
+				}elseif (
+					($feedFileName -eq "fare_attributes" -AND $param -eq "price") -OR
+					($feedFileName -eq "levels" -AND $param -eq "level_index") -OR
+					($feedFileName -eq "pathways" -AND $param -eq "length") -OR
+					($feedFileName -eq "pathways" -AND $param -eq "max_slope") -OR
+					($feedFileName -eq "pathways" -AND $param -eq "min_width") -OR
+					($feedFileName -eq "shape" -AND $param -eq "shape_pt_lat") -OR
+					($feedFileName -eq "shape" -AND $param -eq "shape_pt_lon") -OR
+					($feedFileName -eq "shape" -AND $param -eq "shape_dist_traveled") -OR
+					($feedFileName -eq "stop_times" -AND $param -eq "shape_dist_traveled")
+				) {
+					#Float types
+					$variableType = "REAL"
 				}
 				
 				$fileText += "`t" + $param + " " +  $variableType
