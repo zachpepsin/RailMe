@@ -33,6 +33,7 @@
         "devDbName":"",
         "prodCsvFolder":"",
         "devCsvFolder":"njt_20200923",
+        "versionTest":"1",
         "type":"offline",
         "alertMessage":"",
         "alertLink":"",
