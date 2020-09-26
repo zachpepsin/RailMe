@@ -17,17 +17,26 @@
 
 ## RailMe Changelog
 
-#### 2.3.0 (Pre-release)
-* Added support for "Cancelled" train status
+#### 3.0.0 (Pre-release)
+* Migrated to Kotlin, AndroidX and RoomDB
+* Added dark mode support
+* New icons
+* Updated UI for schedules
+* A new Trip Details screen
+* Information on Agencies, Routes, and Stops are available including URLs, phone numbers, emails, and wheelchair accessibility
+* Live delay information for individual stops on trips
+* Live service alerts are displayed for agencies, routes, trips and stops
+* Support for "Cancelled" train status
+* Added more support for wheelchair accessibility and bike policies for trips and stops
+* Support for extra fare information including transfers or ticket expiration
 * Route schedules now show all stops on block, rather than just the trip
 * Status now shows statuses corresponding to their entire block_id, not just for their trip_id
 * Delays reported for entire trips (not tied to stops) are now shown if not overridden by a stop delay
-* Migrated to AndroidX
+* Added support for route sort order
+* Added support for feed info start and end dates
+* Closed DBs in areas where they weren't being closed before.  Potential fix for "SQLiteDiskIOException" errors
 * Fixed bug that prevented users on Android 8.0+ from seeing live train status information
-* Closed DBs in areas where they weren't being closed before.  Potential fix for "SQLiteDiskIOException" errors reported in console
 * Fixed bug were duplicate trains appear in schedule list because they are on the same block
-* Added support for new GTFS parameter in routes table: 'route_sort_order'
-* Added support for new GTFS parameters in feed_info table: 'feed_contact_email' and 'feed_contact_url'
 
 #### 2.2.3 (Production) (1 December 2018)
 * Added adaptive icon support
