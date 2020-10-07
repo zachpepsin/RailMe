@@ -17,7 +17,11 @@
 
 ## RailMe Changelog
 
-#### 3.0.0 (Pre-release)
+#### 3.0.3 (Production) (6 October 2020)
+* Minor bug fixes
+* Improvements for talkback
+
+### 3.0.2 (Production) (29 September 2020)
 * Migrated to Kotlin, AndroidX and RoomDB
 * Added dark mode support
 * New icons
