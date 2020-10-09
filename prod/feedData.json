@@ -10,8 +10,8 @@
         "prodCsvFolder":"patco_20201010",
         "devCsvFolder":"patco_20201010",
         "type":"offline",
-        "alertMessage":"",
-        "alertLink":"",
+        "alertMessage":"On October 10th, from 7am to 6pm PATCO is running a special schedule that is not reflected in RailMe.  Click \"View\" to view the special schedule.",
+        "alertLink":"http://ridepatco.org/publish/library/2020_10-10_day_trackworkschedule_platform.pdf",
         "rtServiceAlerts":"",
         "rtTripUpdates":""
       },
