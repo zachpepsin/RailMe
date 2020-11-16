@@ -10,8 +10,8 @@
         "prodCsvFolder":"patco_20201010",
         "devCsvFolder":"patco_20201010",
         "type":"offline",
-        "alertMessage":"On Monday November 16th, from 9:45am to 3:20pm, PATCO is operating on a special schedule that is not reflected in RailMe.  Click \"View\" to view the special schedule.",
-        "alertLink":"http://ridepatco.org/publish/library/2020_11-16_day_trackworkschedule_platform_revised.pdf",
+        "alertMessage":"",
+        "alertLink":"",
         "rtServiceAlerts":"",
         "rtTripUpdates":""
       },
