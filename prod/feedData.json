@@ -10,8 +10,8 @@
         "prodCsvFolder":"patco_20201010",
         "devCsvFolder":"patco_20201010",
         "type":"offline",
-        "alertMessage":"",
-        "alertLink":"",
+        "alertMessage":"On November 26, PATCO is operating on a special schedule that is not reflected in RailMe.  Click \"View\" to view the special schedule.",
+        "alertLink":"http://ridepatco.org/publish/library/ThanksgivingSchedules2020.pdf",
         "rtServiceAlerts":"",
         "rtTripUpdates":""
       },
