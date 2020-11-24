@@ -32,7 +32,7 @@
       	"prodDbName":"njt_20200810_1.db",
         "devDbName":"",
         "prodCsvFolder":"njt_20200923",
-        "devCsvFolder":"njt_20200923",
+        "devCsvFolder":"njt_20201124",
         "versionTest":"1",
         "type":"offline",
         "alertMessage":"",
