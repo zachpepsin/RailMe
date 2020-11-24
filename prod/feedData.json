@@ -19,7 +19,7 @@
       	"name":"septa",
         "prodDbName":"septa_20200816_1.db",
         "devDbName":"septa_20200906_7.db",
-        "prodCsvFolder":"septa_20200917",
+        "prodCsvFolder":"septa_20201114",
         "devCsvFolder":"septa_20201114",
         "type":"offline",
         "alertMessage":"",
