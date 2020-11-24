@@ -6,7 +6,7 @@ stop_id,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url
 90005,Suburban Station,,39.9538889,-75.1677778,C,
 90006,Jefferson Station,,39.9525000,-75.1580556,C,
 90007,Temple University,,39.9813889,-75.1494444,C,
-90008,North Broad,,39.9922222,-75.1538889,C,
+90008,North Broad,,39.9922222,-75.1538889,1,
 90009,Wayne Junction,,40.0222222,-75.1600000,1,
 90201,Newark,,39.6705556,-75.7527778,5,
 90202,Churchman's Crossing,,39.6950000,-75.6725000,5,

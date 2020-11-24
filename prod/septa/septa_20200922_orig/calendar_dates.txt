@@ -1,3 +1,0 @@
-service_id,date,exception_type
-M2,20200907,2
-M3,20200907,1
