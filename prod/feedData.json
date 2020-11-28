@@ -10,8 +10,8 @@
         "prodCsvFolder":"patco_20201010",
         "devCsvFolder":"patco_20201010",
         "type":"offline",
-        "alertMessage":"On November 26, PATCO is operating on a special schedule that is not reflected in RailMe.  Click \"View\" to view the special schedule.",
-        "alertLink":"http://ridepatco.org/publish/library/ThanksgivingSchedules2020.pdf",
+        "alertMessage":"On November 28, PATCO is operating on a special schedule for EASTBOUND trains that is not reflected in RailMe.  Click \"View\" to view the special schedule.",
+        "alertLink":"http://ridepatco.org/publish/library/2020_11-28-day-eastbound_trackworkschedule_platform.pdf",
         "rtServiceAlerts":"",
         "rtTripUpdates":""
       },
