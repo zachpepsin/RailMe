@@ -197,7 +197,4 @@ if($rootFolder -eq 'njt') {
 	}
 }
 
-
-
-
-
+Read-Host "`nFinished!  Press Enter to exit"
