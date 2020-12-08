@@ -1,0 +1,14 @@
+route_long_name,route_type,route_text_color,agency_id,route_id,route_color,route_desc,route_url,route_short_name
+Media/Elwyn Line,2,FFFFFF,SEPTA,MED,45637A,,http://www.septa.org/schedules/rail/index.html,Media/Elwyn Line
+Lansdale/Doylestown Line,2,FFFFFF,SEPTA,LAN,45637A,,http://www.septa.org/schedules/rail/index.html,Lansdale/Doylestown Line
+Chestnut Hill East Line,2,FFFFFF,SEPTA,CHE,45637A,,http://www.septa.org/schedules/rail/index.html,Chestnut Hill East Line
+Trenton Line,2,FFFFFF,SEPTA,TRE,45637A,,http://www.septa.org/schedules/rail/index.html,Trenton Line
+Wilmington/Newark Line,2,FFFFFF,SEPTA,WIL,45637A,,http://www.septa.org/schedules/rail/index.html,Wilmington/Newark Line
+Fox Chase Line,2,FFFFFF,SEPTA,FOX,45637A,,http://www.septa.org/schedules/rail/index.html,Fox Chase Line
+West Trenton Line,2,FFFFFF,SEPTA,WTR,45637A,,http://www.septa.org/schedules/rail/index.html,West Trenton Line
+Airport Line,2,FFFFFF,SEPTA,AIR,45637A,,http://www.septa.org/schedules/rail/index.html,Airport Line
+Manayunk/Norristown Line,2,FFFFFF,SEPTA,NOR,45637A,,http://www.septa.org/schedules/rail/index.html,Manayunk/Norristown Line
+Chestnut Hill West Line,2,FFFFFF,SEPTA,CHW,45637A,,http://www.septa.org/schedules/rail/index.html,Chestnut Hill West Line
+Warminster Line,2,FFFFFF,SEPTA,WAR,45637A,,http://www.septa.org/schedules/rail/index.html,Warminster Line
+Cynwyd Line,2,FFFFFF,SEPTA,CYN,45637A,,http://www.septa.org/schedules/rail/index.html,Cynwyd Line
+Paoli/Thorndale Line,2,FFFFFF,SEPTA,PAO,45637A,,http://www.septa.org/schedules/rail/index.html,Paoli/Thorndale Line
