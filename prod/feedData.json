@@ -10,8 +10,8 @@
         "prodCsvFolder":"patco_20201205",
         "devCsvFolder":"patco_20201205",
         "type":"offline",
-        "alertMessage":"On December 9, from 9:45am to 2:30pm, PATCO is operating on a special schedule for WESTBOUND trains that is not reflected in RailMe.  Click \"View\" to view the special schedule.",
-        "alertLink":"http://www.ridepatco.org/publish/library/2020_12-9-day-eastbound_trackworkschedule_platform.pdf",
+        "alertMessage":"",
+        "alertLink":"",
         "rtServiceAlerts":"",
         "rtTripUpdates":""
       },
