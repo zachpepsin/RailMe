@@ -10,8 +10,8 @@
         "prodCsvFolder":"patco_20201205",
         "devCsvFolder":"patco_20201205",
         "type":"offline",
-        "alertMessage":"On January 16th, from 7am to 5:15pm, PATCO is operating on a special schedule for EASTBOUND trains that is not reflected in RailMe.  Click \"View\" to view the special schedule.",
-        "alertLink":"http://ridepatco.org/publish/library/2020_1-16-day-eastbound_trackworkschedule_platform.pdf",
+        "alertMessage":"On January 18th, from 9:45am to 2:30pm, PATCO is operating on a special schedule for WESTBOUND trains that is not reflected in RailMe.  Click \"View\" to view the special schedule.",
+        "alertLink":"http://ridepatco.org/publish/library/2021_1-18-day-westbound_trackworkschedule_platform.pdf",
         "rtServiceAlerts":"",
         "rtTripUpdates":""
       },
