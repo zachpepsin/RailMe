@@ -10,8 +10,8 @@
         "prodCsvFolder":"patco_20201205",
         "devCsvFolder":"patco_20201205",
         "type":"offline",
-        "alertMessage":"On January 19th, from 9:20am to 3:20pm, PATCO is operating on a special schedule that is not reflected in RailMe.  Click \"View\" to view the special schedule.",
-        "alertLink":"http://ridepatco.org/publish/library/2021_1-19_day_trackworkschedule_platform.pdf",
+        "alertMessage":"",
+        "alertLink":"",
         "rtServiceAlerts":"",
         "rtTripUpdates":""
       },
