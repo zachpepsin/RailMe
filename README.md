@@ -17,6 +17,17 @@
 
 ## RailMe Changelog
 
+#### 3.1.1 (Production) (15 February 2021)
+* Schedules now auto-scroll to the next departing train
+* Fixed orientation change bug on Trip Details screen
+
+###  3.1.0 (Production) (13 Octover 2020)
+* Added a Reverse Trip option
+* Accessibility improvements
+* Fix for rare cases when schedules would delete themselves
+* Crash fixes
+* Increased minSdkVersion to 21
+
 #### 3.0.3 (Production) (6 October 2020)
 * Minor bug fixes
 * Improvements for talkback
