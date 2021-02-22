@@ -10,8 +10,8 @@
         "prodCsvFolder":"patco_20210130",
         "devCsvFolder":"patco_20210130",
         "type":"offline",
-        "alertMessage":"On February 18th, PATCO is operating on a special schedule that is not reflected in RailMe.  Click \"View\" to view the special schedule.",
-        "alertLink":"http://ridepatco.org/publish/library/PATCO_2021_SnowScheduleA.1.pdf",
+        "alertMessage":"",
+        "alertLink":"",
         "rtServiceAlerts":"",
         "rtTripUpdates":""
       },
