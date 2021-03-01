@@ -10,8 +10,8 @@
         "prodCsvFolder":"patco_20210130",
         "devCsvFolder":"patco_20210130",
         "type":"offline",
-        "alertMessage":"",
-        "alertLink":"",
+        "alertMessage":"On March 2nd, from 9:50am to 3pm, PATCO is running a special schedule for EASTBOUND trains that is not reflected in RailMe.  Click \"View\" to view the special schedule.",
+        "alertLink":"http://ridepatco.org/publish/library/2021-3-2_TW_Day.pdf",
         "rtServiceAlerts":"",
         "rtTripUpdates":""
       },
