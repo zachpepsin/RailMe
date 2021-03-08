@@ -10,8 +10,8 @@
         "prodCsvFolder":"patco_20210130",
         "devCsvFolder":"patco_20210130",
         "type":"offline",
-        "alertMessage":"On March 6th and 7th, PATCO is operating on special schedules that are not reflected in RailMe.  Go to RidePATCO.org for more information.",
-        "alertLink":"http://ridepatco.org/",
+        "alertMessage":"",
+        "alertLink":"",
         "rtServiceAlerts":"",
         "rtTripUpdates":""
       },
