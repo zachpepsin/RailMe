@@ -10,8 +10,8 @@
         "prodCsvFolder":"patco_20210329",
         "devCsvFolder":"patco_20210329",
         "type":"offline",
-        "alertMessage":"On March 27th and 28th, PATCO is operating a special schedule that is not reflected in RailMe.  Go to RidePATCO.org for more info.",
-        "alertLink":"http://ridepatco.org/",
+        "alertMessage":"On March 28th, from 7:06am to 5:23pm, PATCO is operating a special schedule that is not reflected in RailMe.  Click \"View\" to view the special schedule.",
+        "alertLink":"http://ridepatco.org/publish/library/2021-03-28_TW_day.pdf",
         "rtServiceAlerts":"",
         "rtTripUpdates":""
       },
