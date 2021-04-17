@@ -10,8 +10,8 @@
         "prodCsvFolder":"patco_20210329",
         "devCsvFolder":"patco_20210329",
         "type":"offline",
-        "alertMessage":"On April 17th and 18th, PATCO is running a special schedule that is not avaiable on RailMe.  Go to RidePATCO.org for info.",
-        "alertLink":"http://ridepatco.org/",
+        "alertMessage":"On April 18th, from 7am to 7pm, PATCO is running a special schedule for EASTBOUND trains that is not reflected in RailMe.  Click \"View\" to view the special schedule.",
+        "alertLink":"http://ridepatco.org/publish/library/2021_4-18-TW_Day.pdf",
         "rtServiceAlerts":"",
         "rtTripUpdates":""
       },
