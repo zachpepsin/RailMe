@@ -10,8 +10,8 @@
         "prodCsvFolder":"patco_20210329",
         "devCsvFolder":"patco_20210329",
         "type":"offline",
-        "alertMessage":"",
-        "alertLink":"",
+        "alertMessage":"On May 4th, PATCO is operating a special schedule that is not reflected in RailMe.  Click \"View\" for more info.",
+        "alertLink":"http://ridepatco.org/publish/library/2021-5-4_TW_Day.pdf",
         "rtServiceAlerts":"",
         "rtTripUpdates":""
       },
