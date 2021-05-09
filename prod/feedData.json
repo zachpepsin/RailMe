@@ -10,7 +10,7 @@
         "prodCsvFolder":"patco_20210329",
         "devCsvFolder":"patco_20210329",
         "type":"offline",
-        "alertMessage":"On Match 9th, from 7am to 7pm, PATCO is operating on a special schedule for EASTBOUND trains that is not reflected in RailMe.  Click \"View\" to view the special schedule.",
+        "alertMessage":"On March 9th, from 7am to 7pm, PATCO is operating on a special schedule for EASTBOUND trains that is not reflected in RailMe.  Click \"View\" to view the special schedule.",
         "alertLink":"http://ridepatco.org/publish/library/2021-05-09_TW_Day.pdf",
         "rtServiceAlerts":"",
         "rtTripUpdates":""
