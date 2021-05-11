@@ -10,8 +10,8 @@
         "prodCsvFolder":"patco_20210329",
         "devCsvFolder":"patco_20210329",
         "type":"offline",
-        "alertMessage":"Through 3pm on May 11th, PATCO is operating on special schedules that are not reflected in RailMe.  Go to RidePATCO.org for more info.",
-        "alertLink":"http://ridepatco.org/",
+        "alertMessage":"From 9pm May 11th to 4am May 12th, PATCO is operating a special schedule not reflected in RailMe.  Click \"View\" to view the special schedule.",
+        "alertLink":"http://ridepatco.org/publish/library/2021-05-11_TW_nightmorningowl.pdf",
         "rtServiceAlerts":"",
         "rtTripUpdates":""
       },
