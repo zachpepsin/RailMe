@@ -10,7 +10,7 @@
         "prodCsvFolder":"patco_20210605",
         "devCsvFolder":"patco_20210605",
         "type":"offline",
-        "alertMessage":"On July 15th, PATCO is operating on special schedules that are not reflected in RailMe.  Go to RidePATCO.org for more information.",
+        "alertMessage":"Through July 19th, PATCO is operating on special schedules that are not reflected in RailMe.  Go to RidePATCO.org for more information.",
         "alertLink":"http://ridepatco.org/",
         "rtServiceAlerts":"",
         "rtTripUpdates":""
