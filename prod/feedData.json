@@ -10,8 +10,8 @@
         "prodCsvFolder":"patco_20210605",
         "devCsvFolder":"patco_20210605",
         "type":"offline",
-        "alertMessage":"Through July 20th, PATCO is operating on special schedules that are not reflected in RailMe.  Go to RidePATCO.org for more information.",
-        "alertLink":"http://ridepatco.org/",
+        "alertMessage":"On July 20th, from 9:30am to 2:27pm, PATCO is operating on a special schedule for EASTBOUND trains that is not reflected in RailMe.  Click \"View\" to view the special schedule.",
+        "alertLink":"http://ridepatco.org/publish/library/2021_07-20-TW_day.pdf",
         "rtServiceAlerts":"",
         "rtTripUpdates":""
       },
