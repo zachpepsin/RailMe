@@ -10,8 +10,8 @@
         "prodCsvFolder":"patco_20210605",
         "devCsvFolder":"patco_20210605",
         "type":"offline",
-        "alertMessage":"On August 8th, PATCO is operating on a special schedule for EASTBOUND trains that is not reflected in RailMe. Click \"View\" to view the special schedule.",
-        "alertLink":"http://ridepatco.org/publish/library/2021_08-08-TW_day.pdf",
+        "alertMessage":"",
+        "alertLink":"",
         "rtServiceAlerts":"",
         "rtTripUpdates":""
       },
