@@ -10,8 +10,8 @@
         "prodCsvFolder":"patco_20210906",
         "devCsvFolder":"patco_20210906",
         "type":"offline",
-        "alertMessage":"On Tuesday September 21st, from 9:45am to 2pm, PATCO is operating on a special schedule for EASTBOUND trains that is not reflected in RailMe.  Click \"View\" to view the special schedule.",
-        "alertLink":"http://ridepatco.org/publish/library/2021_09-21-TW_day.pdf",
+        "alertMessage":"On Saturday September 25th, from 4:30am to 9:30am, PATCO is operating on a special schedule that is not reflected in RailMe.  Click \"View\" to view the special schedule.",
+        "alertLink":"http://ridepatco.org/publish/library/2021-09-25_SpecialSchedule-MS150_rev1.pdf",
         "rtServiceAlerts":"",
         "rtTripUpdates":""
       },
