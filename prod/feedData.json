@@ -8,7 +8,7 @@
         "prodDbName":"patco_20200629_2.db",
         "devDbName":"",
         "prodCsvFolder":"patco_20210906",
-        "devCsvFolder":"patco_20210906",
+        "devCsvFolder":"patco_20211009",
         "type":"offline",
         "alertMessage":"On October 6th, PATCO is operating on a special schedule for EASTBOUND trains that is not reflected in RailMe. Click \"View\" to view the special schedule.",
         "alertLink":"http://ridepatco.org/publish/library/2021_10-6-TW_day.pdf",
