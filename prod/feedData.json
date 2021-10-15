@@ -11,7 +11,7 @@
         "devCsvFolder":"patco_20211009",
         "type":"offline",
         "alertMessage":"Through October 17th, PATCO is operating on special schedules that are not reflected in RailMe. Go to RidePATCO.org for more information.",
-        "alertLink":"http://wwww.RidePATCO.org/",
+        "alertLink":"http://www.RidePATCO.org/",
         "rtServiceAlerts":"",
         "rtTripUpdates":""
       },
