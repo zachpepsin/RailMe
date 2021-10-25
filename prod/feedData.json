@@ -10,8 +10,8 @@
         "prodCsvFolder":"patco_20211009",
         "devCsvFolder":"patco_20211009",
         "type":"offline",
-        "alertMessage":"On October 24th, PATCO is operating on a special schedule that is not reflected in RailMe.  Click \"View\" to view the special scheudle.",
-        "alertLink":"http://ridepatco.org/publish/library/2021-10-24_TWday.pdf",
+        "alertMessage":"On October 25th, PATCO is operating on a special schedule for EASTBOUND trains that is not reflected in RailMe.  Click \"View\" to view the special scheudle.",
+        "alertLink":"http://ridepatco.org/publish/library/2021_10-25-TW_day.pdf",
         "rtServiceAlerts":"",
         "rtTripUpdates":""
       },
