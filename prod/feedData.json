@@ -10,8 +10,8 @@
         "prodCsvFolder":"patco_20211009",
         "devCsvFolder":"patco_20211009",
         "type":"offline",
-        "alertMessage":"On November 4th, from 9:48am to 2:01am, PATCO is operating on a special scheudle that is not reflected in RailMe. Click \"View\" to view the special schedule.",
-        "alertLink":"http://ridepatco.org/publish/library/2021_11-04-TW_day.pdf",
+        "alertMessage":"On November 6th, PATCO is operating on a special scheudle that is not reflected in RailMe. Click \"View\" to view the special schedule.",
+        "alertLink":"http://ridepatco.org/publish/library/2021-11-6_TW_day.pdf",
         "rtServiceAlerts":"",
         "rtTripUpdates":""
       },
