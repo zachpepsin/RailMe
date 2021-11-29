@@ -10,8 +10,8 @@
         "prodCsvFolder":"patco_20211009",
         "devCsvFolder":"patco_20211009",
         "type":"offline",
-        "alertMessage":"Through November 26th, PATCO is operating on special scheudles that are not reflected in RailMe. Go to RidePATCO.org for more information.",
-        "alertLink":"http://ridepatco.org/publish/",
+        "alertMessage":"",
+        "alertLink":"",
         "rtServiceAlerts":"",
         "rtTripUpdates":""
       },
