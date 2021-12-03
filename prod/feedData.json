@@ -7,7 +7,7 @@
       	"name":"patco",
         "prodDbName":"patco_20200629_2.db",
         "devDbName":"",
-        "prodCsvFolder":"patco_20211009",
+        "prodCsvFolder":"patco_20211204",
         "devCsvFolder":"patco_20211204",
         "type":"offline",
         "alertMessage":"",
