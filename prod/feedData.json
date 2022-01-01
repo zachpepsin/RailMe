@@ -10,8 +10,8 @@
         "prodCsvFolder":"patco_20211204",
         "devCsvFolder":"patco_20211204",
         "type":"offline",
-        "alertMessage":"On New Years Day, PATCO is operating on a special schedule that is not reflected in RailMe.  Click \"View\" to view the special schedule.",
-        "alertLink":"http://ridepatco.org/publish/library/PATCO_SpecialSchedule_January1.pdf",
+        "alertMessage":"On January 2nd, PATCO is operating on a special schedule that is not reflected in RailMe.  Click \"View\" to view the special schedule.",
+        "alertLink":"http://ridepatco.org/publish/library/PATCO_SpecialSchedule_January2.pdf",
         "rtServiceAlerts":"",
         "rtTripUpdates":""
       },
