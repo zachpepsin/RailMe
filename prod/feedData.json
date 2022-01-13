@@ -10,8 +10,8 @@
         "prodCsvFolder":"patco_20211204",
         "devCsvFolder":"patco_20211204",
         "type":"offline",
-        "alertMessage":"On January 12th, from 9:48am to 2:49pm, PATCO is operating on a special schedule that is not reflected in RailMe. Click \"View\" to view the special schedule.",
-        "alertLink":"http://ridepatco.org/publish/library/2022-1-12_TW_Day.pdf",
+        "alertMessage":"On the night of January 13th, from 9:17pm to 1:11am, PATCO is operating on a special schedule that is not reflected in RailMe. Click \"View\" to view the special schedule.",
+        "alertLink":"http://ridepatco.org/publish/library/2022-1-13_TW_nightmorningowl.pdf",
         "rtServiceAlerts":"",
         "rtTripUpdates":""
       },
