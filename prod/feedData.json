@@ -10,8 +10,8 @@
         "prodCsvFolder":"patco_20211204",
         "devCsvFolder":"patco_20211204",
         "type":"offline",
-        "alertMessage":"On the night of January 13th, from 9:17pm to 1:11am, PATCO is operating on a special schedule that is not reflected in RailMe. Click \"View\" to view the special schedule.",
-        "alertLink":"http://ridepatco.org/publish/library/2022-1-13_TW_nightmorningowl.pdf",
+        "alertMessage":"On January 14th, from 10:11am to 2:35pm, PATCO is operating on a special schedule for EASTBOUND trains that is not reflected in RailMe. Click \"View\" to view the special schedule.",
+        "alertLink":"http://ridepatco.org/publish/library/2022_1-14-TW_day.pdf",
         "rtServiceAlerts":"",
         "rtTripUpdates":""
       },
