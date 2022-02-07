@@ -9,8 +9,8 @@
         "devDbName":"",
         "prodCsvFolder":"patco_20211204",
         "devCsvFolder":"patco_20211204",
-        "alertMessage":"",
-        "alertLink":"",
+        "alertMessage":"On February 8th, from 9:40am to  1:27pm, PATCO is operating on a special schedule that is not reflected in RailMe. Click \"View\" to view the special schedule.",
+        "alertLink":"http://ridepatco.org/publish/library/2022-2-8_TW_day.pdf",
         "rtServiceAlerts":"",
         "rtTripUpdates":""
       },
