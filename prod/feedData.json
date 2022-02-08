@@ -9,8 +9,8 @@
         "devDbName":"",
         "prodCsvFolder":"patco_20211204",
         "devCsvFolder":"patco_20211204",
-        "alertMessage":"On February 7th, from 9:17pm to  1:10am, PATCO is operating on a special schedule that is not reflected in RailMe. Click \"View\" to view the special schedule.",
-        "alertLink":"http://ridepatco.org/publish/library/2022-2-7_TW_nightmorningowl.pdf",
+        "alertMessage":"On February 8th, from 9:17pm to  1:10am, PATCO is operating on a special schedule that is not reflected in RailMe. Click \"View\" to view the special schedule.",
+        "alertLink":"http://ridepatco.org/publish/library/2022-2-8_TW_nightmorningowl.pdf",
         "rtServiceAlerts":"",
         "rtTripUpdates":""
       },
