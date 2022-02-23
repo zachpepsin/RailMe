@@ -42,11 +42,11 @@
 				"endDate":""
 			},
 			{
-				"header":"Second Header",
+				"header":"Expired Header",
 				"description":"A second test alert for SEPTA.",
 				"url":"https://www.septa.org/",
 				"startDate":"",
-				"endDate":""
+				"endDate":"20220222"
 			}
 		],
         "rtServiceAlerts":"http://www3.septa.org/gtfsrt/septarail-pa-us/Service/rtServiceAlerts.pb",
