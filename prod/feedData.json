@@ -14,9 +14,9 @@
 		"alerts" :
 		[
 			{
-				"header":"Sepcial Schedule Wednesday February 23rd",
-				"description":"Test Message",
-				"url":"http://ridepatco.org/",
+				"header":"Sepcial Schedule",
+				"description":"On February 23rd, from 8:30pm to 1:16am, PATCO is operating on a sepcial schedule that is not reflected in RailMe. Click \"View\" to view the special schedule.",
+				"url":"http://ridepatco.org/publish/library/2022-2-23_TW_nightmorningowl.pdf",
 				"startDate":"",
 				"endDate":""
 			}
