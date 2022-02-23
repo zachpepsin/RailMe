@@ -42,10 +42,38 @@
 				"endDate":""
 			},
 			{
-				"header":"Expired Header",
-				"description":"A second test alert for SEPTA.",
-				"url":"https://www.septa.org/",
+				"header":"Valid Start and End",
+				"description":"This alert has a previous start date, and a future end date.",
+				"url":"",
+				"startDate":"19940606",
+				"endDate":"20990101"
+			},
+			{
+				"header":"Future Start and Future End",
+				"description":"This alert has a future start date, and a future end date.",
+				"url":"",
+				"startDate":"20990101",
+				"endDate":"21990101"
+			},
+			{
+				"header":"Expired Header no Start",
+				"description":"This alert has no start date, and also has expired.",
+				"url":"",
 				"startDate":"",
+				"endDate":"19940606"
+			},
+			{
+				"header":"Expired Header with Past Start",
+				"description":"This alert has a past start date, and an expired end date.",
+				"url":"",
+				"startDate":"19940606",
+				"endDate":"20201231"
+			},
+			{
+				"header":"Expired Header with Future Start",
+				"description":"This alert has a future start date, and past end date.",
+				"url":"",
+				"startDate":"20990101",
 				"endDate":"20220222"
 			}
 		],
