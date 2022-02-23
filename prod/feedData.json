@@ -11,7 +11,7 @@
         "devCsvFolder":"patco_20211204",
         "alertMessage":"On February 23rd, from 8:30pm to 1:16am, PATCO is operating on a sepcial schedule that is not reflected in RailMe. Click \"View\" to view the special schedule.",
         "alertLink":"http://ridepatco.org/publish/library/2022-2-23_TW_nightmorningowl.pdf",
-		"alerts" :
+	"alerts" :
 		[
 			{
 				"header":"Special Schedule\nFebruary 23rd",
@@ -32,6 +32,23 @@
         "devCsvFolder":"septa_20211219",
         "alertMessage":"",
         "alertLink":"",
+	"alerts" :
+		[
+			{
+				"header":"Test Header",
+				"description":"This is a test message for SEPTA. Interpret this however you want.",
+				"url":"",
+				"startDate":"",
+				"endDate":""
+			},
+			{
+				"header":"Second Header",
+				"description":"A second test alert for SEPTA.",
+				"url":"https://www.septa.org/",
+				"startDate":"",
+				"endDate":""
+			}
+		],
         "rtServiceAlerts":"http://www3.septa.org/gtfsrt/septarail-pa-us/Service/rtServiceAlerts.pb",
         "rtTripUpdates":"http://www3.septa.org/gtfsrt/septarail-pa-us/Trip/rtTripUpdates.pb"
       },
