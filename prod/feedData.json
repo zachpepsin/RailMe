@@ -9,8 +9,8 @@
         "devDbName":"",
         "prodCsvFolder":"patco_20211204",
         "devCsvFolder":"patco_20211204",
-        "alertMessage":"On February 26th, PATCO is operating on a sepcial schedule that is not reflected in RailMe.",
-        "alertLink":"http://ridepatco.org/publish/library/PATCO_TrackWorkSchedule_WB-EB_2022-02-26.pdf",
+        "alertMessage":"On February 27th, PATCO is operating on a sepcial schedule that is not reflected in RailMe.",
+        "alertLink":"http://ridepatco.org/publish/library/PATCO_TrackWorkSchedule_WB-EB_2022-02-27.pdf",
 		"alerts" :
 			[
 				{
