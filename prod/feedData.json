@@ -9,27 +9,27 @@
         "devDbName":"",
         "prodCsvFolder":"patco_20211204",
         "devCsvFolder":"patco_20211204",
-        "alertMessage":"On March 1st, from 8:30pm to 1:17am, PATCO is operating on a sepcial schedule that is not reflected in RailMe.",
+        "alertMessage":"On March 2nd and 3rd, PATCO is operating on a special schedule that is not reflected in RailMe.",
         "alertLink":"http://ridepatco.org/",
 		"alerts" :
 			[
 				{
 					"header":"Special Schedule\nFebruary 25th",
-					"description":"On February 25th, from 6:48pm to 12:12am, PATCO is operating on a sepcial schedule that is not reflected in RailMe.",
+					"description":"On February 25th, from 6:48pm to 12:12am, PATCO is operating on a special schedule that is not reflected in RailMe.",
 					"url":"http://ridepatco.org/publish/library/PATCO_TrackWorkSchedule_WB-EB_2022-02-25_night.pdf",
 					"startDate":"",
 					"endDate":"20220226"
 				},
 				{
 					"header":"Special Schedule\nFebruary 26th",
-					"description":"On February 26th, PATCO is operating on a sepcial schedule that is not reflected in RailMe.",
+					"description":"On February 26th, PATCO is operating on a special schedule that is not reflected in RailMe.",
 					"url":"http://ridepatco.org/publish/library/PATCO_TrackWorkSchedule_WB-EB_2022-02-26.pdf",
 					"startDate":"",
 					"endDate":"20220227"
 				},
 				{
 					"header":"Special Schedule\nFebruary 27th",
-					"description":"On February 27th, PATCO is operating on a sepcial schedule that is not reflected in RailMe.",
+					"description":"On February 27th, PATCO is operating on a special schedule that is not reflected in RailMe.",
 					"url":"http://docs.google.com/gview?embedded=true&url=http://ridepatco.org/publish/library/PATCO_TrackWorkSchedule_WB-EB_2022-02-27.pdf",
 					"startDate":"",
 					"endDate":"20220228"
