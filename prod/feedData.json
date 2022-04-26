@@ -9,8 +9,8 @@
         "devDbName":"",
         "prodCsvFolder":"patco_20211204",
         "devCsvFolder":"patco_20211204",
-        "alertMessage":"On April 25, from 9:30pm to 12:43am, PATCO is operating on a special schedule that is not reflected in RailMe.",
-        "alertLink":"https://www.drpa.org/patco/2022-04-25_TW_night.pdf",
+        "alertMessage":"",
+        "alertLink":"",
 		"alerts" :
 			[
 				{
