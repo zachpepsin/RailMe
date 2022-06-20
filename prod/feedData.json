@@ -98,7 +98,7 @@
       	"name":"njt",
       	"prodDbName":"njt_20200810_1.db",
         "devDbName":"",
-        "prodCsvFolder":"njt_20220324",
+        "prodCsvFolder":"njt_20220620",
         "devCsvFolder":"njt_20220620",
         "alertMessage":"",
         "alertLink":"",
