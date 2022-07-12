@@ -14,21 +14,21 @@
 		"alerts" :
 			[
 				{
-					"header":"Special Schedule\nFebruary 25th",
+					"header":"Special Schedule\nJuly 13th",
 					"description":"On July 13th, from 6:48pm to 12:12am, PATCO is operating on a special schedule that is not reflected in RailMe.",
 					"url":"http://ridepatco.org/publish/library/PATCO_TrackWorkSchedule_WB-EB_2022-02-25_night.pdf",
 					"startDate":"",
 					"endDate":"20220713"
 				},
 				{
-					"header":"Special Schedule\nFebruary 26th",
+					"header":"Special Schedule\nJuly 11th",
 					"description":"On July 11th, PATCO is operating on a special schedule that is not reflected in RailMe.",
 					"url":"http://ridepatco.org/",
 					"startDate":"",
 					"endDate":"20220711"
 				},
 				{
-					"header":"Special Schedule\nFebruary 27th",
+					"header":"Special Schedule",
 					"description":"On July 12th, PATCO is operating on a special schedule that is not reflected in RailMe.",
 					"url":"http://ridepatco.org/publish/library/TimetableLCDs_Tuesday_TW-2022-07-12.jpg",
 					"startDate":"",
