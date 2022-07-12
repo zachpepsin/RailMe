@@ -22,17 +22,17 @@
 				},
 				{
 					"header":"Special Schedule\nFebruary 26th",
-					"description":"On February 26th, PATCO is operating on a special schedule that is not reflected in RailMe.",
-					"url":"http://ridepatco.org/publish/library/PATCO_TrackWorkSchedule_WB-EB_2022-02-26.pdf",
+					"description":"On July 11th, PATCO is operating on a special schedule that is not reflected in RailMe.",
+					"url":"http://ridepatco.org/",
 					"startDate":"",
-					"endDate":"20220227"
+					"endDate":"20220711"
 				},
 				{
 					"header":"Special Schedule\nFebruary 27th",
-					"description":"On February 27th, PATCO is operating on a special schedule that is not reflected in RailMe.",
-					"url":"http://docs.google.com/gview?embedded=true&url=http://ridepatco.org/publish/library/PATCO_TrackWorkSchedule_WB-EB_2022-02-27.pdf",
+					"description":"On July 12th, PATCO is operating on a special schedule that is not reflected in RailMe.",
+					"url":"http://ridepatco.org/publish/library/TimetableLCDs_Tuesday_TW-2022-07-12.jpg",
 					"startDate":"",
-					"endDate":"20220228"
+					"endDate":"20220712"
 				}
 			],
         "rtServiceAlerts":"",
