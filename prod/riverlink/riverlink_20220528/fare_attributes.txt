@@ -1,2 +1,2 @@
-fare_id,price,currency_type,payment_method
-phl_cam,5.00,USD,1
+fare_id,price,currency_type,payment_method,transfers
+phl_cam,10.00,USD,1,1
