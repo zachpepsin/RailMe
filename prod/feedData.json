@@ -7,7 +7,7 @@
       	"name":"patco",
         "prodDbName":"patco_20200629_2.db",
         "devDbName":"",
-        "prodCsvFolder":"patco_20211204",
+        "prodCsvFolder":"patco_20220815",
         "devCsvFolder":"patco_20220815",
         "alertMessage":"On August 11th, from 9:21pm to 12:18am, PATCO is operating on a special schedule that is not reflected in RailMe.",
         "alertLink":"http://ridepatco.org/",
