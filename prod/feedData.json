@@ -109,7 +109,7 @@
       	"name":"riverlink",
       	"prodDbName":"",
         "devDbName":"",
-        "prodCsvFolder":"",
+        "prodCsvFolder":"riverlink_20220528",
         "devCsvFolder":"riverlink_20220528",
         "alertMessage":"",
         "alertLink":"",
