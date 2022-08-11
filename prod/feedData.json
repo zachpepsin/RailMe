@@ -104,6 +104,17 @@
         "alertLink":"",
         "rtServiceAlerts":"",
         "rtTripUpdates":"http://standards.xcmdata.org/TransitDE/rest/GTFSController/njtrailgtfsrt"
+      },
+      {
+      	"name":"riverlink",
+      	"prodDbName":"",
+        "devDbName":"",
+        "prodCsvFolder":"",
+        "devCsvFolder":"riverlink_20220528",
+        "alertMessage":"",
+        "alertLink":"",
+        "rtServiceAlerts":"",
+        "rtTripUpdates":""
       }
     ]
 }
