@@ -9,13 +9,13 @@
         "devDbName":"",
         "prodCsvFolder":"patco_20220815",
         "devCsvFolder":"patco_20220815",
-        "alertMessage":"",
+        "alertMessage":"Through August 16th, PATCO is operating on a special schedule that is not reflected in RailMe.",
         "alertLink":"http://ridepatco.org/",
 		"alerts" :
 			[
 				{
-					"header":"Special Schedule\nJuly 13th",
-					"description":"On July 10th, from 6:48pm to 12:12am, PATCO is operating on a special schedule that is not reflected in RailMe.",
+					"header":"Special Schedule\nAugust 13th",
+					"description":"On August 10th, from 6:48pm to 12:12am, PATCO is operating on a special schedule that is not reflected in RailMe.",
 					"url":"http://ridepatco.org/publish/library/PATCO_TrackWorkSchedule_WB-EB_2022-02-25_night.pdf",
 					"startDate":"",
 					"endDate":"20220710"
