@@ -14,8 +14,17 @@
   * alertLink: Link user would see in the alert dialog mentioned above.  Left blank if no link.  Must use http:// or https://.
 
 
-
 ## RailMe Changelog
+
+### 3.2.0 (In development) (TBA)
+* Improved alert message visibility
+* Support for timed alerts from RailMe feed
+* Implemented Material You design with dynamic theming
+* Added monochrome launcher icon
+* Trip details page now shows all stops on block, not just the trip
+* Text changes to support non-train vehicle types
+* Bug fix for destination times on trips with looping blocks
+* Increased targetSdkVersion SDK to 33
 
 #### 3.1.1 (Production) (15 February 2021)
 * Schedules now auto-scroll to the next departing train
