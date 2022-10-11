@@ -4,14 +4,23 @@
 
 
 ## feedData.json
-* minAppVersionCode: The minimum reccomended version code for the app to function correectly (ex: "24").  If it is higher than what the user has, the user will see an alert on startup reccomending that they update the app.
+* minAppVersionCode: The minimum reccomended version code for the app to function correectly (ex: "24").  If it is higher than what the user has, the user will see an alert on startup reccomending that they update the app. (Currently unused)
 * feeds: List of GTFS feeds being used
   * name: Name of the feed.  Used by the application during things such as updating, checking for most recent selection...
-  * prodDbName: Name of the database being used in production (ex: patco_20160406_5.db)
-  * devDbName: Name of the database being used while in dev mode
-  * type: Could be used in the future to integreate online schedules.  for now, all are set to "offline"
-  * alertMessage: Text of an alert a rider would see for various reasons, such as unexpected schedule change.  Left blank if no alert.
-  * alertLink: Link user would see in the alert dialog mentioned above.  Left blank if no link.  Must use http:// or https://.
+  * prodDbName: Name of the database being used in production (ex: patco_20160406_5.db)  (Deprecated, use prodCsvFolder)
+  * devDbName: Name of the database being used while in dev mode (Deprecated, use devCsvFolder)
+  * prodCsvFolder: Name of the folder where GTFS CSVs are stored to be used in production (ex: patco_20220815)
+  * devCsvFolder: Name of the folder where GTFS CSVs are stored to be used in dev mode
+  * alertMessage: Text of an alert a rider would see for various reasons, such as unexpected schedule change.  Left blank if no alert. (Deprecated in 3.2.0, use alerts)
+  * alertLink: Link user would see in the alert dialog mentioned above.  Left blank if no link.  Must use http:// or https://. (Deprecated in 3.2.0, use alerts)
+  * alerts: List of alerts to display to the user specific for each feed
+    * header: Alert title
+    * description: Alert body text
+    * url: Url to naviagate the user to find more info. Displayed the same as a url in a GTFS-rt alert url would.
+    * startDateTime: Alert will not display before this dateTime. Format yyyy-MM-ddTHH:mm (ex: 2022-10-08T18:45)
+    * endDateTime: Alert will not display after this dateTime
+  * rtServiceAlerts: Url for GTFS-RT service alerts (and also trip updates if they are in one protobuf)
+  * rtTripUpdates: Used same as above, but an additional option for agencies that separate the alerts and trip updates separately
 
 
 ## RailMe Changelog
