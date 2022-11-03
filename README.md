@@ -17,7 +17,7 @@
     * header: Alert title
     * description: Alert body text
     * url: Url to naviagate the user to find more info. Displayed the same as a url in a GTFS-rt alert url would.
-    * startDateTime: Alert will not display before this dateTime. Format yyyy-MM-ddTHH:mm (ex: 2022-10-08T18:45)
+    * startDateTime: Alert will not display before this dateTime. Format yyyy-MM-ddTHH:mm (ex: 2022-10-31T18:45)
     * endDateTime: Alert will not display after this dateTime
   * rtServiceAlerts: Url for GTFS-RT service alerts (and also trip updates if they are in one protobuf)
   * rtTripUpdates: Used same as above, but an additional option for agencies that separate the alerts and trip updates separately
