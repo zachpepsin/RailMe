@@ -17,7 +17,7 @@
     * header: Alert title
     * description: Alert body text
     * url: Url to naviagate the user to find more info. Displayed the same as a url in a GTFS-rt alert url would.
-    * startDateTime: Alert will not display before this dateTime. Format yyyy-MM-ddTHH:mm (ex: 2022-10-08T18:45)
+    * startDateTime: Alert will not display before this dateTime. Format yyyy-MM-ddTHH:mm (ex: 2022-10-31T18:45)
     * endDateTime: Alert will not display after this dateTime
   * rtServiceAlerts: Url for GTFS-RT service alerts (and also trip updates if they are in one protobuf)
   * rtTripUpdates: Used same as above, but an additional option for agencies that separate the alerts and trip updates separately
@@ -25,7 +25,7 @@
 
 ## RailMe Changelog
 
-### 3.2.0 (In development) (TBA)
+### 3.2.0 (Beta) (3 November 2022)
 * Improved alert message visibility
 * Support for timed alerts from RailMe feed
 * Implemented Material You design with dynamic theming
@@ -39,7 +39,7 @@
 * Schedules now auto-scroll to the next departing train
 * Fixed orientation change bug on Trip Details screen
 
-###  3.1.0 (Production) (13 Octover 2020)
+###  3.1.0 (Production) (13 October 2020)
 * Added a Reverse Trip option
 * Accessibility improvements
 * Fix for rare cases when schedules would delete themselves
