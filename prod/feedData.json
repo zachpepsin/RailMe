@@ -14,11 +14,11 @@
 		"alerts" :
 			[
 				{
-					"header":"Special Schedule\nOctober 9th",
-					"description":"On October 8th, from 7:00am to 11:59m, PATCO is operating on a special schedule that is not reflected in RailMe.",
+					"header":"Special Schedule\nNovember 3rd",
+					"description":"On November 3rd, from 10:01am to 2:17pm, PATCO is operating on a special schedule that is not reflected in RailMe.",
 					"url":"http://ridepatco.org/",
 					"startDateTime":"",
-					"endDateTime":"2022-10-09T23:59"
+					"endDateTime":"2022-11-03T14:17"
 				},
 				{
 					"header":"Special Schedule\nOctober 10th",
@@ -49,18 +49,11 @@
 		"alerts" :
 			[
 				{
-					"header":"Test Header",
-					"description":"This is a test message for SEPTA. Interpret this however you want.",
-					"url":"",
+					"header":"Eagles Parade",
+					"description":"SEPTA services may be unavailable due to the Eagles parade. Go to septa.org/eagles for more information.",
+					"url":"http://www4.septa.org/eagles/",
 					"startDateTime":"",
-					"endDateTime":""
-				},
-				{
-					"header":"Valid Start and End",
-					"description":"This alert has a previous start date, and a future end date.",
-					"url":"",
-					"startDateTime":"1994-06-06T17:00",
-					"endDateTime":"2099-01-01T17:00"
+					"endDateTime":"2018-02-08T23:00"
 				},
 				{
 					"header":"Future Start and Future End",
@@ -102,6 +95,16 @@
         "devCsvFolder":"njt_20220726",
         "alertMessage":"",
         "alertLink":"",
+		"alerts" :
+			[
+				{
+					"header":"Service Outages",
+					"description":"Due to weather conditions, several NJ Transit services are unavailable.",
+					"url":"",
+					"startDateTime":"",
+					"endDateTime":"2012-11-01T23:59"
+				}
+			],
         "rtServiceAlerts":"",
         "rtTripUpdates":"http://standards.xcmdata.org/TransitDE/rest/GTFSController/njtrailgtfsrt"
       },
