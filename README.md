@@ -39,7 +39,7 @@
 * Schedules now auto-scroll to the next departing train
 * Fixed orientation change bug on Trip Details screen
 
-###  3.1.0 (Production) (13 Octover 2020)
+###  3.1.0 (Production) (13 October 2020)
 * Added a Reverse Trip option
 * Accessibility improvements
 * Fix for rare cases when schedules would delete themselves
