@@ -25,7 +25,7 @@
 
 ## RailMe Changelog
 
-### 3.2.0 (In development) (TBA)
+### 3.2.0 (Beta) (3 November 2022)
 * Improved alert message visibility
 * Support for timed alerts from RailMe feed
 * Implemented Material You design with dynamic theming
