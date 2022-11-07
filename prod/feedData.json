@@ -9,7 +9,7 @@
         "devDbName":"",
         "prodCsvFolder":"patco_20221031",
         "devCsvFolder":"patco_20221031",
-        "alertMessage":"On November 4th, from 10:01am to 2:17pm, PATCO is operating on a special schedule that is not reflected in RailMe.",
+        "alertMessage":"On November 7th, from 9:50am to 2:17pm, PATCO is operating on a special schedule that is not reflected in RailMe.",
         "alertLink":"http://ridepatco.org/",
 		"alerts" :
 			[
@@ -28,13 +28,6 @@
 					"endDateTime":"2022-11-05T19:20"
 				},
 				{
-					"header":"Special Schedule\nNovember 6th",
-					"description":"On November 6th, from 1:00am to 7:03pm, PATCO is operating on a special schedule that is not reflected in RailMe.",
-					"url":"http://ridepatco.org/",
-					"startDateTime":"",
-					"endDateTime":"2022-11-06T19:03"
-				},
-				{
 					"header":"Special Schedule\nNovember 7th",
 					"description":"On November 7th, from 9:50am to 2:17pm, PATCO is operating on a special schedule that is not reflected in RailMe.",
 					"url":"http://ridepatco.org/",
@@ -45,15 +38,8 @@
 					"header":"Possible Special Schedule",
 					"description":"PATCO may be operating on a special schedule. Click \"More Info\" to go to RidePATCO.org.",
 					"url":"http://ridepatco.org/",
-					"startDateTime":"2022-11-08T04:00",
+					"startDateTime":"2022-11-09T04:00",
 					"endDateTime":""
-				},
-				{
-					"header":"Special Schedule\nJuly 12th",
-					"description":"On July 12th, PATCO is operating on a special schedule that is not reflected in RailMe.",
-					"url":"http://ridepatco.org/",
-					"startDateTime":"",
-					"endDateTime":"2022-10-08T18:45"
 				}
 			],
         "rtServiceAlerts":"",
