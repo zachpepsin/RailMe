@@ -14,13 +14,6 @@
 		"alerts" :
 			[
 				{
-					"header":"Special Schedule\nNovember 4th",
-					"description":"On November 4th, from 10:01am to 2:17pm, PATCO is operating on a special schedule that is not reflected in RailMe.",
-					"url":"http://ridepatco.org/",
-					"startDateTime":"",
-					"endDateTime":"2022-11-04T14:17"
-				},
-				{
 					"header":"Special Schedule\nNovember 5th - Eastbound",
 					"description":"On November 5th, from 7:28am to 7:20pm, PATCO is operating on a special schedule for EASTBOUND trains that is not reflected in RailMe.",
 					"url":"http://ridepatco.org/",
@@ -33,6 +26,13 @@
 					"url":"http://ridepatco.org/",
 					"startDateTime":"",
 					"endDateTime":"2022-11-08T14:09"
+				},
+				{
+					"header":"Special Schedule\nNovember 9th",
+					"description":"On November 9th, from 9:50am to 2:09pm, PATCO is operating on a special schedule that is not reflected in RailMe.",
+					"url":"http://ridepatco.org/",
+					"startDateTime":"",
+					"endDateTime":"2022-11-09T14:09"
 				},
 				{
 					"header":"Possible Special Schedule",
