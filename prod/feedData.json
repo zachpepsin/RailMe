@@ -14,11 +14,11 @@
 		"alerts" :
 			[
 				{
-					"header":"Special Schedule\nNovember 12th - Eastbound",
-					"description":"On November 12th, from 7:53am to 12:12am, PATCO is operating on a special schedule for EASTBOUND trains that is not reflected in RailMe.",
+					"header":"Special Schedule\nNovember 19th - Eastbound",
+					"description":"On November 19th, from 7:14am to 5:21pm, PATCO is operating on a special schedule for EASTBOUND trains that is not reflected in RailMe.",
 					"url":"http://ridepatco.org/",
 					"startDateTime":"",
-					"endDateTime":"2022-11-13T00:12"
+					"endDateTime":"2022-11-19T17:21"
 				},
 				{
 					"header":"Special Schedule\nNovember 8th",
@@ -38,7 +38,7 @@
 					"header":"Possible Special Schedule",
 					"description":"PATCO may be operating on a special schedule. Click \"More Info\" to go to RidePATCO.org.",
 					"url":"http://ridepatco.org/",
-					"startDateTime":"2022-11-19T04:00",
+					"startDateTime":"2022-11-20T04:00",
 					"endDateTime":""
 				}
 			],
