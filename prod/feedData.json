@@ -28,17 +28,24 @@
 					"endDateTime":"2022-11-29T23:59"
 				},
 				{
-					"header":"Special Schedule\nDecember 1st - Eastbound",
-					"description":"On December 1st, from 9:08pm to 12:25am, PATCO is operating on a special schedule for EASTBOUND trains that is not reflected in RailMe.",
+					"header":"Santa Silver Sleigh",
+					"description":"On December 3rd, Santa will be traveling on PATCO. Click \"More Info\" for details.",
+					"url":"http://www.ridepatco.org/silversleigh/",
+					"startDateTime":"",
+					"endDateTime":"2022-12-03T12:27"
+				},
+				{
+					"header":"Special Schedule\nDecember 4th - Eastbound",
+					"description":"On December 4th, from 7:04am to 5:31pm, PATCO is operating on a special schedule for EASTBOUND trains that is not reflected in RailMe.",
 					"url":"http://ridepatco.org/",
 					"startDateTime":"",
-					"endDateTime":"2022-12-02T00:25"
+					"endDateTime":"2022-12-04T17:31"
 				},
 				{
 					"header":"Possible Special Schedule",
 					"description":"PATCO may be operating on a special schedule. Click \"More Info\" to go to RidePATCO.org.",
 					"url":"http://ridepatco.org/",
-					"startDateTime":"2022-12-04T04:00",
+					"startDateTime":"2022-12-05T04:00",
 					"endDateTime":""
 				}
 			],
