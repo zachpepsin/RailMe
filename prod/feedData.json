@@ -7,12 +7,19 @@
       	"name":"patco",
         "prodDbName":"patco_20200629_2.db",
         "devDbName":"",
-        "prodCsvFolder":"patco_20221031",
+        "prodCsvFolder":"patco_20221210",
         "devCsvFolder":"patco_20221210",
         "alertMessage":"",
         "alertLink":"http://ridepatco.org/",
 		"alerts" :
 			[
+				{
+					"header":"New Schedule",
+					"description":"A new schedule will go into effect on Saturday, December 10th. RailMe has been updated to reflect the schedule changes.",
+					"url":"",
+					"startDateTime":"",
+					"endDateTime":"2022-12-10T23:59"
+				},
 				{
 					"header":"Special Schedule\nNovember 22nd",
 					"description":"On November 22nd, from 9:08pm to 12:08am, PATCO is operating on a special schedule that is not reflected in RailMe.",
