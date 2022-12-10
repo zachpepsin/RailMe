@@ -15,10 +15,10 @@
 			[
 				{
 					"header":"New Schedule",
-					"description":"A new schedule will go into effect on Saturday, December 10th. RailMe has been updated to reflect the schedule changes.",
+					"description":"A new schedule went into effect on Saturday, December 10th. RailMe has been updated to reflect the schedule changes.",
 					"url":"",
 					"startDateTime":"",
-					"endDateTime":"2022-12-10T23:59"
+					"endDateTime":"2022-12-11T23:59"
 				},
 				{
 					"header":"Special Schedule\nDecember 9th",
@@ -45,7 +45,7 @@
 					"header":"Possible Special Schedule",
 					"description":"PATCO may be operating on a special schedule. Click \"More Info\" to go to RidePATCO.org.",
 					"url":"http://ridepatco.org/",
-					"startDateTime":"2022-12-12T04:00",
+					"startDateTime":"2022-12-13T04:00",
 					"endDateTime":""
 				}
 			],
