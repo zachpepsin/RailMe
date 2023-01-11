@@ -50,7 +50,7 @@
         "prodDbName":"septa_20200816_1.db",
         "devDbName":"septa_20200906_7.db",
         "prodCsvFolder":"septa_20220902",
-        "devCsvFolder":"septa_20220902",
+        "devCsvFolder":"septa_20230108",
         "alertMessage":"",
         "alertLink":"",
 		"alerts" :
