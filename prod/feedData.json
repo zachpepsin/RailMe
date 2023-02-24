@@ -21,20 +21,6 @@
 					"endDateTime":"2022-12-11T23:59"
 				},
 				{
-					"header":"Special Schedule\nFebruary 19th - Eastbound",
-					"description":"On February 19th, PATCO is operating on a special schedule for EASTBOUND trains that is not reflected in RailMe.",
-					"url":"http://ridepatco.org/",
-					"startDateTime":"",
-					"endDateTime":"2023-02-19T23:59"
-				},
-				{
-					"header":"Special Schedule\nFebruary 23rd",
-					"description":"On February 23rd, from 8:30pm to 3:11am, PATCO is operating on a special schedule that is not reflected in RailMe.",
-					"url":"http://ridepatco.org/",
-					"startDateTime":"",
-					"endDateTime":"2023-02-24T03:11"
-				},
-				{
 					"header":"Special Schedule\nFebruary 24th",
 					"description":"On February 24th, from 9:18pm to 12:05am, PATCO is operating on a special schedule that is not reflected in RailMe.",
 					"url":"http://ridepatco.org/",
@@ -42,10 +28,31 @@
 					"endDateTime":"2023-02-25T00:05"
 				},
 				{
+					"header":"Special Schedule\nFebruary 25th - Eastbound",
+					"description":"On February 25th, from 7:08am to 5:54pm, PATCO is operating on a special schedule for EASTBOUND trains that is not reflected in RailMe.",
+					"url":"http://ridepatco.org/",
+					"startDateTime":"",
+					"endDateTime":"2023-02-25T17:54"
+				},
+				{
+					"header":"Special Schedule\nFebruary 26th - Eastbound",
+					"description":"On February 26th, from 6:46am to 5:14pm, PATCO is operating on a special schedule for EASTBOUND trains that is not reflected in RailMe.",
+					"url":"http://ridepatco.org/",
+					"startDateTime":"",
+					"endDateTime":"2023-02-26T17:14"
+				},
+				{
+					"header":"Special Schedule\nFebruary 27th",
+					"description":"On February 27th, from 8:50pm to 12:27am, PATCO is operating on a special schedule that is not reflected in RailMe.",
+					"url":"http://ridepatco.org/",
+					"startDateTime":"",
+					"endDateTime":"2023-02-28T00:27"
+				},
+				{
 					"header":"Possible Special Schedule",
 					"description":"PATCO may be operating on a special schedule. Click \"More Info\" to go to RidePATCO.org.",
 					"url":"http://ridepatco.org/",
-					"startDateTime":"2023-02-26T04:00",
+					"startDateTime":"2023-02-28T04:00",
 					"endDateTime":""
 				}
 			],
