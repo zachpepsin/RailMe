@@ -28,6 +28,13 @@
 					"endDateTime":"2023-03-26T00:04"
 				},
 				{
+					"header":"Special Schedule\nMarch 26th - Eastbound",
+					"description":"On March 26th, from 5:36am to 6:04pm, PATCO is operating on a special schedule for EASTBOUND trains that is not reflected in RailMe.",
+					"url":"http://ridepatco.org/",
+					"startDateTime":"",
+					"endDateTime":"2023-03-26T018:04"
+				},
+				{
 					"header":"Special Schedule\nMarch 27th",
 					"description":"On March 27th, from 10:50am to 1:18pm, PATCO is operating on a special schedule that is not reflected in RailMe.",
 					"url":"http://ridepatco.org/",
@@ -38,7 +45,7 @@
 					"header":"Possible Special Schedule",
 					"description":"PATCO may be operating on a special schedule. Click \"More Info\" to go to RidePATCO.org.",
 					"url":"http://ridepatco.org/",
-					"startDateTime":"2023-03-31T04:00",
+					"startDateTime":"2023-03-28T04:00",
 					"endDateTime":""
 				}
 			],
@@ -98,7 +105,7 @@
       	"name":"njt",
       	"prodDbName":"njt_20200810_1.db",
         "devDbName":"",
-        "prodCsvFolder":"njt_20230309",
+        "prodCsvFolder":"njt_20230328",
         "devCsvFolder":"njt_20230328",
         "alertMessage":"",
         "alertLink":"",
