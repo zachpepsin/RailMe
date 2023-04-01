@@ -21,31 +21,31 @@
 					"endDateTime":"2023-03-27T23:59"
 				},
 				{
-					"header":"Special Schedule\nMarch 25th - Eastbound",
-					"description":"On March 25th, from 10:56pm to 12:04am, PATCO is operating on a special schedule for EASTBOUND trains that is not reflected in RailMe.",
+					"header":"Special Schedule\nApril 1st",
+					"description":"On April 1st, from 10:50am to 1:18pm, PATCO is operating on a special schedule that is not reflected in RailMe.",
 					"url":"http://ridepatco.org/",
 					"startDateTime":"",
-					"endDateTime":"2023-03-26T00:04"
+					"endDateTime":"2023-04-01T13:18"
 				},
 				{
-					"header":"Special Schedule\nMarch 26th - Eastbound",
-					"description":"On March 26th, from 5:36am to 6:04pm, PATCO is operating on a special schedule for EASTBOUND trains that is not reflected in RailMe.",
+					"header":"Special Schedule\nApril 2nd - Eastbound",
+					"description":"On April 2nd, from 12:12am to 6:10am, PATCO is operating on a special schedule for EASTBOUND trains that is not reflected in RailMe.",
 					"url":"http://ridepatco.org/",
 					"startDateTime":"",
-					"endDateTime":"2023-03-26T018:04"
+					"endDateTime":"2023-04-02T18:10"
 				},
 				{
-					"header":"Special Schedule\nMarch 27th",
-					"description":"On March 27th, from 10:50am to 1:18pm, PATCO is operating on a special schedule that is not reflected in RailMe.",
+					"header":"Special Schedule\nApril 3rd - Eastbound",
+					"description":"On April 3rd, from 9:08pm to 12:21am, PATCO is operating on a special schedule for EASTBOUND trains that is not reflected in RailMe.",
 					"url":"http://ridepatco.org/",
 					"startDateTime":"",
-					"endDateTime":"2023-03-27T13:18"
+					"endDateTime":"2023-04-04T00:21"
 				},
 				{
 					"header":"Possible Special Schedule",
 					"description":"PATCO may be operating on a special schedule. Click \"More Info\" to go to RidePATCO.org.",
 					"url":"http://ridepatco.org/",
-					"startDateTime":"2023-03-28T04:00",
+					"startDateTime":"2023-04-05T04:00",
 					"endDateTime":""
 				}
 			],
