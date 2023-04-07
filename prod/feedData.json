@@ -63,39 +63,18 @@
 		"alerts" :
 			[
 				{
+					"header":"New Schedule",
+					"description":"A new schedule goes into effect on Sunday, April 16th. RailMe has NOT yet been updated to reflect the schedule changes.",
+					"url":"",
+					"startDateTime":"",
+					"endDateTime":"2023-04-19T23:59"
+				},
+				{
 					"header":"Eagles Parade",
 					"description":"SEPTA services may be unavailable due to the Eagles parade. Go to septa.org/eagles for more information.",
 					"url":"http://www4.septa.org/eagles/",
 					"startDateTime":"",
 					"endDateTime":"2018-02-08T23:00"
-				},
-				{
-					"header":"Future Start and Future End",
-					"description":"This alert has a future start date, and a future end date.",
-					"url":"",
-					"startDateTime":"2099-01-01T17:00",
-					"endDateTime":"2199-01-01T17:00"
-				},
-				{
-					"header":"Expired Header no Start",
-					"description":"This alert has no start date, and also has expired.",
-					"url":"",
-					"startDateTime":"",
-					"endDateTime":"1994-06-06T17:00"
-				},
-				{
-					"header":"Expired Header with Past Start",
-					"description":"This alert has a past start date, and an expired end date.",
-					"url":"",
-					"startDateTime":"1994-06-06T17:00",
-					"endDateTime":"2020-12-31T17:00"
-				},
-				{
-					"header":"Expired Header with Future Start",
-					"description":"This alert has a future start date, and past end date.",
-					"url":"",
-					"startDateTime":"2099-01-01T17:00",
-					"endDateTime":"2022-02-22T17:00"
 				}
 			],
         "rtServiceAlerts":"http://www3.septa.org/gtfsrt/septarail-pa-us/Service/rtServiceAlerts.pb",
