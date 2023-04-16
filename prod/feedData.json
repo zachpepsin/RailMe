@@ -49,7 +49,7 @@
       	"name":"septa",
         "prodDbName":"septa_20200816_1.db",
         "devDbName":"septa_20200906_7.db",
-        "prodCsvFolder":"septa_20230108",
+        "prodCsvFolder":"septa_20230416",
         "devCsvFolder":"septa_20230416",
         "alertMessage":"",
         "alertLink":"",
@@ -57,7 +57,7 @@
 			[
 				{
 					"header":"New Schedule",
-					"description":"A new schedule goes into effect on Sunday, April 16th. RailMe has NOT yet been updated to reflect the schedule changes.",
+					"description":"A new schedule goes into effect on Sunday, April 16th. RailMe has been updated to reflect the schedule changes.",
 					"url":"",
 					"startDateTime":"",
 					"endDateTime":"2023-04-19T23:59"
