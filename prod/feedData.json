@@ -7,7 +7,7 @@
       	"name":"patco",
         "prodDbName":"patco_20200629_2.db",
         "devDbName":"",
-        "prodCsvFolder":"patco_20230325",
+        "prodCsvFolder":"patco_20230708",
         "devCsvFolder":"patco_20230708",
         "alertMessage":"",
         "alertLink":"http://ridepatco.org/",
@@ -15,7 +15,7 @@
 			[
 				{
 					"header":"New Schedule",
-					"description":"A new schedule goes into effect on Saturday, July 8th. RailMe will soon be been updated to reflect the schedule changes.",
+					"description":"A new schedule goes into effect on Saturday, July 8th. RailMe has been updated to reflect the schedule changes.",
 					"url":"",
 					"startDateTime":"",
 					"endDateTime":"2023-07-11T23:59"
