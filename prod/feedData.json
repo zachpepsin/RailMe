@@ -21,11 +21,11 @@
 					"endDateTime":"2023-07-11T23:59"
 				},
 				{
-					"header":"Special Schedule\nJuly 1st - EASTBOUND",
-					"description":"On July 1st, from 10:56am to 2:09pm, PATCO is operating on a special schedule for EASTBOUND trains that is not reflected in RailMe.",
+					"header":"Special Schedule\nJuly 29th - EASTBOUND",
+					"description":"On July 29th, from 7:30am to 5:07pm, PATCO is operating on a special schedule for EASTBOUND trains that is not reflected in RailMe.",
 					"url":"http://ridepatco.org/",
 					"startDateTime":"",
-					"endDateTime":"2023-06-30T14:09"
+					"endDateTime":"2023-07-29T17:07"
 				},
 				{
 					"header":"Special Schedule\nJuly 27th",
@@ -38,7 +38,7 @@
 					"header":"Possible Special Schedule",
 					"description":"PATCO may be operating on a special schedule. Click \"More Info\" to go to RidePATCO.org.",
 					"url":"http://ridepatco.org/",
-					"startDateTime":"2023-07-29T04:00",
+					"startDateTime":"2023-07-30T04:00",
 					"endDateTime":""
 				}
 			],
