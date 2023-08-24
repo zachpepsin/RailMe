@@ -50,17 +50,17 @@
         "prodDbName":"septa_20200816_1.db",
         "devDbName":"septa_20200906_7.db",
         "prodCsvFolder":"septa_20230722",
-        "devCsvFolder":"septa_20230722",
+        "devCsvFolder":"septa_20230827",
         "alertMessage":"",
         "alertLink":"",
 		"alerts" :
 			[
 				{
 					"header":"New Schedule",
-					"description":"A new schedule goes into effect on Sunday, April 16th. RailMe has been updated to reflect the schedule changes.",
+					"description":"A new schedule goes into effect on Sunday, August 27th. RailMe has NOT yet been updated to reflect the schedule changes.",
 					"url":"",
 					"startDateTime":"",
-					"endDateTime":"2023-04-19T23:59"
+					"endDateTime":"2023-09-01T23:59"
 				},
 				{
 					"header":"Eagles Parade",
