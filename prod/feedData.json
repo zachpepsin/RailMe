@@ -35,6 +35,13 @@
 					"endDateTime":"2023-09-19T00:27"
 				},
 				{
+					"header":"Special Schedule\nSeptember 19th",
+					"description":"On September 19th, from 8:30pm to 12:03am, PATCO is operating on a special schedule that is not reflected in RailMe.",
+					"url":"http://ridepatco.org/",
+					"startDateTime":"",
+					"endDateTime":"2023-09-20T00:03"
+				},
+				{
 					"header":"Possible Special Schedule",
 					"description":"PATCO may be operating on a special schedule. Click \"More Info\" to go to RidePATCO.org.",
 					"url":"http://ridepatco.org/",
