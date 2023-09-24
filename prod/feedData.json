@@ -21,31 +21,24 @@
 					"endDateTime":"2023-09-05T23:59"
 				},
 				{
-					"header":"Special Schedule\nSeptember 17th - EASTBOUND",
-					"description":"On September 17th, from 8:07am to 5:35pm, PATCO is operating on a special schedule for EASTBOUND trains that is not reflected in RailMe.",
+					"header":"Special Schedule\nSeptember 24th - EASTBOUND",
+					"description":"On September 24th, from 11:09pm to 12:37am, PATCO is operating on a special schedule for EASTBOUND trains that is not reflected in RailMe.",
 					"url":"http://ridepatco.org/",
 					"startDateTime":"",
-					"endDateTime":"2023-09-17T17:35"
+					"endDateTime":"2023-09-25T00:37"
 				},
 				{
-					"header":"Special Schedule\nSeptember 21st",
-					"description":"On September 21st, PATCO is operating on a special schedule that is not reflected in RailMe.",
+					"header":"Special Schedule\nSeptember 25th",
+					"description":"On September 25th, from 10:59pm to 12:07am, PATCO is operating on a special schedule that is not reflected in RailMe.",
 					"url":"http://ridepatco.org/",
 					"startDateTime":"",
-					"endDateTime":"2023-09-22T00:05"
-				},
-				{
-					"header":"Special Schedule\nSeptember 22nd",
-					"description":"On September 22nd, from 8:50pm to 12:27am, PATCO is operating on a special schedule that is not reflected in RailMe.",
-					"url":"http://ridepatco.org/",
-					"startDateTime":"",
-					"endDateTime":"2023-09-23T00:27"
+					"endDateTime":"2023-09-26T00:25"
 				},
 				{
 					"header":"Possible Special Schedule",
 					"description":"PATCO may be operating on a special schedule. Go to RidePATCO.org for more information.",
 					"url":"http://ridepatco.org/",
-					"startDateTime":"2023-09-24T04:00",
+					"startDateTime":"2023-09-27T04:00",
 					"endDateTime":""
 				}
 			],
