@@ -21,31 +21,31 @@
 					"endDateTime":"2023-09-05T23:59"
 				},
 				{
-					"header":"Broadway Station Closed",
-					"description":"Broadway Station will be closed through the morning rush on Monday, September 25th due to PSE&G's work on the block outside of the station. Passengers who normally use Broadway Station are advised to use City Hall Station instead. City Hall Station will remain open overnight.",
-					"url":"",
-					"startDateTime":"",
-					"endDateTime":"2023-09-25T11:00"
-				},
-				{
-					"header":"Special Schedule\nSeptember 24th - EASTBOUND",
-					"description":"On September 24th, from 11:09pm to 12:37am, PATCO is operating on a special schedule for EASTBOUND trains that is not reflected in RailMe.",
+					"header":"Special Schedule\nSeptember 27th - EASTBOUND",
+					"description":"On September 27th, from 11:01pm to 12:39am, PATCO is operating on a special schedule for EASTBOUND trains that is not reflected in RailMe.",
 					"url":"http://ridepatco.org/",
 					"startDateTime":"",
-					"endDateTime":"2023-09-25T00:37"
+					"endDateTime":"2023-09-28T00:39"
 				},
 				{
-					"header":"Special Schedule\nSeptember 25th",
-					"description":"On September 25th, from 10:59pm to 12:07am, PATCO is operating on a special schedule that is not reflected in RailMe.",
+					"header":"Special Schedule\nSeptember 28th - EASTBOUND",
+					"description":"On September 28th, from 11:01pm to 12:19am, PATCO is operating on a special schedule for EASTBOUND trains that is not reflected in RailMe.",
 					"url":"http://ridepatco.org/",
 					"startDateTime":"",
-					"endDateTime":"2023-09-26T00:25"
+					"endDateTime":"2023-09-29T00:19"
+				},
+				{
+					"header":"Special Schedule\nSeptember 30th",
+					"description":"On September 30th, from 4:30am to 8:53pm, PATCO is operating on a special schedule that is not reflected in RailMe.",
+					"url":"http://ridepatco.org/",
+					"startDateTime":"",
+					"endDateTime":"2023-09-30T20:53"
 				},
 				{
 					"header":"Possible Special Schedule",
 					"description":"PATCO may be operating on a special schedule. Go to RidePATCO.org for more information.",
 					"url":"http://ridepatco.org/",
-					"startDateTime":"2023-09-27T04:00",
+					"startDateTime":"2023-10-01T04:00",
 					"endDateTime":""
 				}
 			],
