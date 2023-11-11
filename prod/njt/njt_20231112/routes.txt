@@ -1,18 +1,18 @@
 route_id,agency_id,route_short_name,route_long_name,route_type,route_url,route_color
-1,"NJT","ATLC","Atlantic City Rail Line",2,"",075AAA
-2,"NJT","BMGM","BetMGM Meadowlands Rail Line",2,"",C1AA72
-3,"NJT","BNTN","Montclair-Boonton Line",2,"",E66859
-4,"NJT","BNTNM","Montclair-Boonton Line",2,"",E66859
-5,"NJT","HBLR","Hudson-Bergen Light Rail",0,"",008080
-6,"NJT","MNBN","Main/Bergen County Line",2,"",FFD411
-7,"NJT","MNBNP","Port Jervis Line",2,"",FFD411
-8,"NJT","MNE","Morris & Essex Line",2,"",08A652
-9,"NJT","MNEG","Gladstone Branch",2,"",A4C9AA
-10,"NJT","NEC","Northeast Corridor",2,"",DD3439
-11,"NJT","NJCL","North Jersey Coast Line",2,"",03A3DF
-12,"NJT","NJCLL","North Jersey Coast Line",2,"",03A3DF
-13,"NJT","NLR","Newark Light Rail",0,"",009AD1
-14,"NJT","PASC","Pascack Valley Line",2,"",94219A
-15,"NJT","PRIN","Princeton Shuttle",2,"",DD3439
-16,"NJT","RARV","Raritan Valley Line",2,"",F2A537
-17,"NJT","RVLN","Riverline Light Rail",0,"",00008B
+1,"NJT","Atlantic City Rail Line","Atlantic City Rail Line",2,"",075AAA
+2,"NJT","BetMGM Meadowlands Rail Line","BetMGM Meadowlands Rail Line",2,"",C1AA72
+3,"NJT","Montclair-Boonton Line","Montclair-Boonton Line",2,"",E66859
+4,"NJT","Montclair-Boonton Line","Montclair-Boonton Line",2,"",E66859
+5,"NJT","Hudson-Bergen Light Rail","Hudson-Bergen Light Rail",0,"",008080
+6,"NJT","Main/Bergen County Line","Main/Bergen County Line",2,"",FFD411
+7,"NJT","Port Jervis Line","Port Jervis Line",2,"",FFD411
+8,"NJT","Morris & Essex Line","Morris & Essex Line",2,"",08A652
+9,"NJT","Gladstone Branch","Gladstone Branch",2,"",A4C9AA
+10,"NJT","Northeast Corridor","Northeast Corridor",2,"",DD3439
+11,"NJT","North Jersey Coast Line","North Jersey Coast Line",2,"",03A3DF
+12,"NJT","North Jersey Coast Line","North Jersey Coast Line",2,"",03A3DF
+13,"NJT","Newark Light Rail","Newark Light Rail",0,"",009AD1
+14,"NJT","Pascack Valley Line","Pascack Valley Line",2,"",94219A
+15,"NJT","Princeton Shuttle","Princeton Shuttle",2,"",DD3439
+16,"NJT","Raritan Valley Line","Raritan Valley Line",2,"",F2A537
+17,"NJT","Riverline Light Rail","Riverline Light Rail",0,"",00008B
