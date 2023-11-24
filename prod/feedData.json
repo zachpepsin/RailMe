@@ -7,7 +7,7 @@
       	"name":"patco",
         "prodDbName":"patco_20200629_2.db",
         "devDbName":"",
-        "prodCsvFolder":"patco_20230902",
+        "prodCsvFolder":"patco_20231125",
         "devCsvFolder":"patco_20231125",
         "alertMessage":"",
         "alertLink":"http://ridepatco.org/",
@@ -15,10 +15,10 @@
 			[
 				{
 					"header":"New Schedule",
-					"description":"A new schedule goes into effect on Saturday, September 2nd. RailMe has been updated to reflect the schedule changes.",
+					"description":"A new schedule goes into effect on Saturday, November 25th. RailMe has been updated to reflect the schedule changes.",
 					"url":"",
 					"startDateTime":"",
-					"endDateTime":"2023-09-05T23:59"
+					"endDateTime":"2023-11-28T23:59"
 				},
 				{
 					"header":"Special Schedule\nNovember 19th - EASTBOUND",
