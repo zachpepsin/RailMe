@@ -21,31 +21,31 @@
 					"endDateTime":"2023-11-28T23:59"
 				},
 				{
-					"header":"Special Schedule\nDecember 14th - EASTBOUND",
-					"description":"On December 14th, PATCO is operating on a special schedule for EASTBOUND trains that is not reflected in RailMe.",
+					"header":"Special Schedule\nDecember 16th - EASTBOUND",
+					"description":"On December 16th, from 7:17am to 5:05pm,PATCO is operating on a special schedule for EASTBOUND trains that is not reflected in RailMe.",
 					"url":"http://ridepatco.org/",
 					"startDateTime":"",
-					"endDateTime":"2023-12-15T00:27"
+					"endDateTime":"2023-12-16T17:05"
 				},
 				{
-					"header":"Special Schedule\nDecember 15th - EASTBOUND",
-					"description":"On December 15th, from 10:04am to 2:17pm,PATCO is operating on a special schedule for EASTBOUND trains that is not reflected in RailMe.",
+					"header":"Special Schedule\nDecember 17th - EASTBOUND",
+					"description":"On December 17th, from 6:45am to 3:05pm,PATCO is operating on a special schedule for EASTBOUND trains that is not reflected in RailMe.",
 					"url":"http://ridepatco.org/",
 					"startDateTime":"",
-					"endDateTime":"2023-12-15T14:17"
+					"endDateTime":"2023-12-17T15:05"
 				},
 				{
-					"header":"Special Schedule\nDecember 6th",
-					"description":"On December 6th, from 10:00pm to 12:05am, PATCO is operating on a special schedule that is not reflected in RailMe.",
+					"header":"Special Schedule\nDecember 18th",
+					"description":"On December 18th, from 10:00pm to 12:05am, PATCO is operating on a special schedule that is not reflected in RailMe.",
 					"url":"http://ridepatco.org/",
 					"startDateTime":"",
-					"endDateTime":"2023-12-07T00:05"
+					"endDateTime":"2023-12-19T00:05"
 				},
 				{
 					"header":"Possible Special Schedule",
 					"description":"PATCO may be operating on a special schedule. Go to RidePATCO.org for more information.",
 					"url":"http://ridepatco.org/",
-					"startDateTime":"2023-12-16T04:00",
+					"startDateTime":"2023-12-19T04:00",
 					"endDateTime":""
 				}
 			],
