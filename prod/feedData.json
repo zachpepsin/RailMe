@@ -14,11 +14,11 @@
 		"alerts" :
 			[
 				{
-					"header":"New Schedule",
-					"description":"A new schedule goes into effect on Saturday, November 25th. RailMe has been updated to reflect the schedule changes.",
-					"url":"",
+					"header":"Schedule Error",
+					"description":"Go to RidePatco.org to view the schedule for December 31st (sorry)",
+					"url":"http://ridepatco.org/",
 					"startDateTime":"",
-					"endDateTime":"2023-11-28T23:59"
+					"endDateTime":"2023-12-31T23:59"
 				},
 				{
 					"header":"Special Schedule\nDecember 21st",
