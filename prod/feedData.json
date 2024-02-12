@@ -22,17 +22,17 @@
 				},
 				{
 					"header":"Special Schedule\nFebruary 8th",
-					"description":"On February 8th, PATCO is operating on a special schedule that is not reflected in RailMe.",
+					"description":"On February 8th, from 10:17pm to 12:25am, PATCO is operating on a special schedule that is not reflected in RailMe.",
 					"url":"http://ridepatco.org/",
 					"startDateTime":"",
 					"endDateTime":"2024-02-09T00:21"
 				},
 				{
-					"header":"Special Schedule\nFebruary 9th - EASTBOUND",
-					"description":"On February 9th, from 10:17pm to 12:25am, PATCO is operating on a special schedule for EASTBOUND trains that is not reflected in RailMe.",
+					"header":"Special Schedule\nFebruary 13th - EASTBOUND",
+					"description":"On February 13th, PATCO is operating on a special schedule for EASTBOUND trains that is not reflected in RailMe.",
 					"url":"http://ridepatco.org/",
 					"startDateTime":"",
-					"endDateTime":"2024-02-10T00:25"
+					"endDateTime":"2024-02-14T00:25"
 				},
 				{
 					"header":"Possible Special Schedule",
