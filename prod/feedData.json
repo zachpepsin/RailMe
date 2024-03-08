@@ -21,11 +21,18 @@
 					"endDateTime":"2023-11-28T23:59"
 				},
 				{
-					"header":"Special Schedule\nMarch 3rd",
-					"description":"On March 3rd, PATCO is operating on a special schedule that is not reflected in RailMe.",
+					"header":"Special Schedule\nMarch 8th",
+					"description":"On March 8th, PATCO is operating on a special schedule that is not reflected in RailMe.",
 					"url":"http://ridepatco.org/",
 					"startDateTime":"",
-					"endDateTime":"2024-03-03T20:43"
+					"endDateTime":"2024-03-09T00:25"
+				},
+				{
+					"header":"Special Schedule\nMarch 10th",
+					"description":"On March 10th, PATCO is operating on a special schedule that is not reflected in RailMe.",
+					"url":"http://ridepatco.org/",
+					"startDateTime":"",
+					"endDateTime":"2024-03-10T20:43"
 				},
 				{
 					"header":"Special Schedule\nMarch 5th - EASTBOUND",
@@ -38,7 +45,7 @@
 					"header":"Possible Special Schedule",
 					"description":"PATCO may be operating on a special schedule. Go to RidePATCO.org for more information.",
 					"url":"http://ridepatco.org/",
-					"startDateTime":"2024-03-06T04:00",
+					"startDateTime":"2024-03-11T04:00",
 					"endDateTime":""
 				}
 			],
