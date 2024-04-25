@@ -25,6 +25,12 @@
 
 ## RailMe Changelog
 
+#### 3.2.1 (Beta) (25 April 2023)
+* Route names are now shown as their full name for clarity, rather than being abbreviated
+* Fixed crash that sometimes occurered when selecting routes
+* Prevent crash when quickly re-opening alert dialog
+* Fix bug where info button would sometimes not appear on spinner items
+
 ### 3.2.0 (Production) (16 November 2022)
 * Improved alert message visibility
 * Support for timed alerts from RailMe feed
