@@ -149,7 +149,7 @@ if($rootFolder -eq 'njt') {
 					# Change the agency_name from SEPTA to "SEPTA Regional Rail"
 					$_.agency_name = "SEPTA Regional Rail"
 					$_.agency_phone = "215-580-7800"
-					$_.agency_fare_url = "http://www.septa.org/fares/transit/index.html"
+					$_.agency_fare_url = "https://wwww.septa.org/fares/regional-rail-zones/"
 				}
 				
 				# Do not use noreply@septa.org for agency_email
@@ -207,7 +207,7 @@ if($rootFolder -eq 'njt') {
 					# Change the agency_name from SEPTA to "SEPTA Bus/Light Rail"
 					$_.agency_name = "SEPTA Bus/Light Rail"
 					$_.agency_phone = "215-580-7800"
-					$_.agency_fare_url = "http://www.septa.org/fares/transit/index.html"
+					$_.agency_fare_url = "https://wwww.septa.org/fares/"
 				}
 			}
 	
