@@ -25,7 +25,7 @@
 
 ## RailMe Changelog
 
-#### 3.2.1 (Production) (25 April 2023)
+#### 3.2.1 (Production) (25 April 2024)
 * Route names are now shown as their full name for clarity, rather than being abbreviated
 * Fixed crash that sometimes occurered when selecting routes
 * Prevent crash when quickly re-opening alert dialog
