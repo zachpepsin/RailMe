@@ -28,38 +28,24 @@
 					"endDateTime":"2024-04-25T00:25"
 				},
 				{
-					"header":"Special Schedule\nApril 26th - EASTBOUND",
-					"description":"On April 26th, from 10:17pm to 12:25am, PATCO is operating on a special schedule for EASTBOUND trains that is not reflected in RailMe.",
+					"header":"Special Schedule\nApril 30th - EASTBOUND",
+					"description":"On April 30th, from 10:17pm to 12:25am, PATCO is operating on a special schedule for EASTBOUND trains that is not reflected in RailMe.",
 					"url":"http://ridepatco.org/",
 					"startDateTime":"",
-					"endDateTime":"2024-04-27T00:25"
+					"endDateTime":"2024-05-01T00:25"
 				},
 				{
-					"header":"Special Schedule\nApril 27th - EASTBOUND",
-					"description":"On April 27th, from 7:15am to 5:03pm, PATCO is operating on a special schedule for EASTBOUND trains that is not reflected in RailMe.",
+					"header":"Special Schedule\nMay 1st - EASTBOUND",
+					"description":"On May 1st, PATCO is operating on a special schedule for EASTBOUND trains that is not reflected in RailMe.",
 					"url":"http://ridepatco.org/",
 					"startDateTime":"",
-					"endDateTime":"2024-04-27T17:03"
-				},
-				{
-					"header":"Special Schedule\nApril 28th - EASTBOUND",
-					"description":"On April 28th, from 7:45am to 11:05am, PATCO is operating on a special schedule for EASTBOUND trains that is not reflected in RailMe.",
-					"url":"http://ridepatco.org/",
-					"startDateTime":"",
-					"endDateTime":"2024-04-28T11:05"
-				},
-				{
-					"header":"Special Schedule\nApril 29th - EASTBOUND",
-					"description":"On April 29th, from 10:17pm to 12:25am, PATCO is operating on a special schedule for EASTBOUND trains that is not reflected in RailMe.",
-					"url":"http://ridepatco.org/",
-					"startDateTime":"",
-					"endDateTime":"2024-04-30T00:25"
+					"endDateTime":"2024-05-02T00:25"
 				},
 				{
 					"header":"Possible Special Schedule",
 					"description":"PATCO may be operating on a special schedule. Go to RidePATCO.org for more information.",
 					"url":"http://ridepatco.org/",
-					"startDateTime":"2024-05-01T04:00",
+					"startDateTime":"2024-05-02T04:00",
 					"endDateTime":""
 				}
 			],
