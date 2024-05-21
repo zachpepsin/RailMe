@@ -35,10 +35,17 @@
 					"endDateTime":"2024-05-22T00:36"
 				},
 				{
+					"header":"Special Schedule\nMay 22nd - EASTBOUND",
+					"description":"On May 22nd, from 10:37pm to 12:36am, PATCO is operating on a special schedule for EASTBOUND trains that is not reflected in RailMe.",
+					"url":"http://ridepatco.org/",
+					"startDateTime":"",
+					"endDateTime":"2024-05-23T00:36"
+				},
+				{
 					"header":"Possible Special Schedule",
 					"description":"PATCO may be operating on a special schedule. Go to RidePATCO.org for more information.",
 					"url":"http://ridepatco.org/",
-					"startDateTime":"2024-05-22T04:00",
+					"startDateTime":"2024-05-23T04:00",
 					"endDateTime":""
 				}
 			],
