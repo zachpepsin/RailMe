@@ -28,6 +28,13 @@
 					"endDateTime":"2024-06-27T00:25"
 				},
 				{
+					"header":"Special Schedule\nJune 29th - EASTBOUND",
+					"description":"On June 29th, from 12:44am to 4:12am, PATCO is operating on a special schedule for EASTBOUND trains that is not reflected in RailMe.",
+					"url":"http://ridepatco.org/",
+					"startDateTime":"",
+					"endDateTime":"2024-06-29T04:12"
+				},
+				{
 					"header":"Special Schedule\nJuly 1st - EASTBOUND",
 					"description":"On July 1st, from 10:52pm to 12:00am, PATCO is operating on a special schedule for EASTBOUND trains that is not reflected in RailMe.",
 					"url":"http://ridepatco.org/",
