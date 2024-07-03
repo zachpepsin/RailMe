@@ -1,0 +1,2 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_color,route_text_color
+1,RL,RiverLink,RiverLink Ferry,"Ferry that provides service across the Delaware River between the Philadelphia and Camden waterfronts.",4,00ADEF,000000
