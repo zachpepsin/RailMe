@@ -28,24 +28,17 @@
 					"endDateTime":"2024-08-04T17:09"
 				},
 				{
-					"header":"Special Schedule\nAugust 6th",
-					"description":"On August 6th, PATCO is operating on a special schedule that is not reflected in RailMe.",
+					"header":"Special Schedule\nAugust 9th",
+					"description":"On August 9th, from 9:30am to 2:14pm, PATCO is operating on a special schedule that is not reflected in RailMe.",
 					"url":"http://ridepatco.org/",
 					"startDateTime":"",
-					"endDateTime":"2024-08-07T00:08"
-				},
-				{
-					"header":"Special Schedule\nAugust 7th",
-					"description":"On August 7th, PATCO is operating on a special schedule that is not reflected in RailMe.",
-					"url":"http://ridepatco.org/",
-					"startDateTime":"",
-					"endDateTime":"2024-08-08T00:08"
+					"endDateTime":"2024-08-09T14:14"
 				},
 				{
 					"header":"Possible Special Schedule",
 					"description":"PATCO may be operating on a special schedule. Go to RidePATCO.org for more information.",
 					"url":"http://ridepatco.org/",
-					"startDateTime":"2024-08-08T04:00",
+					"startDateTime":"2024-08-11T04:00",
 					"endDateTime":""
 				}
 			],
