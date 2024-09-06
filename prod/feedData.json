@@ -71,10 +71,10 @@
 			[
 				{
 					"header":"New Schedule",
-					"description":"A new schedule goes into effect on Sunday, August 27th. RailMe has been updated to reflect the schedule changes.",
+					"description":"A new schedule went into effect on Sunday, September 8th. RailMe has been updated to reflect the schedule changes.",
 					"url":"",
-					"startDateTime":"",
-					"endDateTime":"2023-09-01T23:59"
+					"startDateTime":"2024-09-08T00:00",
+					"endDateTime":"2024-09-13T23:59"
 				},
 				{
 					"header":"Eagles Parade",
