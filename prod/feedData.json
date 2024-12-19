@@ -35,24 +35,24 @@
 					"endDateTime":"2024-12-14T00:20"
 				},
 				{
-					"header":"Special Schedule\nDecember 17th",
-					"description":"On December 17th, from 9:00pm to 1:13am, PATCO is operating on a special schedule that is not reflected in RailMe.",
+					"header":"Special Schedule\nDecember 18th",
+					"description":"On December 18th, from 9:00pm to 1:07am, PATCO is operating on a special schedule that is not reflected in RailMe.",
 					"url":"http://ridepatco.org/",
 					"startDateTime":"",
-					"endDateTime":"2024-12-18T01:13"
+					"endDateTime":"2024-12-19T01:07"
 				},
 				{
-					"header":"Special Schedule\nDecember 18th",
-					"description":"On December 18th, from 9:00pm to 12:08am, PATCO is operating on a special schedule that is not reflected in RailMe.",
+					"header":"Special Schedule\nDecember 19th",
+					"description":"On December 19th, from 9:00pm to 12:02am, PATCO is operating on a special schedule that is not reflected in RailMe.",
 					"url":"http://ridepatco.org/",
 					"startDateTime":"",
-					"endDateTime":"2024-12-19T00:08"
+					"endDateTime":"2024-12-20T00:02"
 				},
 				{
 					"header":"Possible Special Schedule",
 					"description":"PATCO may be operating on a special schedule. Go to RidePATCO.org for more information.",
 					"url":"http://ridepatco.org/",
-					"startDateTime":"2024-12-19T04:00",
+					"startDateTime":"2024-12-20T04:00",
 					"endDateTime":""
 				}
 			],
