@@ -21,31 +21,38 @@
 					"endDateTime":"2023-11-28T23:59"
 				},
 				{
-					"header":"Special Schedule\nJanuary 15th - EASTBOUND",
-					"description":"On January 15th, from 11:17pm to 12:25am, PATCO is operating on a special schedule for EASTBOUND trains that is not reflected in RailMe.",
+					"header":"Special Schedule\nJanuary 18th",
+					"description":"On January 18th, from 10:00am to 8:33pm, PATCO is operating on a special schedule that is not reflected in RailMe.",
 					"url":"http://ridepatco.org/",
 					"startDateTime":"",
-					"endDateTime":"2025-01-16T00:25"
+					"endDateTime":"2025-01-18T20:33"
 				},
 				{
-					"header":"Special Schedule\nJanuary 16th - EASTBOUND",
-					"description":"On January 16th, from 10:12pm to 12:20am, PATCO is operating on a special schedule for EASTBOUND trains that is not reflected in RailMe.",
+					"header":"Special Schedule\nJanuary 19th",
+					"description":"On January 19th, from 10:20am to 5:43pm, PATCO is operating on a special schedule that is not reflected in RailMe.",
 					"url":"http://ridepatco.org/",
 					"startDateTime":"",
-					"endDateTime":"2025-01-17T00:20"
+					"endDateTime":"2025-01-19T17:43"
 				},
 				{
-					"header":"Special Schedule\nJanuary 17th",
-					"description":"On January 17th, PATCO is operating on a special schedule that is not reflected in RailMe.",
+					"header":"Special Schedule\nJanuary 20th - EASTBOUND",
+					"description":"On January 20th, from 11:17pm to 12:25am, PATCO is operating on a special schedule for EASTBOUND trains that is not reflected in RailMe.",
 					"url":"http://ridepatco.org/",
 					"startDateTime":"",
-					"endDateTime":"2025-01-18T00:25"
+					"endDateTime":"2025-01-21T00:25"
+				},
+				{
+					"header":"Special Schedule\nJanuary 21st",
+					"description":"On January 21st, from 10:00am to 8:33pm, PATCO is operating on a special schedule that is not reflected in RailMe.",
+					"url":"http://ridepatco.org/",
+					"startDateTime":"",
+					"endDateTime":"2025-01-22T00:25"
 				},
 				{
 					"header":"Possible Special Schedule",
 					"description":"PATCO may be operating on a special schedule. Go to RidePATCO.org for more information.",
 					"url":"http://ridepatco.org/",
-					"startDateTime":"2025-01-18T04:00",
+					"startDateTime":"2025-01-22T04:00",
 					"endDateTime":""
 				}
 			],
