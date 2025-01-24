@@ -28,13 +28,6 @@
 					"endDateTime":"2025-01-22T00:25"
 				},
 				{
-					"header":"Special Schedule\nJanuary 22nd - EASTBOUND",
-					"description":"On January 22nd, from 11:17pm to 12:25am, PATCO is operating on a special schedule for EASTBOUND trains that is not reflected in RailMe.",
-					"url":"http://ridepatco.org/",
-					"startDateTime":"",
-					"endDateTime":"2025-01-23T00:25"
-				},
-				{
 					"header":"Special Schedule\nJanuary 23rd - EASTBOUND",
 					"description":"On January 23rd, from 11:17pm to 12:25am, PATCO is operating on a special schedule for EASTBOUND trains that is not reflected in RailMe.",
 					"url":"http://ridepatco.org/",
@@ -42,10 +35,24 @@
 					"endDateTime":"2025-01-24T00:25"
 				},
 				{
+					"header":"Special Schedule\nJanuary 24th - EASTBOUND",
+					"description":"On January 24th, from 10:32pm to 12:20am, PATCO is operating on a special schedule for EASTBOUND trains that is not reflected in RailMe.",
+					"url":"http://ridepatco.org/",
+					"startDateTime":"",
+					"endDateTime":"2025-01-25T00:20"
+				},
+				{
+					"header":"Special Schedule\nJanuary 26th",
+					"description":"On January 26th, PATCO will have increased service for the NFC Championship game. These additions are not reflected in RailMe.",
+					"url":"http://ridepatco.org/",
+					"startDateTime":"",
+					"endDateTime":"2025-01-26T23:43"
+				},
+				{
 					"header":"Possible Special Schedule",
 					"description":"PATCO may be operating on a special schedule. Go to RidePATCO.org for more information.",
 					"url":"http://ridepatco.org/",
-					"startDateTime":"2025-01-24T04:00",
+					"startDateTime":"2025-01-27T04:00",
 					"endDateTime":""
 				}
 			],
