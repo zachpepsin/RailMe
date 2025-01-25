@@ -21,13 +21,6 @@
 					"endDateTime":"2023-11-28T23:59"
 				},
 				{
-					"header":"Special Schedule\nJanuary 23rd - EASTBOUND",
-					"description":"On January 23rd, from 11:17pm to 12:25am, PATCO is operating on a special schedule for EASTBOUND trains that is not reflected in RailMe.",
-					"url":"http://ridepatco.org/",
-					"startDateTime":"",
-					"endDateTime":"2025-01-24T00:25"
-				},
-				{
 					"header":"Special Schedule\nJanuary 24th - EASTBOUND",
 					"description":"On January 24th, from 10:32pm to 12:20am, PATCO is operating on a special schedule for EASTBOUND trains that is not reflected in RailMe.",
 					"url":"http://ridepatco.org/",
