@@ -21,25 +21,11 @@
 					"endDateTime":"2023-11-28T23:59"
 				},
 				{
-					"header":"Special Schedule\nJanuary 24th - EASTBOUND",
-					"description":"On January 24th, from 10:32pm to 12:20am, PATCO is operating on a special schedule for EASTBOUND trains that is not reflected in RailMe.",
-					"url":"http://ridepatco.org/",
-					"startDateTime":"",
-					"endDateTime":"2025-01-25T00:20"
-				},
-				{
 					"header":"Special Schedule\nJanuary 28th",
 					"description":"On January 28th, PATCO will have increased service for the NFC Championship game. These additions are not reflected in RailMe.",
 					"url":"http://ridepatco.org/",
 					"startDateTime":"",
 					"endDateTime":"2025-01-29T00:05"
-				},
-				{
-					"header":"Special Schedule\nJanuary 29th",
-					"description":"On January 29th, from 9:56pm to 4:12am, PATCO is operating on a special schedule that is not reflected in RailMe.",
-					"url":"http://ridepatco.org/",
-					"startDateTime":"",
-					"endDateTime":"2025-01-30T00:05"
 				},
 				{
 					"header":"Special Schedule\nJanuary 30th",
@@ -49,10 +35,24 @@
 					"endDateTime":"2025-01-31T00:05"
 				},
 				{
+					"header":"Special Schedule\nFebruary 2nd - EASTBOUND",
+					"description":"On February 2nd, from 7:17am to 4:25pm, PATCO is operating on a special schedule for EASTBOUND trains that is not reflected in RailMe.",
+					"url":"http://ridepatco.org/",
+					"startDateTime":"",
+					"endDateTime":"2025-02-02T16:25"
+				},
+				{
+					"header":"Special Schedule\nFebruary 3rd - EASTBOUND",
+					"description":"On February 3rd, from 11:17pm to 12:25am, PATCO is operating on a special schedule for EASTBOUND trains that is not reflected in RailMe.",
+					"url":"http://ridepatco.org/",
+					"startDateTime":"",
+					"endDateTime":"2025-02-04T00:25"
+				},
+				{
 					"header":"Possible Special Schedule",
 					"description":"PATCO may be operating on a special schedule. Go to RidePATCO.org for more information.",
 					"url":"http://ridepatco.org/",
-					"startDateTime":"2025-02-02T04:00",
+					"startDateTime":"2025-02-04T04:00",
 					"endDateTime":""
 				}
 			],
