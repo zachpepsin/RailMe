@@ -56,7 +56,7 @@
       	"name":"septa",
         "prodDbName":"septa_20200816_1.db",
         "devDbName":"septa_20200906_7.db",
-        "prodCsvFolder":"septa_20241118",
+        "prodCsvFolder":"septa_20250211",
         "devCsvFolder":"septa_20250211",
         "alertMessage":"",
         "alertLink":"",
@@ -71,10 +71,10 @@
 				},
 				{
 					"header":"Eagles Parade",
-					"description":"SEPTA services may be unavailable due to the Eagles parade. Go to septa.org/eagles for more information.",
-					"url":"http://www4.septa.org/eagles/",
+					"description":"SEPTA is making service adjustments on all modes to accommodate the Eagles parade on February 14th. RailMe has been updated to reflect these changes. Click \"More information\" for details. Go birds.",
+					"url":"https://wwww.septa.org/news/super-bowl-parade/",
 					"startDateTime":"",
-					"endDateTime":"2018-02-08T23:00"
+					"endDateTime":"2025-02-14T23:00"
 				}
 			],
         "rtServiceAlerts":"http://www3.septa.org/gtfsrt/septarail-pa-us/Service/rtServiceAlerts.pb",
