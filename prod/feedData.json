@@ -36,7 +36,7 @@
 				},
 				{
 					"header":"Eagles Parade",
-					"description":"On February 14th, PATCO will operate on a heavily modified schedule and will be closing some stations for the Eagles parade. These changes are NOT reflected in RailMe. Click \"More information\" for details. Go birds.",
+					"description":"On February 14th, PATCO will operate on a heavily modified schedule and will be closing some stations for the Eagles parade. These changes are NOT reflected in RailMe. Click \"More information\" for details.",
 					"url":"https://www.ridepatco.org/parade/",
 					"startDateTime":"",
 					"endDateTime":"2025-02-14T19:00"
@@ -71,7 +71,7 @@
 				},
 				{
 					"header":"Eagles Parade",
-					"description":"SEPTA is making service adjustments on all modes to accommodate the Eagles parade on February 14th. RailMe has been updated to reflect these changes. Click \"More information\" for details. Go birds.",
+					"description":"SEPTA is making service adjustments on all modes to accommodate the Eagles parade on February 14th. RailMe has been updated to reflect these changes. Click \"More information\" for details.",
 					"url":"https://wwww.septa.org/news/super-bowl-parade/",
 					"startDateTime":"",
 					"endDateTime":"2025-02-14T23:00"
@@ -96,6 +96,13 @@
 					"url":"",
 					"startDateTime":"",
 					"endDateTime":"2012-11-01T23:59"
+				},
+				{
+					"header":"Eagles Parade",
+					"description":"NJ Transit is adjusting service on rail, bus and River Line light rail to accommodate the Philadelphia Eagles victory parade. These changes are NOT reflected in RailMe. Click \"More information\" for details.",
+					"url":"https://www.njtransit.com/parade",
+					"startDateTime":"",
+					"endDateTime":"2025-02-14T19:00"
 				}
 			],
         "rtServiceAlerts":"",
