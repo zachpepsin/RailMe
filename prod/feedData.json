@@ -21,31 +21,31 @@
 					"endDateTime":"2023-11-28T23:59"
 				},
 				{
-					"header":"Special Schedule\nFebruary 21st",
-					"description":"On February 21st, PATCO is operating on a special schedule that is not reflected in RailMe.",
+					"header":"Special Schedule\nFebruary 7th",
+					"description":"On February 7th, PATCO is operating on a special schedule that is not reflected in RailMe.",
 					"url":"http://ridepatco.org/",
 					"startDateTime":"",
-					"endDateTime":"2025-02-22T00:25"
+					"endDateTime":"2025-02-08T00:25"
 				},
 				{
-					"header":"Special Schedule\nFebruary 22nd - EASTBOUND",
-					"description":"On February 22nd, from 7:54pm to 1:06am, PATCO is operating on a special schedule for EASTBOUND trains that is not reflected in RailMe.",
+					"header":"Special Schedule\nFebruary 12th - EASTBOUND",
+					"description":"On February 12th, from 11:17pm to 12:25am, PATCO is operating on a special schedule for EASTBOUND trains that is not reflected in RailMe.",
 					"url":"http://ridepatco.org/",
 					"startDateTime":"",
-					"endDateTime":"2025-02-23T01:06"
+					"endDateTime":"2025-02-13T00:25"
 				},
 				{
-					"header":"Special Schedule\nFebruary 24th",
-					"description":"On February 24th, from 7:48pm to 12:09am, PATCO is operating on a special schedule that is not reflected in RailMe.",
-					"url":"http://ridepatco.org/",
+					"header":"Eagles Parade",
+					"description":"On February 14th, PATCO will operate on a heavily modified schedule and will be closing some stations for the Eagles parade. These changes are NOT reflected in RailMe. Click \"More information\" for details. Go birds.",
+					"url":"https://www.ridepatco.org/parade/",
 					"startDateTime":"",
-					"endDateTime":"2025-02-25T00:09"
+					"endDateTime":"2025-02-14T19:00"
 				},
 				{
 					"header":"Possible Special Schedule",
 					"description":"PATCO may be operating on a special schedule. Go to RidePATCO.org for more information.",
 					"url":"http://ridepatco.org/",
-					"startDateTime":"2025-02-25T04:00",
+					"startDateTime":"2025-02-15T04:00",
 					"endDateTime":""
 				}
 			],
@@ -57,7 +57,7 @@
         "prodDbName":"septa_20200816_1.db",
         "devDbName":"septa_20200906_7.db",
         "prodCsvFolder":"septa_20250211",
-        "devCsvFolder":"septa_20250211",
+        "devCsvFolder":"septa_20250228",
         "alertMessage":"",
         "alertLink":"",
 		"alerts" :
@@ -71,7 +71,7 @@
 				},
 				{
 					"header":"Eagles Parade",
-					"description":"SEPTA is making service adjustments on all modes to accommodate the Eagles parade on February 14th. RailMe has been updated to reflect these changes. Click \"More information\" for details.",
+					"description":"SEPTA is making service adjustments on all modes to accommodate the Eagles parade on February 14th. RailMe has been updated to reflect these changes. Click \"More information\" for details. Go birds.",
 					"url":"https://wwww.septa.org/news/super-bowl-parade/",
 					"startDateTime":"",
 					"endDateTime":"2025-02-14T23:00"
@@ -96,13 +96,6 @@
 					"url":"",
 					"startDateTime":"",
 					"endDateTime":"2012-11-01T23:59"
-				},
-				{
-					"header":"Eagles Parade",
-					"description":"NJ Transit is adjusting service on rail, bus and River Line light rail to accommodate the Philadelphia Eagles victory parade. These changes are NOT reflected in RailMe. Click \"More information\" for details.",
-					"url":"https://www.njtransit.com/parade",
-					"startDateTime":"",
-					"endDateTime":"2025-02-14T19:00"
 				}
 			],
         "rtServiceAlerts":"",
