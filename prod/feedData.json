@@ -21,13 +21,6 @@
 					"endDateTime":"2023-11-28T23:59"
 				},
 				{
-					"header":"Special Schedule\nFebruary 7th",
-					"description":"On February 7th, PATCO is operating on a special schedule that is not reflected in RailMe.",
-					"url":"http://ridepatco.org/",
-					"startDateTime":"",
-					"endDateTime":"2025-02-08T00:25"
-				},
-				{
 					"header":"Special Schedule\nFebruary 12th - EASTBOUND",
 					"description":"On February 12th, from 11:17pm to 12:25am, PATCO is operating on a special schedule for EASTBOUND trains that is not reflected in RailMe.",
 					"url":"http://ridepatco.org/",
@@ -35,17 +28,17 @@
 					"endDateTime":"2025-02-13T00:25"
 				},
 				{
-					"header":"Eagles Parade",
-					"description":"On February 14th, PATCO will operate on a heavily modified schedule and will be closing some stations for the Eagles parade. These changes are NOT reflected in RailMe. Click \"More information\" for details. Go birds.",
-					"url":"https://www.ridepatco.org/parade/",
+					"header":"Special Schedule\nMarch 7th",
+					"description":"On March 7th, PATCO is operating on a special schedule that is not reflected in RailMe.",
+					"url":"http://ridepatco.org/",
 					"startDateTime":"",
-					"endDateTime":"2025-02-14T19:00"
+					"endDateTime":"2025-03-08T00:02"
 				},
 				{
 					"header":"Possible Special Schedule",
 					"description":"PATCO may be operating on a special schedule. Go to RidePATCO.org for more information.",
 					"url":"http://ridepatco.org/",
-					"startDateTime":"2025-02-15T04:00",
+					"startDateTime":"2025-03-08T04:00",
 					"endDateTime":""
 				}
 			],
