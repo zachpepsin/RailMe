@@ -1,0 +1,15 @@
+stop_id,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,wheelchair_boarding
+1010,"Lindenwold","Berlin Road, Lindenwold, NJ 08021",39.83389,-75.00056,law,http://www.ridepatco.org/stations/lindenwold.asp,1
+1020,"Ashland","Burnt Mill Road, Voorhees, NJ",39.85856,-75.009199,law,http://www.ridepatco.org/stations/ashland.asp,1
+1030,"Woodcrest","Tindale Avenue, Cherry Hill, NJ",39.870166,-75.011217,law,http://www.ridepatco.org/stations/woodcrest.asp,1
+1040,"Haddonfield","Kings Highway West and Washington Avenue, Haddonfield, NJ",39.897352,-75.036822,hwc,http://www.ridepatco.org/stations/haddonfield.asp,1
+1050,"Westmont","Stoy Avenue, Haddon Township, NJ",39.907117,-75.046775,hwc,http://www.ridepatco.org/stations/westmont.asp,1
+1060,"Collingswood","Lees Avenue, Collingswood, NJ",39.913561,-75.064561,hwc,http://www.ridepatco.org/stations/collingswood.asp,1
+1070,"Ferry Ave (Camden)","Ferry Avenue, Camden, NJ",39.922779,-75.088022,fav,http://www.ridepatco.org/stations/ferryave.asp,1
+1080,"Broadway (Camden)","Walter Rand Transportation Center, Camden, NJ",39.942693,-75.118545,brd,http://www.ridepatco.org/stations/broadway.asp,1
+1090,"City Hall (Camden)","Market Street and North 5th Street, Camden, NJ",39.945568,-75.121133,chc,http://www.ridepatco.org/stations/cityhall.asp,1
+1100,"Franklin Square","7th and Race Street, Philadelphia, PA",39.955291,-75.151044,phl,http://www.ridepatco.org/stations/franklinsquare.asp,1
+1110,"8th & Market St","8th and Market Street, Philadelphia, PA",39.951181,-75.1532,phl,http://www.ridepatco.org/stations/8th.asp,1
+1120,"9-10th & Locust St","9th and Locust Street, Philadelphia, PA",39.947114,-75.156092,phl,http://www.ridepatco.org/stations/9th.asp,1
+1130,"12-13th & Locust St","12th and Locust Street, Philadelphia, PA",39.947731,-75.160797,phl,http://www.ridepatco.org/stations/12th.asp,1
+1140,"15-16th & Locust St","15th and Locust Street, Philadelphia, PA",39.948417,-75.166208,phl,http://www.ridepatco.org/stations/15th.asp,1
