@@ -7,7 +7,7 @@
       	"name":"patco",
         "prodDbName":"patco_20200629_2.db",
         "devDbName":"",
-        "prodCsvFolder":"patco_20241118",
+        "prodCsvFolder":"patco_20250403",
         "devCsvFolder":"patco_20250403",
         "alertMessage":"",
         "alertLink":"http://ridepatco.org/",
@@ -19,6 +19,13 @@
 					"url":"",
 					"startDateTime":"",
 					"endDateTime":"2023-11-28T23:59"
+				},
+				{
+					"header":"Franklin Square Station Opening",
+					"description":"Franklin Square Station is opening on April 3rd, 2025. RailMe has been updated to reflect the schedule changes.",
+					"url":"https://www.ridepatco.org/news/news.asp?param=2&archive=0&publication=19&pubnumber=6136",
+					"startDateTime":"",
+					"endDateTime":"2025-04-03T23:59"
 				},
 				{
 					"header":"Special Schedule\nMarch 20th",
@@ -84,7 +91,7 @@
       	"name":"njt",
       	"prodDbName":"njt_20200810_1.db",
         "devDbName":"",
-        "prodCsvFolder":"njt_20250312",
+        "prodCsvFolder":"njt_20250326",
         "devCsvFolder":"njt_20250326",
         "alertMessage":"",
         "alertLink":"",
