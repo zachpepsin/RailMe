@@ -3,8 +3,8 @@ law_phl,law,phl
 law_phl,phl,law
 hwc_phl,hwc,phl
 hwc_phl,phl,hwc
-fav_phl,fac,phl
-fav_phl,phl,fac
+fav_phl,fav,phl
+fav_phl,phl,fav
 nj_nj,law,law
 nj_nj,law,hwc
 nj_nj,law,fav
