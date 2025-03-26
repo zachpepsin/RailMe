@@ -1,5 +1,5 @@
 stop_id,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,wheelchair_boarding
-1010,"Lindenwold","Berlin Road, Lindenwold, NJ 08021",39.83389,-75.00056,law,http://www.ridepatco.org/stations/lindenwold.asp,1
+1010,"Lindenwold","Berlin Road, Lindenwold, NJ",39.83389,-75.00056,law,http://www.ridepatco.org/stations/lindenwold.asp,1
 1020,"Ashland","Burnt Mill Road, Voorhees, NJ",39.85856,-75.009199,law,http://www.ridepatco.org/stations/ashland.asp,1
 1030,"Woodcrest","Tindale Avenue, Cherry Hill, NJ",39.870166,-75.011217,law,http://www.ridepatco.org/stations/woodcrest.asp,1
 1040,"Haddonfield","Kings Highway West and Washington Avenue, Haddonfield, NJ",39.897352,-75.036822,hwc,http://www.ridepatco.org/stations/haddonfield.asp,1
