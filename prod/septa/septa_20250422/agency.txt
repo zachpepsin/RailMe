@@ -1,0 +1,2 @@
+"agency_id","agency_name","agency_url","agency_timezone","agency_lang","agency_email","agency_phone","agency_fare_url"
+"SEPTA","SEPTA Regional Rail","http://www.septa.org","America/New_York","EN","","215-580-7800","https://wwww.septa.org/fares/regional-rail-zones/"
