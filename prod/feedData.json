@@ -7,7 +7,7 @@
       	"name":"patco",
         "prodDbName":"patco_20200629_2.db",
         "devDbName":"",
-        "prodCsvFolder":"patco_20250403",
+        "prodCsvFolder":"patco_20250714",
         "devCsvFolder":"patco_20250714",
         "alertMessage":"",
         "alertLink":"http://ridepatco.org/",
