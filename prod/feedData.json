@@ -21,6 +21,13 @@
 					"endDateTime":"2023-11-28T23:59"
 				},
 				{
+					"header":"Overnight Station Closures",
+					"description":"Select stations are temporarily closed overnight. Go to RidePATCO.org for more information.",
+					"url":"https://www.ridepatco.org/news/phased-overnight-weekday-service-changes.html",
+					"startDateTime":"",
+					"endDateTime":"2025-08-29T23:59"
+				},
+				{
 					"header":"Special Schedule\nJuly 23rd",
 					"description":"On July 23rd, PATCO is operating on a special schedule that is not reflected in RailMe.",
 					"url":"https://www.ridepatco.org/publish/library/TW_2025-07-23.pdf",
@@ -45,7 +52,7 @@
 					"header":"Possible Special Schedule",
 					"description":"PATCO may be operating on a special schedule. Go to RidePATCO.org for more information.",
 					"url":"http://ridepatco.org/",
-					"startDateTime":"2025-07-29T04:00",
+					"startDateTime":"2025-07-30T04:00",
 					"endDateTime":""
 				}
 			],
