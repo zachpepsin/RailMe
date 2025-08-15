@@ -28,13 +28,6 @@
 					"endDateTime":"2025-08-29T23:59"
 				},
 				{
-					"header":"Special Schedule\nAugust 11th - EASTBOUND",
-					"description":"On August 11th, from 10:45pm to 11:53pm, PATCO is operating on a special schedule for EASTBOUND trains that is not reflected in RailMe.",
-					"url":"https://www.ridepatco.org/publish/library/TW_2025-08-11.pdf",
-					"startDateTime":"",
-					"endDateTime":"2025-08-12T00:25"
-				},
-				{
 					"header":"Special Schedule\nAugust 12th",
 					"description":"On August 12th, PATCO is operating on a special schedule that is not reflected in RailMe.",
 					"url":"https://www.ridepatco.org/publish/library/TW_2025-08-12.pdf",
@@ -42,13 +35,6 @@
 					"endDateTime":"2025-08-13T00:25"
 				},
 				{
-					"header":"Special Schedule\nAugust 13th - EASTBOUND",
-					"description":"On August 13th, PATCO is operating on a special schedule for EASTBOUND trains that is not reflected in RailMe.",
-					"url":"https://www.ridepatco.org/publish/library/TW_2025-08-13.pdf",
-					"startDateTime":"",
-					"endDateTime":"2025-08-14T00:25"
-				},
-								{
 					"header":"Special Schedule\nAugust 14th - EASTBOUND",
 					"description":"On August 14th, PATCO is operating on a special schedule for EASTBOUND trains that is not reflected in RailMe.",
 					"url":"https://www.ridepatco.org/publish/library/TW_2025-08-14.pdf",
@@ -56,10 +42,17 @@
 					"endDateTime":"2025-08-15T00:25"
 				},
 				{
+					"header":"Special Schedule\nAugust 15th - EASTBOUND",
+					"description":"On August 15th, from 9:49am to 2:17pm, PATCO is operating on a special schedule for EASTBOUND trains that is not reflected in RailMe.",
+					"url":"https://www.ridepatco.org/publish/library/TW_2025-08-15.pdf",
+					"startDateTime":"",
+					"endDateTime":"2025-08-15T14:17"
+				},
+				{
 					"header":"Possible Special Schedule",
 					"description":"PATCO may be operating on a special schedule. Go to RidePATCO.org for more information.",
 					"url":"http://ridepatco.org/",
-					"startDateTime":"2025-08-15T04:00",
+					"startDateTime":"2025-08-16T04:00",
 					"endDateTime":""
 				}
 			],
