@@ -7,7 +7,7 @@
       	"name":"patco",
         "prodDbName":"patco_20200629_2.db",
         "devDbName":"",
-        "prodCsvFolder":"patco_20250714",
+        "prodCsvFolder":"patco_20250901",
         "devCsvFolder":"patco_20250901",
         "alertMessage":"",
         "alertLink":"http://ridepatco.org/",
@@ -15,17 +15,17 @@
 			[
 				{
 					"header":"New Schedule",
-					"description":"A new schedule goes into effect on Saturday, November 25th. RailMe has been updated to reflect the schedule changes.",
+					"description":"A new schedule goes into effect on Monday, September 1st. RailMe has been updated to reflect the schedule changes.",
 					"url":"",
 					"startDateTime":"",
-					"endDateTime":"2023-11-28T23:59"
+					"endDateTime":"2025-09-01T23:59"
 				},
 				{
 					"header":"Overnight Station Closures",
 					"description":"Select stations are temporarily closed overnight. Go to RidePATCO.org for more information.",
 					"url":"https://www.ridepatco.org/news/phased-overnight-weekday-service-changes.html",
 					"startDateTime":"",
-					"endDateTime":"2025-08-29T23:59"
+					"endDateTime":"2025-08-31T23:59"
 				},
 				{
 					"header":"Special Schedule\nAugust 23rd - EASTBOUND",
