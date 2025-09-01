@@ -21,13 +21,6 @@
 					"endDateTime":"2025-09-01T23:59"
 				},
 				{
-					"header":"Overnight Station Closures",
-					"description":"Select stations are temporarily closed overnight. Go to RidePATCO.org for more information.",
-					"url":"https://www.ridepatco.org/news/phased-overnight-weekday-service-changes.html",
-					"startDateTime":"",
-					"endDateTime":"2025-08-31T23:59"
-				},
-				{
 					"header":"Special Schedule\nAugust 23rd - EASTBOUND",
 					"description":"On August 23rd, from 7:16am to 4:04pm, PATCO is operating on a special schedule for EASTBOUND trains that is not reflected in RailMe.",
 					"url":"https://www.ridepatco.org/publish/library/TW_2025-08-23.pdf",
@@ -44,9 +37,9 @@
 				{
 					"header":"Special Schedule\nSeptember 1st",
 					"description":"On September 1st, PATCO is operating on a special schedule that is not reflected in RailMe.",
-					"url":"https://www.ridepatco.org/pdf/PATCO_Timetable_2025-09-01.pdf",
+					"url":"https://www.ridepatco.org/publish/library/TW_2025-09-01.pdf",
 					"startDateTime":"",
-					"endDateTime":"2025-09-02T00:25"
+					"endDateTime":"2025-09-02T00:05"
 				},
 				{
 					"header":"Possible Special Schedule",
