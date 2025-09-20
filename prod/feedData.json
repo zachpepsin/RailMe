@@ -21,18 +21,25 @@
 					"endDateTime":"2025-09-01T23:59"
 				},
 				{
-					"header":"Special Schedule\nSeptember 18th",
-					"description":"On September 18th, PATCO is operating on a special schedule that is not reflected in RailMe.",
-					"url":"https://www.ridepatco.org/publish/library/TW_2025-09-18.pdf",
+					"header":"Special Schedule\nSeptember 20th",
+					"description":"On September 20th, from 12:10am to 4:05am, PATCO is operating on a special schedule that is not reflected in RailMe.",
+					"url":"https://www.ridepatco.org/publish/library/TW_2025-09-20.pdf",
 					"startDateTime":"",
-					"endDateTime":"2025-09-19T00:05"
+					"endDateTime":"2025-09-21T04:05"
 				},
 				{
-					"header":"Special Schedule\nSeptember 19th - EASTBOUND",
-					"description":"On September 19th, from 9:27pm to 10:01pm, PATCO is operating on a special schedule for EASTBOUND trains that is not reflected in RailMe.",
-					"url":"https://www.ridepatco.org/publish/library/TW_2025-09-19.pdf",
+					"header":"Special Schedule\nSeptember 21st",
+					"description":"On September 21st, from 12:02am to 1:05am, PATCO is operating on a special schedule that is not reflected in RailMe.",
+					"url":"https://www.ridepatco.org/publish/library/TW_2025-09-22.pdf",
 					"startDateTime":"",
-					"endDateTime":"2025-09-19T22:01"
+					"endDateTime":"2025-09-22T01:05"
+				},
+				{
+					"header":"Special Schedule\nSeptember 22nd - EASTBOUND",
+					"description":"On September 22nd, from 9:27pm to 10:03pm, PATCO is operating on a special schedule for EASTBOUND trains that is not reflected in RailMe.",
+					"url":"https://www.ridepatco.org/publish/library/TW_2025-09-22.pdf",
+					"startDateTime":"",
+					"endDateTime":"2025-09-22T22:03"
 				},
 				{
 					"header":"Special Schedule\nSeptember 27th",
@@ -45,7 +52,7 @@
 					"header":"Possible Special Schedule",
 					"description":"PATCO may be operating on a special schedule. Go to RidePATCO.org for more information.",
 					"url":"http://ridepatco.org/",
-					"startDateTime":"2025-09-20T04:00",
+					"startDateTime":"2025-09-23T04:00",
 					"endDateTime":""
 				}
 			],
