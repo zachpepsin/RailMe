@@ -21,13 +21,6 @@
 					"endDateTime":"2025-09-01T23:59"
 				},
 				{
-					"header":"Special Schedule\nSeptember 20th",
-					"description":"On September 20th, from 12:10am to 4:05am, PATCO is operating on a special schedule that is not reflected in RailMe.",
-					"url":"https://www.ridepatco.org/publish/library/TW_2025-09-20.pdf",
-					"startDateTime":"",
-					"endDateTime":"2025-09-21T04:05"
-				},
-				{
 					"header":"Special Schedule\nSeptember 21st",
 					"description":"On September 21st, from 12:02am to 1:05am, PATCO is operating on a special schedule that is not reflected in RailMe.",
 					"url":"https://www.ridepatco.org/publish/library/TW_2025-09-22.pdf",
@@ -42,6 +35,13 @@
 					"endDateTime":"2025-09-22T22:03"
 				},
 				{
+					"header":"Special Schedule\nSeptember 23rd",
+					"description":"On September 23rd, PATCO is operating on a special schedule that is not reflected in RailMe.",
+					"url":"https://www.ridepatco.org/publish/library/TW_2025-09-23.pdf",
+					"startDateTime":"",
+					"endDateTime":"2025-09-24T00:05"
+				},
+				{
 					"header":"Special Schedule\nSeptember 27th",
 					"description":"On September 27th, from 4:30am to 8:53am, PATCO is operating on a special schedule that is not reflected in RailMe.",
 					"url":"https://www.ridepatco.org/publish/library/MS150_2025-09-27.pdf",
@@ -52,7 +52,7 @@
 					"header":"Possible Special Schedule",
 					"description":"PATCO may be operating on a special schedule. Go to RidePATCO.org for more information.",
 					"url":"http://ridepatco.org/",
-					"startDateTime":"2025-09-23T04:00",
+					"startDateTime":"2025-09-24T04:00",
 					"endDateTime":""
 				}
 			],
