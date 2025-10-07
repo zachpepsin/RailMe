@@ -28,13 +28,6 @@
 					"endDateTime":"2025-10-05T00:25"
 				},
 				{
-					"header":"Special Schedule\nOctober 6th",
-					"description":"On October 6th, from 8:33pm to 11:58pm, PATCO is operating on a special schedule that is not reflected in RailMe.",
-					"url":"https://www.ridepatco.org/publish/library/TW_2025-10-06.pdf",
-					"startDateTime":"",
-					"endDateTime":"2025-10-07T00:25"
-				},
-				{
 					"header":"Special Schedule\nOctober 7th",
 					"description":"On October 7th, from 8:35pm to 11:58pm, PATCO is operating on a special schedule that is not reflected in RailMe.",
 					"url":"https://www.ridepatco.org/publish/library/TW_2025-10-07.pdf",
@@ -42,10 +35,17 @@
 					"endDateTime":"2025-10-07T00:25"
 				},
 				{
+					"header":"Special Schedule\nOctober 8th",
+					"description":"On October 8th, PATCO is operating on a special schedule that is not reflected in RailMe.",
+					"url":"https://www.ridepatco.org/publish/library/TW_2025-10-08.pdf",
+					"startDateTime":"",
+					"endDateTime":"2025-10-09T00:25"
+				},
+				{
 					"header":"Possible Special Schedule",
 					"description":"PATCO may be operating on a special schedule. Go to RidePATCO.org for more information.",
 					"url":"http://ridepatco.org/",
-					"startDateTime":"2025-10-08T04:00",
+					"startDateTime":"2025-10-09T04:00",
 					"endDateTime":""
 				}
 			],
