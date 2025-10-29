@@ -28,13 +28,6 @@
 					"endDateTime":"2025-10-13T22:01"
 				},
 				{
-					"header":"Special Schedule\nOctober 27th",
-					"description":"On October 27th, PATCO is operating on a special schedule that is not reflected in RailMe.",
-					"url":"https://www.ridepatco.org/publish/library/TW_2025-10-27_Rev4.pdf",
-					"startDateTime":"",
-					"endDateTime":"2025-10-27T23:58"
-				},
-				{
 					"header":"Special Schedule\nOctober 28th - EASTBOUND",
 					"description":"On October 28th, from 11:14am to 1:57pm, PATCO is operating on a special schedule for EASTBOUND trains that is not reflected in RailMe.",
 					"url":"https://www.ridepatco.org/publish/library/TW_2025-10-28.pdf",
@@ -42,10 +35,17 @@
 					"endDateTime":"2025-10-28T13:57"
 				},
 				{
+					"header":"Special Schedule\nOctober 29th",
+					"description":"On October 29th, PATCO is operating on a special schedule that is not reflected in RailMe.",
+					"url":"https://www.ridepatco.org/publish/library/TW_2025-10-29_Rev1.pdf",
+					"startDateTime":"",
+					"endDateTime":"2025-10-29T23:58"
+				},
+				{
 					"header":"Possible Special Schedule",
 					"description":"PATCO may be operating on a special schedule. Go to RidePATCO.org for more information.",
 					"url":"http://ridepatco.org/",
-					"startDateTime":"2025-10-29T04:00",
+					"startDateTime":"2025-10-30T04:00",
 					"endDateTime":""
 				}
 			],
