@@ -21,32 +21,25 @@
 					"endDateTime":"2025-09-01T23:59"
 				},
 				{
-					"header":"Special Schedule\nNovember 1st",
-					"description":"On November 1st, from 7:00am to 6:07pm, PATCO is operating on a special schedule that is not reflected in RailMe.",
-					"url":"https://www.ridepatco.org/publish/library/TW_2025-11-01.pdf",
-					"startDateTime":"",
-					"endDateTime":"2025-11-01T18:12"
-				},
-				{
-					"header":"Special Schedule\nNovember 5th",
-					"description":"On November 5th, from 9:00pm to 11:42pm, PATCO is operating on a special schedule that is not reflected in RailMe.",
-					"url":"https://www.ridepatco.org/schedules/TW_2025-11-05_Rev1.pdf",
-					"startDateTime":"",
-					"endDateTime":"2025-11-05T23:59"
-				},
-				{
-					"header":"Special Schedule\nNovember 6th",
-					"description":"On November 6th, from 8:50pm to 11:49pm, PATCO is operating on a special schedule that is not reflected in RailMe.",
-					"url":"https://www.ridepatco.org/publish/library/TW_2025-11-06.pdf",
-					"startDateTime":"",
-					"endDateTime":"2025-11-06T23:59"
-				},
-				{
 					"header":"Special Schedule\nNovember 7th",
 					"description":"On November 7th, PATCO is operating on a special schedule that is not reflected in RailMe.",
 					"url":"https://www.ridepatco.org/schedules/TW_2025-11-07_rev1.pdf",
 					"startDateTime":"",
 					"endDateTime":"2025-11-07T23:59"
+				},
+				{
+					"header":"Special Schedule\nNovember 8th - EASTBOUND",
+					"description":"On November 8th, PATCO is operating on a special schedule for EASTBOUND trains that is not reflected in RailMe.",
+					"url":"https://www.ridepatco.org/schedules/TW_2025-11-08.pdf",
+					"startDateTime":"",
+					"endDateTime":"2025-11-08T23:45"
+				},
+				{
+					"header":"Special Schedule\nNovember 10th",
+					"description":"On November 10th, from 8:15pm to 11:49pm, PATCO is operating on a special schedule that is not reflected in RailMe.",
+					"url":"https://www.ridepatco.org/schedules/TW_2025-11-10.pdf",
+					"startDateTime":"",
+					"endDateTime":"2025-11-10T23:59"
 				},
 				{
 					"header":"Possible Special Schedule",
