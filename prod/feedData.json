@@ -35,18 +35,18 @@
 					"endDateTime":"2025-11-10T23:59"
 				},
 				{
-					"header":"Special Schedule\nNovember 11th",
-					"description":"On November 11th, PATCO is operating on a special schedule that is not reflected in RailMe.",
-					"url":"https://www.drpa.org/PATCOschedules/TW_2025-11-11.pdf",
-					"startDateTime":"",
-					"endDateTime":"2025-11-11T23:59"
-				},
-				{
 					"header":"Special Schedule\nNovember 12th",
 					"description":"On November 12th, PATCO is operating on a special schedule that is not reflected in RailMe.",
 					"url":"https://www.drpa.org/PATCOschedules/TW_2025-11-12.pdf",
 					"startDateTime":"",
 					"endDateTime":"2025-11-12T23:59"
+				},
+				{
+					"header":"Special Schedule\nNovember 13th",
+					"description":"On November 13th, PATCO is operating on a special schedule that is not reflected in RailMe.",
+					"url":"https://www.drpa.org/PATCOschedules/TW_2025-11-13.pdf",
+					"startDateTime":"",
+					"endDateTime":"2025-11-13T23:59"
 				},
 				{
 					"header":"Possible Special Schedule",
