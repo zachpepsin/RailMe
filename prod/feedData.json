@@ -30,9 +30,16 @@
 				{
 					"header":"Special Schedule\nNovember 24th",
 					"description":"On November 24th, from 9:58pm to 12:02am, PATCO is operating on a special schedule that is not reflected in RailMe.",
-					"url":"https://www.ridepatco.org/schedules/TW_2025-11-24.pdf",
+					"url":"https://www.ridepatco.org/schedules/TW_2025-11-24_Rev1.pdf",
 					"startDateTime":"",
 					"endDateTime":"2025-11-25T00:02"
+				},
+				{
+					"header":"Special Schedule\nNovember 25th",
+					"description":"On November 25th, PATCO is operating on a special schedule that is not reflected in RailMe.",
+					"url":"https://www.ridepatco.org/schedules/TW_2025-11-25.pdf",
+					"startDateTime":"",
+					"endDateTime":"2025-11-25T23:59"
 				},
 				{
 					"header":"Special Schedule\nNovember 26th",
