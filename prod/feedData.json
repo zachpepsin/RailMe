@@ -42,10 +42,17 @@
 					"endDateTime":"2025-12-09T23:59"
 				},
 				{
+					"header":"Special Schedule\nDecember 10th",
+					"description":"On December 10th, PATCO is operating on a special schedule that is not reflected in RailMe.",
+					"url":"https://www.ridepatco.org/schedules/TW_2025-12-10.pdf",
+					"startDateTime":"",
+					"endDateTime":"2025-12-10T23:59"
+				},
+				{
 					"header":"Possible Special Schedule",
 					"description":"PATCO may be operating on a special schedule. Go to RidePATCO.org for more information.",
 					"url":"http://ridepatco.org/",
-					"startDateTime":"2025-12-10T04:00",
+					"startDateTime":"2025-12-11T04:00",
 					"endDateTime":""
 				}
 			],
