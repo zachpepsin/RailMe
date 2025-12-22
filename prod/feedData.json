@@ -21,25 +21,11 @@
 					"endDateTime":"2025-12-01T23:59"
 				},
 				{
-					"header":"Special Schedule\nDecember 10th",
-					"description":"On December 10th, PATCO is operating on a special schedule that is not reflected in RailMe.",
-					"url":"https://www.ridepatco.org/schedules/TW_2025-12-10.pdf",
-					"startDateTime":"",
-					"endDateTime":"2025-12-10T23:59"
-				},
-				{
 					"header":"Special Schedule\nDecember 15th",
 					"description":"On December 15th, from 10:30pm to 11:58pm, PATCO is operating on a special schedule that is not reflected in RailMe.",
 					"url":"https://www.ridepatco.org/schedules/TW_2025-12-15.pdf",
 					"startDateTime":"",
 					"endDateTime":"2025-12-15T23:59"
-				},
-				{
-					"header":"Special Schedule\nDecember 18th",
-					"description":"On December 18th, PATCO is operating on a special schedule that is not reflected in RailMe.",
-					"url":"https://www.ridepatco.org/schedules/TW_2025-12-18.pdf",
-					"startDateTime":"",
-					"endDateTime":"2025-12-18T23:59"
 				},
 				{
 					"header":"Special Schedule\nDecember 20th - EASTBOUND",
@@ -49,10 +35,31 @@
 					"endDateTime":"2025-12-20T17:33"
 				},
 				{
+					"header":"Special Schedule\nDecember 24th",
+					"description":"On December 24th, PATCO is operating on a special schedule that is not reflected in RailMe.",
+					"url":"https://www.ridepatco.org/schedules/2025-12-24_ChristmasEve.pdf",
+					"startDateTime":"",
+					"endDateTime":"2025-12-24T23:59"
+				},
+				{
+					"header":"Special Schedule\nDecember 25th",
+					"description":"On December 25th, PATCO is operating on a special schedule that is not reflected in RailMe.",
+					"url":"https://www.ridepatco.org/schedules/2025-12-25_ChristmasDay.pdf",
+					"startDateTime":"",
+					"endDateTime":"2025-12-25T23:59"
+				},
+				{
+					"header":"Special Schedule\nDecember 26th",
+					"description":"On December 26th, PATCO is operating on a special schedule that is not reflected in RailMe.",
+					"url":"https://www.ridepatco.org/schedules/2025-12-26_Holiday.pdf",
+					"startDateTime":"",
+					"endDateTime":"2025-12-25T23:59"
+				},
+				{
 					"header":"Possible Special Schedule",
 					"description":"PATCO may be operating on a special schedule. Go to RidePATCO.org for more information.",
 					"url":"http://ridepatco.org/",
-					"startDateTime":"2025-12-23T04:00",
+					"startDateTime":"2025-12-27T04:00",
 					"endDateTime":""
 				}
 			],
