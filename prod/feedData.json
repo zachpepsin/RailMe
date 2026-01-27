@@ -35,24 +35,24 @@
 					"endDateTime":"2026-01-24T16:24"
 				},
 				{
-					"header":"Special Schedule\nJanuary 25th",
-					"description":"On January 25th, PATCO is operating on a special schedule that is not reflected in RailMe.",
-					"url":"https://www.ridepatco.org/schedules/2026-01-25_Schedule.pdf",
+					"header":"Special Schedule\nJanuary 27th",
+					"description":"On January 27th, from 10:30pm to 11:58pm, PATCO is operating on a special schedule that is not reflected in RailMe.",
+					"url":"https://www.ridepatco.org/schedules/TW_2026-01-27.pdf",
 					"startDateTime":"",
-					"endDateTime":"2026-01-25T23:59"
+					"endDateTime":"2026-01-27T23:59"
 				},
 				{
-					"header":"Special Schedule\nJanuary 26th",
-					"description":"On January 26th, PATCO is operating on a special schedule that is not reflected in RailMe.",
-					"url":"https://www.ridepatco.org/schedules/2026-01-26_Schedule.pdf",
+					"header":"Special Schedule\nJanuary 28th",
+					"description":"On January 28th, PATCO is operating on a special schedule that is not reflected in RailMe.",
+					"url":"https://www.ridepatco.org/schedules/TW_2026-01-28.pdf",
 					"startDateTime":"",
-					"endDateTime":"2026-01-26T23:59"
+					"endDateTime":"2026-01-28T23:59"
 				},
 				{
 					"header":"Possible Special Schedule",
 					"description":"PATCO may be operating on a special schedule. Go to RidePATCO.org for more information.",
 					"url":"https://www.ridepatco.org/schedules/schedules.asp",
-					"startDateTime":"2026-01-27T04:00",
+					"startDateTime":"2026-01-29T04:00",
 					"endDateTime":""
 				}
 			],
