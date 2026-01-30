@@ -153,9 +153,10 @@ if($rootFolder -eq 'njt') {
 				}
 				
 				# Do not use noreply@septa.org for agency_email
-				if ($_.agency_email -match "noreply@septa.org") {
-					$_.agency_email = ""
-				}
+				# Update: SEPTA has since removed the unnecessary email
+				#if ($_.agency_email -match "noreply@septa.org") {
+				#	$_.agency_email = ""
+				#}
 			}
 	
 			Export-Updated-Csv $csv $feedFileName $rootFolder
@@ -178,19 +179,19 @@ if($rootFolder -eq 'njt') {
 			
 			Export-Updated-Csv $csv $feedFileName $rootFolder
 		
-		} elseif ($feedFileName -eq "trips") {
+		} #elseif ($feedFileName -eq "trips") { #UPDATE v202602010 added "wheelchair_accessible" to all trips
 			#Add the wheelchair_accessible
 			#Need to add the new columns first
-			$csv = Import-Csv .\$rootFolder\$subFolder\$feedFileName.txt -Delimiter ',' | Select-Object *,"wheelchair_accessible"
-			$csv | Export-Csv .\$rootFolder\$subFolder\$feedFileName.txt -Delimiter ',' -NoType
-			
-			($csv = Import-Csv .\$rootFolder\$subFolder\$feedFileName.txt -Delimiter ',') | ForEach { 
-				#All SEPTA regional trains can accomidate wheelchairs
-				$_.wheelchair_accessible = "1"
-			}
-			
-			Export-Updated-Csv $csv $feedFileName $rootFolder
-		}
+		#	$csv = Import-Csv .\$rootFolder\$subFolder\$feedFileName.txt -Delimiter ',' | Select-Object *,"wheelchair_accessible"
+		#	$csv | Export-Csv .\$rootFolder\$subFolder\$feedFileName.txt -Delimiter ',' -NoType
+		#	
+		#	($csv = Import-Csv .\$rootFolder\$subFolder\$feedFileName.txt -Delimiter ',') | ForEach { 
+		#		#All SEPTA regional trains can accomidate wheelchairs
+		#		$_.wheelchair_accessible = "1"
+		#	}
+		#	
+		#	Export-Updated-Csv $csv $feedFileName $rootFolder
+		#}
 		
 	}
 } elseif($rootFolder -eq 'septa_bus') {
