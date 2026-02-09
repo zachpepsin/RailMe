@@ -52,7 +52,7 @@
 					"header":"Possible Special Schedule",
 					"description":"PATCO may be operating on a special schedule. Go to RidePATCO.org for more information.",
 					"url":"https://www.ridepatco.org/schedules/schedules.asp",
-					"startDateTime":"2026-02-09T04:00",
+					"startDateTime":"2026-02-10T04:00",
 					"endDateTime":""
 				}
 			],
