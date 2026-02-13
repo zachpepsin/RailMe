@@ -28,13 +28,6 @@
 					"endDateTime":"2026-01-20T14:02"
 				},
 				{
-					"header":"Special Schedule\nJanuary 24th - EASTBOUND",
-					"description":"On January 24th, from 7:16am to 4:24pm, PATCO is operating on a special schedule for EASTBOUND trains that is not reflected in RailMe.",
-					"url":"https://www.ridepatco.org/schedules/TW_2026-01-24.pdf",
-					"startDateTime":"",
-					"endDateTime":"2026-01-24T16:24"
-				},
-				{
 					"header":"Special Schedule\nJanuary 29th",
 					"description":"On January 29th, PATCO is operating on a special schedule that is not reflected in RailMe.",
 					"url":"https://www.ridepatco.org/schedules/TW_2026-01-29.pdf",
@@ -42,17 +35,24 @@
 					"endDateTime":"2026-01-29T23:59"
 				},
 				{
-					"header":"Special Schedule\nFebruary 5th",
-					"description":"On February 5th, from 9:50am to 2:02pm, PATCO is operating on a special schedule that is not reflected in RailMe.",
-					"url":"https://www.ridepatco.org/schedules/TW_2026-02-05.pdf",
+					"header":"Special Schedule\nFebruary 15th - EASTBOUND",
+					"description":"On February 15th, PATCO is operating on a special schedule for EASTBOUND trains that is not reflected in RailMe.",
+					"url":"https://www.ridepatco.org/schedules/TW_2026-02-15.pdf",
 					"startDateTime":"",
-					"endDateTime":"2026-02-05T14:02"
+					"endDateTime":"2026-02-15T17:24"
+				},
+				{
+					"header":"Special Schedule\nFebruary 16th",
+					"description":"On February 16th, PATCO is operating on a special schedule that is not reflected in RailMe.",
+					"url":"https://www.ridepatco.org/schedules/2026-02-16_PresidentsDay.pdf",
+					"startDateTime":"",
+					"endDateTime":"2026-02-16T23:59"
 				},
 				{
 					"header":"Possible Special Schedule",
 					"description":"PATCO may be operating on a special schedule. Go to RidePATCO.org for more information.",
 					"url":"https://www.ridepatco.org/schedules/schedules.asp",
-					"startDateTime":"2026-02-14T04:00",
+					"startDateTime":"2026-02-17T04:00",
 					"endDateTime":""
 				}
 			],
