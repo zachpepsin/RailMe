@@ -141,15 +141,20 @@ if($rootFolder -eq 'njt') {
 		if($feedFileName -eq "agency") {
 			#Add the agency_phone and agency_fare_url columns
 			#Need to add the new columns first
-			$csv = Import-Csv .\$rootFolder\$subFolder\$feedFileName.txt -Delimiter ',' | Select-Object *,"agency_phone","agency_fare_url"
-			$csv | Export-Csv .\$rootFolder\$subFolder\$feedFileName.txt -Delimiter ',' -NoType
+			
+			# Update: SEPTA added this info to the agency in 2026
+			#$csv = Import-Csv .\$rootFolder\$subFolder\$feedFileName.txt -Delimiter ',' | Select-Object *,"agency_phone","agency_fare_url"
+			#$csv | Export-Csv .\$rootFolder\$subFolder\$feedFileName.txt -Delimiter ',' -NoType
 
 			($csv = Import-Csv .\$rootFolder\$subFolder\$feedFileName.txt -Delimiter ',') | ForEach {
 				if ($_.agency_id -match "SEPTA") {
 					# Change the agency_name from SEPTA to "SEPTA Regional Rail"
+					
 					$_.agency_name = "SEPTA Regional Rail"
-					$_.agency_phone = "215-580-7800"
-					$_.agency_fare_url = "https://wwww.septa.org/fares/regional-rail-zones/"
+					
+					# Update: SEPTA added this info to the agency in 2026
+					#$_.agency_phone = "215-580-7800"
+					#$_.agency_fare_url = "https://wwww.septa.org/fares/regional-rail-zones/"
 				}
 				
 				# Do not use noreply@septa.org for agency_email
