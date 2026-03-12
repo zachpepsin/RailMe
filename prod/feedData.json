@@ -28,20 +28,6 @@
 					"endDateTime":"2026-02-15T17:24"
 				},
 				{
-					"header":"Special Schedule\nMarch 10th",
-					"description":"On March 10th, from 10:30pm to 12:07am, PATCO is operating on a special schedule that is not reflected in RailMe.",
-					"url":"https://www.ridepatco.org/schedules/TW_2026-03-10.pdf",
-					"startDateTime":"",
-					"endDateTime":"2026-03-10T23:59"
-				},
-				{
-					"header":"Power Outage",
-					"description":"Trains are only operating between Lindenwold and 8th & Market at this time. Riders in Philadelphia should use 8th & Market or Franklin Square Station until power is restored.",
-					"url":"https://ridepatco.org/",
-					"startDateTime":"",
-					"endDateTime":"2026-03-11T23:59"
-				},
-				{
 					"header":"Special Schedule\nMarch 11th",
 					"description":"On March 11th, PATCO is operating on a special schedule that is not reflected in RailMe.",
 					"url":"https://www.ridepatco.org/schedules/TW_2026-03-11.pdf",
@@ -49,10 +35,17 @@
 					"endDateTime":"2026-03-11T23:59"
 				},
 				{
+					"header":"Special Schedule\nMarch 12th",
+					"description":"On March 12th, from 10:55pm to 11:49pm, PATCO is operating on a special schedule that is not reflected in RailMe.",
+					"url":"hhttps://www.ridepatco.org/schedules/TW_2026-03-12.pdf",
+					"startDateTime":"",
+					"endDateTime":"2026-03-12T23:59"
+				},
+				{
 					"header":"Possible Special Schedule",
 					"description":"PATCO may be operating on a special schedule. Go to RidePATCO.org for more information.",
 					"url":"https://www.ridepatco.org/schedules/schedules.asp",
-					"startDateTime":"2026-03-12T04:00",
+					"startDateTime":"2026-03-13T04:00",
 					"endDateTime":""
 				}
 			],
