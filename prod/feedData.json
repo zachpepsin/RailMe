@@ -21,13 +21,6 @@
 					"endDateTime":"2025-12-01T23:59"
 				},
 				{
-					"header":"Special Schedule\nFebruary 15th - EASTBOUND",
-					"description":"On February 15th, from 9:50am to 2:02pm, PATCO is operating on a special schedule for EASTBOUND trains that is not reflected in RailMe.",
-					"url":"https://www.ridepatco.org/schedules/TW_2026-02-15.pdf",
-					"startDateTime":"",
-					"endDateTime":"2026-02-15T17:24"
-				},
-				{
 					"header":"Special Schedule\nMarch 11th",
 					"description":"On March 11th, PATCO is operating on a special schedule that is not reflected in RailMe.",
 					"url":"https://www.ridepatco.org/schedules/TW_2026-03-11.pdf",
@@ -42,10 +35,31 @@
 					"endDateTime":"2026-03-12T23:59"
 				},
 				{
+					"header":"Special Schedule\nMarch 14th",
+					"description":"On March 14th, from 6:05am to 8:18pm, PATCO is operating on a special schedule that is not reflected in RailMe.",
+					"url":"https://www.ridepatco.org/schedules/TW_2026-03-14.pdf",
+					"startDateTime":"",
+					"endDateTime":"2026-03-14T20:18"
+				},
+				{
+					"header":"Special Schedule\nMarch 15th - EASTBOUND",
+					"description":"On March 15th, PATCO is operating on a special schedule for EASTBOUND trains that is not reflected in RailMe.",
+					"url":"https://www.ridepatco.org/schedules/TW_2026-03-15.pdf",
+					"startDateTime":"",
+					"endDateTime":"2026-03-15T23:18"
+				},
+				{
+					"header":"Special Schedule\nMarch 16th - EASTBOUND",
+					"description":"On March 16th, from 10:45pm to 11:33pm, PATCO is operating on a special schedule for EASTBOUND trains that is not reflected in RailMe.",
+					"url":"https://www.ridepatco.org/schedules/TW_2026-03-16.pdf",
+					"startDateTime":"",
+					"endDateTime":"2026-03-16T23:33"
+				},
+				{
 					"header":"Possible Special Schedule",
 					"description":"PATCO may be operating on a special schedule. Go to RidePATCO.org for more information.",
 					"url":"https://www.ridepatco.org/schedules/schedules.asp",
-					"startDateTime":"2026-03-16T04:00",
+					"startDateTime":"2026-03-17T04:00",
 					"endDateTime":""
 				}
 			],
