@@ -28,31 +28,31 @@
 					"endDateTime":"2026-03-20T23:35"
 				},
 				{
-					"header":"Special Schedule\nMarch 23rd",
-					"description":"On March 23rd, from 8:32pm to 12:00am, PATCO is operating on a special schedule that is not reflected in RailMe.",
-					"url":"https://www.ridepatco.org/schedules/TW_2026-03-23.pdf",
+					"header":"Special Schedule\nMarch 28th",
+					"description":"On March 28th, PATCO is operating on a special schedule that is not reflected in RailMe.",
+					"url":"https://www.ridepatco.org/schedules/TW_2026-03-28.pdf",
 					"startDateTime":"",
-					"endDateTime":"2026-03-23T23:59"
+					"endDateTime":"2026-03-28T23:59"
 				},
 				{
-					"header":"Special Schedule\nMarch 24th",
-					"description":"On March 24th, PATCO is operating on a special schedule that is not reflected in RailMe.",
-					"url":"https://www.ridepatco.org/schedules/TW_2026-03-24.pdf",
+					"header":"Special Schedule\nMarch 29th",
+					"description":"On March 29th, PATCO is operating on a special schedule that is not reflected in RailMe.",
+					"url":"https://www.ridepatco.org/schedules/TW_2026-03-28.pdf",
 					"startDateTime":"",
-					"endDateTime":"2026-03-24T23:59"
+					"endDateTime":"2026-03-29T06:27"
 				},
 				{
-					"header":"Special Schedule\nMarch 26th",
-					"description":"On March 26th, PATCO is operating on a special schedule that is not reflected in RailMe.",
-					"url":"https://www.ridepatco.org/schedules/TW_2026-03-26.pdf",
+					"header":"Special Schedule\nMarch 30th",
+					"description":"On March 30th, from 10:59pm to 12:03am, PATCO is operating on a special schedule that is not reflected in RailMe.",
+					"url":"https://www.ridepatco.org/schedules/TW_2026-03-30.pdf",
 					"startDateTime":"",
-					"endDateTime":"2026-03-26T23:59"
+					"endDateTime":"2026-03-30T23:59"
 				},
 				{
 					"header":"Possible Special Schedule",
 					"description":"PATCO may be operating on a special schedule. Go to RidePATCO.org for more information.",
 					"url":"https://www.ridepatco.org/schedules/schedules.asp",
-					"startDateTime":"2026-03-27T04:00",
+					"startDateTime":"2026-03-31T04:00",
 					"endDateTime":""
 				}
 			],
