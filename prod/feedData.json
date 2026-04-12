@@ -21,27 +21,6 @@
 					"endDateTime":"2025-12-01T23:59"
 				},
 				{
-					"header":"Special Schedule\nApril 1st",
-					"description":"On April 1st, PATCO is operating on a special schedule that is not reflected in RailMe.",
-					"url":"https://www.ridepatco.org/schedules/TW_2026-04-01.pdf",
-					"startDateTime":"",
-					"endDateTime":"2026-04-01T23:59"
-				},
-				{
-					"header":"Special Schedule\nApril 3rd - EASTBOUND",
-					"description":"On April 3rd, from 8:47pm to 11:35pm, PATCO is operating on a special schedule for EASTBOUND trains that is not reflected in RailMe.",
-					"url":"https://www.ridepatco.org/schedules/TW_2026-04-03.pdf",
-					"startDateTime":"",
-					"endDateTime":"2026-04-03T23:35"
-				},
-				{
-					"header":"Special Schedule\nApril 6th - EASTBOUND",
-					"description":"On April 6th, from 11:03pm to 12:11am, PATCO is operating on a special schedule for EASTBOUND trains that is not reflected in RailMe.",
-					"url":"https://www.ridepatco.org/schedules/TW_2026-04-06.pdf",
-					"startDateTime":"",
-					"endDateTime":"2026-04-06T23:35"
-				},
-				{
 					"header":"Special Schedule\nApril 10th",
 					"description":"On April 10th, PATCO is operating on a special schedule that is not reflected in RailMe.",
 					"url":"https://www.ridepatco.org/schedules/TW_2026-04-10.pdf",
@@ -49,10 +28,17 @@
 					"endDateTime":"2026-04-10T23:59"
 				},
 				{
+					"header":"Special Schedule\nApril 12th - EASTBOUND",
+					"description":"On April 12th, from 7:13am to 5:11pm, PATCO is operating on a special schedule for EASTBOUND trains that is not reflected in RailMe.",
+					"url":"https://www.ridepatco.org/schedules/TW_2026-04-12.pdf",
+					"startDateTime":"",
+					"endDateTime":"2026-04-12T17:11"
+				},
+				{
 					"header":"Possible Special Schedule",
 					"description":"PATCO may be operating on a special schedule. Go to RidePATCO.org for more information.",
 					"url":"https://www.ridepatco.org/schedules/schedules.asp",
-					"startDateTime":"2026-04-11T04:00",
+					"startDateTime":"2026-04-13T04:00",
 					"endDateTime":""
 				}
 			],
