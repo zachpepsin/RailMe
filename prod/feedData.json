@@ -21,31 +21,31 @@
 					"endDateTime":"2025-12-01T23:59"
 				},
 				{
-					"header":"Special Schedule\nApril 12th - EASTBOUND",
-					"description":"On April 12th, from 7:13am to 5:11pm, PATCO is operating on a special schedule for EASTBOUND trains that is not reflected in RailMe.",
+					"header":"Special Schedule\nApril 17th",
+					"description":"On April 17th, PATCO is operating on a special schedule that is not reflected in RailMe.",
+					"url":"https://www.ridepatco.org/schedules/TW_2026-04-17.pdf",
+					"startDateTime":"",
+					"endDateTime":"2026-04-17T23:59"
+				},
+				{
+					"header":"Special Schedule\nApril 18th",
+					"description":"On April 18th, from 12:09am to 6:25pm, PATCO is operating on a special schedule that is not reflected in RailMe.",
+					"url":"https://www.ridepatco.org/schedules/TW_2026-04-18.pdf",
+					"startDateTime":"",
+					"endDateTime":"2026-04-18T18:25"
+				},
+				{
+					"header":"Special Schedule\nApril 20th - EASTBOUND",
+					"description":"On April 20th, from 8:32pm to 12:07am, PATCO is operating on a special schedule for EASTBOUND trains that is not reflected in RailMe.",
 					"url":"https://www.ridepatco.org/schedules/TW_2026-04-12.pdf",
 					"startDateTime":"",
-					"endDateTime":"2026-04-12T17:11"
-				},
-				{
-					"header":"Special Schedule\nApril 15th",
-					"description":"On April 15th, PATCO is operating on a special schedule that is not reflected in RailMe.",
-					"url":"https://www.ridepatco.org/schedules/TW_2026-04-15.pdf",
-					"startDateTime":"",
-					"endDateTime":"2026-04-15T23:59"
-				},
-				{
-					"header":"Special Schedule\nApril 16th",
-					"description":"On April 16th, PATCO is operating on a special schedule that is not reflected in RailMe.",
-					"url":"https://www.ridepatco.org/schedules/TW_2026-04-16.pdf",
-					"startDateTime":"",
-					"endDateTime":"2026-04-16T23:59"
+					"endDateTime":"2026-04-20T23:59"
 				},
 				{
 					"header":"Possible Special Schedule",
 					"description":"PATCO may be operating on a special schedule. Go to RidePATCO.org for more information.",
 					"url":"https://www.ridepatco.org/schedules/schedules.asp",
-					"startDateTime":"2026-04-17T04:00",
+					"startDateTime":"2026-04-21T04:00",
 					"endDateTime":""
 				}
 			],
