@@ -28,13 +28,6 @@
 					"endDateTime":"2026-04-18T18:25"
 				},
 				{
-					"header":"Special Schedule\nApril 20th - EASTBOUND",
-					"description":"On April 20th, from 8:32pm to 12:07am, PATCO is operating on a special schedule for EASTBOUND trains that is not reflected in RailMe.",
-					"url":"https://www.ridepatco.org/schedules/TW_2026-04-12.pdf",
-					"startDateTime":"",
-					"endDateTime":"2026-04-20T23:59"
-				},
-				{
 					"header":"Special Schedule\nApril 22nd",
 					"description":"On April 22nd, PATCO is operating on a special schedule that is not reflected in RailMe.",
 					"url":"https://www.ridepatco.org/schedules/TW_2026-04-22.pdf",
@@ -42,17 +35,17 @@
 					"endDateTime":"2026-04-22T23:59"
 				},
 				{
-					"header":"Special Schedule\nApril 24th",
-					"description":"On April 24th, PATCO is operating on a special schedule that is not reflected in RailMe.",
-					"url":"https://www.ridepatco.org/schedules/TW_2026-04-24.pdf",
+					"header":"Special Schedule\nApril 25th - EASTBOUND",
+					"description":"On April 25th, from 7:17am to 6:41pm, PATCO is operating on a special schedule for EASTBOUND trains that is not reflected in RailMe.",
+					"url":"https://www.ridepatco.org/schedules/TW_2026-04-25.pdf",
 					"startDateTime":"",
-					"endDateTime":"2026-04-24T14:59"
+					"endDateTime":"2026-04-25T23:59"
 				},
 				{
 					"header":"Possible Special Schedule",
 					"description":"PATCO may be operating on a special schedule. Go to RidePATCO.org for more information.",
 					"url":"https://www.ridepatco.org/schedules/schedules.asp",
-					"startDateTime":"2026-04-25T04:00",
+					"startDateTime":"2026-04-26T04:00",
 					"endDateTime":""
 				}
 			],
