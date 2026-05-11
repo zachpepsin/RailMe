@@ -1,0 +1,3 @@
+stop_id,stop_name,stop_desc,stop_lat,stop_lon,zone_id,wheelchair_boarding
+001,Philadelphia,At Columbus Blvd & Walnut St - On Penn’s Landing by The Independence Seaport Museum,39.946241,-75.139817,001,1
+002,Camden,At Riverside Dr & Martin Luther King Blvd - Between the Adventure Aquarium and the Wiggins Park River Stage,39.944092,-75.132077,002,1
