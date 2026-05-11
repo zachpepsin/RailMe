@@ -1,0 +1,4 @@
+rider_category_id,rider_category_name,is_default_fare_category,eligibility_url
+adult,Adult,1,
+child,Child (4 and under),0,
+reduced,Reduced Fare Program (Seniors/Disabled),0,https://www.ridepatco.org/schedules/freedom_reduced_fare.html

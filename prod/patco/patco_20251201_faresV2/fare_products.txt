@@ -1,0 +1,17 @@
+fare_product_id,fare_product_name,rider_category_id,amount,currency,fare_media_id
+law_phl,Lindenwold, Ashland & Woodcrest to/from Philadelphia,,3.00,USD,freedom_card
+law_phl,Lindenwold, Ashland & Woodcrest to/from Philadelphia,,3.00,USD,paper
+hwc_phl,Haddonfield, Westmont & Collingswood to/from Philadelphia,,2.60,USD,freedom_card
+hwc_phl,Haddonfield, Westmont & Collingswood to/from Philadelphia,,2.60,USD,paper
+fav_phl,Ferry Avenue (Camden) to/from Philadelphia,,2.25,USD,freedom_card
+fav_phl,Ferry Avenue (Camden) to/from Philadelphia,,2.25,USD,paper
+nj_nj,Any New Jersey station (except between Broadway and City Hall) to Any New Jersey Station,,1.60,USD,freedom_card
+nj_nj,Any New Jersey station (except between Broadway and City Hall) to Any New Jersey Station,,1.60,USD,paper
+brd_chc,Broadway (Camden) to/from City Hall (Camden),,1.40,USD,freedom_card
+brd_chc,Broadway (Camden) to/from City Hall (Camden),,1.40,USD,paper
+brdchc_phl,Broadway & City Hall (Camden) to/from Philadelphia,,1.40,USD,freedom_card
+brdchc_phl,Broadway & City Hall (Camden) to/from Philadelphia,,1.40,USD,paper
+phl_phl,Any Philadelphia Station to Any Philadelphia Station,,1.40,USD,freedom_card
+phl_phl,Any Philadelphia Station to Any Philadelphia Station,,1.40,USD,paper
+reduced,Reduced Fare,reduced,0.70,USD,freedom_card
+child,Children 4 and under,child,0.00,USD,

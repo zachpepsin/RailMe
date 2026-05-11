@@ -1,0 +1,2 @@
+agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone,agency_fare_url,agency_email
+PATCO,PATCO,http://www.ridepatco.org,America/New_York,en-US,856-772-6900,http://www.ridepatco.org/schedules/fares.html,patco@ridepatco.org

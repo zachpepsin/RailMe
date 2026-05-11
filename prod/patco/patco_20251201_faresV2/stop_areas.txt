@@ -1,0 +1,15 @@
+area_id,stop_id
+law,1010
+law,1020
+law,1030
+hwc,1040
+hwc,1050
+hwc,1060
+fav,1070
+brdchc,1080
+brdchc,1090
+phl,1100
+phl,1110
+phl,1120
+phl,1130
+phl,1140

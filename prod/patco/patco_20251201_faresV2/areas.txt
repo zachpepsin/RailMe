@@ -1,0 +1,6 @@
+area_id,area_name
+law,Lindenwold/Ashland/Woodcrest
+hwc,Haddonfield/Westmont/Collingswood
+fav,Camden - Ferry Avenue
+brdchc,Camden - City Hall & Broadway
+phl,Philadelphia Stations
