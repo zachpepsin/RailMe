@@ -35,13 +35,6 @@
 					"endDateTime":"2026-05-10T23:59"
 				},
 				{
-					"header":"Special Schedule\nMay 16th - EASTBOUND",
-					"description":"On May 16th, from 7:13am to 5:21pm, PATCO is operating on a special schedule for EASTBOUND trains that is not reflected in RailMe.",
-					"url":"https://www.ridepatco.org/schedules/TW_2026-05-16.pdf",
-					"startDateTime":"",
-					"endDateTime":"2026-05-16T17:21"
-				},
-				{
 					"header":"Special Schedule\nMay 17th - EASTBOUND",
 					"description":"On May 17th, PATCO is operating on a special schedule for EASTBOUND trains that is not reflected in RailMe.",
 					"url":"https://www.ridepatco.org/schedules/TW_2026-05-17.pdf",
