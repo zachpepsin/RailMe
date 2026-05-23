@@ -1,55 +1,55 @@
 fare_product_id,fare_product_name,rider_category_id,amount,currency,fare_media_id
 phl_phl,Any Philadelphia Station to Any Philadelphia Station,,1.40,USD,freedom_card
 phl_phl,Any Philadelphia Station to Any Philadelphia Station,,1.40,USD,paper
-phl_phl,Any Philadelphia Station to Any Philadelphia Station,,1.40,USD,cemv
+phl_phl,Any Philadelphia Station to Any Philadelphia Station,,1.40,USD,contactless
 phl_phl,Any Philadelphia Station to Any Philadelphia Station,child,0.00,USD,
 brdchc_phl,Broadway & City Hall (Camden) to/from Philadelphia,,1.40,USD,freedom_card
 brdchc_phl,Broadway & City Hall (Camden) to/from Philadelphia,,1.40,USD,paper
-brdchc_phl,Broadway & City Hall (Camden) to/from Philadelphia,,1.40,USD,cemv
+brdchc_phl,Broadway & City Hall (Camden) to/from Philadelphia,,1.40,USD,contactless
 brdchc_phl,Broadway & City Hall (Camden) to/from Philadelphia,child,0.00,USD,
 brd_chc,Broadway to/from City Hall (Camden),,1.40,USD,freedom_card
 brd_chc,Broadway to/from City Hall (Camden),,1.40,USD,paper
-brd_chc,Broadway to/from City Hall (Camden),,1.40,USD,cemv
+brd_chc,Broadway to/from City Hall (Camden),,1.40,USD,contactless
 brd_chc,Broadway to/from City Hall (Camden),child,0.00,USD,
 fav_phl,Ferry Avenue (Camden) to/from Philadelphia,,2.25,USD,freedom_card
 fav_phl,Ferry Avenue (Camden) to/from Philadelphia,,2.25,USD,paper
-fav_phl,Ferry Avenue (Camden) to/from Philadelphia,,2.25,USD,cemv
+fav_phl,Ferry Avenue (Camden) to/from Philadelphia,,2.25,USD,contactless
 fav_phl,Ferry Avenue (Camden) to/from Philadelphia,child,0.00,USD,
 hwc_phl,"Haddonfield, Westmont & Collingswood to/from Philadelphia",,2.60,USD,freedom_card
 hwc_phl,"Haddonfield, Westmont & Collingswood to/from Philadelphia",,2.60,USD,paper
-hwc_phl,"Haddonfield, Westmont & Collingswood to/from Philadelphia",,2.60,USD,cemv
+hwc_phl,"Haddonfield, Westmont & Collingswood to/from Philadelphia",,2.60,USD,contactless
 hwc_phl,"Haddonfield, Westmont & Collingswood to/from Philadelphia",child,0.00,USD,
 law_phl,"Lindenwold, Ashland & Woodcrest to/from Philadelphia",,3.00,USD,freedom_card
 law_phl,"Lindenwold, Ashland & Woodcrest to/from Philadelphia",,3.00,USD,paper
-law_phl,"Lindenwold, Ashland & Woodcrest to/from Philadelphia",,3.00,USD,cemv
+law_phl,"Lindenwold, Ashland & Woodcrest to/from Philadelphia",,3.00,USD,contactless
 law_phl,"Lindenwold, Ashland & Woodcrest to/from Philadelphia",child,0.00,USD,
 nj_nj,Any New Jersey Station to Any New Jersey Station,,1.60,USD,freedom_card
 nj_nj,Any New Jersey Station to Any New Jersey Station,,1.60,USD,paper
-nj_nj,Any New Jersey Station to Any New Jersey Station,,1.60,USD,cemv
+nj_nj,Any New Jersey Station to Any New Jersey Station,,1.60,USD,contactless
 nj_nj,Any New Jersey Station to Any New Jersey Station,child,0.00,USD,
 phl_phl_offpeak,Any Philadelphia Station to Any Philadelphia Station,,1.40,USD,freedom_card
 phl_phl_offpeak,Any Philadelphia Station to Any Philadelphia Station,,1.40,USD,paper
-phl_phl_offpeak,Any Philadelphia Station to Any Philadelphia Station,,1.40,USD,cemv
+phl_phl_offpeak,Any Philadelphia Station to Any Philadelphia Station,,1.40,USD,contactless
 phl_phl_offpeak,Any Philadelphia Station to Any Philadelphia Station,child,0.00,USD,
 phl_phl_offpeak,Any Philadelphia Station to Any Philadelphia Station,reduced,0.70,USD,freedom_card
 brdchc_phl_offpeak,Broadway & City Hall (Camden) to/from Philadelphia,,1.40,USD,freedom_card
 brdchc_phl_offpeak,Broadway & City Hall (Camden) to/from Philadelphia,,1.40,USD,paper
-brdchc_phl_offpeak,Broadway & City Hall (Camden) to/from Philadelphia,,1.40,USD,cemv
+brdchc_phl_offpeak,Broadway & City Hall (Camden) to/from Philadelphia,,1.40,USD,contactless
 brdchc_phl_offpeak,Broadway & City Hall (Camden) to/from Philadelphia,child,0.00,USD,
 brdchc_phl_offpeak,Broadway & City Hall (Camden) to/from Philadelphia,reduced,0.70,USD,freedom_card
 brd_chc_offpeak,Broadway to/from City Hall (Camden),,1.40,USD,freedom_card
 brd_chc_offpeak,Broadway to/from City Hall (Camden),,1.40,USD,paper
-brd_chc_offpeak,Broadway to/from City Hall (Camden),,1.40,USD,cemv
+brd_chc_offpeak,Broadway to/from City Hall (Camden),,1.40,USD,contactless
 brd_chc_offpeak,Broadway to/from City Hall (Camden),child,0.00,USD,
 brd_chc_offpeak,Broadway to/from City Hall (Camden),reduced,0.70,USD,freedom_card
 fav_phl_offpeak,Ferry Avenue (Camden) to/from Philadelphia,,2.25,USD,freedom_card
 fav_phl_offpeak,Ferry Avenue (Camden) to/from Philadelphia,,2.25,USD,paper
-fav_phl_offpeak,Ferry Avenue (Camden) to/from Philadelphia,,2.25,USD,cemv
+fav_phl_offpeak,Ferry Avenue (Camden) to/from Philadelphia,,2.25,USD,contactless
 fav_phl_offpeak,Ferry Avenue (Camden) to/from Philadelphia,child,0.00,USD,
 fav_phl_offpeak,Ferry Avenue (Camden) to/from Philadelphia,reduced,0.70,USD,freedom_card
 hwc_phl_offpeak,"Haddonfield, Westmont & Collingswood to/from Philadelphia",,2.60,USD,freedom_card
 hwc_phl_offpeak,"Haddonfield, Westmont & Collingswood to/from Philadelphia",,2.60,USD,paper
-hwc_phl_offpeak,"Haddonfield, Westmont & Collingswood to/from Philadelphia",,2.60,USD,cemv
+hwc_phl_offpeak,"Haddonfield, Westmont & Collingswood to/from Philadelphia",,2.60,USD,contactless
 hwc_phl_offpeak,"Haddonfield, Westmont & Collingswood to/from Philadelphia",child,0.00,USD,
 hwc_phl_offpeak,"Haddonfield, Westmont & Collingswood to/from Philadelphia",reduced,0.70,USD,freedom_card
 law_phl_offpeak,"Lindenwold, Ashland & Woodcrest to/from Philadelphia",,3.00,USD,freedom_card
