@@ -1,0 +1,487 @@
+pathway_id,from_stop_id,to_stop_id,pathway_mode,is_bidirectional,length,traversal_time,stair_count,max_slope,min_width,signposted_as,reversed_signposted_as
+pw_00e53ae062fd54d2,32095_entrance_a_busway_01,32095_node_elevator_a_busway_01,1,1,6.93,,,,,Olney Transit Center | Elevator,
+pw_00f2a87c1013bdd0,32095_node_g_stairs_mezzanine_01,32095_node_g_stairs_mezzanine_02,2,1,4.87,,9,,,,
+pw_024b55456e9a0487,32095_entrance_stairs_e_busway_01,32095_node_e_stairs_mezzanine_01,2,1,,,19,,,"B1, B2, B3 Northbound & Southbound",
+pw_04809be46d6b0bf2,32095_node_g_stairs_mezzanine_01,32095_node_exit_gate_mezzanine_04,1,1,17.58,,,,,,"Exit G Broad Street & Olney Av NE | Buses | 26, 18 West"
+pw_08bfe737e938cf63,32095_node_northbound_stairs_mezzanine_02,32095_node_stairs_platform_level_02,2,1,,,19,,,,
+pw_09e5a7d69d658857,32095_node_exit_gate_mezzanine_04,32095_node_east_mezzanine_01,1,1,26.32,,,,,,
+pw_0ffc47bb3bd7d9ca,32095_node_c_stairs_mezzanine_01,32095_node_east_mezzanine_01,1,1,19.7,,,,,,"Exit C | Buses | 18 Express, L"
+pw_101770347b92c6d9,32095_node_south_mezzanine_01,32095_node_southbound_stairs_mezzanine_03,1,1,14.38,,,,,"Southbound, B1 NRG Station, B2 Walnut Locust, B3 8th-Market",
+pw_11238f7e2cf53296,32095_boarding_northbound_local_platform_level_02,32095_boarding_northbound_local_platform_level_01,1,1,62.25,,,,,,
+pw_167ddb1a45a3879c,32095_node_northwest_boarding_busway_01,373,1,1,4.18,,,,,,
+pw_170ce353546361f4,32095_node_southbound_stairs_mezzanine_01,32095_node_southbound_stairs_platform_01,2,1,,,25,,,,
+pw_179f02399323af74,32095_node_south_mezzanine_01,32095_node_southbound_escalator_mezzanine_01,1,1,7.34,,,,,"B1, B2, B3 Northbound Fern Rock Transit Center",
+pw_17ac6a5a64d3d803,32095_node_escalator_to_street_mezzanine_01,32095_node_exit_a_mezzanine_01,1,1,2.01,,,,,,
+pw_1df685a4566a05b0,32095_node_southbound_escalator_mezzanine_01,32095_node_exit_gate_mezzanine_02,1,1,4.04,,,,,"Exit Broad Street | Buses | 18, 16 North",
+pw_1fb12c9269a6bf29,32095_node_northbound_elevator_platform_level_01,32095_boarding_northbound_local_platform_level_04,1,1,10.82,,,,,B1 Northbound Fern Rock Transit Center,Elevator | Exit to Street | Buses
+pw_221853e84f621f54,32095_node_northwest_boarding_busway_01,32636,1,1,21.58,,,,,Bus | 26 Frankford Transportation Center,
+pw_23d088f667eb6f56,32095_node_fare_gate_mezzanine_03,32095_node_north_mezzanine_01,1,1,14.52,,,,,,
+pw_249f9e52e31e09a0,32095_node_north_mezzanine_01,32095_node_southbound_stairs_mezzanine_02,1,1,13.85,,,,,"Southbound, B1 NRG Station, B2 Walnut Locust, B3 8th-Market",
+pw_25289aaf3629b5aa,32095_node_stairs_platform_level_02,32095_boarding_northbound_local_platform_level_02,1,1,11.47,,,,,B1 Northbound Fern Rock Transit Center,Exit to Street | Buses
+pw_25c3465569ee914b,32636,32631,1,1,6.39,,,,,"Bus | 80 Express Horsham, 22 Willow Grove & Warminster",Bus | 26 Frankford Transportation Center
+pw_2658849d9a4e577c,32095_boarding_southbound_express_platform_level_04,32095_boarding_southbound_express_platform_level_03,1,1,60.24,,,,,,
+pw_2d3187e86a7be53e,32095_node_exit_a_mezzanine_01,32095_node_east_mezzanine_01,1,1,5.31,,,,,,"Exit A Broad Street & Olney Ave SE | Buses | 6, 18 Express, 22, 55, 80, L"
+pw_304b076359aefd72,32095_boarding_southbound_local_platform_level_01,32095_boarding_southbound_express_platform_level_03,1,1,4.37,,,,,"Southbound B2 Walnut-Locust, B3 8th-Market",B1 Southbound NRG Station
+pw_3137c85a05639f20,32095_node_southbound_stairs_platform_01,32095_boarding_southbound_express_platform_level_04,1,1,3.9,,,,,"Southbound B2 Walnut-Locust, B3 8th-Market",Exit to Street | Buses
+pw_315949c1700a03d4,32095_node_stairs_platform_level_06,32095_boarding_southbound_express_platform_level_03,1,1,26.4,,,,,"Southbound B2 Walnut-Locust, B3 8th-Market",Exit to Street | Buses
+pw_32041541400924e1,32095_node_south_mezzanine_01,32095_node_northbound_stairs_mezzanine_01,1,1,14.56,,,,,"B1, B2, B3 Northbound Fern Rock Transit Center",
+pw_33e393bf8d66b66a,32095_node_northwest_boarding_busway_01,32628,1,1,3.33,,,,,Bus | 55 Wilson Grove & Doyleston,
+pw_399698feb0691e71,32095_entrance_a_busway_01,32095_node_escalator_a_busway_01,1,1,4.17,,,,,,
+pw_3a27f47046a3d4af,32095_node_fare_gate_mezzanine_02,32095_node_southbound_elevator_mezzanine_01,1,1,10.64,,,,,"Southbound B1, B2, B3 | Elevator",
+pw_3c9a987470fbf13f,32095_node_southbound_elevator_mezzanine_01,32095_node_southbound_elevator_platform_01,5,1,,36,,,0.92,"Southbound NRG Station, B1, Walnut Locust, B2, 8th-Market, B3",
+pw_3ea847f1b2823381,32095_node_stairs_platform_level_03,32095_boarding_northbound_local_platform_level_01,1,1,6.81,,,,,B1 Northbound Fern Rock Transit Center,Exit to Street | Buses
+pw_464726d40c1221a1,32095_node_northbound_elevator_mezzanine_02,32095_node_northbound_elevator_platform_level_01,5,1,,36,,,0.92,"B1, B2, B3, Northbound Fern Rock Transit Center",Elevator | Exit to Street | Buses
+pw_465f519d8af38a7c,32095_node_south_boarding_busway_01,32627,1,1,13.06,,,,,Bus | Erdenheim and the Plymouth Meeting Mall,
+pw_49a49bc4eaf3ca36,32095_boarding_northbound_express_platform_level_03,32095_boarding_northbound_local_platform_level_03,1,1,4.61,,,,,B1 Northbound Fern Rock Transit Center,"B2, B3 Northbound Fern Rock Transit Center"
+pw_49f5bb6cb937488c,32095_node_exit_gate_mezzanine_01,32095_node_exit_gate_mezzanine_04,7,0,3.62,,,,0.92,Exit,
+pw_4afd34fc88f5ffb0,32095_boarding_northbound_local_platform_level_01,32095_boarding_northbound_local_platform_level_04,1,1,25.24,,,,,,
+pw_5005a043212c5550,32095_node_fare_gate_mezzanine_02,32095_node_northbound_elevator_mezzanine_02,1,1,12.53,,,,,"Northbound B1, B2, B3 | Elevator",
+pw_5016991be177cbe4,32095_node_southbound_elevator_platform_01,32095_boarding_southbound_local_platform_level_04,1,1,8.97,,,,,B1 Southbound NRG Station,Elevator | Exit to Street | Buses
+pw_50e1c438c01f45ac,32095_node_stairs_b_busway_01,32630,1,1,10.77,,,,,Bus | 6 Cheltenham-Ogontz,
+pw_540e98394abaad78,32095_node_southbound_stairs_mezzanine_03,32095_node_stairs_platform_level_05,2,1,,,25,,,"Southbound NRG Station, B1, Walnut Locust, B2, 8th-Market, B3",
+pw_54852fa0043bec95,32095_boarding_southbound_local_platform_level_01,32095_boarding_southbound_local_platform_level_03,1,1,58.93,,,,,,
+pw_5834756e5490d9d2,32095_node_fare_gate_mezzanine_03,32095_node_northbound_stairs_mezzanine_03,1,1,4.89,,,,,"B1, B2, B3 Northbound Fern Rock Transit Center",
+pw_5e33888e8d176aaf,32095_node_stairs_platform_level_03,32095_boarding_northbound_express_platform_level_04,1,1,8.48,,,,,"B2, B3 Northbound Fern Rock Transit Center",Exit to Street | Buses
+pw_5fa313af6f3456f7,32095_boarding_northbound_express_platform_01,32095_boarding_northbound_local_platform_level_02,1,1,5.31,,,,,B1 Northbound Fern Rock Transit Center,"B2, B3 Northbound Fern Rock Transit Center"
+pw_601b541af1044f3a,32095_node_a_stairs_mezzanine_01,32095_node_exit_a_mezzanine_01,1,1,2.98,,,,,,
+pw_61f64616313cd305,32095_node_busway_entrance_busway_01,32095_node_central_boarding_busway_01,1,1,13.05,,,,,,
+pw_626694bc3f8f4d6c,32095_boarding_southbound_express_platform_level_01,32095_boarding_southbound_local_platform_level_04,1,1,7.75,,,,,B1 Southbound NRG Station,"Southbound B2 Walnut-Locust, B3 8th-Market"
+pw_63c94fe918b63750,32095_node_fare_gate_mezzanine_02,32095_node_south_mezzanine_01,1,1,13.97,,,,,,
+pw_652947639717ce34,32095_entrance_stairs_d_busway_01,32095_node_d_stairs_mezzanine_01,2,1,,,22,,,"B1, B2, B3 Northbound & Southbound","Exit D Broad Street | Buses | 18, 16 North"
+pw_6c72636202de0e45,32095_node_east_mezzanine_01,32095_node_fare_gate_mezzanine_01,1,1,15.9,,,,,"B1, B2, B3 Northbound & Southbound","Elevator | Exit Broad St & Olney Av SE | Buses | 6, 8, 16, 18, 22, 26, 55, 80, L"
+pw_72db6ebf19a48fcb,32095_entrance_stairs_e_busway_02,32095_node_e_stairs_mezzanine_01,2,1,,,21,,,"B1, B2, B3 Northbound & Southbound",
+pw_773d9513738972c8,32095_node_stairs_c_busway_01,32095_node_c_stairs_mezzanine_01,2,1,,,23,,,"B1, B2, B3 Northbound & Southbound",
+pw_7760cd90565ea321,32095_node_south_boarding_busway_01,32095_node_stairs_c_busway_01,1,1,6.18,,,,,,
+pw_799c7d7a25e268c8,32095_node_fare_gate_mezzanine_03,32095_node_southbound_stairs_mezzanine_01,1,1,4.07,,,,,"Southbound, B1 NRG Station, B2 Walnut Locust, B3 8th-Market",
+pw_7bcea1a4221d783f,32095_node_north_mezzanine_01,32095_node_exit_gate_mezzanine_01,1,1,9.43,,,,,,
+pw_7d2254b05afeec50,32095_node_northbound_elevator_platform_level_01,32095_boarding_northbound_express_platform_level_02,1,1,5.09,,,,,"B2, B3 Northbound Fern Rock Transit Center",Elevator | Exit to Street | Buses
+pw_7fe4148295f5d1b0,32095_node_central_boarding_busway_01,32095_node_stairs_c_busway_01,1,1,13.23,,,,,,
+pw_81b480529da04ca8,32095_entrance_stairs_g_busway_02,32095_node_g_stairs_mezzanine_02,2,1,,,18,,,"B1, B2, B3 Northbound & Southbound",
+pw_8451d6f5573e0acb,32095_entrance_a_busway_01,32636,1,1,29.68,,,,,Bus | 26 Frankford Transportation Center,
+pw_86b0c69caf5dbc90,32095_boarding_northbound_local_platform_level_04,32095_node_northbound_escalator_platform_level_01,1,1,5.22,,,,,Exit to Street | Buses,
+pw_8e7ce1d6fae67ee2,32095_node_stairs_platform_level_06,32095_boarding_southbound_local_platform_level_01,1,1,26.15,,,,,B1 Southbound NRG Station,Exit to Street | Buses
+pw_9053369f05b4acda,32095_node_southbound_stairs_platform_01,32095_boarding_southbound_local_platform_level_03,1,1,3.46,,,,,B1 Southbound NRG Station,Exit to Street | Buses
+pw_92b135f84b2b800c,32095_node_stairs_platform_level_05,32095_boarding_southbound_local_platform_level_02,1,1,51.37,,,,,B1 Southbound NRG Station,Exit to Street | Buses
+pw_97062e14de351b61,32095_entrance_stairs_f_busway_01,32095_node_f_stairs_mezzanine_01,2,1,,,31,,,"B1, B2, B3 Northbound & Southbound",
+pw_994dc6b87bf6e3d6,32095_node_b_stairs_mezzanine_01,32095_node_east_mezzanine_01,1,1,29.05,,,,,,Exit B | Buses | 6
+pw_a553456e4692d733,32095_node_northbound_stairs_mezzanine_01,32095_node_northbound_stairs_platform_01,2,1,,,25,,,,
+pw_a661bc53d0e8c838,32095_node_exit_gate_mezzanine_03,32095_node_exit_gate_mezzanine_05,7,0,1.84,,,,0.92,Exit,
+pw_a68b8061fef98221,32095_node_east_mezzanine_01,32095_node_d_stairs_mezzanine_01,1,1,26.8,,,,,,"B1, B2, B3 Northbound & Southbound"
+pw_a77b3911bfd4ded2,32095_boarding_southbound_express_platform_level_02,32095_boarding_southbound_local_platform_level_02,1,1,4.54,,,,,B1 Southbound NRG Station,"Southbound B2 Walnut-Locust, B3 8th-Market"
+pw_ab038b6c52d074f7,32095_node_e_stairs_mezzanine_01,32095_node_e_stairs_mezzanine_02,2,1,9.0,,9,,,,"Exit E Broad St & Olney Av SW | Buses | 8, 16 South, 18, 26 East"
+pw_ab2e8281ca317818,32095_boarding_southbound_express_platform_level_01,32095_boarding_southbound_express_platform_level_02,1,1,64.27,,,,,,
+pw_ae3f7d8de7e1b8d3,32095_node_stairs_platform_level_05,32095_boarding_southbound_express_platform_level_02,1,1,51.26,,,,,"Southbound B2 Walnut-Locust, B3 8th-Market",Exit to Street | Buses
+pw_b0dacd0ef9f0bf79,32095_node_elevator_to_street_mezzanine_01,32095_node_exit_a_mezzanine_01,1,1,7.62,,,,,,
+pw_b272f3b92f75e480,32095_node_exit_gate_mezzanine_05,32095_node_west_mezzanine_01,1,1,21.18,,,,,,
+pw_b5e99169d70880f0,32095_boarding_northbound_express_platform_level_04,32095_boarding_northbound_express_platform_level_02,1,1,32.87,,,,,,
+pw_bc963946a6cd0b02,32095_node_south_boarding_busway_01,32629,1,1,16.48,,,,,"Bus | 18 Express to Cedarbrook Plaza, Weekend PM Services Only",
+pw_bdfbb4f4d9c73a24,32095_node_exit_gate_mezzanine_06,32095_node_d_stairs_mezzanine_01,1,1,9.09,,,,,,
+pw_bf5b0bb229bcdc8c,32095_node_north_mezzanine_01,32095_node_exit_gate_mezzanine_03,1,1,8.07,,,,,,
+pw_c11060b75cc266d1,32095_node_west_mezzanine_01,32095_node_fare_gate_mezzanine_01,1,1,13.06,,,,,"B1, B2, B3 Northbound & Southbound","Exit Broad St & Olney SW | Buses | 8, 16 South - 18, 26 East"
+pw_c2d1ab58e10a90c1,32095_boarding_southbound_local_platform_level_03,32095_boarding_southbound_express_platform_level_04,1,1,6.4,,,,,"Southbound B2 Walnut-Locust, B3 8th-Market",B1 Southbound NRG Station
+pw_c35aa7ecc080ce7a,32095_node_northbound_escalator_platform_level_01,32095_node_southbound_escalator_mezzanine_01,4,0,,44,,,0.58,Exit to Street | Buses,
+pw_c6382b0f0fbd4ef7,32095_boarding_northbound_local_platform_level_04,32095_boarding_northbound_local_platform_level_03,1,1,68.54,,,,,,
+pw_cb139bae12132e7e,32095_node_west_mezzanine_01,32095_node_e_stairs_mezzanine_02,1,1,7.05,,,,,"Exit E Broad St & Olney Av SW | Buses | 8, 16 South, 18, 26 East",
+pw_cd1897f3620cf0e3,32095_node_busway_entrance_busway_01,32095_node_northwest_boarding_busway_01,1,1,3.69,,,,,,
+pw_d03af6250b6cdc8f,32095_node_fare_gate_mezzanine_02,32095_node_fare_gate_mezzanine_01,7,0,8.37,,,,0.92,,
+pw_d062b607dac37d7b,32095_node_stairs_b_busway_01,32095_node_b_stairs_mezzanine_01,2,1,,,22,,,"B1, B2, B3 Northbound & Southbound",
+pw_d1b737fca3fedd12,32095_node_stairs_platform_level_02,32095_boarding_northbound_express_platform_01,1,1,12.4,,,,,"B2, B3 Northbound Fern Rock Transit Center",Exit to Street | Buses
+pw_d342c5fb26d0543a,32095_boarding_northbound_express_platform_level_02,32095_boarding_northbound_express_platform_level_03,1,1,75.03,,,,,,
+pw_d352fac152c3e16c,32095_boarding_southbound_local_platform_level_02,32095_boarding_southbound_local_platform_level_04,1,1,70.75,,,,,,
+pw_d5f2da702b5899f1,32095_node_f_stairs_mezzanine_01,32095_node_exit_gate_mezzanine_05,1,1,11.98,,,,,,Exit F Broad Street & Olney Av NW
+pw_d92a2ae9b83dfd84,32095_node_fare_gate_mezzanine_01,32095_node_fare_gate_mezzanine_02,6,0,8.37,,,,0.92,"B1, B2, B3 Northbound & Southbound",
+pw_db73a7c38bf1a97b,32095_entrance_a_busway_01,32095_node_stairs_a_busway_01,1,1,3.15,,,,,"B1, B2, B3 Northbound & Southbound",
+pw_dbd59ca3d1f4f128,32095_node_northbound_stairs_platform_01,32095_boarding_northbound_express_platform_level_03,1,1,51.05,,,,,"B2, B3 Northbound Fern Rock Transit Center",Exit to Street | Buses
+pw_ddc5c0e9683023c0,32095_node_north_mezzanine_01,32095_node_northbound_stairs_mezzanine_02,1,1,14.29,,,,,"B1, B2, B3 Northbound Fern Rock Transit Center",
+pw_df5fa19c02c763df,32095_node_northwest_boarding_busway_01,32631,1,1,20.0,,,,,"Bus | 80 Express Horsham, 22 Willow Grove & Warminster",
+pw_e05636126e4ed23b,32095_boarding_southbound_local_platform_level_04,32095_boarding_southbound_local_platform_level_03,1,1,41.84,,,,,,
+pw_e0e9d833902f72a6,32095_boarding_southbound_express_platform_level_04,32095_boarding_southbound_express_platform_level_01,1,1,47.04,,,,,,
+pw_e219d4b66f121921,32095_entrance_stairs_g_busway_01,32095_node_g_stairs_mezzanine_02,2,1,,,15,,,"B1, B2, B3 Northbound & Southbound",
+pw_e22a13027604202f,32095_node_elevator_a_busway_01,32095_node_elevator_to_street_mezzanine_01,5,1,,,,,0.93,,
+pw_e540bd11d7ef2181,32095_node_south_mezzanine_01,32095_node_exit_gate_mezzanine_02,1,1,10.61,,,,,"Exit Broad Street | Buses | 18, 16 North",
+pw_e77a4d12d15b5ef7,32095_node_central_boarding_busway_01,32630,1,1,1.86,,,,,Bus | 6 Cheltenham-Ogontz,
+pw_e93a2867004b99b0,32095_node_southbound_elevator_platform_01,32095_boarding_southbound_express_platform_level_01,1,1,15.47,,,,,"Southbound B2 Walnut-Locust, B3 8th-Market",Exit to Street | Buses
+pw_eb37146ac04c6841,32095_node_escalator_to_street_mezzanine_01,32095_node_escalator_a_busway_01,4,0,,20,,,0.58,,
+pw_ec0db4075e463199,32095_boarding_northbound_express_platform_01,32095_boarding_northbound_express_platform_level_04,1,1,48.88,,,,,,
+pw_f4ccf6a03d6b575a,32095_entrance_a_busway_01,32095_node_busway_entrance_busway_01,1,1,8.65,,,,,,
+pw_f8a5a50fa8782e2c,32095_entrance_a_busway_01,373,1,1,10.97,,,,,Bus | 18 Fox Chase,
+pw_faeb92e016cf33dc,32095_boarding_northbound_express_platform_level_02,32095_boarding_northbound_local_platform_level_04,1,1,8.54,,,,,B1 Northbound Fern Rock Transit Center,"B2, B3 Northbound Fern Rock Transit Center"
+pw_fba5d1b77b647df6,32095_node_stairs_a_busway_01,32095_node_a_stairs_mezzanine_01,2,1,,,25,,,,
+pw_fc87511b76bc3555,32095_node_southbound_stairs_mezzanine_02,32095_node_stairs_platform_level_06,2,1,,,19,,,,
+pw_fda6dbcf21896e1b,32095_node_exit_gate_mezzanine_02,32095_node_exit_gate_mezzanine_06,7,0,2.4,,,,0.92,Exit,
+pw_fddc72ba1324d567,32095_node_northbound_stairs_mezzanine_03,32095_node_stairs_platform_level_03,2,1,,,25,,,,
+pw_ffca72edef934903,32095_node_northbound_stairs_platform_01,32095_boarding_northbound_local_platform_level_03,1,1,50.93,,,,,B1 Northbound Fern Rock Transit Center,Exit to Street | Buses
+pw_0184f77572ffaaa5,33035_node_30th_street_northwest_elevator,33035_node_mezzanine_30th_street_northwest_elevator,5,1,,38,,,0.9,,
+pw_0326f8344101b86f,33035_entrance_31st_street_northeast,33035_node_31st_street_northeast_stair,1,1,3.59,,,,,Market-Frankford Line | Trolleys,
+pw_087f2a65baa10ebc,33035_node_mezzanine_paid_stair_market_central_southwest,33035_node_mezzanine_faregate_market_central_southwest_paid,1,1,14.34,,,,,,Exit 31st Street
+pw_09cd93be1328bade,33035_node_mezzanine_rotogate_30th_street_southwest_unpaid,33035_node_mezzanine_rotogate_market_northeast_paid,6,1,3.66,,,,0.9,L,30th Street Exit
+pw_0a73d514f372d805,33035_node_mezzanine_faregate_central_unpaid,33035_node_mezzanine_faregate_central_paid,6,1,2.04,,,,0.9,L Eastbound & Westbound | T Eastbound & Westbound,Exit
+pw_0d6f2b4bd4083dd0,33035_node_platform_elevator_trolley_eastbound,33035_node_mezzanine_paid_elevator_trolley_eastbound,5,1,,35,,,0.9,T Eastbound,
+pw_0e951717d856f72e,33035_node_mezzanine_paid_elevator_market_central_southwest,33035_node_mezzanine_faregate_market_central_southwest_paid,1,1,6.62,,,,,Exit 31st Street,Elevator to Market-Frankford Line Platform
+pw_110a2089b5fc957e,33035_node_mezzanine_rotogate_market_central_southwest_unpaid,33035_node_mezzanine_unpaid_ramp_31st_street_northeast,1,1,14.51,,,,,Exit 31st St & Market St NE,L | T
+pw_144753fbb70b1f87,33035_node_mezzanine_rotogate_market_southwest_paid,33035_node_mezzanine_rotogate_market_southwest_unpaid,6,1,1.96,,,,0.9,L | T,South 31st Street Exit
+pw_1448a125620f651b,33035_node_platform_stair_trolley_eastbound,33035_boarding_trolley_eastbound,1,1,2.29,,,,,,
+pw_147a2b0977ab8126,33035_node_mezzanine_rotogate_market_northeast_paid,33035_node_mezzanine_rotogate_market_northeast_unpaid,6,1,3.58,,,,0.9,L,Exit 30th Street | Regional Rail | Amtrak
+pw_15cea6e31f394079,33035_node_mezzanine_paid_central_north,33035_node_mezzanine_paid_stair_central,1,1,11.65,,,,,L Eastbound | L Westbound,
+pw_1613f0ebcf9cfbf7,33035_node_platform_elevator_market_central_southwest,33035_boarding_westbound_platform_2,1,1,22.78,,,,,L1 Westbound 69th Street Transit Center,T | Exit to Street
+pw_18d7b6e79edd2f63,33035_node_platform_stair_market_northeast,33035_boarding_eastbound_platform_1,1,1,3.55,,,,,L1 Eastbound Frankford Transit Center,Exit | 30th Street & Market Street | Regional Rail | Amtrak
+pw_195e7a53bad296f7,33035_node_mezzanine_unpaid_near_30th_street_northwest_escalators,33035_node_mezzanine_unpaid_market_central,1,1,18.75,,,,,L Eastbound & Westbound | T Eastbound & Westbound,SEPTA Regional Rail Lines | Amtrak | Elevator to 30th Street | Exit
+pw_1afc348efafce2cf,33035_node_platform_stair_market_central_southwest,33035_boarding_eastbound_platform_2,1,1,7.6,,,,,L1 Eastbound Frankford Transit Center,T | Exit to Street
+pw_1b76133482dfa052,33035_node_mezzanine_faregate_market_central_southwest_paid,33035_node_mezzanine_faregate_market_central_southwest_unpaid,6,1,2.09,,,,0.92,L Eastbound & Westbound | T Eastbound & Westbound,Exit 31st Street
+pw_1ccd90d60429934f,33035_entrance_market_central_northeast,33035_node_market_central_northeast_stair,1,1,1.84,,,,,Market-Frankford Line | Trolley Lines,
+pw_22e17b7717d9a40b,33035_node_mezzanine_rotogate_market_central_northeast_paid,33035_node_mezzanine_paid_central_south,1,1,30.53,,,,,,
+pw_23d364cd3a1cee35,33035_node_mezzanine_paid_stair_market_northeast,33035_node_mezzanine_rotogate_market_northeast_paid,1,1,3.7,,,,,30th Street Exit | SEPTA Regional Rail Lines,
+pw_274f653fec76604e,33035_node_mezzanine_unpaid_market_central_northeast,33035_node_mezzanine_unpaid_30th_street_southwest,1,1,14.34,,,,,Eastbound & Westbound L | Eastbound & Westbound T,Exit 30th Street | Regional Rail | Amtrak
+pw_27df6db7912bb6bf,33035_node_31st_street_southeast_stair_mezzanine,33035_node_mezzanine_rotogate_market_southwest_unpaid,1,1,8.03,,,,,L,South 31st Street Exit
+pw_2895a472662db700,33035_node_mezzanine_faregate_central_paid,33035_node_mezzanine_paid_central_north,1,1,16.29,,,,,,Exit
+pw_28aa26866eae5470,33035_node_platform_elevator_trolley_eastbound,33035_boarding_trolley_eastbound,1,1,2.35,,,,,,
+pw_2b2fc016105f69df,33035_node_platform_elevator_trolley_westbound,33035_boarding_trolley_westbound,1,1,4.58,,,,,,
+pw_2e98f7e71b6008c9,33035_entrance_30th_street_northwest,33035_node_30th_street_northwest_escalator_north,1,1,11.57,,,,,Market-Frankford Line | Trolley Lines,
+pw_2fe05fecc109a37e,33035_boarding_eastbound_platform_3,33035_boarding_eastbound_platform_2,1,1,80.41,,,,,,
+pw_337b5ebbfc2a1128,33035_node_mezzanine_paid_central_north,33035_node_mezzanine_paid_elevator_trolley_westbound,1,1,17.23,,,,,T Westbound,
+pw_361b40f447dc119c,33035_node_platform_stair_central,33035_boarding_westbound_platform_2,1,1,12.86,,,,,L1 Westbound 69th Street Transit Center,T | Exit to Street
+pw_3c37128ff8dc6da9,33035_node_mezzanine_paid_central_north,33035_node_mezzanine_paid_market_central_southwest,1,1,29.84,,,,,,Westbound T | Amtrak | Regional Rail
+pw_3c854c7220469f62,33035_node_market_central_northeast_stair,33035_node_mezzanine_market_central_northeast_stair,2,1,,,34,,,Market-Frankford Line | Trolley Lines,
+pw_3d4294891c98a3cc,33035_entrance_30th_street_northwest,33035_node_south_escalator_30th_street_nw_street_level,1,1,11.11,,,,,Market-Frankford Line | Trolley Lines,
+pw_3d95361501abcf3a,33035_node_mezzanine_paid_market_southwest_south,33035_node_mezzanine_paid_central_south,1,1,55.72,,,,,,
+pw_3dc3523df9eaa093,33035_node_mezzanine_30th_street_northwest_stair,33035_node_30th_street_northwest_stair,2,1,,,34,,,,
+pw_402e998484892c52,33035_node_30th_street_northwest_escalator_north,33035_node_mezzanine_30th_street_northwest_escalator_north,4,0,,28,,,,,
+pw_40368be740128b2d,33035_node_mezzanine_paid_stair_central,33035_node_mezzanine_paid_market_central_southwest,1,1,20.32,,,,,,
+pw_42d9fa66e233409e,33035_node_mezzanine_rotogate_market_central_southwest_unpaid,33035_node_31st_street_southeast_stair_mezzanine,1,1,21.76,,,,,Exit 31st St & Market St SE,L | T
+pw_4911f42feee19dc2,33035_node_mezzanine_paid_stair_market_southwest,33035_node_platform_stair_market_southwest,2,1,,,21,,,L Westbound | L Eastbound,Exit to Street
+pw_4aa0b867d38ccd4d,33035_node_mezzanine_30th_street_northwest_escalator_north,33035_node_mezzanine_unpaid_near_30th_street_northwest_escalators,1,1,3.24,,,,,L Eastbound & Westbound | T Eastbound & Westbound,SEPTA Regional Rail Lines | Amtrak | Elevator to 30th Street | Exit
+pw_4bf846890e43bd4e,33035_node_mezzanine_rotogate_market_central_southwest_paid,33035_node_mezzanine_rotogate_market_central_southwest_unpaid,6,1,1.93,,,,0.9,L | T,Exit 31st St & Market St NE | Exit 31st St & Market St SE
+pw_4c4c497f4f5b3aa1,33035_node_mezzanine_faregate_central_paid,33035_node_mezzanine_paid_elevator_market_central_northeast,1,1,16.83,,,,,L Eastbound & Westbound,Exit
+pw_4d59c28d1f0e7826,33035_node_mezzanine_unpaid_31st_street_northeast,33035_node_31st_street_northeast_elevator_mezzanine,1,1,6.51,,,,,Elevator to 31st & Market Streets,Exit 31st Street
+pw_4d9b5079b0266cc4,33035_node_mezzanine_unpaid_near_30th_street_northwest_escalators,33035_node_mezzanine_unpaid_market_central_northeast,1,1,21.37,,,,,L Eastbound & Westbound | T Eastbound & Westbound,SEPTA Regional Rail Lines | Amtrak | Elevator to 30th Street | Exit
+pw_4fc48e753a205e5c,33035_node_mezzanine_paid_stair_market_central_southwest,33035_node_mezzanine_paid_market_southwest_south,1,1,9.25,,,,,,
+pw_50d82eb72b4f393d,33035_node_mezzanine_rotogate_market_central_northeast_unpaid,33035_node_mezzanine_unpaid_market_central_northeast,1,1,5.33,,,,,,
+pw_512c725aed733a7f,33035_node_mezzanine_paid_market_central_southwest,33035_node_mezzanine_paid_stair_market_central_southwest,1,1,17.83,,,,,L Westbound | L Eastbound,Eastbound & Westbound T | Amtrak Regional Rail
+pw_51516b9b953830c1,33035_node_mezzanine_unpaid_31st_street_northeast,33035_node_31st_street_northeast_stair_mezzanine,1,1,4.23,,,,,,
+pw_51ab8a13e3f16ca1,33035_node_mezzanine_paid_central_south,33035_node_mezzanine_paid_elevator_trolley_eastbound,1,1,9.68,,,,,T Eastbound,
+pw_52708b5af199d101,33035_node_platform_elevator_market_central_southwest,33035_node_mezzanine_paid_elevator_market_central_southwest,5,1,,37,,,0.9,Elevator to Market-Frankford Line Platform,
+pw_588d0bfa1cead370,33035_node_mezzanine_paid_stair_market_southwest,33035_node_mezzanine_rotogate_market_southwest_paid,1,1,4.06,,,,,,
+pw_5d3ea38a27ebcf43,33035_node_31st_street_southeast_stair_street,33035_node_31st_street_southeast_stair_mezzanine,2,1,,,34,,,,
+pw_5def9766cac372fc,33035_node_platform_elevator_market_central_northeast,33035_boarding_eastbound_platform_1,1,1,12.69,,,,,L1 Eastbound Frankford Transit Center,Elevator to Trolleys and Exit
+pw_5e8f1ed597c5d8a9,33035_node_platform_stair_central,33035_boarding_eastbound_platform_2,1,1,13.99,,,,,L1 Eastbound Frankford Transit Center,T | Exit to Street
+pw_617a8b85eaf347be,33035_node_mezzanine_unpaid_near_30th_street_northwest_escalators,33035_node_mezzanine_faregate_central_unpaid,1,1,15.12,,,,,L Eastbound & Westbound | T Eastbound & Westbound,SEPTA Regional Rail Lines | Amtrak | Elevator to 30th Street | Exit
+pw_651d556fa013d43d,33035_node_platform_stair_market_central_northeast,33035_boarding_eastbound_platform_1,1,1,32.77,,,,,L1 Eastbound Frankford Transit Center,T | Exit to Street
+pw_6904ac3b6f56c4b9,33035_node_mezzanine_30th_street_northwest_escalator_south,33035_node_south_escalator_30th_street_nw_street_level,4,0,,28,,,,,
+pw_6c9c833855aa7202,33035_node_mezzanine_faregate_market_central_southwest_unpaid,33035_node_mezzanine_unpaid_ramp_31st_street_northeast,1,1,13.45,,,,,Elevator to 31st & Market Streets,
+pw_72acd1733e28d183,33035_node_platform_stair_trolley_westbound,33035_boarding_trolley_westbound,1,1,2.64,,,,,,
+pw_7aabb9f3db044ad8,33035_node_mezzanine_paid_central_south,33035_node_mezzanine_paid_elevator_market_central_northeast,1,1,29.14,,,,,L Eastbound & Westbound,
+pw_7cae56b8ad80252b,33035_node_mezzanine_rotogate_market_central_southwest_paid,33035_node_mezzanine_paid_market_southwest_south,1,1,6.45,,,,,Exit 31st Street,
+pw_7fd61d46094d541c,33035_node_mezzanine_paid_central_south,33035_node_mezzanine_paid_stair_market_central_northeast,1,1,10.34,,,,,L Eastbound | L Westbound,
+pw_823dc5682e4e2b33,33035_node_mezzanine_paid_stair_market_central_northeast,33035_node_platform_stair_market_central_northeast,2,1,,,23,,,L Westbound | L Eastbound,T | Exit to Street
+pw_888ee5e9a226ad16,33035_node_mezzanine_unpaid_ramp_31st_street_northeast,33035_node_mezzanine_unpaid_31st_street_northeast,1,1,6.92,,,,,Exit 31st Street,
+pw_8d5801d0d6174bb0,33035_node_mezzanine_faregate_central_unpaid,33035_node_mezzanine_market_central_northeast_stair,1,1,9.48,,,,,,
+pw_8dbc268952b48921,33035_node_platform_elevator_trolley_westbound,33035_node_mezzanine_paid_elevator_trolley_westbound,5,1,,38,,,0.9,T Westbound,
+pw_8dc2e535fff168e4,33035_node_mezzanine_30th_street_northwest_stair,33035_node_mezzanine_faregate_central_unpaid,1,1,29.33,,,,,L Eastbound & Westbound | T Eastbound & Westbound,"William H. Gray III 30th Street Station | Amtrak Regional Rail | 30th Street & Market Street NW | Exit | 9, 30, 31, 44, 49, 62, 125"
+pw_8eafb66a644ed864,33035_node_mezzanine_faregate_central_unpaid,33035_node_mezzanine_unpaid_market_central_northeast,1,1,21.65,,,,,Exit | Drexel Square Park | Regional Rail | Amtrak,L Eastbound & Westbound | T Eastbound & Westbound
+pw_9080d4150ea1f839,33035_node_mezzanine_paid_central_north,33035_node_mezzanine_paid_stair_market_central_northeast,1,1,11.0,,,,,L Eastbound | L Westbound,
+pw_92a7580545a519ac,33035_node_platform_stair_market_central_northeast,33035_boarding_westbound_platform_1,1,1,31.78,,,,,L1 Westbound 69th Street Transit Center,T | Exit to Street
+pw_93b07380276c4ac1,33035_node_mezzanine_30th_street_southwest_stair,33035_node_mezzanine_unpaid_near_30th_street_southwest,1,1,3.86,,,,,L | T,30th Street Exit
+pw_998f45208ad05a76,33035_node_mezzanine_rotogate_market_northeast_unpaid,33035_node_mezzanine_unpaid_market_central,1,1,10.18,,,,,Exit 30th Street | Regional Rail | Amtrak,L Eastbound & Westbound | T Eastbound & Westbound
+pw_99acb53c50085dcd,33035_node_mezzanine_rotogate_market_central_northeast_paid,33035_node_mezzanine_paid_elevator_market_central_northeast,1,1,4.56,,,,,,
+pw_9e684d81eec1ebf5,33035_node_mezzanine_paid_stair_trolley_eastbound,33035_node_platform_stair_trolley_eastbound,2,1,,,27,,,T Eastbound,
+pw_9f06e1d4ec9a51c8,33035_node_mezzanine_unpaid_market_central_northeast,33035_node_mezzanine_unpaid_market_central,1,1,14.87,,,,,SEPTA Regional Rail Lines | Amtrak | Elevator to 30th Street | Exit,L Eastbound & Westbound | T Eastbound & Westbound
+pw_a9c870d9ec3b425a,33035_boarding_westbound_platform_1,33035_boarding_westbound_platform_2,1,1,73.51,,,,,,
+pw_ad26c55f0a76867e,33035_node_mezzanine_paid_stair_trolley_westbound,33035_node_mezzanine_paid_central_north,1,1,7.68,,,,,T Westbound,
+pw_adee77ad9aadaaec,33035_node_mezzanine_paid_elevator_market_central_southwest,33035_node_mezzanine_paid_market_southwest_south,1,1,3.96,,,,,,
+pw_af2f43de4c5e313a,33035_node_mezzanine_unpaid_31st_street_northeast,33035_node_mezzanine_unpaid_near_31st_street_northeast,2,1,3.5,,3,,,,Exit 31st Street
+pw_b338685e4268c8de,33035_node_mezzanine_30th_street_northwest_escalator_south,33035_node_mezzanine_unpaid_near_30th_street_northwest_escalators,1,1,2.98,,,,,L Eastbound & Westbound | T Eastbound & Westbound,SEPTA Regional Rail Lines | Amtrak | Elevator to 30th Street | Exit
+pw_b3594a6e00dd240e,33035_node_30th_street_southwest_stair,33035_node_mezzanine_30th_street_southwest_stair,2,1,,,33,,,,
+pw_b3cba788885dfa6f,33035_entrance_31st_street_southeast,33035_node_31st_street_southeast_stair_street,1,1,3.02,,,,,L | T | Drexel Station at 30th Street,
+pw_b796dae135b1712f,33035_node_mezzanine_rotogate_market_central_northeast_unpaid,33035_node_mezzanine_rotogate_market_central_northeast_paid,6,1,2.4,,,,0.9,Eastbound & Westbound L | Eastbound & Westbound T,Exit 30th Street | Regional Rail | Amtrak
+pw_b88b306c1f15f915,33035_node_mezzanine_unpaid_near_30th_street_southwest,33035_node_mezzanine_unpaid_30th_street_southwest,1,1,6.48,,,,,30th Street Exit,
+pw_b8ef77c26551b6ad,33035_node_platform_elevator_market_central_northeast,33035_boarding_westbound_platform_1,1,1,11.65,,,,,L1 Westbound 69th Street Transit Center,Elevator to Trolleys and Exit
+pw_bbecc9e1c15cb31f,33035_node_31st_street_northeast_elevator,33035_node_31st_street_northeast_elevator_mezzanine,5,1,,34,,,0.9,,
+pw_bd204647562a1cfa,33035_node_platform_stair_market_southwest,33035_boarding_eastbound_platform_2,1,1,36.67,,,,,L1 Eastbound Frankford Transit Center,Exit to Street
+pw_bdea61680a8d39f3,33035_entrance_31st_street_northeast,33035_node_31st_street_northeast_elevator,1,1,5.02,,,,,Elevator to Market-Frankford Line | Trolleys,
+pw_c0bae6a61a61c2ff,33035_node_mezzanine_paid_central_south,33035_node_mezzanine_paid_stair_central,1,1,11.18,,,,,,
+pw_c3f3a02ab7cc359b,33035_node_mezzanine_unpaid_near_31st_street_northeast,33035_node_mezzanine_unpaid_ramp_31st_street_northeast,1,1,6.8,,,,,,Exit 31st Street
+pw_c4b9459bc4029b93,33035_node_mezzanine_paid_central_south,33035_node_mezzanine_paid_stair_trolley_eastbound,1,1,10.83,,,,,T Eastbound,
+pw_c65dc60957d3d9e7,33035_node_mezzanine_paid_stair_market_central_northeast,33035_node_mezzanine_faregate_central_paid,1,1,12.34,,,,,L Westbound | L Eastbound,Exit
+pw_cdcbfad2ed9d9ad0,33035_node_31st_street_northeast_stair,33035_node_31st_street_northeast_stair_mezzanine,2,1,,,33,,,,
+pw_d1b543cab3be95b4,33035_node_platform_stair_market_northeast,33035_boarding_westbound_platform_1,1,1,3.55,,,,,L1 Westbound 69th Street Transit Center,Exit | 30th Street & Market Street | Regional Rail | Amtrak
+pw_d47edc39bcf1026b,33035_node_mezzanine_rotogate_market_southwest_unpaid,33035_node_mezzanine_unpaid_near_31st_street_northeast,1,1,3.68,,,,,,
+pw_d5a54c6ac51a3d79,33035_node_platform_stair_market_central_southwest,33035_boarding_westbound_platform_2,1,1,8.69,,,,,L1 Westbound 69th Street Transit Center,T | Exit to Street
+pw_d86ae9a61ea0b6da,33035_boarding_eastbound_platform_2,33035_boarding_eastbound_platform_1,1,1,75.66,,,,,,
+pw_d997e68247ca823a,33035_node_platform_stair_market_southwest,33035_boarding_westbound_platform_2,1,1,37.86,,,,,L1 Westbound 69th Street Transit Center,Exit to Street
+pw_e0d1dd97a4c9099d,33035_node_mezzanine_paid_stair_market_northeast,33035_node_platform_stair_market_northeast,2,1,,,23,,,L Westbound | L Eastbound,Exit | 30th Street & Market Street | Regional Rail | Amtrak
+pw_e4ab47a549240810,33035_node_mezzanine_30th_street_northwest_elevator,33035_node_mezzanine_unpaid_market_central,1,1,17.07,,,,,L Eastbound & Westbound | T Eastbound & Westbound,Exit | Elevator to 30th Street
+pw_e7043e83de3c0cc2,33035_node_mezzanine_paid_market_central_southwest,33035_node_mezzanine_faregate_market_central_southwest_paid,1,1,30.88,,,,,,Exit 31st Street
+pw_e897e7e46127fb47,33035_node_mezzanine_30th_street_northwest_stair,33035_node_mezzanine_unpaid_market_central,1,1,9.43,,,,,L Eastbound & Westbound | T Eastbound & Westbound,Exit | 30th Street & Market Street NW
+pw_e909a89c233e16b8,33035_entrance_30th_street_northwest,33035_node_30th_street_northwest_stair,1,1,4.38,,,,,Market-Frankford Line | Trolley Lines,
+pw_ea13a998f2a4b751,33035_node_platform_elevator_market_central_southwest,33035_boarding_eastbound_platform_2,1,1,21.56,,,,,L1 Eastbound Frankford Transit Center,T | Exit to Street
+pw_eba13b7fa38fbf67,33035_entrance_30th_street_southwest,33035_node_30th_street_southwest_stair,1,1,1.84,,,,,L | T | Drexel Station at 30th Street,
+pw_f3e7bff6bceb95eb,33035_node_platform_elevator_market_central_northeast,33035_node_mezzanine_paid_elevator_market_central_northeast,5,1,,33,,,0.9,L Eastbound & Westbound,Elevator to Trolleys and Exit
+pw_f4d1b8729a47ef57,33035_node_mezzanine_paid_elevator_market_central_southwest,33035_node_mezzanine_rotogate_market_central_southwest_paid,1,1,4.87,,,,,Exit 31st Street,
+pw_f90a9fa61ccf4221,33035_entrance_30th_street_northwest,33035_node_30th_street_northwest_elevator,1,1,10.39,,,,,Drexel Station at 30th Street | L | T | Elevator,
+pw_fb3f2d03acdeec72,33035_boarding_westbound_platform_2,33035_boarding_westbound_platform_3,1,1,81.63,,,,,,
+pw_fdb89e9205a17a16,33035_node_mezzanine_unpaid_30th_street_southwest,33035_node_mezzanine_rotogate_30th_street_southwest_unpaid,1,1,2.96,,,,,L,30th Street Exit
+pw_new_trolley_wb_stair,33035_node_mezzanine_paid_stair_trolley_westbound,33035_node_platform_stair_trolley_westbound,2,1,,,27,,,,
+pw_0326e62229e5d787,33036_node_exitgate_north_east_unpaid,33036_entrance_north_east,1,1,3.89,,,,,,
+pw_0dba23805e61836d,33036_node_elevator_central_platform,33036_boarding_track_1_position_3,1,1,141.27,,,,,Next Train,"Elevator | Exit To Street, Stadiums"
+pw_1282044a38959148,33036_boarding_track_4_position_1,33036_boarding_track_4_position_2,1,1,59.41,,,,,,
+pw_14b8dbc9a23b85c7,33036_boarding_track_1_position_4,33036_boarding_track_1_position_3,1,1,84.98,,,,,,
+pw_15f928555921cb73,33036_node_faregate_central_east_paid,33036_node_elevator_central_street,1,1,4.49,,,,,"Elevator to B1, B2 | Northbound",Broad St & Pattison Av SW Exit
+pw_1989d5a0d493399d,33036_boarding_track_1_position_2,33036_boarding_track_1_position_1,1,1,74.54,,,,,,
+pw_2208f936bb8e9e0e,33036_node_exitgate_central_east_paid,33036_node_exitgate_central_east_unpaid,7,0,2.08,,,,0.45,Broad St & Pattison Av SW Exit,
+pw_26e87831ce336613,33036_entrance_north_east,33036_node_faregate_north_east_unpaid,1,1,2.87,,,,,"B1, B2 | Northbound",
+pw_2d9d919602ed457f,33036_boarding_track_4_position_3,33036_node_elevator_central_platform,1,1,123.99,,,,,"Elevator | Exit To Street, Stadiums",Next Train
+pw_2f3dfe5984726e63,33036_boarding_track_4_position_3,33036_node_escalator_central_platform,1,1,38.19,,,,,"Exit To Street, Stadiums",Next Train
+pw_3242895780d25d04,33036_node_faregate_central_east_paid,33036_node_escalator_central_street,1,1,9.02,,,,,"B1, B2 | Northbound to Fern Rock Transit Center",Broad St & Pattison Av SW Exit
+pw_375e1cdc423d03a4,33036_node_faregate_central_east_paid,33036_node_stair_central_street,1,1,9.25,,,,,"B1, B2 | Northbound to Fern Rock Transit Center",Broad St & Pattison Av SW Exit
+pw_398d8d40773d6616,33036_node_escalator_north_platform,33036_boarding_track_4_position_5,1,1,48.17,,,,,Next Train,"Exit To Street, Stadiums"
+pw_39bf8dd2c5b9fc33,33036_boarding_track_4_position_3,33036_boarding_track_4_position_2,1,1,352.6,,,,,,
+pw_3baa7e79d58d8553,33036_node_elevator_central_street,33036_node_elevator_central_platform,5,1,,29,,,0.9,,
+pw_3d615b73f130b3cc,33036_node_exitgate_north_east_paid,33036_node_exitgate_north_east_unpaid,7,0,2.43,,,,0.45,Exit Broad St & Pattison Av NE,
+pw_42b2ee198c32718d,33036_node_stair_central_platform,33036_node_stair_central_street,2,1,,,33,,,,
+pw_493adc1bd81d3d62,33036_boarding_track_4_position_2,33036_node_stair_south_north_platform,1,1,30.18,,,,,"Exit To Street, Stadiums",Next Train
+pw_499ec69b4216a72d,33036_boarding_track_1_position_6,33036_boarding_track_4_position_6,1,1,37.65,,,,,,
+pw_50ad2840001408aa,33036_entrance_central_east,33036_node_faregate_central_east_unpaid,1,1,3.97,,,,,B | NRG Station,
+pw_5205acfb358aadbc,33036_node_stair_central_platform,33036_boarding_track_1_position_3,1,1,51.48,,,,,Next Train,"Exit To Street, Stadiums"
+pw_5cf0908feef37376,33036_boarding_track_4_position_6,33036_boarding_track_4_position_5,1,1,65.3,,,,,,
+pw_5fe6a0f7f4028dc5,33036_node_exitgate_north_west_unpaid,33036_entrance_north_west,1,1,2.88,,,,,Exit Broad St & Pattison Av NE,
+pw_6503b3497d52c07b,33036_node_faregate_north_west_unpaid,33036_node_faregate_north_west_paid,6,1,1.41,,,,0.43,"B1, B2 | Northbound",Exit Broad St & Pattison Av NE
+pw_65c4679e4d6ef9bb,33036_boarding_track_1_position_3,33036_boarding_track_1_position_2,1,1,336.13,,,,,,
+pw_6d5043c36e0814e0,33036_node_stair_north_platform,33036_boarding_track_1_position_5,1,1,57.87,,,,,Next Train,"Exit To Street, Stadiums"
+pw_6fcee6d5e36b8c88,33036_node_escalator_north_street,33036_node_faregate_north_west_paid,1,1,7.43,,,,,Exit Broad St & Pattison Av NE,"B1, B2 | Northbound to Fern Rock Transit Center"
+pw_72e807faa0dd5c68,33036_boarding_track_4_position_4,33036_boarding_track_4_position_3,1,1,87.11,,,,,,
+pw_7413f1750e33a970,33036_node_exitgate_north_west_paid,33036_node_exitgate_north_west_unpaid,7,0,2.15,,,,0.45,Exit Broad St & Pattison Av NE,
+pw_7633d70166412e00,33036_node_escalator_north_platform,33036_node_escalator_north_street,4,0,,27,,,,,
+pw_7ea4368ea9deb56a,33036_node_escalator_north_street,33036_node_exitgate_north_west_paid,1,1,3.79,,,,,Exit Broad St & Pattison Av NE,"B1, B2 | Northbound to Fern Rock Transit Center"
+pw_8be00f734da40e91,33036_node_exitgate_central_west_unpaid,33036_entrance_central_west,1,1,2.84,,,,,,
+pw_8cc02b1d4ea41a9b,33036_node_escalator_central_platform,33036_node_escalator_central_street,4,0,,27,,,,,
+pw_91a113080209d56d,33036_node_faregate_north_east_paid,33036_node_stair_north_street,1,1,4.19,,,,,"B1, B2 | Northbound to Fern Rock Transit Center",Exit Broad St & Pattison Av NE
+pw_93bf221eba60e3fd,33036_node_stair_central_street,33036_node_exitgate_central_east_paid,1,1,3.41,,,,,Broad St & Pattison Av SW Exit,"B1, B2 | Northbound to Fern Rock Transit Center"
+pw_950e3a99d68993fd,33036_node_stair_north_street,33036_node_exitgate_north_west_paid,1,1,5.05,,,,,Exit Broad St & Pattison Av NE,"B1, B2 | Northbound to Fern Rock Transit Center"
+pw_a6c5f267149eae66,33036_node_escalator_north_street,33036_node_faregate_north_east_paid,1,1,4.05,,,,,Exit Broad St & Pattison Av NE,"B1, B2 | Northbound to Fern Rock Transit Center"
+pw_a77c2ac7e104c830,33036_node_stair_north_street,33036_node_exitgate_north_east_paid,1,1,7.99,,,,,Exit Broad St & Pattison Av NE,"B1, B2 | Northbound to Fern Rock Transit Center"
+pw_a9efb871855f7245,33036_boarding_track_1_position_5,33036_boarding_track_1_position_6,1,1,64.37,,,,,,
+pw_ab78e2bb80ba78ea,33036_node_faregate_north_east_unpaid,33036_node_faregate_north_east_paid,6,1,2.13,,,,0.91,"B1, B2 | Northbound",Exit Broad St & Pattison Av NE
+pw_ae62a90cd958276a,33036_boarding_track_4_position_1,33036_boarding_track_1_position_1,1,1,36.75,,,,,,
+pw_b7d2001914bf2b15,33036_node_exitgate_central_east_unpaid,33036_entrance_central_east,1,1,5.06,,,,,,
+pw_b7e9891eb45c5353,33036_node_escalator_central_street,33036_node_exitgate_central_west_paid,1,1,3.96,,,,,Broad St & Pattison Av SW Exit,"B1, B2 | Northbound to Fern Rock Transit Center"
+pw_c77d879a5417b104,33036_boarding_track_4_position_4,33036_boarding_track_4_position_5,1,1,164.72,,,,,,
+pw_cccfdcaa187fd414,33036_node_stair_south_north_platform,33036_boarding_track_1_position_2,1,1,26.5,,,,,Next Train,"Exit To Street, Stadiums"
+pw_cf0a7183549d6037,33036_boarding_track_4_position_1,33036_node_stair_south_south_platform,1,1,63.15,,,,,"Exit To Street, Stadiums",Next Train
+pw_d2a69b75982ccb31,33036_node_escalator_north_street,33036_node_exitgate_north_east_paid,1,1,7.63,,,,,Exit Broad St & Pattison Av NE,"B1, B2 | Northbound to Fern Rock Transit Center"
+pw_d956dda5f6504fe2,33036_node_faregate_north_west_paid,33036_node_stair_north_street,1,1,8.48,,,,,"B1, B2 | Northbound to Fern Rock Transit Center",Exit Broad St & Pattison Av NE
+pw_d9f47570f2448415,33036_node_stair_south_south_platform,33036_boarding_track_1_position_1,1,1,79.61,,,,,Next Train,"Exit To Street, Stadiums"
+pw_e1ffc60eaa195ca0,33036_node_faregate_north_west_unpaid,33036_entrance_north_west,1,1,5.04,,,,,,
+pw_ed1a5a76f56ed6d1,33036_node_stair_north_street,33036_node_stair_north_platform,2,1,,,32,,,"B1, B2 | Northbound to Fern Rock Transit Center","Exit To Street, Stadiums"
+pw_ee9ccd8a6cd5986b,33036_node_exitgate_central_west_paid,33036_node_exitgate_central_west_unpaid,7,0,1.63,,,,0.45,Exit Only,
+pw_ef5f787523d7fc10,33036_boarding_track_1_position_4,33036_boarding_track_1_position_5,1,1,161.64,,,,,,
+pw_f7111f733571da7a,33036_node_faregate_central_east_unpaid,33036_node_faregate_central_east_paid,6,1,1.84,,,,0.91,"B1, B2 | Northbound",
+pw_f807060f36db3385,33036_node_stair_central_street,33036_node_exitgate_central_west_paid,1,1,5.56,,,,,Broad St & Pattison Av SW Exit,"B1, B2 | Northbound to Fern Rock Transit Center"
+pw_05ebe8e18a7c1b52,31034_entrance_69th_st_transit_center_shopping_concourse,31034_entrance_west_terminal_copley_st,1,1,71.51,,,,,,
+pw_06ca9da4a755a4cf,31034_node_m1_lobby_south,31034_node_elevator_m1_lobby,1,1,3.0,,,,,Elevator,
+pw_0c82b1802e3cf6e4,31034_entrance_west_terminal_island,15497_boarding_west_terminal_island_south,1,1,6.07,,,,,,
+pw_0dbd52de3269b8d3,31034_node_stair_2_north_hall,31034_node_north_hall_north,1,1,2.67,,,,,,
+pw_0e700dcce74f4517,31034_node_north_hall_south,31034_node_elevator_north_hall,1,1,4.26,,,,,Elevator to Street Level,
+pw_108eb01ca396db5b,31034_node_main_hall,31034_node_main_concourse_entry,1,1,15.67,,,,,"Routes 101, 102 | Routes 104, 109, 110, 111, 112, 120, 126","Routes 21, 68, 107, 108, 113"
+pw_131b69518202d9ac,31034_node_main_concourse_junction,31034_node_shopping_concourse_north,1,1,4.33,,,,,,
+pw_17dd821049617efc,31034_node_west_terminal_crosswalk_market_st,31034_node_west_terminal_crosswalk_central,1,1,10.65,,,,,,
+pw_19945085856b53de,15497_boarding_west_terminal_market_st_drop_off,31034_node_market_st_dropoff_west_terminal_corridor,1,1,23.84,,,,,,
+pw_21567e833a895b69,31034_node_elevator_m1_lobby,31034_node_elevator_north_hall,5,1,,40,,,1.04,Elevator,Elevator to Street Level
+pw_24ea82d390953132,31034_entrance_west_terminal_island,15497_boarding_west_terminal_island_north,1,1,5.57,,,,,,
+pw_277a0d1ce079a8ff,entrance_69th_st_transit_center_north_terminal,2024_boarding_north_terminal,1,1,7.2,,,,,30 40th & Market | 65 Germantown-Chelten | 103 Ardmore | 105 Rosemont,
+pw_28353f99c97abef3,21211,388,1,1,11.59,,,,,88 Bethayres/Frankford-Gregg,26 Chelten Av Station
+pw_2fdc731e7f49c31d,20845_boarding_westbound_dropoff_central,31034_node_l1_unpaid_stair_drop_off,1,0,4.58,,,,,"Routes 21, 68, 104, 107, 108, 109, 110, 111, 112, 113, 120, 126 | Routes 30, 65, 103, 105, 106, 123 | Norristown High Speed Rail | Routes 101, 102 | Exit",
+pw_30972bcb402e4a43,31034_node_l1_fare_gate_paid,31034_node_l1_paid_elevator_top,1,1,3.8,,,,,Market-Frankford Line | 69th St Transit Center Eastbound,
+pw_30c2c79acea7ac3e,31034_node_curvy_ramp_top,entrance_69th_st_transit_center_main_hall,1,1,4.82,,,,,69th Street Transportation Center,Accessible Walkway
+pw_32de6a88375c0a7b,31034_node_l1_fare_gate_paid,31034_node_l1_paid_stairs_top,1,1,7.67,,,,,,
+pw_349af9393c8259e2,31034_node_l1_lobby,31034_node_main_hall,1,1,21.91,,,,,"Routes 21, 68, 107, 108, 113","Market-Frankford Line | Norristown Highspeed Line | Routes 30, 65, 103, 105, 106, 123"
+pw_35e3f0d3239a3474,31034_node_west_concourse,31034_entrance_west_terminal_island,1,1,19.34,,,,,Exit,
+pw_4027374ad7ea8c5d,21204,340,1,1,30.94,,,,,"20 Philadelphia Mills Mall , 50 Parx Casino",
+pw_4080bf7179899d14,31034_node_l1_paid_elevator_top,31034_node_l1_paid_elevator_bottom,5,1,,36,,,1.04,,Elevator to Street Level
+pw_4891669ce51a49d4,31034_node_m1_lobby_south,31034_node_stair_4_m1_lobby,1,1,8.25,,,,,,
+pw_4b19a471ccaed736,31034_node_curvy_ramp_bottom,31034_node_curvy_ramp_landing,1,1,15.42,,,,,Market-Frankford | Accessible Walkway,
+pw_4e01d679b3d1a6f5,31034_node_l1_lobby,31034_node_l1_fare_gate_unpaid,1,1,4.95,,,,,,
+pw_4f57f0ae401548f4,31034_node_m1_north_access_pick_up_stairs,31034_entrance_north_access_pick_up_entrance_bus_terminal,2,1,10.99,,24,,,,
+pw_521f2c3ea0316fa3,15497_boarding_west_terminal_island_north,31034_entrance_west_terminal_peninsula,1,1,15.86,,,,,,
+pw_560c3e840e755f14,31034_node_m1_paid_doors,31034_node_m1_north_rotogate_paid_area,1,1,9.03,,,,,,
+pw_58495d998d9292c1,20845_boarding_westbound_dropoff_east,20845_boarding_westbound_dropoff_central,1,1,48.92,,,,,,
+pw_6129ca7d90c24ec6,entrance_69th_st_transit_center_main_hall,31034_node_main_hall,1,1,8.5,,,,,69th Street Transportation Center,Market Street | Exit
+pw_625b0b69a15554a8,31034_node_main_and_west_concourses_junction,31034_node_main_concourse_west_end,1,1,21.07,,,,,"Routes 101, 102 | Routes 104, 112, 120, 126",
+pw_65a460509222a89c,21211,21971,1,1,14.04,,,,,3 33rd-Cecil B. Moore,26 Chelten Av Station
+pw_677113ae866a912b,31034_node_m1_north_rotogate_unpaid_area,31034_node_m1_north_access_pick_up_stairs,1,1,27.66,,,,,,
+pw_6c043b3797d931a2,15497_boarding_west_terminal_market_st_drop_off,31034_node_west_terminal_crosswalk_market_st,1,1,5.52,,,,,,
+pw_6c9fe07d88c19f5f,31034_node_west_terminal_crosswalk_central,15497_boarding_west_terminal_island_south,1,1,7.23,,,,,,
+pw_6e23d03440ba7a53,31034_node_stair_4_m1_lobby,31034_node_stair_4_north_hall,2,1,,,24,,,"Routes 30, 65, 103, 105, 106, 123","Norristown High Speed Line | Market-Frankford Line | Routes 101, 102"
+pw_70ea667f1a804f97,31034_node_l1_paid_elevator_bottom,416_boarding_l1_eastbound_central,1,1,4.34,,,,,Next Train,Elevator to Street Level
+pw_736dfbd705016bec,21211,21967,1,1,22.64,,,,,19 Torresdale Station,26 Chelten Av Station
+pw_77de646e08cf21b3,31034_node_north_hall_south,31034_node_stair_4_north_hall,1,1,6.68,,,,,"Routes 21, 68, 104, 107, 108, 109, 110, 111, 112, 113, 120, 126 | Norristown High Speed Rail | Routes 101, 102",
+pw_791c881ca9b80f98,1148_boarding_south_terminal,31034_node_curvy_ramp_bottom,1,1,44.32,,,,,Accessible Walkway,21 Penn's Landing | OWL Frankford Transportation Center | 68 Broad-Gon | 108 Airport & Airport Business Center | 113 TriState Mall and Darby Trans Ctr
+pw_792a41e2e358eab8,31034_node_l1_unpaid_stair_l1_lobby,31034_node_l1_lobby,1,0,18.55,,,,,"Market-Frankford Line | Routes 101, 102 | Routes 21, 68, 107, 108, 113, 126 | Routes 104, 109, 110, 111, 112, 120",
+pw_7a87ca4d7d47889e,31034_node_l1_unpaid_stair_l1_lobby,31034_node_m1_lobby_south,1,0,7.69,,,,,"Routes 30, 65, 103, 105, 106, 123 | Norristown High Speed Line | Exit | Elevator",
+pw_806f793bbb4d0e63,31034_node_m1_lobby_south,31034_node_m1_lobby_north,1,1,15.21,,,,,"Routes 30, 65, 103, 105, 106, 123",
+pw_88e6a716aa0e0936,31034_node_m1_fare_gate_unpaid,31034_node_m1_fare_gate_paid,1,1,3.65,,,,0.9,Norristown High Speed Line All Tracks,
+pw_8af27fde01609324,31034_node_tributary_stair_bottom,31034_entrance_69th_st_transit_center_shopping_concourse,1,1,15.74,,,,,,
+pw_8b772ff70f5c6518,31034_node_m1_lobby_north,31034_node_stair_2_m1_lobby,1,1,3.9,,,,,,
+pw_8e79026876cc1f77,31034_entrance_west_terminal_copley_st,31034_node_west_terminal_crosswalk_market_st,1,1,19.46,,,,,,
+pw_8fc74bf440d6403a,31034_node_main_and_west_concourses_junction,31034_node_west_concourse,1,1,22.11,,,,,"Routes 109, 110, 111",
+pw_9217bde4f27ace70,31034_node_shopping_concourse_north,31034_node_shopping_concourse_south,1,1,27.44,,,,,,
+pw_95946627e1caa158,31034_node_east_stairs_bottom,31034_node_east_stairs_top,2,1,6.17,,26,,,Market-Frankford,
+pw_968dd7d6d260e694,20845_boarding_westbound_dropoff_west,20845_boarding_westbound_dropoff_central,1,1,47.93,,,,,,
+pw_9825bd46ac27cf2c,31034_node_l1_paid_stairs_top,31034_node_l1_paid_stairs_bottom,2,1,,,24,,,,
+pw_9929d4508a502274,31034_node_l1_paid_stairs_bottom,416_boarding_l1_eastbound_central,1,1,12.62,,,,,Next Train,
+pw_99435cef3ecf898e,31034_node_stair_2_m1_lobby,31034_node_stair_2_north_hall,2,1,,,24,,,,"Norristown High Speed Line | Market-Frankford Line | Routes 101, 102"
+pw_a4e7903dbf8acb86,31034_node_market_st_dropoff_west_terminal_corridor,31034_node_shopping_concourse_south,1,1,29.65,,,,,Market-Frankford (Blue Line),
+pw_ab92b521d1e3ec05,31034_node_m1_paid_doors,31790_boarding_m1_tracks_2_3,1,1,16.22,,,,,Next Train,
+pw_af1e5e3b07116724,31034_node_north_hall_north,31034_node_north_hall_south,1,1,14.68,,,,,"Norristown High Speed Rail | Market-Frankford Line | Routes 101, 102 | Elevator","Routes 30, 65, 103, 105, 106, 123 | Exit"
+pw_b38e55d16cc4d982,31034_node_main_concourse_entry,31034_node_main_concourse_junction,1,1,14.2,,,,,,"Market-Frankford Line | Norristown High Speed Line | Routes 21, 30, 65, 68, 103, 105, 106, 107, 108, 113, 123"
+pw_bc447cda81b52d92,31034_node_curvy_ramp_landing,31034_node_curvy_ramp_top,1,1,15.55,,,,,,
+pw_c037d2725c450ad7,31034_node_north_hall_north,entrance_69th_st_transit_center_north_terminal,1,1,7.74,,,,,"North Terminal | Routes 30, 65, 103, 105, 106, 123",
+pw_c3979155d93d9d94,31034_node_east_stairs_top,entrance_69th_st_transit_center_main_hall,1,1,4.44,,,,,69th Street Transportation Center,
+pw_c758b1fd2469c957,31034_entrance_west_terminal_peninsula,15497_boarding_west_terminal_peninsula,1,1,29.99,,,,,,
+pw_caff798c3471f3bb,31034_node_main_concourse_west_end,31034_entrance_west_terminal_peninsula,1,1,18.23,,,,,Exit,
+pw_cb0c0a5f299f03e3,31034_node_m1_north_rotogate_paid_area,31034_node_m1_north_rotogate_unpaid_area,7,0,1.39,,,,0.45,,
+pw_cd0db0159753d037,416_boarding_l1_eastbound_central,416_boarding_l1_eastbound_east,1,0,33.04,,,,,Next Train,
+pw_cd780f0a8b8cbb5f,20845_boarding_westbound_dropoff_central,31034_node_north_hall_south,1,0,17.24,,,,,Elevator,
+pw_cf1c74c96db0234c,31034_node_curvy_ramp_landing,31034_node_tributary_stair_bottom,1,1,4.23,,,,,,
+pw_cf6100de48cca494,32206_boarding_m1_tracks_1_2,31034_node_m1_paid_doors,1,1,16.79,,,,,,Next Train
+pw_d731e9ea5fa9e533,388,21971,1,1,21.24,,,,,3 33rd-Cecil B. Moore,88 Bethayres/Frankford-Gregg
+pw_d76a6f0f1cc093f1,416_boarding_l1_eastbound_central,416_boarding_l1_eastbound_west,1,1,44.28,,,,,Next Train,
+pw_e875f096c1b99adb,31034_node_m1_fare_gate_paid,31034_node_m1_paid_doors,1,1,1.8,,,,,,
+pw_ed849ead27f6eab9,31034_node_l1_fare_gate_unpaid,31034_node_l1_fare_gate_paid,6,1,3.27,,,,0.9,Market-Frankford | Elevator to Market-Frankford Eastbound Platform,
+pw_ef5ce5b7cac2562d,31034_node_l1_lobby,31034_node_main_concourse_entry,1,1,18.63,,,,,"Routes 104, 109, 110, 111, 112, 120, 126 | Routes 101, 102","Market-Frankford Line | Norristown High Speed Line | Routes 30, 65, 103, 105, 106, 123"
+pw_f0c1f19c357bf764,31034_node_shopping_concourse_south,31034_entrance_69th_st_transit_center_shopping_concourse,1,1,4.53,,,,,Market Street | Exit,
+pw_f22afe471208c29f,31034_node_l1_lobby,31034_node_m1_lobby_south,1,1,19.75,,,,,"Routes 30, 65, 103, 105, 106, 123 | Norristown High Speed Line | Exit | Elevator","Market-Frankford Line | Routes 101, 102 | Routes 21, 68, 107, 108, 113, 126 | Routes 104, 109, 110, 111, 112, 120"
+pw_f75722761a49270b,15497_boarding_west_terminal_market_st_drop_off,31034_entrance_west_terminal_copley_st,1,1,18.27,,,,,,
+pw_f87bac0462724bf6,31034_node_l1_unpaid_stair_drop_off,31034_node_l1_unpaid_stair_l1_lobby,2,0,,,24,,,,
+pw_fbde7020dab935a7,31034_node_main_concourse_junction,31034_node_main_and_west_concourses_junction,1,1,16.55,,,,,"Routes 101, 102 | Routes 104, 109, 110, 111, 112, 120, 126","Market-Frankford Line | Norristown High Speed Line | Routes 21, 30, 65, 68, 103, 105, 106, 107, 108, 113, 123"
+pw_fd26e6f2873abe94,1148_boarding_south_terminal,31034_node_east_stairs_bottom,1,1,33.22,,,,,,21 Penn's Landing | OWL Frankford Transportation Center | 68 Broad-Gon | 108 Airport & Airport Business Center | 113 TriState Mall and Darby Trans Ctr
+pw_fed174a6804dcf97,31034_node_m1_lobby_south,31034_node_m1_fare_gate_unpaid,1,1,6.88,,,,,,
+pw_00d3742cad4e6d3d,31033_node_escalator_1_street,31033_node_escalator_1_mezzanine,4,0,,19,,,,,
+pw_0621e112f4ae7207,340,31033_node_headhouse_island_near_bridge_street,1,1,15.17,,,,,,"20 Philadelphia Mills Mall , 50 Parx Casino"
+pw_0a243b5688edb505,31033_node_satellite_headhouse_mezzanine,31033_node_stair_a_mezzanine,1,1,6.54,,,,,,
+pw_0dd4725f01a394f7,31033_entrance_main_hall_south_entrance,31033_node_main_hall_south_junction,1,1,8.05,,,,,,"Pratt Street | Bus | 3, 5"
+pw_11c785d6da0d6e76,31033_node_main_hall_center_junction,31033_entrance_main_hall_east,1,1,13.62,,,,,"Frankford Ave | Bus | 3, 5, 24, 58",
+pw_11d13e5f310d9b90,31033_node_satellite_headhouse_bus_area,31033_node_satellite_headhouse_island_near_bridge_street,1,1,24.82,,,,,,
+pw_1208a84f8e2f3d56,31033_node_fare_gates_main_hall,31033_node_elevator_2_street,1,1,3.98,,,,,,
+pw_149a9fdf97ccab01,31033_node_north_side_headhouse_mezzanine,31033_node_near_cashier_booth_a1_mezzanine,1,1,11.33,,,,,,
+pw_15385308b92b7584,31033_node_satellite_headhouse_bus_area,21969,1,1,14.36,,,,,,
+pw_1718f5c57bdd8102,31033_node_north_island_crosswalk,31033_node_entrance_to_north_island,1,1,14.49,,,,,"8, 19, 26, R | Bus | 67, 68 | Bus",
+pw_191126587d908d27,31033_node_escalator_2a_mezzanine,31033_node_stair_c_mezzanine_unpaid,1,1,1.87,,,,,,
+pw_19528f2aaeab7e83,31033_node_elevator_1_mezzanine,31033_node_elevator_1_street,5,1,,44,,,0.91,,
+pw_1af9ac528befab0a,31033_entrance_main_hall_southeast_entrance,31033_entrance_main_hall_east,1,1,12.83,,,,,,"Bus, Owl | 3, 5, 24"
+pw_1b8b1907231d846c,31033_node_fare_gates_unpaid_main_hall,31033_node_fare_gates_main_hall,6,0,4.03,,,,0.91,,
+pw_1da7a067fa419cb6,31033_boarding_track_1_boarding_central,31033_boarding_track_1_boarding_area_south,1,1,69.61,,,,,,
+pw_1f7db98e3caef9b8,31033_node_north_island_near_bridge_street,21967,1,1,13.61,,,,,19 Torresdale Station,
+pw_1f8f12dd17ca66c5,31033_node_exit_gate_paid_area_west,31033_node_exit_gate,7,0,8.85,,,,0.78,,
+pw_21ca5c37ba8789c5,31033_node_fare_gates_main_hall,31033_node_fare_gates_unpaid_main_hall,7,0,4.03,,,,0.91,,
+pw_27195ef1532756c9,31033_node_near_stair_c_escalator_2_and_elevator_3,31033_node_north_platform_area,1,1,10.82,,,,,Train | Market-Frankford Line Westbound to 69th Street,"Mezzanine & Buses | Wheelchair, Elevator | Elevator, Parking, Overpass | Bus | 25, 66, 73, 84"
+pw_27bafb35fc8df0b9,31033_node_near_pratt_street_crosswalk,20844,1,1,18.89,,,,,,
+pw_27df135808d3c38f,21965,31033_node_north_island_junction,1,1,13.53,,,,,,
+pw_2872df317a35f2c5,111,31033_node_near_pratt_street_crosswalk,1,1,14.33,,,,,"Pratt Street | Bus | 3, 5",
+pw_2aedf1059a06451b,31033_node_escalator_2b_mezzanine,31033_node_escalator_2_platform,4,0,,,,,,,
+pw_2cb3aefcf938dcd7,31033_entrance_main_hall_north,31033_node_elevator_3_street,1,1,10.18,,,,,"Elevator to Overpass | Elevator, Wheelchair",
+pw_2e3a0c0d0a7432be,31033_node_fare_gates_paid_2,31033_node_elevator_3_mezzanine_paid,1,1,9.13,,,,,,
+pw_2ea7f8d0ba6c4a00,31033_node_main_hall_perimeter_north,21962,1,1,7.08,,,,,14 Neshaminy and Oxford Valley Malls,
+pw_319078fe5cf27931,21966,31033_node_north_island_near_bridge_street,1,1,23.16,,,,,,67 Phila Mills/Bustletn
+pw_332cab912952f649,31033_entrance_main_hall_east,867,1,1,14.74,,,,,58 Neshaminy Mall & Somerton,
+pw_3646a3a35fa534b4,31033_node_exit_gate_paid_area_east,31033_node_north_side_headhouse_mezzanine,7,0,7.36,,,,0.78,,
+pw_3698dfbc451d19e7,31033_node_escalator_2_platform,31033_node_near_stair_c_escalator_2_and_elevator_3,1,1,3.0,,,,,,
+pw_39292ca91ce40193,31033_node_near_pratt_street_and_frankford_ave,31033_node_south_entrance_junction,1,1,17.57,,,,,,
+pw_39d7f9e766b25863,31033_node_north_island_crosswalk,21204,1,1,24.17,,,,,"Bus | 20, Bridge St.",
+pw_3b049fc066ad95b2,31033_boarding_track_2_boarding_north_side,31033_boarding_track_2_boarding_central,1,1,68.58,,,,,,
+pw_3ba3744190af3acc,31033_node_stair_c_mezzanine_unpaid,31033_node_north_side_headhouse_mezzanine,1,1,10.63,,,,,"Wheelchair | Exit Bridge St Terminal | Parking, Bus | 25, 66, 73, 84",
+pw_3c4971f65fa9e0e0,31033_entrance_main_hall_north,31033_node_main_hall_perimeter_northeast,1,1,13.91,,,,,,
+pw_3e27a708035dbfdb,31033_entrance_satellite_headhouse,21970,1,1,11.17,,,,,"Bustleton Ave Exit | Bus | 25, 73, 84",
+pw_3e3bd2095e48f5a5,31033_node_top_of_stair_c,31033_node_near_stair_c_escalator_2_and_elevator_3,1,1,5.08,,,,,,
+pw_40a25461f5db07e2,31033_boarding_track_2_boarding_central,31033_boarding_track_2_boarding_south_side,1,1,55.5,,,,,,
+pw_459104f3a56c7b0f,31033_node_l1_central_platform_area,31033_boarding_track_1_boarding_central,1,1,14.62,,,,,Next Train,Exit Main Terminal
+pw_4a8046f761853488,31033_node_satellite_headhouse_mezzanine,31033_node_near_cashier_booth_a1_mezzanine,1,1,30.76,,,,,,"Bridge St Terminal Exit | Wheelchair | 26, 66, 73, 84 | Bus, Parking"
+pw_4b1e36fe367d3d00,31033_entrance_main_hall_north,31033_node_main_hall_perimeter_north,1,1,18.46,,,,,,
+pw_525dc4049e1eb356,31033_node_north_platform_area,31033_boarding_track_2_boarding_north_side,1,1,14.56,,,,,Next Train,Frankford Transportation Center
+pw_54002082ed522832,31033_node_stair_d_platform,31033_node_stair_d_street,2,1,,,52,,,,
+pw_5579742f7a03d6a7,31033_entrance_satellite_headhouse,31033_node_satellite_headhouse_bus_area,1,1,27.01,,,,,,
+pw_5a907718e703eea1,31033_boarding_track_2_boarding_central,31033_node_elevator_2_platform,1,1,24.77,,,,,Wheelchair | To Elevator,
+pw_5e1cbeb1abb05d41,31033_node_elevator_2_street,31033_node_elevator_2_platform,5,1,,40,,,1.21,,
+pw_5fc8ea3a48c86357,31033_node_stair_e_street,31033_entrance_stair_e_exit,7,0,5.5,,,,0.78,,
+pw_61bf6ec0044e5dc3,31033_node_fare_gates_unpaid_2,31033_node_near_cashier_booth_b1_mezzanine,1,1,7.66,,,,,,
+pw_63ce45244412732a,31033_node_top_of_stair_e_platform,31033_node_stair_e_mezzanine,2,0,,,27,,,Exit Frankford Ave,
+pw_6589d8481e2052ed,31033_node_headhouse_island_near_bridge_street,31033_node_north_island_near_bridge_street,1,1,23.14,,,,,,
+pw_67404a265337a140,31033_node_fare_gates_paid_2,31033_node_escalator_2b_mezzanine,1,1,5.13,,,,,,
+pw_67cb6d5672f05ad8,31033_node_elevator_3_street,31033_node_north_island_crosswalk,1,1,19.26,,,,,,
+pw_6a82bff27cd071f9,31033_node_escalator_2a_street,31033_node_escalator_2a_mezzanine,4,0,,20,,,,,
+pw_6abecce9d1e9edc2,21961,31033_node_main_hall_perimeter_southeast,1,1,12.06,,,,,,
+pw_6bee3e81484db674,31033_node_elevator_3_mezzanine_unpaid,31033_node_exit_gate,1,1,6.6,,,,,,
+pw_701177cf0e796a37,31033_boarding_track_1_boarding_north_side,31033_boarding_track_1_boarding_central,1,1,53.82,,,,,,
+pw_703d0c265261a351,31033_entrance_stair_e_exit,111,1,1,13.75,,,,,"Bus | 3, 5, 8, 14, 19, 20, 26, 50, 67, 88, R, MFO","Frankford Ave | Bus | 24, 58"
+pw_7131950de4d1076f,31033_node_paid_area_junction_main_hall,31033_node_main_hall_south_junction,7,0,6.36,,,,0.78,Exit,
+pw_71ff1156ee17fbc1,31033_node_stair_a_street,31033_node_stair_a_mezzanine,2,1,,,21,,,,
+pw_72df58f22f50233a,31033_node_north_island_crosswalk,31033_node_main_hall_perimeter_north,1,1,20.97,,,,,,
+pw_75130636e451592c,31033_node_l1_central_platform_area,31033_boarding_track_2_boarding_central,1,1,5.65,,,,,Next Train,Exit Main Terminal
+pw_770b14773dba1f25,31033_node_stair_c_mezzanine_paid,31033_node_top_of_stair_c,2,1,,,27,,,,
+pw_7710a7759500aca5,31033_node_near_cashier_booth_a1_mezzanine,31033_node_fare_gates_unpaid_2,1,1,8.39,,,,,,
+pw_77a763aef5f005ff,31033_node_fare_gates_paid_2,31033_node_exit_gate_paid_area_east,1,1,5.67,,,,,Exit,
+pw_7ae161153c1b9018,31033_node_top_of_stair_e_platform,31033_boarding_track_2_boarding_south_side,1,1,43.09,,,,,Next Train,
+pw_7cdecf8faa1adc95,31033_node_main_hall_center_junction,31033_node_fare_gates_unpaid_main_hall,1,1,13.66,,,,,,
+pw_7dbf43cf3c965eaa,31033_node_stair_d_platform,31033_node_near_stair_d_and_escalators_4_and_5,1,1,4.73,,,,,,
+pw_7e8bb4507b48a3a5,31033_boarding_track_1_boarding_area_south,31033_node_top_of_stair_g,1,1,8.01,,,,,Exit to Pratt Street,Wheelchair | Exit Main Terminal | Bus | Information
+pw_8555bcd166e5666c,31033_node_near_pratt_street_and_frankford_ave,21961,1,1,10.28,,,,,,
+pw_894a699129782c32,31033_entrance_satellite_headhouse,31033_node_satellite_headhouse_junction,1,1,8.36,,,,,"Frankford Transportation Center, Overpass to Main Terminal",
+pw_89e5bdebe99a9f6b,31033_node_stair_e_mezzanine,31033_node_stair_e_street,2,1,,,27,,0.78,,
+pw_8c368947a4c9148c,31033_node_south_entrance_junction,31033_node_main_hall_perimeter_southeast,1,1,7.83,,,,,"Bus | 58, 88",
+pw_8d44fc392a129fe8,31033_node_main_hall_south_junction,31033_node_main_hall_center_junction,1,1,23.41,,,,,,
+pw_8d57f4d476353f50,31033_node_exit_gate,31033_node_near_cashier_booth_b1_mezzanine,1,1,16.67,,,,,"Wheelchair, Bus | Elevator",Wheelchair | Exit Main Terminal | Bus | Information
+pw_8f2801b189ce864e,31033_node_stair_c_street,31033_node_stair_c_mezzanine_unpaid,2,1,,,23,,,,
+pw_90c5c38d87230a86,31033_node_fare_gates_unpaid_2,31033_node_fare_gates_paid_2,6,0,3.94,,,,0.91,Train | Market-Frankford Line Westbound to 69th St,
+pw_943099f57352aefd,31033_node_elevator_1_mezzanine,31033_node_satellite_headhouse_mezzanine,1,1,7.69,,,,,,Wheelchair | Elevator to Street
+pw_9470ba8c7cd4f82f,31033_entrance_main_hall_east,31033_node_main_hall_perimeter_northeast,1,1,28.64,,,,,,"8, 14, 19, 20, 25, 26, 50 | Bus, Parking | 58, 66, 67, 73, 84, 88, R, MFO"
+pw_952f5236d5439c48,31033_entrance_satellite_headhouse,21968,1,1,25.72,,,,,,
+pw_9976188814c144b1,31033_node_escalator_2a_mezzanine,31033_node_exit_gate,1,1,10.74,,,,,Market-Frankford Line | Train | Westbound to 69th St,Bus | Bridge St Terminal
+pw_9a825699445c7d5e,31033_entrance_north_headhouse,31033_entrance_main_hall_north,1,1,19.4,,,,,"Main Terminal | Train | Market-Frankford Line | Information | Bus | 24, 58 | Wheelchair, Elevator",
+pw_9b76fc9c6d74a088,31033_node_fare_gates_paid_2,31033_node_stair_c_mezzanine_paid,1,1,6.48,,,,,,
+pw_9bc73940a0fc468f,31033_node_main_hall_perimeter_north,31033_entrance_main_hall_west_entrance,1,1,23.21,,,,,"Bus | Pratt St, 3, 5, 24",
+pw_9d7c9b37ab8eb871,31033_node_fare_gates_paid_2,31033_node_exit_gate_paid_area_west,1,1,4.28,,,,,Exit,
+pw_9e2580866715d27c,31033_node_elevator_3_mezzanine_paid,31033_node_exit_gate_paid_area_west,1,1,6.67,,,,,,
+pw_9ea6465ad8e0610b,31033_node_fare_gates_main_hall,31033_node_paid_area_junction_main_hall,1,1,5.1,,,,,,
+pw_9f4a31d246c64c51,31033_node_elevator_3_platform,31033_node_near_stair_c_escalator_2_and_elevator_3,1,1,9.13,,,,,,
+pw_a354d1f11cd6da75,31033_node_escalators_4_&_5_platform,31033_node_escalator_4_&_5_street,4,0,,42,,,,,
+pw_a6c34f072f76b1e6,31033_node_satellite_headhouse_junction,31033_node_escalator_1_street,1,1,5.33,,,,,,
+pw_a7e132f6d2627b3f,31033_node_elevator_3_platform,31033_node_elevator_3_mezzanine_paid,5,1,,,,,1.2,,Elevator to Platform
+pw_a7e33952ba41cd32,31033_node_elevator_2_platform,31033_node_north_platform_area,1,1,16.46,,,,,"Overpass | Bus | 25, 66, 73, 84","Wheelchair, Elevator | Elevator to Main Terminal"
+pw_aa5d37da5a5bf7ca,31033_node_satellite_headhouse_mezzanine,31033_node_escalator_1_mezzanine,1,1,7.04,,,,,,
+pw_abbc71bb81f29e73,31033_entrance_north_headhouse,31033_node_north_island_crosswalk,1,1,20.2,,,,,"Bridge St, | Bus | Routes","Bus | 26, 58, 66, 73, 84, 88, Overpass | Train, Bus"
+pw_acd78ae4892131c1,31033_node_main_hall_perimeter_northeast,867,1,1,16.66,,,,,58 Neshaminy Mall & Somerton,
+pw_ae0bfaf57aa0332f,31033_node_near_pratt_street_crosswalk,31033_node_near_pratt_street_and_frankford_ave,1,1,17.96,,,,,"Bus | 24, 58",
+pw_aecf2a7f19fb123b,31033_entrance_main_hall_southeast_entrance,31033_node_main_hall_south_junction,1,1,8.12,,,,,Frankford Transportation Center,"Frankford Ave | Bus | 24, 58"
+pw_af9ac1fe66af253b,31033_node_south_entrance_junction,31033_entrance_main_hall_south_entrance,1,1,9.8,,,,,Frankford Transportation Center,
+pw_afaac1a3454baae4,31033_node_north_island_near_bridge_street,388,1,1,19.01,,,,,88 Bethayres/Frankford-Gregg,
+pw_b4d418733a8fd3e2,31033_entrance_north_headhouse,31033_node_stair_c_street,1,1,7.46,,,,,"Overpass, 25, 66, 73, 84 | Bus | Market-Frankford Line | Train",
+pw_b4ea4397f3f9e10e,31033_node_l1_central_platform_area,31033_boarding_track_1_boarding_area_south,1,1,55.75,,,,,Next Train,
+pw_b59424f33f436daa,31033_node_stair_g_street,31033_entrance_near_stair_g_exit,7,0,6.6,,,,0.78,,
+pw_be1ce5a2b50cec7c,31033_node_top_of_stair_g,31033_node_stair_g_street,2,1,,,60,,,Pratt Street,
+pw_bf116654648794af,31033_node_satellite_headhouse_island_near_bridge_street,31033_node_headhouse_island_near_bridge_street,1,1,29.72,,,,,,
+pw_c11a5745b986a8d6,31033_node_entrance_to_north_island,31033_node_north_island_junction,1,1,13.77,,,,,,
+pw_c526a45af0f55546,31033_node_main_hall_perimeter_northeast,31033_entrance_north_headhouse,1,1,28.2,,,,,,
+pw_ca2756c2a6d6d3bc,21941,31033_node_satellite_headhouse_bus_area,1,1,16.32,,,,,,
+pw_cad10786cbebe66c,21968,31033_node_satellite_headhouse_bus_area,1,1,9.88,,,,,,
+pw_d2870b81e79d1997,31033_boarding_track_1_boarding_central,31033_node_elevator_2_platform,1,1,24.96,,,,,Wheelchair | To Elevator,
+pw_d28fa85710629d51,31033_node_paid_area_junction_main_hall,31033_node_escalator_4_&_5_street,1,1,6.31,,,,,,
+pw_d3adce50ed4d41e6,31033_entrance_main_hall_west_entrance,21962,1,1,15.88,,,,,14 Neshaminy and Oxford Valley Malls,
+pw_d54c32e4d72aca20,31033_node_fare_gates_paid_2,31033_node_fare_gates_unpaid_2,7,0,3.94,,,,0.91,,
+pw_d5e300c4d432a0db,31033_node_north_island_junction,21966,1,1,13.94,,,,,67 Phila Mills/Bustletn,
+pw_d685e4c1cfd4e3a6,31033_node_south_entrance_junction,31033_entrance_stair_e_exit,1,1,5.89,,,,,"Owl, Bus | 3, 5","Frankford Ave 24, 58 | Bus | Overpass - 25, 66, 73, 84 | Bus, Parking |"
+pw_d7596d5bcca390ed,31033_entrance_satellite_headhouse,21941,1,1,10.44,,,,,Exit | Bus | 66,
+pw_d9c14ff92f220ccc,31033_node_escalators_4_&_5_platform,31033_node_near_stair_d_and_escalators_4_and_5,1,1,3.38,,,,,,
+pw_dd1c342314b910fe,31033_node_main_hall_perimeter_southeast,31033_entrance_main_hall_southeast_entrance,1,1,13.64,,,,,,
+pw_ddf5c40ba083bb25,31033_entrance_north_headhouse,31033_node_escalator_2a_street,1,1,8.25,,,,,"Overpass, 25, 66, 73, 84 | Bus | Market-Frankford Line | Train",
+pw_ddfd17df6348490e,31033_node_north_platform_area,31033_boarding_track_1_boarding_north_side,1,1,13.11,,,,,Next Train,Frankford Transportation Center
+pw_def671611c594bfb,31033_entrance_main_hall_north,31033_node_main_hall_center_junction,1,1,21.35,,,,,Frankford Transportation Center,"Parking, Bus | 25, 66, 73, 84"
+pw_e13a01a744567ee9,31033_node_escalator_4_&_5_street,31033_node_escalators_4_&_5_platform,4,0,,42,,,,,
+pw_e1673fef0389b461,31033_entrance_main_hall_west_entrance,31033_node_main_hall_center_junction,1,1,12.64,,,,,,"Bus | 8, 14, 19, 20, 26, 50, 67, 88, R, MFO"
+pw_e40d6257fe401896,31033_node_satellite_headhouse_junction,31033_node_elevator_1_street,1,1,10.65,,,,,,
+pw_e643b81f5d840a20,31033_boarding_track_1_boarding_area_south,31033_boarding_track_2_boarding_south_side,1,1,8.82,,,,,,
+pw_e71f303290e8ab74,31033_node_near_stair_d_and_escalators_4_and_5,31033_node_l1_central_platform_area,1,1,7.14,,,,,Train | Market-Frankford Line Westbound to 69th Street,
+pw_f32b0101c7fdca58,31033_node_elevator_3_mezzanine_unpaid,31033_node_elevator_3_street,5,1,,,,,1.21,Elevator to Street,
+pw_f60bbe3947eef29a,31033_node_l1_central_platform_area,31033_node_top_of_stair_e_platform,1,1,3.27,,,,,,
+pw_f80d568596e7cea2,31033_entrance_main_hall_west_entrance,111,1,1,45.37,,,,,,"Parking, Bus | 8, 14, 19, 20, 25, 26, 50, 66, 67, 73, 84, 88, R MFO"
+pw_fb7b18eba12f5b94,31033_boarding_track_2_boarding_south_side,31033_node_top_of_stair_g,1,1,10.04,,,,,Exit To Pratt Street,Wheelchair | Exit Main Terminal | Bus | Information
+pw_fddf2b1e348415e4,31033_node_paid_area_junction_main_hall,31033_node_stair_d_street,1,1,7.7,,,,,,
+pw_ff977e203c7196b4,31033_node_satellite_headhouse_junction,31033_node_stair_a_street,1,1,3.65,,,,,,
