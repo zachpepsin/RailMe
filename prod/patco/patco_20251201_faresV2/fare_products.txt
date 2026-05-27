@@ -54,11 +54,11 @@ hwc_phl_offpeak,"Haddonfield, Westmont & Collingswood to/from Philadelphia",chil
 hwc_phl_offpeak,"Haddonfield, Westmont & Collingswood to/from Philadelphia",reduced,0.70,USD,freedom_card
 law_phl_offpeak,"Lindenwold, Ashland & Woodcrest to/from Philadelphia",,3.00,USD,freedom_card
 law_phl_offpeak,"Lindenwold, Ashland & Woodcrest to/from Philadelphia",,3.00,USD,paper
-law_phl_offpeak,"Lindenwold, Ashland & Woodcrest to/from Philadelphia",,3.00,USD,cemv
+law_phl_offpeak,"Lindenwold, Ashland & Woodcrest to/from Philadelphia",,3.00,USD,contactless
 law_phl_offpeak,"Lindenwold, Ashland & Woodcrest to/from Philadelphia",child,0.00,USD,
 law_phl_offpeak,"Lindenwold, Ashland & Woodcrest to/from Philadelphia",reduced,0.70,USD,freedom_card
 nj_nj_offpeak,Any New Jersey Station to Any New Jersey Station,,1.60,USD,freedom_card
 nj_nj_offpeak,Any New Jersey Station to Any New Jersey Station,,1.60,USD,paper
-nj_nj_offpeak,Any New Jersey Station to Any New Jersey Station,,1.60,USD,cemv
+nj_nj_offpeak,Any New Jersey Station to Any New Jersey Station,,1.60,USD,contactless
 nj_nj_offpeak,Any New Jersey Station to Any New Jersey Station,child,0.00,USD,
 nj_nj_offpeak,Any New Jersey Station to Any New Jersey Station,reduced,0.70,USD,freedom_card
