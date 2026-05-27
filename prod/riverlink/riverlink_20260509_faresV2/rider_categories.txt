@@ -1,7 +1,7 @@
 rider_category_id,rider_category_name,is_default_fare_category,eligibility_url
 adult,Adult,1,
-child,Child (Ages 5-12),0,https://www.riverlinkferry.com/general-service/
-senior,Senior (Ages 65+),0,https://www.riverlinkferry.com/general-service/
-student,Student,0,https://www.riverlinkferry.com/general-service/
+child,Child (Ages 5-12),0,
+senior,Senior (Ages 65+),0,
+student,Student,0,
 infant,Infant (Ages 4 & Under),0,
-group,Group (20+ People),0,https://www.riverlinkferry.com/general-service/
+group,Group (20+ People),0,
