@@ -99,7 +99,7 @@
       	"prodDbName":"",
         "devDbName":"",
         "prodCsvFolder":"riverlink_20260509",
-        "devCsvFolder":"riverlink_20260509",
+        "devCsvFolder":"riverlink_20260509_faresV2",
         "alertMessage":"",
         "alertLink":"",
         "rtServiceAlerts":"",

@@ -1,0 +1,3 @@
+area_id,stop_id
+phl,001
+cam,002

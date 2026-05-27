@@ -1,0 +1,5 @@
+leg_group_id,from_area_id,to_area_id,from_timeframe_group_id,fare_product_id
+general,phl,cam,,general_rt
+general,cam,phl,,general_rt
+concert,phl,cam,concert_service,concert_rt
+concert,cam,phl,concert_service,concert_rt

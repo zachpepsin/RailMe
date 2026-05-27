@@ -1,0 +1,15 @@
+fare_product_id,fare_product_name,rider_category_id,fare_media_id,amount,currency
+general_rt,Round Trip,adult,paper_ticket,12.00,USD
+general_rt,Round Trip,adult,mobile_ticket,12.00,USD
+general_rt,Round Trip,child,paper_ticket,10.00,USD
+general_rt,Round Trip,child,mobile_ticket,10.00,USD
+general_rt,Round Trip,senior,paper_ticket,10.00,USD
+general_rt,Round Trip,senior,mobile_ticket,10.00,USD
+general_rt,Round Trip,student,paper_ticket,10.00,USD
+general_rt,Round Trip,student,mobile_ticket,10.00,USD
+general_rt,Round Trip,infant,paper_ticket,0.00,USD
+general_rt,Round Trip,infant,mobile_ticket,0.00,USD
+general_rt,Round Trip,group,paper_ticket,9.00,USD
+general_rt,Round Trip,group,mobile_ticket,9.00,USD
+concert_rt,Concert/Event Round Trip,,paper_ticket,18.00,USD
+concert_rt,Concert/Event Round Trip,,mobile_ticket,18.00,USD
