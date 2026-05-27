@@ -209,7 +209,7 @@ if($rootFolder -eq 'njt') {
 			$csv | Export-Csv .\$rootFolder\$subFolder\$feedFileName.txt -Delimiter ',' -NoType
 
 			($csv = Import-Csv .\$rootFolder\$subFolder\$feedFileName.txt -Delimiter ',') | ForEach {
-				if ($_.agency_id -match "SEPTA") {
+				if ($_.agency_id -match "1") {
 					# Change the agency_name from SEPTA to "SEPTA Metro/Bus"
 					$_.agency_name = "SEPTA Metro/Bus"
 					$_.cemv_support = "1"
