@@ -73,8 +73,9 @@
         "rtServiceAlerts":"http://www3.septa.org/gtfsrt/septarail-pa-us/Service/rtServiceAlerts.pb",
         "rtTripUpdates":"http://www3.septa.org/gtfsrt/septarail-pa-us/Trip/rtTripUpdates.pb",
 		"realtimeFeeds": [
-		  "http://www3.septa.org/gtfsrt/septarail-pa-us/Service/rtServiceAlerts.pb",
-		  "http://www3.septa.org/gtfsrt/septarail-pa-us/Trip/rtTripUpdates.pb"
+			"http://www3.septa.org/gtfsrt/septarail-pa-us/Service/rtServiceAlerts.pb",
+			"http://www3.septa.org/gtfsrt/septarail-pa-us/Trip/rtTripUpdates.pb",
+			"https://www3.septa.org/gtfsrt/septarail-pa-us/Vehicle/rtVehiclePosition.pb"
 		]
       },
       {
@@ -86,7 +87,12 @@
         "alertMessage":"",
         "alertLink":"",
         "rtServiceAlerts":"",
-        "rtTripUpdates":""
+        "rtTripUpdates":"",
+		"realtimeFeeds": [
+			"https://www3.septa.org/gtfsrt/septa-pa-us/Service/rtServiceAlerts.pb",
+			"https://www3.septa.org/gtfsrt/septa-pa-us/Trip/rtTripUpdates.pb",
+			"https://www3.septa.org/gtfsrt/septa-pa-us/Vehicle/rtVehiclePosition.pb"
+		]
       },
       {
       	"name":"njt",
