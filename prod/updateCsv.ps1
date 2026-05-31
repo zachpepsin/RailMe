@@ -132,6 +132,21 @@ if($rootFolder -eq 'njt') {
 			
 			Export-Updated-Csv $csv $feedFileName $rootFolder
 		
+		} elseif ($feedFileName -eq "routes") {
+			# Add the cemv_support column
+			$csv = Import-Csv .\$rootFolder\$subFolder\$feedFileName.txt -Delimiter ',' | Select-Object *,"cemv_support" 
+			$csv | Export-Csv .\$rootFolder\$subFolder\$feedFileName.txt -Delimiter ',' -NoType
+			
+			($csv = Import-Csv .\$rootFolder\$subFolder\$feedFileName.txt -Delimiter ',') | ForEach { 
+				# Only light rail and bus routes are supported
+				if ($_.route_short_name -in ('HBLR', 'NLR', 'RVLN')) {
+					$_.cemv_support = "1"
+				} else {
+					$_.cemv_support = "2"
+				}
+			}
+			
+			Export-Updated-Csv $csv $feedFileName $rootFolder
 		}
 	}
 	
