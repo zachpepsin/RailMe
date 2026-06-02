@@ -35,17 +35,17 @@
 					"endDateTime":"2026-05-31T23:59"
 				},
 				{
-					"header":"Special Schedule\nJune 1st",
-					"description":"On June 1st, from 8:47pm to 12:01am, PATCO is operating on a special schedule that is not reflected in RailMe.",
-					"url":"https://www.ridepatco.org/schedules/TW_2026-06-01.pdf",
+					"header":"Special Schedule\nJune 2nd",
+					"description":"On June 2nd, from 8:47pm to 12:01am, PATCO is operating on a special schedule that is not reflected in RailMe.",
+					"url":"https://www.ridepatco.org/schedules/TW_2026-06-02.pdf",
 					"startDateTime":"",
-					"endDateTime":"2026-06-01T23:59"
+					"endDateTime":"2026-06-02T23:59"
 				},
 				{
 					"header":"Possible Special Schedule",
 					"description":"PATCO may be operating on a special schedule. Go to RidePATCO.org for more information.",
 					"url":"https://www.ridepatco.org/schedules/schedules.asp",
-					"startDateTime":"2026-06-02T04:00",
+					"startDateTime":"2026-06-03T04:00",
 					"endDateTime":""
 				}
 			],
