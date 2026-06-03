@@ -90,7 +90,7 @@
       	"prodDbName":"",
         "devDbName":"",
         "prodCsvFolder":"",
-        "devCsvFolder":"septa_bus_20260524",
+        "devCsvFolder":"",
         "alertMessage":"",
         "alertLink":"",
         "rtServiceAlerts":"",
