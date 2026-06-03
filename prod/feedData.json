@@ -5,12 +5,8 @@
     [
       {
       	"name":"patco",
-        "prodDbName":"patco_20200629_2.db",
-        "devDbName":"",
         "prodCsvFolder":"patco_20251201_faresV2",
         "devCsvFolder":"patco_20251201_faresV2",
-        "alertMessage":"",
-        "alertLink":"http://ridepatco.org/",
 		"alerts" :
 			[
 				{
@@ -54,12 +50,8 @@
       },
       {
       	"name":"septa",
-        "prodDbName":"septa_20200816_1.db",
-        "devDbName":"septa_20200906_7.db",
         "prodCsvFolder":"septa_20260510",
         "devCsvFolder":"septa_20260510",
-        "alertMessage":"",
-        "alertLink":"",
 		"alerts" :
 			[
 				{
@@ -87,12 +79,8 @@
       },
       {
       	"name":"septa_bus",
-      	"prodDbName":"",
-        "devDbName":"",
         "prodCsvFolder":"",
         "devCsvFolder":"",
-        "alertMessage":"",
-        "alertLink":"",
         "rtServiceAlerts":"",
         "rtTripUpdates":"",
 		"realtimeFeeds": [
@@ -103,12 +91,8 @@
       },
       {
       	"name":"njt",
-      	"prodDbName":"njt_20200810_1.db",
-        "devDbName":"",
         "prodCsvFolder":"njt_20260531",
         "devCsvFolder":"njt_20260531",
-        "alertMessage":"",
-        "alertLink":"",
 		"alerts" :
 			[
 				{
@@ -127,12 +111,8 @@
       },
       {
       	"name":"riverlink",
-      	"prodDbName":"",
-        "devDbName":"",
         "prodCsvFolder":"riverlink_20260509_faresV2",
         "devCsvFolder":"riverlink_20260509_faresV2",
-        "alertMessage":"",
-        "alertLink":"",
         "rtServiceAlerts":"",
         "rtTripUpdates":""
       }
