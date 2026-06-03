@@ -19,11 +19,33 @@
     * url: Url to naviagate the user to find more info. Displayed the same as a url in a GTFS-rt alert url would.
     * startDateTime: Alert will not display before this dateTime. Format yyyy-MM-ddTHH:mm (ex: 2022-10-31T18:45)
     * endDateTime: Alert will not display after this dateTime
-  * rtServiceAlerts: Url for GTFS-RT service alerts (and also trip updates if they are in one protobuf)
-  * rtTripUpdates: Used same as above, but an additional option for agencies that separate the alerts and trip updates separately
+  * rtServiceAlerts: Url for GTFS-rt service alerts (and also trip updates if they are in one protobuf) (Deprecated, use realtimeFeeds)
+  * rtTripUpdates: Used same as above, but an additional option for agencies that separate the alerts and trip updates separately (Deprecated, use realtimeFeeds)
+  * realtimeFeeds: List of urls for GTFS-rt feeds
 
 
 ## RailMe Changelog
+
+### 4.0.0 (Beta) (2 June 2026)
+* Added Trip History feature
+* Added support for GTFS FaresV2
+* Added AppShortcut support
+* Added support from "time" StopUpdate in GTFS-rt
+* Added indiator for number of alerts in Trip Details
+* Added fare_url, cEmv, cars_allowed support from GTFS
+* Added support for "estimated" stop times (timepoint in GTFS)
+* Added support for timezones
+* Added support for headsign changes during a trip
+* Added high contrast support
+* Fixed bug where some trips would appear in schedule twice
+* Migrate from Views to Jetpack Compose
+* Migrated from SharedPreferences to DataStore
+* Migrate from Groovy to Kotlin
+* Migrate to Version Catalog
+* Migrate from kapt to ksp
+* Increased Java version to 21
+* Increased minSdkVersion to 26
+* Increased targetSdkVersion to 37
 
 #### 3.2.1 (Production) (25 April 2024)
 * Route names are now shown as their full name for clarity, rather than being abbreviated
