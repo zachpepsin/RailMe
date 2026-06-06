@@ -197,9 +197,9 @@ if($rootFolder -eq 'njt') {
 		#		}
 		#	}
 			
-			Export-Updated-Csv $csv $feedFileName $rootFolder
+			#Export-Updated-Csv $csv $feedFileName $rootFolder
 		
-		} #elseif ($feedFileName -eq "trips") { #UPDATE v202602010 added "wheelchair_accessible" to all trips
+		#} elseif ($feedFileName -eq "trips") { #UPDATE v202602010 added "wheelchair_accessible" to all trips
 			#Add the wheelchair_accessible
 			#Need to add the new columns first
 		#	$csv = Import-Csv .\$rootFolder\$subFolder\$feedFileName.txt -Delimiter ',' | Select-Object *,"wheelchair_accessible"
@@ -211,7 +211,7 @@ if($rootFolder -eq 'njt') {
 		#	}
 		#	
 		#	Export-Updated-Csv $csv $feedFileName $rootFolder
-		#}
+		}
 		
 	}
 } elseif($rootFolder -eq 'septa_bus') {
