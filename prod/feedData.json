@@ -64,7 +64,7 @@
       },
       {
       	"name":"septa",
-        "prodCsvFolder":"septa_20260510",
+        "prodCsvFolder":"septa_20260524",
         "devCsvFolder":"septa_20260524",
 		"alerts" :
 			[
