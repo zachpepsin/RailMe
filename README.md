@@ -26,7 +26,7 @@
 
 ## RailMe Changelog
 
-### 4.0.0 (Beta) (2 June 2026)
+### 4.0.0 (Production) (2 June 2026)
 * Added Trip History feature
 * Added support for GTFS FaresV2
 * Added AppShortcut support
