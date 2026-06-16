@@ -4,7 +4,7 @@
 
 
 ## feedData.json
-* minAppVersionCode: The minimum reccomended version code for the app to function correectly (ex: "24").  If it is higher than what the user has, the user will see an alert on startup reccomending that they update the app. (Currently unused)
+* minAppVersionCode: The minimum reccomended version code for the app to function correectly (ex: "24").  If it is higher than what the user has, the user will see an alert on startup reccomending that they update the app. (Deprecated)
 * feeds: List of GTFS feeds being used
   * name: Name of the feed.  Used by the application during things such as updating, checking for most recent selection...
   * prodDbName: Name of the database being used in production (ex: patco_20160406_5.db)  (Deprecated, use prodCsvFolder)
@@ -25,6 +25,10 @@
 
 
 ## RailMe Changelog
+
+#### 4.0.1 (Production) (16 June 2026)
+* Increased minSdkVersion to 34
+* Prevents crash on devices with lower SDKs
 
 ### 4.0.0 (Production) (2 June 2026)
 * Added Trip History feature
