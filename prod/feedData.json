@@ -24,18 +24,18 @@
 					"endDateTime":"2026-06-13T23:59"
 				},
 				{
-					"header":"Special Schedule\nJune 14th",
-					"description":"On June 14th, PATCO is operating on a special schedule that is not reflected in RailMe.",
-					"url":"https://www.ridepatco.org/schedules/2026-06-14_CotedIvoire-vs-Ecuador.pdf",
-					"startDateTime":"",
-					"endDateTime":"2026-06-14T23:59"
-				},
-				{
 					"header":"Special Schedule\nJune 15th - EASTBOUND",
 					"description":"On June 15th, from 8:28pm to 11:33pm, PATCO is operating on a special schedule for EASTBOUND trains that is not reflected in RailMe.",
 					"url":"https://www.ridepatco.org/schedules/TW_2026-06-15.pdf",
 					"startDateTime":"",
 					"endDateTime":"2026-06-15T23:59"
+				},
+				{
+					"header":"Special Schedule\nJune 16th",
+					"description":"On June 16th, PATCO is operating on a special schedule that is not reflected in RailMe.",
+					"url":"https://www.ridepatco.org/schedules/TW_2026-06-16.pdf",
+					"startDateTime":"",
+					"endDateTime":"2026-06-16T23:59"
 				},
 				{
 					"header":"Special Schedule\nJune 19th",
