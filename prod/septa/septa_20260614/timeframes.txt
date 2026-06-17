@@ -1,0 +1,4 @@
+timeframe_group_id,start_time,end_time,service_id
+all_times,00:00:00,24:00:00,fares_service_all_times
+weekday,00:00:00,24:00:00,fares_service_weekday
+weekend,00:00:00,24:00:00,fares_service_weekend
