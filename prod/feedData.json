@@ -31,6 +31,20 @@
 					"endDateTime":"2026-06-19T23:59"
 				},
 				{
+					"header":"Special Schedule\nJune 20th",
+					"description":"On June 20th, PATCO is operating on a special schedule that is not reflected in RailMe.",
+					"url":"https://www.ridepatco.org/schedules/TW_2026-06-20.pdf",
+					"startDateTime":"",
+					"endDateTime":"2026-06-20T23:59"
+				},
+				{
+					"header":"Special Schedule\nJune 21st",
+					"description":"On June 21st, PATCO is operating on a special schedule that is not reflected in RailMe.",
+					"url":"https://www.ridepatco.org/schedules/TW_2026-06-21.pdf",
+					"startDateTime":"",
+					"endDateTime":"2026-06-21T23:59"
+				},
+				{
 					"header":"Special Schedule\nJune 22nd",
 					"description":"On June 22nd, PATCO is operating on a special schedule that is not reflected in RailMe.",
 					"url":"https://www.ridepatco.org/schedules/2026-06-22_France-vs-Iraq.pdf",
