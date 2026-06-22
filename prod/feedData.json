@@ -24,27 +24,6 @@
 					"endDateTime":"2026-06-17T23:59"
 				},
 				{
-					"header":"Special Schedule\nJune 19th",
-					"description":"On June 19th, PATCO is operating on a special schedule that is not reflected in RailMe.",
-					"url":"https://www.ridepatco.org/schedules/2026-06-19_Brazil-vs-Haiti.pdf",
-					"startDateTime":"",
-					"endDateTime":"2026-06-19T23:59"
-				},
-				{
-					"header":"Special Schedule\nJune 20th",
-					"description":"On June 20th, PATCO is operating on a special schedule that is not reflected in RailMe.",
-					"url":"https://www.ridepatco.org/schedules/TW_2026-06-20.pdf",
-					"startDateTime":"",
-					"endDateTime":"2026-06-20T23:59"
-				},
-				{
-					"header":"Special Schedule\nJune 21st",
-					"description":"On June 21st, PATCO is operating on a special schedule that is not reflected in RailMe.",
-					"url":"https://www.ridepatco.org/schedules/TW_2026-06-21.pdf",
-					"startDateTime":"",
-					"endDateTime":"2026-06-21T23:59"
-				},
-				{
 					"header":"Special Schedule\nJune 22nd",
 					"description":"On June 22nd, PATCO is operating on a special schedule that is not reflected in RailMe.",
 					"url":"https://www.ridepatco.org/schedules/2026-06-22_France-vs-Iraq.pdf",
@@ -59,10 +38,17 @@
 					"endDateTime":"2026-06-25T23:59"
 				},
 				{
+					"header":"Special Schedule\nJune 27th",
+					"description":"On June 27th, PATCO is operating on a special schedule that is not reflected in RailMe.",
+					"url":"https://www.ridepatco.org/schedules/2026-06-27_Croatia-vs-Ghana.pdf",
+					"startDateTime":"",
+					"endDateTime":"2026-06-27T23:59"
+				},
+				{
 					"header":"Possible Special Schedule",
 					"description":"PATCO may be operating on a special schedule. Go to RidePATCO.org for more information.",
 					"url":"https://www.ridepatco.org/schedules/schedules.asp",
-					"startDateTime":"2026-06-26T04:00",
+					"startDateTime":"2026-06-28T04:00",
 					"endDateTime":""
 				}
 			],
