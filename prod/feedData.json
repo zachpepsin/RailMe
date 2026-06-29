@@ -24,25 +24,18 @@
 					"endDateTime":"2026-06-17T23:59"
 				},
 				{
-					"header":"Special Schedule\nJune 27th",
-					"description":"On June 27th, PATCO is operating on a special schedule that is not reflected in RailMe.",
-					"url":"https://www.ridepatco.org/schedules/2026-06-27_Croatia-vs-Ghana_rev2.pdf",
-					"startDateTime":"",
-					"endDateTime":"2026-06-27T23:59"
-				},
-				{
-					"header":"Special Schedule\nJune 28th",
-					"description":"On June 28th, PATCO is operating on a special schedule that is not reflected in RailMe.",
-					"url":"https://www.ridepatco.org/schedules/TW_2026-06-28.pdf",
-					"startDateTime":"",
-					"endDateTime":"2026-06-28T23:59"
-				},
-				{
 					"header":"Special Schedule\nJune 29th",
 					"description":"On June 29th, from 8:05pm to 12:01am, PATCO is operating on a special schedule that is not reflected in RailMe.",
 					"url":"https://www.ridepatco.org/schedules/TW_2026-06-29.pdf",
 					"startDateTime":"",
 					"endDateTime":"2026-06-29T23:59"
+				},
+				{
+					"header":"Special Schedule\nJune 30th",
+					"description":"On June 30th, from 8:05pm to 12:01am, PATCO is operating on a special schedule that is not reflected in RailMe.",
+					"url":"https://www.ridepatco.org/schedules/TW_2026-06-30.pdf",
+					"startDateTime":"",
+					"endDateTime":"2026-06-30T23:59"
 				},
 				{
 					"header":"Special Schedule\nJuly 4th",
@@ -55,7 +48,7 @@
 					"header":"Possible Special Schedule",
 					"description":"PATCO may be operating on a special schedule. Go to RidePATCO.org for more information.",
 					"url":"https://www.ridepatco.org/schedules/schedules.asp",
-					"startDateTime":"2026-06-30T04:00",
+					"startDateTime":"2026-07-01T04:00",
 					"endDateTime":""
 				}
 			],
