@@ -24,18 +24,25 @@
 					"endDateTime":"2026-07-09T23:59"
 				},
 				{
-					"header":"Special Schedule\nJuly 10th",
-					"description":"On July 10th, from 8:54pm to 12:17am, PATCO is operating on a special schedule that is not reflected in RailMe.",
-					"url":"https://www.ridepatco.org/schedules/TW_2026-07-10.pdf",
-					"startDateTime":"",
-					"endDateTime":"2026-07-10T23:59"
-				},
-				{
 					"header":"Special Schedule\nJuly 11th",
 					"description":"On July 11th, PATCO is operating on a special schedule that is not reflected in RailMe.",
 					"url":"https://www.ridepatco.org/schedules/2026-07-11_BFB100.pdf",
 					"startDateTime":"",
 					"endDateTime":"2026-07-11T23:59"
+				},
+				{
+					"header":"Special Schedule\nJuly 13th",
+					"description":"On July 13th, from 9:44pm to 12:06am, PATCO is operating on a special schedule that is not reflected in RailMe.",
+					"url":"https://www.ridepatco.org/schedules/TW_2026-07-13.pdf",
+					"startDateTime":"",
+					"endDateTime":"2026-07-13T23:59"
+				},
+				{
+					"header":"Special Schedule\nJuly 14th",
+					"description":"On July 14th, from 8:54pm to 12:08am, PATCO is operating on a special schedule that is not reflected in RailMe.",
+					"url":"https://www.ridepatco.org/schedules/TW_2026-07-14.pdf",
+					"startDateTime":"",
+					"endDateTime":"2026-07-14T23:59"
 				},
 				{
 					"header":"Possible Special Schedule",
