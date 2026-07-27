@@ -1,0 +1,5 @@
+fare_media_id,fare_media_name,fare_media_type
+septa_key,SEPTA Key,3
+quick_trip,Quick Trip,2
+on_board,Onboard Cash,0
+contactless,Contactless Payment,1
