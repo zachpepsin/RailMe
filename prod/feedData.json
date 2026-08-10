@@ -24,32 +24,11 @@
 					"endDateTime":"2026-08-17T04:30"
 				},
 				{
-					"header":"Special Schedule\nJuly 27th",
-					"description":"On July 27th, from 8:30pm to 12:09am, PATCO is operating on a special schedule that is not reflected in RailMe.",
-					"url":"https://www.ridepatco.org/schedules/TW_2026-07-27.pdf",
-					"startDateTime":"",
-					"endDateTime":"2026-07-27T23:59"
-				},
-				{
-					"header":"Special Schedule\nJuly 29th",
-					"description":"On July 29th, from 8:30pm to 12:09am, PATCO is operating on a special schedule that is not reflected in RailMe.",
-					"url":"https://www.ridepatco.org/schedules/TW_2026-07-29.pdf",
-					"startDateTime":"",
-					"endDateTime":"2026-07-29T23:59"
-				},
-				{
 					"header":"Special Schedule\nJuly 31st - EASTBOUND",
 					"description":"On July 31st, PATCO is operating on a special schedule for EASTBOUND trains that is not reflected in RailMe.",
 					"url":"https://www.ridepatco.org/schedules/TW_2026-07-31_Rev1.pdf",
 					"startDateTime":"",
 					"endDateTime":"2026-07-31T23:59"
-				},
-				{
-					"header":"Special Schedule\nAugust 8th",
-					"description":"On August 8th, PATCO is operating on a special schedule that is not reflected in RailMe.",
-					"url":"https://www.ridepatco.org/schedules/TW_2026-08-08.pdf",
-					"startDateTime":"",
-					"endDateTime":"2026-08-08T23:59"
 				},
 				{
 					"header":"Special Schedule\nAugust 9th",
@@ -59,10 +38,17 @@
 					"endDateTime":"2026-08-09T23:59"
 				},
 				{
+					"header":"Special Schedule\nAugust 11th",
+					"description":"On August 11th, from 8:56pm to 12:05am, PATCO is operating on a special schedule that is not reflected in RailMe.",
+					"url":"https://www.ridepatco.org/schedules/TW_2026-08-11.pdf",
+					"startDateTime":"",
+					"endDateTime":"2026-08-11T23:59"
+				},
+				{
 					"header":"Possible Special Schedule",
 					"description":"PATCO may be operating on a special schedule. Go to RidePATCO.org for more information.",
 					"url":"https://www.ridepatco.org/schedules/schedules.asp",
-					"startDateTime":"2026-08-11T04:00",
+					"startDateTime":"2026-08-12T04:00",
 					"endDateTime":""
 				}
 			],
