@@ -18,10 +18,10 @@
 				},
 				{
 					"header":"Service Advisory",
-					"description":"PATCO service will end early Sunday night August 16th. Last trains depart at 9:30pm",
-					"url":"https://www.ridepatco.org/news/PATCO-Service-Will-End-Early-Sunday-Nights-August-9-and-16.html",
+					"description":"PATCO service will end early Sunday night August 23rd. Last trains depart at 9:30pm",
+					"url":"https://www.ridepatco.org/news/PATCO-Service-Will-End-Early-Sunday-Night-August-23.html",
 					"startDateTime":"",
-					"endDateTime":"2026-08-17T04:30"
+					"endDateTime":"2026-08-24T04:30"
 				},
 				{
 					"header":"Special Schedule\nJuly 31st - EASTBOUND",
@@ -31,13 +31,6 @@
 					"endDateTime":"2026-07-31T23:59"
 				},
 				{
-					"header":"Special Schedule\nAugust 9th",
-					"description":"On August 9th, PATCO is operating on a special schedule that is not reflected in RailMe.",
-					"url":"https://www.ridepatco.org/schedules/TW_2026-08-09.pdf",
-					"startDateTime":"",
-					"endDateTime":"2026-08-09T23:59"
-				},
-				{
 					"header":"Special Schedule\nAugust 13th",
 					"description":"On August 13th, from 8:56pm to 12:05am, PATCO is operating on a special schedule that is not reflected in RailMe.",
 					"url":"https://www.ridepatco.org/schedules/TW_2026-08-13.pdf",
@@ -45,17 +38,31 @@
 					"endDateTime":"2026-08-13T23:59"
 				},
 				{
-					"header":"Special Schedule\nAugust 14th",
-					"description":"On August 14th, from 10:56pm to 12:24am, PATCO is operating on a special schedule that is not reflected in RailMe.",
-					"url":"https://www.ridepatco.org/schedules/TW_2026-08-14.pdf",
+					"header":"Special Schedule\nAugust 15th",
+					"description":"On August 15th, PATCO is operating on a special schedule that is not reflected in RailMe.",
+					"url":"https://www.ridepatco.org/schedules/TW_2026-08-15.pdf",
 					"startDateTime":"",
-					"endDateTime":"2026-08-14T23:59"
+					"endDateTime":"2026-08-15T23:59"
+				},
+				{
+					"header":"Special Schedule\nAugust 16th",
+					"description":"On August 16th, PATCO is operating on a special schedule that is not reflected in RailMe.",
+					"url":"https://www.ridepatco.org/schedules/TW_2026-08-16.pdf",
+					"startDateTime":"",
+					"endDateTime":"2026-08-16T23:59"
+				},
+				{
+					"header":"Special Schedule\nAugust 17th",
+					"description":"On August 17th, PATCO is operating on a special schedule that is not reflected in RailMe.",
+					"url":"https://www.ridepatco.org/schedules/TW_2026-08-17.pdf",
+					"startDateTime":"",
+					"endDateTime":"2026-08-17T23:59"
 				},
 				{
 					"header":"Possible Special Schedule",
 					"description":"PATCO may be operating on a special schedule. Go to RidePATCO.org for more information.",
 					"url":"https://www.ridepatco.org/schedules/schedules.asp",
-					"startDateTime":"2026-08-15T04:00",
+					"startDateTime":"2026-08-18T04:00",
 					"endDateTime":""
 				}
 			],
