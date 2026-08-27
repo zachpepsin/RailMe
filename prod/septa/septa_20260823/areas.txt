@@ -1,0 +1,21 @@
+area_id,area_name
+area_AIR,Airport Line
+area_CHE,Chestnut Hill East Line
+area_CHW,Chestnut Hill West Line
+area_CYN,Cynwyd Line
+area_FOX,Fox Chase Line
+area_LAN,Lensdale/Doylestown Line
+area_MED,Media/Wawa Line
+area_NOR,Manayunk/Norristown Line
+area_PAO,Paoli/Thorndale Line
+area_TRE,Treneton Line
+area_WAR,Warminster Line
+area_WIL,Wilmington/Newark Line
+area_WTR,West Trenton Line
+area_CC,Center City Stops
+area_airport_terminals,Airport Terminal Stops
+area_Z1,Zone 1 Stops
+area_Z2,Zone 2 Stops
+area_Z3,Zone 3 Stops
+area_Z4,Zone 4 Stops
+area_NJ,NJ Stops
