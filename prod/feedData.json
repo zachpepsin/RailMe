@@ -46,10 +46,10 @@
 				},
 				{
 					"header":"Special Schedule\nSeptember 26th",
-					"description":"On September 26th, from 4:30am to 8:18am, PATCO is operating on a special schedule that is not reflected in RailMe.",
+					"description":"On September 26th, PATCO is operating on a special schedule that is not reflected in RailMe.",
 					"url":"https://www.ridepatco.org/schedules/2026-09-26_BikeMs_rev1.pdf",
 					"startDateTime":"",
-					"endDateTime":"2026-09-26T08:18"
+					"endDateTime":"2026-09-26T23:59"
 				},
 				{
 					"header":"Possible Special Schedule",
