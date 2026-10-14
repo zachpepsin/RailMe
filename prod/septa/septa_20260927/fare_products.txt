@@ -1,0 +1,50 @@
+fare_product_id,fare_product_name,rider_category_id,fare_media_id,amount,currency
+product_airport_cc_all_times,SEPTA Key Travel Wallet,adult,septa_key,8.75,USD
+product_airport_cc_all_times,Quick Trip,adult,quick_trip,11.00,USD
+product_airport_cc_all_times,Onboard Cash or Contactless,adult,on_board,13.00,USD
+product_airport_cc_all_times,Contactless Card or Mobile,adult,contactless,8.75,USD
+product_cc_nj_weekday,SEPTA Key Travel Wallet,adult,septa_key,11.00,USD
+product_cc_nj_weekday,Quick Trip,adult,quick_trip,11.00,USD
+product_cc_nj_weekday,Onboard Cash or Contactless,adult,on_board,13.00,USD
+product_cc_nj_weekend,SEPTA Key Travel Wallet,adult,septa_key,11.00,USD
+product_cc_nj_weekend,Quick Trip,adult,quick_trip,11.00,USD
+product_cc_nj_weekend,Onboard Cash or Contactless,adult,on_board,13.00,USD
+product_cc_z1_all_times,SEPTA Key Travel Wallet,adult,septa_key,5.00,USD
+product_cc_z1_all_times,Quick Trip,adult,quick_trip,5.00,USD
+product_cc_z1_all_times,Onboard Cash or Contactless,adult,on_board,7.00,USD
+product_cc_z1_all_times,Contactless Card or Mobile,adult,contactless,5.00,USD
+product_cc_z2_weekday,SEPTA Key Travel Wallet,adult,septa_key,6.50,USD
+product_cc_z2_weekday,Quick Trip,adult,quick_trip,6.50,USD
+product_cc_z2_weekday,Onboard Cash or Contactless,adult,on_board,9.00,USD
+product_cc_z2_weekday,Contactless Card or Mobile,adult,contactless,6.50,USD
+product_cc_z2_weekend,SEPTA Key Travel Wallet,adult,septa_key,6.00,USD
+product_cc_z2_weekend,Quick Trip,adult,quick_trip,6.00,CAD
+product_cc_z2_weekend,Onboard Cash or Contactless,adult,on_board,9.00,USD
+product_cc_z2_weekend,Contactless Card or Mobile,adult,contactless,6.00,USD
+product_cc_z3_weekday,SEPTA Key Travel Wallet,adult,septa_key,7.75,USD
+product_cc_z3_weekday,Quick Trip,adult,quick_trip,7.75,USD
+product_cc_z3_weekday,Onboard Cash or Contactless,adult,on_board,10.00,USD
+product_cc_z3_weekday,Contactless Card or Mobile,adult,contactless,7.75,USD
+product_cc_z3_weekend,SEPTA Key Travel Wallet,adult,septa_key,7.00,USD
+product_cc_z3_weekend,Quick Trip,adult,quick_trip,7.00,USD
+product_cc_z3_weekend,Onboard Cash or Contactless,adult,on_board,10.00,USD
+product_cc_z3_weekend,Contactless Card or Mobile,adult,contactless,7.00,USD
+product_cc_z4_weekday,SEPTA Key Travel Wallet,adult,septa_key,8.75,USD
+product_cc_z4_weekday,Quick Trip,adult,quick_trip,8.75,USD
+product_cc_z4_weekday,Onboard Cash or Contactless,adult,on_board,11.00,USD
+product_cc_z4_weekday,Contactless Card or Mobile,adult,contactless,8.75,USD
+product_cc_z4_weekend,SEPTA Key Travel Wallet,adult,septa_key,8.00,USD
+product_cc_z4_weekend,Quick Trip,adult,quick_trip,8.00,USD
+product_cc_z4_weekend,Onboard Cash or Contactless,adult,on_board,11.00,USD
+product_cc_z4_weekend,Contactless Card or Mobile,adult,contactless,8.00,USD
+product_extended_trip_nj,SEPTA Key Travel Wallet,adult,septa_key,11.00,USD
+product_extended_trip_nj,Quick Trip,adult,quick_trip,11.00,USD
+product_extended_trip_nj,Onboard Cash or Contactless,adult,on_board,13.00,USD
+product_extended_trip_z234,SEPTA Key Travel Wallet,adult,septa_key,8.75,USD
+product_extended_trip_z234,Quick Trip,adult,quick_trip,11.00,USD
+product_extended_trip_z234,Onboard Cash or Contactless,adult,on_board,13.00,USD
+product_extended_trip_z234,Contactless Card or Mobile,adult,contactless,8.75,USD
+product_local_trip,SEPTA Key Travel Wallet,adult,septa_key,5.00,USD
+product_local_trip,Quick Trip,adult,quick_trip,5.00,USD
+product_local_trip,Onboard Cash or Contactless,adult,on_board,7.00,USD
+product_local_trip,Contactless Card or Mobile,adult,contactless,5.00,USD
