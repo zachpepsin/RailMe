@@ -50,7 +50,7 @@
       },
       {
       	"name":"septa",
-        "prodCsvFolder":"septa_20260823",
+        "prodCsvFolder":"septa_20260927",
         "devCsvFolder":"septa_20260927",
 		"alerts" :
 			[
@@ -92,7 +92,7 @@
       {
       	"name":"njt",
         "prodCsvFolder":"njt_20260531",
-        "devCsvFolder":"njt_20260531",
+        "devCsvFolder":"njt_20261014",
 		"alerts" :
 			[
 				{
