@@ -45,10 +45,24 @@
 					"endDateTime":"2026-10-15T23:59"
 				},
 				{
+					"header":"Special Schedule\nOctober 18th",
+					"description":"On October 18th, PATCO is operating on a special schedule that is not reflected in RailMe.",
+					"url":"https://www.ridepatco.org/schedules/TW_2026-10-18.pdf",
+					"startDateTime":"",
+					"endDateTime":"2026-10-18T23:59"
+				},
+				{
+					"header":"Service Advisory\nOctober 18th",
+					"description":"On October 18th, service will end 2 hours early to allow construction work at Woodcrest.",
+					"url":"https://www.ridepatco.org/schedules/TW_2026-10-18.pdf",
+					"startDateTime":"",
+					"endDateTime":"2026-10-18T23:59"
+				},
+				{
 					"header":"Possible Special Schedule",
 					"description":"PATCO may be operating on a special schedule. Go to RidePATCO.org for more information.",
 					"url":"https://www.ridepatco.org/schedules/schedules.asp",
-					"startDateTime":"2026-10-16T04:00",
+					"startDateTime":"2026-10-19T04:00",
 					"endDateTime":""
 				}
 			],
