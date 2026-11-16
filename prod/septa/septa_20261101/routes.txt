@@ -1,0 +1,14 @@
+route_id,agency_id,route_short_name,route_long_name,route_type,route_url,route_color,route_text_color,route_color_dark,route_text_color_dark
+AIR,SEPTA,AIR,Airport Line,2,https://www.septa.org/schedules/AIR,4F758B,FFFFFF,3F5E6F,FFFFFF
+CHE,SEPTA,CHE,Chestnut Hill East Line,2,https://www.septa.org/schedules/CHE,4F758B,FFFFFF,3F5E6F,FFFFFF
+CHW,SEPTA,CHW,Chestnut Hill West Line,2,https://www.septa.org/schedules/CHW,4F758B,FFFFFF,3F5E6F,FFFFFF
+CYN,SEPTA,CYN,Cynwyd Line,2,https://www.septa.org/schedules/CYN,4F758B,FFFFFF,3F5E6F,FFFFFF
+FOX,SEPTA,FOX,Fox Chase Line,2,https://www.septa.org/schedules/FOX,4F758B,FFFFFF,3F5E6F,FFFFFF
+LAN,SEPTA,LAN,Lansdale/Doylestown Line,2,https://www.septa.org/schedules/LAN,4F758B,FFFFFF,3F5E6F,FFFFFF
+MED,SEPTA,MED,Media/Wawa Line,2,https://www.septa.org/schedules/MED,4F758B,FFFFFF,3F5E6F,FFFFFF
+NOR,SEPTA,NOR,Manayunk/Norristown Line,2,https://www.septa.org/schedules/NOR,4F758B,FFFFFF,3F5E6F,FFFFFF
+PAO,SEPTA,PAO,Paoli/Thorndale Line,2,https://www.septa.org/schedules/PAO,4F758B,FFFFFF,3F5E6F,FFFFFF
+TRE,SEPTA,TRE,Trenton Line,2,https://www.septa.org/schedules/TRE,4F758B,FFFFFF,3F5E6F,FFFFFF
+WAR,SEPTA,WAR,Warminster Line,2,https://www.septa.org/schedules/WAR,4F758B,FFFFFF,3F5E6F,FFFFFF
+WIL,SEPTA,WIL,Wilmington/Newark Line,2,https://www.septa.org/schedules/WIL,4F758B,FFFFFF,3F5E6F,FFFFFF
+WTR,SEPTA,WTR,West Trenton Line,2,https://www.septa.org/schedules/WTR,4F758B,FFFFFF,3F5E6F,FFFFFF
